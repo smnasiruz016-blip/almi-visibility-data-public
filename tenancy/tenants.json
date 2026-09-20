@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "tenants": [
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:b57dbeaac39e41ece16fd5c9dcf66f44",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almicv.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:24b665d3aff863a5ec00a3ac47e3ad95",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almidanish.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:622f1c6b898a627ed769a6dd4df3ecb9",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almidet.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:69e50ac3f2e7db1d511545fce97255b7",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almidutch.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:db2aea88caa9ea8332573cd054f68edf",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almigoethe.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:8adec6fe6299d738e5ef1f386400690f",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almiicelandic.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:ab9ab847a1b1c69cd87ae4c118573f8a",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almiitalian.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:91fa5a6a6c69f0de306c0469772721d5",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almijob.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:13f5c62ba98bfb3ebab82f388adb4804",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://alminorwegian.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almioet.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:b6025f17e9bff2624b222a239a987034",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almiportuguese.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:d2ec01bbdadacf1a3a98a5ea299e3652",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almipte.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:479b622272e12e8047443170b927520b",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almisalary.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:13ec7b6533bc91c941e5b4582d7206d4",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almispanish.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:270a5ffe93e3e7c0a59492ccf3887ee3",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almistudy.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:0528698177505cd7e57a00d293280749",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almiswiss.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:06ad48ce350443b3d2a50fcd21baa43c",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almitoefl.almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:edcdf7759b02a677cf126fa35212f9af",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://almiworld.com"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:0a72bbdfc0c2f6ffa0202f708835c87b",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "fact registry scope: almi-oet/facts"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:52a121bec2bf304093e1572e4c06f02d",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "crawl batch scope: crawl-2026-09-12"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:45ac946e70c786256cad6e6f5728c293",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-20",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "sitemap collection scope: sitemap-2026-09-12"
+    }
+  ]
+}

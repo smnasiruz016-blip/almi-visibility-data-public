@@ -1,0 +1,65 @@
+{
+  "batchId": "sitemap-2026-09-12",
+  "classificationState": "UNASSIGNED",
+  "assignmentRule": "requires lawful tenant resolution through an explicit declared attachment before actionable use",
+  "captureDate": "2026-09-12",
+  "tenantResolutionMethod": "EXPLICIT_DECLARED_ATTACHMENT",
+  "files": [
+    {
+      "name": "sitemaps.jsonl",
+      "bytes": 1733087,
+      "sha256": "ecd18014ac8ac0b991721ddeea825087707edd9e7bd6e92e8986e5f986ea1a9a",
+      "sourceFile": "runs/evidence/sitemaps.jsonl",
+      "sourceRepository": "almi-visibility"
+    }
+  ],
+  "recordCounts": {
+    "sitemaps.jsonl": 5
+  },
+  "recordTypeCounts": {
+    "observation": 5
+  },
+  "urlCount": 20895,
+  "storageBounds": [
+    {
+      "observationId": "0b0def1b0c54d6ac",
+      "origin": "https://almiitalian.almiworld.com",
+      "urlsStored": 855,
+      "urlsTotal": 855,
+      "storageBound": 20000,
+      "bounded": false
+    },
+    {
+      "observationId": "6620c12b9b272136",
+      "origin": "https://almidutch.almiworld.com",
+      "urlsStored": 12,
+      "urlsTotal": 12,
+      "storageBound": 20000,
+      "bounded": false
+    },
+    {
+      "observationId": "f9d95b80ce2bf22b",
+      "origin": "https://almiportuguese.almiworld.com",
+      "urlsStored": 13,
+      "urlsTotal": 13,
+      "storageBound": 20000,
+      "bounded": false
+    },
+    {
+      "observationId": "64a71bc6eb5c3905",
+      "origin": "https://almiicelandic.almiworld.com",
+      "urlsStored": 15,
+      "urlsTotal": 15,
+      "storageBound": 20000,
+      "bounded": false
+    },
+    {
+      "observationId": "917640b566a7061c",
+      "origin": "https://almioet.almiworld.com",
+      "urlsStored": 20000,
+      "urlsTotal": 240328,
+      "storageBound": 20000,
+      "bounded": true
+    }
+  ]
+}
