@@ -1,1 +1,6 @@
 * text=auto eol=lf
+
+# Observation batches are evidence: their bytes must survive a round trip unchanged, exactly as the
+# engine repository protected them under `runs/** -text`. text=auto would treat the JSONL run record
+# as text and could renormalise it; -text disables every EOL filter for the batch.
+observations/** -text

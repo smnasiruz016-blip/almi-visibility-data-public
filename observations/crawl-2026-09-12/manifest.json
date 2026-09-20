@@ -1,0 +1,58 @@
+{
+  "batchId": "crawl-2026-09-12",
+  "captureDate": "2026-09-12",
+  "classificationState": "UNASSIGNED",
+  "assignmentRule": "requires lawful subject binding before actionable use",
+  "files": [
+    {
+      "name": "first-real-crawl-2026-09-12.jsonl",
+      "bytes": 629596,
+      "sha256": "0b9fb848436eca43dac54b0a4d3f220bb637e3c35b18a9d6297bc50b71bcc345",
+      "gitBlobSha1": "feabcaed628c8ffdd9a92df98b3ea463ab800ff7"
+    },
+    {
+      "name": "bodies-2026-09-12.jsonl.br",
+      "bytes": 659647,
+      "sha256": "3d857a9e53fd4b015131bfd721788942a7c3df15b775e6633fb429bc84af3ded",
+      "gitBlobSha1": "e7983d1a7976bc5970205b2965114b8567745c0a"
+    },
+    {
+      "name": "edges-2026-09-12.jsonl.br",
+      "bytes": 87754,
+      "sha256": "a367b8464fd1bd8f974e5538422e88d994058dc2f5428a090058fd4009975d3e",
+      "gitBlobSha1": "0626a123ea8b5b191288538e43f90ebf9e797aed"
+    }
+  ],
+  "recordTypeCounts": {
+    "crawl_run": 2,
+    "observation": 500,
+    "crawl_run_correction": 1,
+    "page": 495,
+    "inventory_note": 1
+  },
+  "recordCounts": {
+    "first-real-crawl-2026-09-12.jsonl": 999,
+    "bodies-2026-09-12.jsonl.br": 394,
+    "edges-2026-09-12.jsonl.br": 19730
+  },
+  "hostCounts": {
+    "almipte.almiworld.com": 214,
+    "almiworld.com": 47,
+    "almidutch.almiworld.com": 84,
+    "almidet.almiworld.com": 34,
+    "almidanish.almiworld.com": 2,
+    "almiitalian.almiworld.com": 154,
+    "almigoethe.almiworld.com": 2,
+    "almiportuguese.almiworld.com": 6,
+    "almispanish.almiworld.com": 10,
+    "almicv.almiworld.com": 300,
+    "almijob.almiworld.com": 16,
+    "almistudy.almiworld.com": 42,
+    "almioet.almiworld.com": 54,
+    "almiswiss.almiworld.com": 2,
+    "almitoefl.almiworld.com": 14,
+    "alminorwegian.almiworld.com": 2,
+    "almisalary.almiworld.com": 10,
+    "almiicelandic.almiworld.com": 2
+  }
+}
