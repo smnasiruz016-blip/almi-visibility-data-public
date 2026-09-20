@@ -79,7 +79,7 @@
       "status": "ACTIVE",
       "declaredOn": "2026-09-20",
       "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
-      "label": "site scope: https://almioet.almiworld.com"
+      "label": "shared isolation scope: the site origin https://almioet.almiworld.com and the fact registry almi-oet/facts, declared by the owner to share one boundary"
     },
     {
       "schemaVersion": 1,
@@ -151,7 +151,7 @@
       "status": "ACTIVE",
       "declaredOn": "2026-09-20",
       "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
-      "label": "fact registry scope: almi-oet/facts"
+      "label": "retained, holds no attachment: the fact registry moved to the shared scope on 2026-09-20; the record is kept so the identifier is never dangling"
     },
     {
       "schemaVersion": 1,

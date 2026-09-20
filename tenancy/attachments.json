@@ -149,7 +149,7 @@
       "schemaVersion": 1,
       "resourceKind": "FACT_REGISTRY",
       "resourceRef": "almi-oet/facts",
-      "tenantId": "tenant:0a72bbdfc0c2f6ffa0202f708835c87b",
+      "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
       "declaredOn": "2026-09-20",
       "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
     },
