@@ -66,8 +66,11 @@ const DOMESTIC = "pk-pnmc.verification-fee.destination=domestic";
  * domestic one" — 10000 / 1000 = 10. Reversed it would answer a different question and give 0.1.
  */
 const INPUT_SNAPSHOT = Object.freeze([
-  Object.freeze({ id: FOREIGN, value: Object.freeze({ value: 10000 }), verificationState: "UNKNOWN" }),
-  Object.freeze({ id: DOMESTIC, value: Object.freeze({ value: 1000 }), verificationState: "UNKNOWN" }),
+  /* 🔴 F29 — A DERIVED FACT'S STANDING IS ITS WEAKEST INPUT'S. Both inputs were verified by the
+   * owner on 21 September 2026, so this snapshot follows them. It is the law propagating, not a
+   * second verification decision: no value, formula or input changed. */
+  Object.freeze({ id: FOREIGN, value: Object.freeze({ value: 10000 }), verificationState: "VERIFIED" }),
+  Object.freeze({ id: DOMESTIC, value: Object.freeze({ value: 1000 }), verificationState: "VERIFIED" }),
 ]);
 
 const CLAIM = Object.freeze({

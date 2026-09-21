@@ -100,24 +100,34 @@ export default [
     ...common,
     id: "pk-pnmc.verification-fee.destination=foreign",
     // D-GUARD-1: one short stable key per distinct claim this record's value makes, in our own labels.
-    claimElements: ["fee-10000-pkr"],
+    claimElements: ["fee-10000-pkr", "destination-foreign-country"],
+    /* 🔴 R4 — the qualifier dimension POINTS AT the element carrying the owner's own destination
+     * word. A money value has no list and binds no party, and both are said so rather than defaulted. */
+    claimDimensions: { qualifier: "destination-foreign-country", listCompleteness: "NOT_APPLICABLE", bindingParty: "NOT_APPLICABLE" },
     verification: {
-      state: "UNKNOWN",
-      reason: "PARTIAL_EVIDENCE",
-      elementsConfirmedKeys: ["fee-10000-pkr"],
+      state: "VERIFIED",
+      elementsConfirmedKeys: ["fee-10000-pkr", "destination-foreign-country"],
       elementsNotFoundKeys: [],
-      reconciledOn: "2026-09-13",
-      reconciliation: "RECONCILED 13 September 2026 (item 50, D-GUARD-1): the value states 1 element(s) and the verdict's own words name all 1. Nothing was re-verified, and the verdict's wording is unchanged. DEMOTED 13 September 2026 evening (beta-g ruling under owner steer 'it will not be made by picking the reading that keeps the label'): the reading the label rests on is the unsettled one flagged by elementAmbiguity — the guard's formula (declared ∩ named-confirmed) cannot police it. Returns to UNKNOWN — PARTIAL_EVIDENCE. Verdict wording, value and evidence hashes unchanged.",
-      elementAmbiguity: "the value states a bare amount; that it is the FOREIGN-destination fee; the claim's qualifier (who or what it applies to) is not part of the value text, and the verdict's own words do not name it — so the reconciliation cannot settle whether the qualifier was confirmed",
-      previous: {"state": "UNVERIFIED", "checkedOn": null, "note": "never fact-checked before the 12 September 2026 verdict (declared UNVERIFIED under A3); recorded 13 September 2026 so the guard can judge the record's first check"},
       verdict: "VERIFIED",
-      checkedOn: "2026-09-12",
-      checkedBy: "human:beta-g (Cowork)",
+      checkedOn: "2026-09-21",
+      checkedBy: "human:Sheikh Muhammad Nasir Uz Zaman",
       sourceUrl: "https://pnmc.gov.pk/verification-registration-2/",
       sourceTier: "OFFICIAL",
-      recheckAfter: "2026-12-11",
+      sourceRead: true,
+      recheckAfter: "2026-12-20",
       recheckWindowDays: 90,
+      destinationVerified: "foreign country",
       note: "'Processing fee PAK Rs.10000/-' — matches our value exactly.",
+      /* 🔴 THE SUPERSEDED VERDICT IS KEPT, NOT ERASED — including the ambiguity that held this record
+       * UNKNOWN, so a reader can see exactly what the owner's verification settled. */
+      previous: {
+        "state": "UNKNOWN",
+        "reason": "PARTIAL_EVIDENCE",
+        "checkedOn": "2026-09-12",
+        "checkedBy": "human:beta-g (Cowork)",
+        "elementAmbiguity": "the value states a bare amount; that it is the FOREIGN-destination fee; the claim's qualifier (who or what it applies to) is not part of the value text, and the verdict's own words do not name it — so the reconciliation cannot settle whether the qualifier was confirmed",
+        "supersededBy": "the owner verified both destination values together on 21 September 2026"
+      },
     },
     claim: { subject: "pk-pnmc", predicate: "verification-fee", qualifier: "destination=foreign" },
     value: { value: 10000, valueType: "money", unit: "PKR" },
@@ -130,24 +140,34 @@ export default [
     ...common,
     id: "pk-pnmc.verification-fee.destination=domestic",
     // D-GUARD-1: one short stable key per distinct claim this record's value makes, in our own labels.
-    claimElements: ["fee-1000-pkr"],
+    claimElements: ["fee-1000-pkr", "destination-within-pakistan"],
+    /* 🔴 R4 — the qualifier dimension POINTS AT the element carrying the owner's own destination
+     * word. A money value has no list and binds no party, and both are said so rather than defaulted. */
+    claimDimensions: { qualifier: "destination-within-pakistan", listCompleteness: "NOT_APPLICABLE", bindingParty: "NOT_APPLICABLE" },
     verification: {
-      state: "UNKNOWN",
-      reason: "PARTIAL_EVIDENCE",
-      elementsConfirmedKeys: ["fee-1000-pkr"],
+      state: "VERIFIED",
+      elementsConfirmedKeys: ["fee-1000-pkr", "destination-within-pakistan"],
       elementsNotFoundKeys: [],
-      reconciledOn: "2026-09-13",
-      reconciliation: "RECONCILED 13 September 2026 (item 50, D-GUARD-1): the value states 1 element(s) and the verdict's own words name all 1. Nothing was re-verified, and the verdict's wording is unchanged. DEMOTED 13 September 2026 evening (beta-g ruling under owner steer 'it will not be made by picking the reading that keeps the label'): the reading the label rests on is the unsettled one flagged by elementAmbiguity — the guard's formula (declared ∩ named-confirmed) cannot police it. Returns to UNKNOWN — PARTIAL_EVIDENCE. Verdict wording, value and evidence hashes unchanged.",
-      elementAmbiguity: "the value states a bare amount; that it is the DOMESTIC-destination fee; the claim's qualifier (who or what it applies to) is not part of the value text, and the verdict's own words do not name it — so the reconciliation cannot settle whether the qualifier was confirmed",
-      previous: {"state": "UNVERIFIED", "checkedOn": null, "note": "never fact-checked before the 12 September 2026 verdict (declared UNVERIFIED under A3); recorded 13 September 2026 so the guard can judge the record's first check"},
       verdict: "VERIFIED",
-      checkedOn: "2026-09-12",
-      checkedBy: "human:beta-g (Cowork)",
+      checkedOn: "2026-09-21",
+      checkedBy: "human:Sheikh Muhammad Nasir Uz Zaman",
       sourceUrl: "https://pnmc.gov.pk/verification-registration-2/",
       sourceTier: "OFFICIAL",
-      recheckAfter: "2026-12-11",
+      sourceRead: true,
+      recheckAfter: "2026-12-20",
       recheckWindowDays: 90,
+      destinationVerified: "within Pakistan",
       note: "'Processing fee PAK Rs.1000/-' — matches our value exactly.",
+      /* 🔴 THE SUPERSEDED VERDICT IS KEPT, NOT ERASED — including the ambiguity that held this record
+       * UNKNOWN, so a reader can see exactly what the owner's verification settled. */
+      previous: {
+        "state": "UNKNOWN",
+        "reason": "PARTIAL_EVIDENCE",
+        "checkedOn": "2026-09-12",
+        "checkedBy": "human:beta-g (Cowork)",
+        "elementAmbiguity": "the value states a bare amount; that it is the DOMESTIC-destination fee; the claim's qualifier (who or what it applies to) is not part of the value text, and the verdict's own words do not name it — so the reconciliation cannot settle whether the qualifier was confirmed",
+        "supersededBy": "the owner verified both destination values together on 21 September 2026"
+      },
     },
     claim: { subject: "pk-pnmc", predicate: "verification-fee", qualifier: "destination=domestic" },
     value: { value: 1000, valueType: "money", unit: "PKR" },
