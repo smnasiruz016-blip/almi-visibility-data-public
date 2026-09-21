@@ -1,0 +1,107 @@
+{
+  "batchId": "local-reasoning-2026-09-21",
+  "kind": "PUBLIC_SOURCE_READINGS",
+  "purpose": "row 4 — local reasoning researched from public primary sources, kept apart from local phrasing",
+  "captureDate": "2026-09-21",
+  "readMethod": "BROWSER_RENDERED_TEXT — WebFetch output is never a citation",
+  "tenantRule": "each record carries the declared tenant its goal resolves to; the engine re-resolves it and refuses any mismatch",
+  "files": [
+    {
+      "name": "records.jsonl",
+      "bytes": 25248,
+      "sha256": "f5225889d6c1806672e202dc5b5d878e833ae03b2e989c69d3eebd3aa0e2ba49"
+    }
+  ],
+  "recordCounts": {
+    "records.jsonl": 6
+  },
+  "requestLedger": {
+    "used": 10,
+    "cap": 30,
+    "note": "one entry per page load or tab fetch; the browser tool does not expose HTTP status codes",
+    "entries": [
+      {
+        "n": 1,
+        "host": "www.gov.br",
+        "path": "/inep/…/celpe-bras",
+        "purpose": "G13 primary source — first session",
+        "outcome": "M · NOT_READ (tooling hang)"
+      },
+      {
+        "n": 2,
+        "host": "immi.homeaffairs.gov.au",
+        "path": "/help-support/meeting-our-requirements/english-language",
+        "purpose": "G04 source",
+        "outcome": "M · NOT_READ (tooling hang); G04 later stopped at Gate 2 as L"
+      },
+      {
+        "n": 3,
+        "host": "www.gov.br",
+        "path": "/inep/…/celpe-bras",
+        "purpose": "G13 primary source — direct attempt",
+        "outcome": "READ"
+      },
+      {
+        "n": 4,
+        "host": "www.gov.br",
+        "path": "/inep/…/celpe-bras/postos-aplicadores",
+        "purpose": "register index",
+        "outcome": "READ (index only)"
+      },
+      {
+        "n": 5,
+        "host": "www.gov.br",
+        "path": "/inep/…/celpe-bras/postos-aplicadores/exterior",
+        "purpose": "register abroad — África tab",
+        "outcome": "READ"
+      },
+      {
+        "n": 6,
+        "host": "www.gov.br",
+        "path": "same page, Ásia tab",
+        "purpose": "register region",
+        "outcome": "READ"
+      },
+      {
+        "n": 7,
+        "host": "www.gov.br",
+        "path": "same page, América do Norte tab",
+        "purpose": "register region",
+        "outcome": "READ"
+      },
+      {
+        "n": 8,
+        "host": "www.gov.br",
+        "path": "same page, América Central e Caribe tab",
+        "purpose": "register region",
+        "outcome": "READ"
+      },
+      {
+        "n": 9,
+        "host": "www.gov.br",
+        "path": "same page, América do Sul tab",
+        "purpose": "register region",
+        "outcome": "READ"
+      },
+      {
+        "n": 10,
+        "host": "www.gov.br",
+        "path": "same page, Europa tab",
+        "purpose": "register region",
+        "outcome": "READ"
+      }
+    ],
+    "controls": [
+      {
+        "host": "example.com",
+        "purpose": "Gate 3 control A — simple page",
+        "outcome": "READ"
+      },
+      {
+        "host": "www.canada.ca",
+        "purpose": "Gate 3 control B — heavy government portal",
+        "outcome": "READ"
+      }
+    ]
+  }
+}
