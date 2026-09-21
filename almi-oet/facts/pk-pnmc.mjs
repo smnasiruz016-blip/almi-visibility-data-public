@@ -116,18 +116,8 @@ export default [
       sourceRead: true,
       recheckAfter: "2026-12-20",
       recheckWindowDays: 90,
-      destinationVerified: "foreign country",
       note: "'Processing fee PAK Rs.10000/-' — matches our value exactly.",
-      /* 🔴 THE SUPERSEDED VERDICT IS KEPT, NOT ERASED — including the ambiguity that held this record
-       * UNKNOWN, so a reader can see exactly what the owner's verification settled. */
-      previous: {
-        "state": "UNKNOWN",
-        "reason": "PARTIAL_EVIDENCE",
-        "checkedOn": "2026-09-12",
-        "checkedBy": "human:beta-g (Cowork)",
-        "elementAmbiguity": "the value states a bare amount; that it is the FOREIGN-destination fee; the claim's qualifier (who or what it applies to) is not part of the value text, and the verdict's own words do not name it — so the reconciliation cannot settle whether the qualifier was confirmed",
-        "supersededBy": "the owner verified both destination values together on 21 September 2026"
-      },
+      previous: {"state": "UNVERIFIED", "checkedOn": null, "note": "never fact-checked before the 12 September 2026 verdict (declared UNVERIFIED under A3); recorded 13 September 2026 so the guard can judge the record's first check"},
     },
     claim: { subject: "pk-pnmc", predicate: "verification-fee", qualifier: "destination=foreign" },
     value: { value: 10000, valueType: "money", unit: "PKR" },
@@ -156,18 +146,8 @@ export default [
       sourceRead: true,
       recheckAfter: "2026-12-20",
       recheckWindowDays: 90,
-      destinationVerified: "within Pakistan",
       note: "'Processing fee PAK Rs.1000/-' — matches our value exactly.",
-      /* 🔴 THE SUPERSEDED VERDICT IS KEPT, NOT ERASED — including the ambiguity that held this record
-       * UNKNOWN, so a reader can see exactly what the owner's verification settled. */
-      previous: {
-        "state": "UNKNOWN",
-        "reason": "PARTIAL_EVIDENCE",
-        "checkedOn": "2026-09-12",
-        "checkedBy": "human:beta-g (Cowork)",
-        "elementAmbiguity": "the value states a bare amount; that it is the DOMESTIC-destination fee; the claim's qualifier (who or what it applies to) is not part of the value text, and the verdict's own words do not name it — so the reconciliation cannot settle whether the qualifier was confirmed",
-        "supersededBy": "the owner verified both destination values together on 21 September 2026"
-      },
+      previous: {"state": "UNVERIFIED", "checkedOn": null, "note": "never fact-checked before the 12 September 2026 verdict (declared UNVERIFIED under A3); recorded 13 September 2026 so the guard can judge the record's first check"},
     },
     claim: { subject: "pk-pnmc", predicate: "verification-fee", qualifier: "destination=domestic" },
     value: { value: 1000, valueType: "money", unit: "PKR" },
