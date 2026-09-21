@@ -1,0 +1,114 @@
+{
+  "captureId": "row25-2026-09-21",
+  "kind": "PAGE_CAPTURE",
+  "purpose": "row 25 — existing real pages whose claims address a VERIFIED fact, captured under a selection rule published before any request",
+  "tenantRule": "each page attaches to its subject only through the owner's existing SITE_ORIGIN declaration for its origin; the capture itself declares no subject",
+  "selectionRule": [
+    "1 an existing real page (listed in the declared subject's committed sitemap, observations/sitemap-2026-09-12)",
+    "2 an archived body, or a lawfully capturable public URL",
+    "3 the page makes a factual claim addressable by a VERIFIED fact",
+    "4 page and registry resolve to the SAME explicitly declared subject",
+    "5 source authority attributable without guessing (the page cites the fact's own source)",
+    "6 no product write or publishing required"
+  ],
+  "ranking": "most addressable VERIFIED facts · strongest authority attribution · complete archived body · lowest stable page id",
+  "pages": [
+    {
+      "file": "register__ie-nmbi.html",
+      "url": "https://almioet.almiworld.com/register/ie-nmbi",
+      "retrievedAt": "2026-09-21T22:45:36Z",
+      "origin": "https://almioet.almiworld.com",
+      "httpStatus": 200,
+      "redirect": null,
+      "bytes": 57302,
+      "sha256": "c4c3bbda2be678f45b644b951473b7970a035f1926a901f09bc8236d64614a6c",
+      "method": "GET (curl), raw served body, no JavaScript executed"
+    },
+    {
+      "file": "nursing__from-afghanistan__ie-nmbi.html",
+      "url": "https://almioet.almiworld.com/nursing/from-afghanistan/ie-nmbi",
+      "retrievedAt": "2026-09-21T22:45:38Z",
+      "origin": "https://almioet.almiworld.com",
+      "httpStatus": 200,
+      "redirect": null,
+      "bytes": 64144,
+      "sha256": "9ba52229dc31021b3519e24df59c75b04093b74090fb8bdd8ba8ce8f66f57cd0",
+      "method": "GET (curl), raw served body, no JavaScript executed"
+    }
+  ],
+  "requestLedger": {
+    "used": 7,
+    "cap": 30,
+    "spend": 0,
+    "controls": [
+      {
+        "host": "example.com",
+        "purpose": "browser control A — simple page",
+        "outcome": "READ, 129 chars"
+      },
+      {
+        "host": "www.canada.ca",
+        "purpose": "browser control B — heavy government portal",
+        "outcome": "READ, 2630 chars"
+      }
+    ],
+    "entries": [
+      {
+        "n": 1,
+        "url": "https://almioet.almiworld.com/register/uk-hcpc",
+        "method": "browser rendered text",
+        "at": "2026-09-21T22:42:57Z",
+        "htmlChars": 59828,
+        "result": "READ — PUBLISHED OET GRADE 'Not published'; states none of the 6 VERIFIED HCPC values; not selected"
+      },
+      {
+        "n": 2,
+        "url": "https://almioet.almiworld.com/nursing/from-afghanistan/ie-nmbi",
+        "method": "browser rendered text",
+        "at": "2026-09-21T22:43:14Z",
+        "htmlChars": 63982,
+        "result": "READ — claim addresses a VERIFIED fact; selected"
+      },
+      {
+        "n": 3,
+        "url": "https://almioet.almiworld.com/register/ie-nmbi",
+        "method": "browser rendered text",
+        "at": "2026-09-21T22:43:43Z",
+        "htmlChars": 57199,
+        "result": "READ — claim addresses a VERIFIED fact; selected"
+      },
+      {
+        "n": 4,
+        "url": "https://almioet.almiworld.com/nursing/from-afghanistan/uk-nmc",
+        "method": "browser rendered text",
+        "at": "2026-09-21T22:43:48Z",
+        "htmlChars": 63533,
+        "result": "READ — grade claim addresses only an UNKNOWN (unverified) fact; not selected"
+      },
+      {
+        "n": 5,
+        "url": "https://almioet.almiworld.com/register/uk-nmc",
+        "method": "browser rendered text",
+        "at": "2026-09-21T22:43:53Z",
+        "htmlChars": 56934,
+        "result": "READ — grade claim addresses only an UNKNOWN (unverified) fact; not selected"
+      },
+      {
+        "n": 6,
+        "url": "https://almioet.almiworld.com/register/ie-nmbi",
+        "method": "curl GET raw body",
+        "at": "2026-09-21T22:45:36Z",
+        "bytes": 57302,
+        "result": "200 — stored"
+      },
+      {
+        "n": 7,
+        "url": "https://almioet.almiworld.com/nursing/from-afghanistan/ie-nmbi",
+        "method": "curl GET raw body",
+        "at": "2026-09-21T22:45:38Z",
+        "bytes": 64144,
+        "result": "200 — stored"
+      }
+    ]
+  }
+}
