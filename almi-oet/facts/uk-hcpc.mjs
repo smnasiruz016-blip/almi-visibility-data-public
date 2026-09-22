@@ -214,6 +214,10 @@ export default [
     id: "uk-hcpc.certificate-maximum-age",
     // D-GUARD-1: one short stable key per distinct claim this record's value makes, in our own labels.
     claimElements: ["two-years"],
+    /* 🔴 METADATA COMPLETION, 21 September 2026 (owner ruling, Row 50 label on face, clauses 3–4): every dimension is
+     * NOT_APPLICABLE by the schema's own law — no claim.qualifier, and valueType "duration" is neither "list" nor "rule"
+     * (DIMENSION_REQUIRED_BY). Mechanical, from structured fields only; no human signature, nothing re-verified. */
+    claimDimensions: { qualifier: "NOT_APPLICABLE", listCompleteness: "NOT_APPLICABLE", bindingParty: "NOT_APPLICABLE" },
     verification: {
       state: "VERIFIED",
       elementsConfirmedKeys: ["two-years"],
