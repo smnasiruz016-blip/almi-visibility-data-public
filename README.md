@@ -19,5 +19,8 @@ build-time decision never put to the owner, and it is reversed.
   (`config/subject-roots.mjs`, overridable by `ALMIVISIBILITY_SUBJECT_ROOTS`).
 - The files still import the engine by relative path (`../../src/...`). The engine resolves those into its own `src/`
   through a resolution hook and refuses any other escape; the files are not edited.
-- AlmiVisibility does not write into this repository. Nothing generated lands here.
+- AlmiVisibility does not write into this repository. Nothing generated lands here. **One exception, by the
+  owner's F01 command of 24 September 2026 (§7):** `bin/project-intake.mjs --submit --confirm` writes accepted project
+  declarations under `declarations/`, and only through the engine's governed-write boundary. See
+  `declarations/README.md`. Those declarations are what a submitter declared; nothing in them is generated.
 - `.gitattributes` keeps text LF in the repository, as the source did.
