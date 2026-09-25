@@ -152,22 +152,6 @@
       "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
       "declaredOn": "2026-09-20",
       "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
-    },
-    {
-      "schemaVersion": 1,
-      "resourceKind": "CRAWL_BATCH",
-      "resourceRef": "crawl-2026-09-12",
-      "tenantId": "tenant:52a121bec2bf304093e1572e4c06f02d",
-      "declaredOn": "2026-09-20",
-      "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
-    },
-    {
-      "schemaVersion": 1,
-      "resourceKind": "SITEMAP_COLLECTION",
-      "resourceRef": "sitemap-2026-09-12",
-      "tenantId": "tenant:45ac946e70c786256cad6e6f5728c293",
-      "declaredOn": "2026-09-20",
-      "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
     }
   ]
 }
