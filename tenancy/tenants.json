@@ -168,6 +168,14 @@
       "declaredOn": "2026-09-20",
       "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
       "label": "sitemap collection scope: sitemap-2026-09-12"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:adc2d3b2637f05dc30cbb7cb11fc955e",
+      "status": "ACTIVE",
+      "declaredOn": "2026-09-25",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://shamoolfoundation.com — F09 TEST SUBJECT (owner-supplied external subject; read-only public research only; not a client, no deliverable)"
     }
   ]
 }

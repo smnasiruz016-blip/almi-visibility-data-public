@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "subjectId": "shamool-foundation",
+  "kind": "F09_TEST_SUBJECT",
+  "status": "A TEST SUBJECT FOR F09 ONLY — not a client, not a paying customer, no deliverable, no page, no output for it",
+  "authorisedBy": {
+    "party": "the AlmiWorld owner",
+    "record": "_handoffs 474d27a (owner, Option A): read-only public research authorised · 20 free public requests · no spend, login, publish or write"
+  },
+  "claimedRelationship": "UNSTATED",
+  "declares": {
+    "siteOrigin": "https://shamoolfoundation.com",
+    "researchBatches": [
+      "f09-public-research-2026-09-25"
+    ]
+  },
+  "personalDataGuard": "structure only: no page body, name, photograph, contact detail, donation or payment detail is stored (F09 Option A §4)"
+}

@@ -32,6 +32,23 @@
           ]
         }
       ]
+    },
+    {
+      "subjectId": "shamool-foundation",
+      "path": "shamool-foundation",
+      "members": [
+        { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://shamoolfoundation.com" }
+      ],
+      "connectors": [
+        {
+          "connectorId": "site-pages",
+          "kind": "PUBLIC_SITE",
+          "credential": null,
+          "reaches": [
+            { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://shamoolfoundation.com" }
+          ]
+        }
+      ]
     }
   ]
 }
