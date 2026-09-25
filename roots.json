@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "kind": "ROOT_REGISTRY",
+  "stores": [
+    { "store": "PROJECT_DECLARATIONS", "path": "declarations" },
+    { "store": "OBSERVATIONS", "path": "observations" },
+    { "store": "CAPTURES", "path": "captures" },
+    { "store": "RESEARCH", "path": "research" }
+  ],
+  "subjects": [
+    {
+      "subjectId": "almi-oet",
+      "path": "almi-oet",
+      "members": [
+        { "resourceKind": "FACT_REGISTRY", "resourceRef": "almi-oet/facts" }
+      ],
+      "connectors": [
+        {
+          "connectorId": "site-pages",
+          "kind": "PUBLIC_SITE",
+          "credential": null,
+          "reaches": [
+            { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://almioet.almiworld.com" }
+          ]
+        },
+        {
+          "connectorId": "cited-sources",
+          "kind": "CITED_SOURCES",
+          "credential": null,
+          "reaches": [
+            { "resourceKind": "FACT_REGISTRY", "resourceRef": "almi-oet/facts" }
+          ]
+        }
+      ]
+    }
+  ]
+}

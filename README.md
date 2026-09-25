@@ -15,8 +15,18 @@ build-time decision never put to the owner, and it is reversed.
 🔴 **File history did not follow.** The files' earlier history lives in the source repository at the commit above
 (`git log -- products/almi-oet` there). This repository's history starts at the move.
 
-- One folder per product: `<id>/product.mjs`. AlmiVisibility finds it through its subject roots
-  (`config/subject-roots.mjs`, overridable by `ALMIVISIBILITY_SUBJECT_ROOTS`).
+- One folder per product: `<id>/product.mjs`. **Since F03 (25 September 2026) a folder is a product only because
+  `roots.json` declares it**, and AlmiVisibility never lists this repository to find products. The engine locates this
+  repository through its subject roots (`config/subject-roots.mjs`, overridable by `ALMIVISIBILITY_SUBJECT_ROOTS`).
+- `roots.json` (F03, the root registry) declares:
+  - the stores inside this repository: `declarations/`, `observations/`, `captures/` and `research/`;
+  - each product's folder;
+  - the F02 resources each product consists of;
+  - the connectors the engine may construct on its behalf. Each connector names the F02 resources it reaches and, where
+    it needs one, its credential BY NAME (an environment variable). It never holds a credential's value.
+
+  The file names no tenant. Which tenant a product or a connector belongs to is decided only by `tenancy/`, through the
+  engine's one F02 decision.
 - The files still import the engine by relative path (`../../src/...`). The engine resolves those into its own `src/`
   through a resolution hook and refuses any other escape; the files are not edited.
 - AlmiVisibility does not write into this repository. Nothing generated lands here. **One exception, by the
