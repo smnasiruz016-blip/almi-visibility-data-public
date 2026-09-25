@@ -152,6 +152,21 @@
       "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
       "declaredOn": "2026-09-20",
       "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "CAPTURE_SET",
+      "resourceRef": "row25-2026-09-21",
+      "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
+      "declaredOn": "2026-09-24",
+      "declarationBasis": "STRUCTURAL_PROOF",
+      "structuralProof": {
+        "rule": 3,
+        "ruling": "_handoffs:AlmiVisibility_OWNER_RULING_2026-09-24_F02_RESOURCE_ATTACHMENTS.md",
+        "members": 2,
+        "resolvedTenants": 1,
+        "quarantined": 0
+      }
     }
   ]
 }
