@@ -12,7 +12,8 @@
       "subjectId": "almi-oet",
       "path": "almi-oet",
       "members": [
-        { "resourceKind": "FACT_REGISTRY", "resourceRef": "almi-oet/facts" }
+        { "resourceKind": "FACT_REGISTRY", "resourceRef": "almi-oet/facts" },
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f19-crawl-bounds-2026-09-28" }
       ],
       "connectors": [
         {
