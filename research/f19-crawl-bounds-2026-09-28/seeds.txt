@@ -1,0 +1,5 @@
+# F19 one live crawl (owner GREEN RR-76, _handoffs 269c444; clarification f9cf6e0). Seeds from the tenant's declared
+# SITE_ORIGIN (its root page) and its CAPTURE_SET manifest's recorded page URLs. Nothing else.
+https://almioet.almiworld.com/
+https://almioet.almiworld.com/register/ie-nmbi
+https://almioet.almiworld.com/nursing/from-afghanistan/ie-nmbi
