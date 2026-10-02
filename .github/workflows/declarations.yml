@@ -1,0 +1,35 @@
+# The data repository's own check (RR-135 §3): declarations, attachments, tenant scope and references — WITHOUT any live request.
+#
+# It runs on every pull request (including the one that introduces it) and on every push to main. It reads only files in this
+# checkout: no fetch, no DNS, no secret, no key. `node ci/validate-declarations.mjs` checks this repository's data;
+# `node --test ci/validate-declarations.test.mjs` proves each rule REJECTS a bad declaration and that valid data is ACCEPTED, so a
+# green here is a check that could have failed.
+#
+# The engine's own F02/F03 decisions still run against this repository in the engine's CI and remain the authority; this workflow
+# cannot run them because the engine repository is private, and checking it out from here would need a key only the owner creates.
+
+name: declarations
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: The rules can fail (each shown rejecting a bad declaration) and valid data is accepted
+        run: node --test ci/validate-declarations.test.mjs
+      - name: This repository's declarations
+        run: node ci/validate-declarations.mjs
