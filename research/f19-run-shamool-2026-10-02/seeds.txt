@@ -1,0 +1,4 @@
+# RR-135: the test population for ONE bounded F19 run on an UNRELATED site (not an almiworld.com host) - 3 seeds, lines 1, 3 and 4 of research batch f09-public-research-2026-09-25 (the pages that answered 200 there), copied byte for byte.
+https://shamoolfoundation.com/
+https://shamoolfoundation.com/about-us/
+https://shamoolfoundation.com/our-achievements/
