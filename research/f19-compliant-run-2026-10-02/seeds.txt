@@ -1,29 +1,7 @@
-# RR-133 · F19's ONE compliant bounded run (plan _handoffs: RR-133 F19 plan; NOT AUTHORISED until a fresh owner GREEN). Seeds: exactly
-# the 27 seeds of batch rr105-bounded-collection-2026-09-30 (themselves derived from batch crawl-2026-09-12) — copied, never retyped.
+# RR-135: the test population for ONE bounded F19 run on this subject - 5 seeds, the first 5 lines of research batch rr105-bounded-collection-2026-09-30, copied byte for byte.
+# Replaces this branch's earlier 27-seed list (RR-133, never merged): a batch size is a test population, never a product rule.
 https://almioet.almiworld.com/dentistry/from-south-africa
 https://almioet.almiworld.com/dietetics/from-laos
 https://almioet.almiworld.com/medicine/from-costa-rica/ie-medical-council-of-ireland
 https://almioet.almiworld.com/medicine/from-ghana/au-ahpra
 https://almioet.almiworld.com/medicine/from-greece/au-griffith-university
-https://almioet.almiworld.com/medicine/from-indonesia/uk-oxford-university-hospitals-nhs-foundation-trust
-https://almioet.almiworld.com/medicine/from-ireland/uk-uk-foundation-programme
-https://almioet.almiworld.com/medicine/from-israel/us-stanford-university-school-of-medicine-visiting-students
-https://almioet.almiworld.com/medicine/from-norway/uk-the-royal-college-of-ophthalmologists
-https://almioet.almiworld.com/medicine/from-philippines/uk-barts-health-nhs-trust
-https://almioet.almiworld.com/medicine/from-poland/us-yale-school-of-medicine-visiting-students-program
-https://almioet.almiworld.com/medicine/from-sweden
-https://almioet.almiworld.com/nursing/from-belarus/nz-atmc-nz-limited
-https://almioet.almiworld.com/nursing/from-germany/uk-kent-and-medway-nhs-and-social-care
-https://almioet.almiworld.com/nursing/from-ghana/au-education-centre-of-australia
-https://almioet.almiworld.com/nursing/from-uzbekistan/ca-college-of-registered-psychiatric-nurses-of-manitoba
-https://almioet.almiworld.com/occupational-therapy/from-kyrgyzstan/uk-university-of-the-west-of-scotland
-https://almioet.almiworld.com/occupational-therapy/from-poland/uk-hcpc
-https://almioet.almiworld.com/optometry/from-timor-leste/ie-coru-regulating-health-and-social-care
-https://almioet.almiworld.com/podiatry/from-micronesia
-https://almioet.almiworld.com/radiography/from-south-korea
-https://almioet.almiworld.com/register/au-medical-board-of-australia
-https://almioet.almiworld.com/register/au-prn-healthcare
-https://almioet.almiworld.com/register/au-rmit-university
-https://almioet.almiworld.com/register/au-sydney-shoulder-research-institute
-https://almioet.almiworld.com/speech-pathology/from-portugal/ca-acslpa
-https://almioet.almiworld.com/veterinary-science/from-netherlands
