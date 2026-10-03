@@ -106,6 +106,27 @@ export function validateDataRoot(root) {
     }
   }
 
+  /* RR-138 §4 · per-client recrawl settings (an optional file): each for a declared subject, once, with a whole number of hours ≥ 1,
+   * a date and a basis — never a product default, never a page ceiling */
+  const rsPath = join(root, "tenancy", "recrawl-settings.json");
+  if (existsSync(rsPath)) {
+    let rs = null;
+    try { rs = JSON.parse(readFileSync(rsPath, "utf8")); } catch { bad("RECRAWL_SETTINGS_UNREADABLE"); }
+    if (rs) {
+      const list = Array.isArray(rs.settings) ? rs.settings : (bad("RECRAWL_SETTINGS_NOT_A_LIST"), []);
+      const seen = new Set();
+      for (const s of list) {
+        counts.recrawlSettings = (counts.recrawlSettings ?? 0) + 1;
+        if (!subjectIds.has(s?.subjectId)) bad("RECRAWL_SETTING_FOR_UNDECLARED_SUBJECT");
+        else if (seen.has(s.subjectId)) bad("RECRAWL_SETTING_DECLARED_TWICE");
+        else seen.add(s.subjectId);
+        if (!Number.isInteger(s?.everyHours) || s.everyHours < 1) bad("RECRAWL_INTERVAL_NOT_A_POSITIVE_WHOLE_HOUR");
+        if (!DATE.test(s?.declaredOn ?? "")) bad("RECRAWL_SETTING_DATE_MALFORMED");
+        if (typeof s?.basis !== "string" || s.basis === "") bad("RECRAWL_SETTING_BASIS_MISSING");
+      }
+    }
+  }
+
   /* research batches: an attached batch has its directory; its seeds are URLs on a site origin of the batch's own tenant */
   const batches = attachments.filter((a) => a?.resourceKind === "RESEARCH_BATCH");
   for (const b of batches) {
