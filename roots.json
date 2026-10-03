@@ -15,7 +15,8 @@
         { "resourceKind": "FACT_REGISTRY", "resourceRef": "almi-oet/facts" },
         { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f19-crawl-bounds-2026-09-28" },
         { "resourceKind": "RESEARCH_BATCH", "resourceRef": "rr105-bounded-collection-2026-09-30" },
-        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f19-compliant-run-2026-10-02" }
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f19-compliant-run-2026-10-02" },
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f22-f25-render-almioet-2026-10-03" }
       ],
       "connectors": [
         {
@@ -41,7 +42,8 @@
       "path": "shamool-foundation",
       "members": [
         { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://shamoolfoundation.com" },
-        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f19-run-shamool-2026-10-02" }
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f19-run-shamool-2026-10-02" },
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f22-f25-render-shamool-2026-10-03" }
       ],
       "connectors": [
         {
