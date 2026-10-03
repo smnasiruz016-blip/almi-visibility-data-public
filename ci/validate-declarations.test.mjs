@@ -30,6 +30,7 @@ function validWorld() {
     tenants: { schemaVersion: 1, tenants: [T1, T2].map((tenantId) => ({ schemaVersion: 1, tenantId, status: "ACTIVE", declaredOn: "2026-10-02", declarationBasis: "TEST", label: "test" })) },
     attachments: { schemaVersion: 1, attachments: [att("SITE_ORIGIN", ORIGIN), att("RESEARCH_BATCH", "batch-one"), att("SITE_ORIGIN", ORIGIN2, T2)] },
     seeds: { "batch-one": `# test\n${ORIGIN}/a\n${ORIGIN}/b\n` },
+    recrawl: { schemaVersion: 1, settings: [{ subjectId: "one", everyHours: 24, declaredOn: "2026-10-03", basis: "TEST" }] },
   };
 }
 function materialise(w) {
@@ -39,6 +40,7 @@ function materialise(w) {
   writeFileSync(join(root, "tenancy", "tenants.json"), JSON.stringify(w.tenants));
   writeFileSync(join(root, "tenancy", "attachments.json"), JSON.stringify(w.attachments));
   for (const [b, s] of Object.entries(w.seeds)) { mkdirSync(join(root, "research", b), { recursive: true }); writeFileSync(join(root, "research", b, "seeds.txt"), s); }
+  if (w.recrawl !== undefined) writeFileSync(join(root, "tenancy", "recrawl-settings.json"), typeof w.recrawl === "string" ? w.recrawl : JSON.stringify(w.recrawl));
   return root;
 }
 function check(mutate) {
@@ -75,6 +77,12 @@ const BAD = [
   ["a site origin that is not an https origin", "SITE_ORIGIN_NOT_AN_HTTPS_ORIGIN", (w) => { w.attachments.attachments[0].resourceRef = "http://site-one.invalid/path"; w.roots.subjects[0].members[0].resourceRef = "http://site-one.invalid/path"; w.roots.subjects[0].connectors.forEach((c) => { c.reaches = [{ resourceKind: "SITE_ORIGIN", resourceRef: "http://site-one.invalid/path" }]; }); }],
   ["a tenant declared twice", "TENANT_DECLARED_TWICE", (w) => { w.tenants.tenants.push({ ...w.tenants.tenants[0] }); }],
   ["an unreadable root registry", "ROOTS_UNREADABLE", (w) => { w.roots = "{ not json"; }],
+  /* RR-138 §4 · per-client recrawl settings */
+  ["a recrawl setting for a subject nobody declared", "RECRAWL_SETTING_FOR_UNDECLARED_SUBJECT", (w) => { w.recrawl.settings[0].subjectId = "nobody"; }],
+  ["a recrawl interval that is not a whole hour ≥ 1", "RECRAWL_INTERVAL_NOT_A_POSITIVE_WHOLE_HOUR", (w) => { w.recrawl.settings[0].everyHours = 0; }],
+  ["two recrawl settings for one subject", "RECRAWL_SETTING_DECLARED_TWICE", (w) => { w.recrawl.settings.push({ ...w.recrawl.settings[0] }); }],
+  ["a recrawl setting with no basis", "RECRAWL_SETTING_BASIS_MISSING", (w) => { w.recrawl.settings[0].basis = ""; }],
+  ["an unreadable recrawl settings file", "RECRAWL_SETTINGS_UNREADABLE", (w) => { w.recrawl = "{ nope"; }],
 ];
 for (const [what, rule, mutate] of BAD) {
   test(`REJECTS ${what} — ${rule}`, () => assert.ok(rules(check(mutate)).includes(rule), `expected ${rule}, got ${rules(check(mutate)).join(", ") || "no violation"}`));

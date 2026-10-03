@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "settings": [
+    {
+      "subjectId": "almi-oet",
+      "everyHours": 1,
+      "declaredOn": "2026-10-03",
+      "basis": "TEST interval for F30's proof (RR-138 §4). A client's real recrawl interval is that client's own setting, declared here per client; none is a product default."
+    },
+    {
+      "subjectId": "shamool-foundation",
+      "everyHours": 1,
+      "declaredOn": "2026-10-03",
+      "basis": "TEST interval for F30's proof (RR-138 §4). A client's real recrawl interval is that client's own setting, declared here per client; none is a product default."
+    }
+  ]
+}
