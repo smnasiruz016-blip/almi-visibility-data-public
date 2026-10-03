@@ -17,7 +17,8 @@
         { "resourceKind": "RESEARCH_BATCH", "resourceRef": "rr105-bounded-collection-2026-09-30" },
         { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f19-compliant-run-2026-10-02" },
         { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f22-f25-render-almioet-2026-10-03" },
-        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f30-recrawl-almioet-2026-10-03" }
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f30-recrawl-almioet-2026-10-03" },
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "f22-f25-render-almioet-rr142-2026-10-03" }
       ],
       "connectors": [
         {
