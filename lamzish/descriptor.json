@@ -35,13 +35,15 @@
       "construction"
     ],
     "rule": "the owner adds any further service himself; none is invented, renamed or mapped",
-    "originCountry": "AUDIENCE CONTEXT — not a dimension: it is not proof of demand anywhere, never multiplies combinations and never multiplies pages; a genuine country-specific difference is written inside the one answer"
+    "originCountry": "AUDIENCE CONTEXT — not a dimension: it is not proof of demand anywhere, never multiplies combinations and never multiplies pages; a genuine country-specific difference is written inside the one answer",
+    "servicesAre": "EXAMPLES of the declared services — not an exhaustive list and never a matching rule; the owner adds more whenever he wishes (RR-157 §1)"
   },
   "siteOriginScheme": "the owner named the domain only; the https scheme in the declared origin is an assumption, not read and not verified",
   "declares": {
     "siteOrigin": "https://lamzish.com",
     "researchBatches": [
-      "lamzish-questions-pilot-2026-10-04"
+      "lamzish-questions-pilot-2026-10-04",
+      "lamzish-suitability-se-2026-10-04"
     ]
   },
   "questionSource": "the owner's Stack Exchange source decision (_handoffs 3dba784); the key is the owner's, named STACKEXCHANGE_API_KEY, used by presence only; NO run is authorised by this declaration — a run needs the owner's fresh GREEN naming the plan's hash"

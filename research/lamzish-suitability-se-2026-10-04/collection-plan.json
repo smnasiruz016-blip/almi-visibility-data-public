@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "kind": "PUBLIC_QUESTION_COLLECTION_PLAN",
+  "planId": "lamzish-suitability-se-1",
+  "subject": "lamzish",
+  "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
+  "researchBatch": "lamzish-suitability-se-2026-10-04",
+  "adapter": "stack-exchange",
+  "site": "expatriates",
+  "query": {
+    "q": "Pakistan house"
+  },
+  "language": "en",
+  "pagesize": 30,
+  "requests": 2,
+  "relevanceProfileSha256": "c26640ef85f9f844015536e4f508215f8fffe1684b3f52cd918a3eb9b24a4dd9",
+  "keeps": [
+    "each returned post as a LEAD (its link and dates only)",
+    "for each post the boundary admits to judgement: its title exactly as written, its original post's own text (title and body — never a reply), its link, its dates, its author's display name, its licence as the source states it, and the attribution line",
+    "each named judge's verdict with the words of the post it quotes"
+  ],
+  "retention": "kept in this research batch until the owner removes it; never published; no reply, score or tag is kept",
+  "declaredOn": "2026-10-04"
+}

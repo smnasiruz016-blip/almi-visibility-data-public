@@ -1,0 +1,18 @@
+{
+  "profileId": "lamzish-meaning-v1",
+  "subject": "lamzish",
+  "mode": "MEANING_JUDGEMENT",
+  "test": "is this person seeking to plan, design, commission, supervise or build a home in Pakistan — including while living abroad?",
+  "examples": [
+    "house",
+    "mall",
+    "flat",
+    "building",
+    "interior",
+    "exterior",
+    "architecture",
+    "construction"
+  ],
+  "examplesRule": "EXAMPLES of the declared services, not exhaustive, never a matching rule; the owner adds more himself (RR-157 §1)",
+  "declaredAs": "the owner's meaning test, word for word (RR-157 §1, _handoffs 1aafaaf); judged on the original post by a named judge, with a quoted reason"
+}
