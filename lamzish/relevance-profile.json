@@ -1,14 +1,18 @@
 {
-  "profileId": "lamzish-services-pakistan-v1",
+  "profileId": "lamzish-meaning-v1",
   "subject": "lamzish",
-  "declaredAs": "derived by CC strictly from the owner's declaration (RR-156 §1): a question is about this product only when it names Pakistan AND one of the owner's eight declared services, in his own words — nothing added, renamed or mapped; his words 'do-it-yourself' and 'repair' exclude",
-  "confirms": [
-    "^(?=.*\\bpakistan)(?=.*\\b(house|mall|flat|building|interior|exterior|architecture|construction)\\b)"
+  "mode": "MEANING_JUDGEMENT",
+  "test": "is this person seeking to plan, design, commission, supervise or build a home in Pakistan — including while living abroad?",
+  "examples": [
+    "house",
+    "mall",
+    "flat",
+    "building",
+    "interior",
+    "exterior",
+    "architecture",
+    "construction"
   ],
-  "ambiguous": [],
-  "excludes": [
-    "\\brepair",
-    "do[- ]it[- ]yourself",
-    "\\bdiy\\b"
-  ]
+  "examplesRule": "EXAMPLES of the declared services, not exhaustive, never a matching rule; the owner adds more himself (RR-157 §1)",
+  "declaredAs": "the owner's meaning test, word for word (RR-157 §1, _handoffs 1aafaaf); judged on the original post by a named judge, with a quoted reason"
 }

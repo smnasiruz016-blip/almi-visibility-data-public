@@ -64,7 +64,8 @@
       "path": "lamzish",
       "members": [
         { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://lamzish.com" },
-        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "lamzish-questions-pilot-2026-10-04" }
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "lamzish-questions-pilot-2026-10-04" },
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "lamzish-suitability-se-2026-10-04" }
       ],
       "connectors": [
         {
