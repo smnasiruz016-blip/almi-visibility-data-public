@@ -1,0 +1,14 @@
+{
+  "profileId": "lamzish-services-pakistan-v1",
+  "subject": "lamzish",
+  "declaredAs": "derived by CC strictly from the owner's declaration (RR-156 §1): a question is about this product only when it names Pakistan AND one of the owner's eight declared services, in his own words — nothing added, renamed or mapped; his words 'do-it-yourself' and 'repair' exclude",
+  "confirms": [
+    "^(?=.*\\bpakistan)(?=.*\\b(house|mall|flat|building|interior|exterior|architecture|construction)\\b)"
+  ],
+  "ambiguous": [],
+  "excludes": [
+    "\\brepair",
+    "do[- ]it[- ]yourself",
+    "\\bdiy\\b"
+  ]
+}
