@@ -176,6 +176,14 @@
       "declaredOn": "2026-09-25",
       "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
       "label": "site scope: https://shamoolfoundation.com — F09 TEST SUBJECT (owner-supplied external subject; read-only public research only; not a client, no deliverable)"
+    },
+    {
+      "schemaVersion": 1,
+      "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
+      "status": "ACTIVE",
+      "declaredOn": "2026-10-04",
+      "declarationBasis": "OWNER_AUTHORISED_ISOLATION_SCOPE",
+      "label": "site scope: https://lamzish.com — the owner's declared subject (RR-155 §2, _handoffs a03a11f): an architect and construction company; not an exam product; no read authorised by this declaration"
     }
   ]
 }

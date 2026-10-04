@@ -58,6 +58,24 @@
           ]
         }
       ]
+    },
+    {
+      "subjectId": "lamzish",
+      "path": "lamzish",
+      "members": [
+        { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://lamzish.com" },
+        { "resourceKind": "RESEARCH_BATCH", "resourceRef": "lamzish-questions-pilot-2026-10-04" }
+      ],
+      "connectors": [
+        {
+          "connectorId": "question-source",
+          "kind": "QUESTION_SOURCE_API",
+          "credential": { "mechanism": "ENV_REFERENCE", "name": "STACKEXCHANGE_API_KEY" },
+          "reaches": [
+            { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://api.stackexchange.com" }
+          ]
+        }
+      ]
     }
   ]
 }

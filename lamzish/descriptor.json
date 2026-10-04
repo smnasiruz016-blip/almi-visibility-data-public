@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "subjectId": "lamzish",
+  "kind": "OWNER_DECLARED_SUBJECT",
+  "status": "DECLARED BY THE OWNER — no read of the site is authorised by this declaration; a read needs its own owner GREEN",
+  "authorisedBy": {
+    "party": "the AlmiWorld owner",
+    "record": "_handoffs a03a11f (RR-155 §2, the owner's own values)"
+  },
+  "claimedRelationship": "OWNER_OR_FAMILY (the owner's statement)",
+  "ownerValues": {
+    "business": "an architect and construction company",
+    "location": "Lahore, Pakistan (the business's own location, as the owner states it)",
+    "examProduct": false,
+    "goals": [
+      "VISIBILITY",
+      "TRAFFIC",
+      "CONVERSION",
+      "COVERAGE"
+    ]
+  },
+  "productDimensions": "NOT MEASURED — none supplied by the owner",
+  "siteOriginScheme": "the owner named the domain only; the https scheme in the declared origin is an assumption, not read and not verified",
+  "declares": {
+    "siteOrigin": "https://lamzish.com",
+    "researchBatches": [
+      "lamzish-questions-pilot-2026-10-04"
+    ]
+  },
+  "questionSource": "the owner's Stack Exchange source decision (_handoffs 3dba784); the key is the owner's, named STACKEXCHANGE_API_KEY, used by presence only; NO run is authorised by this declaration — a run needs the owner's fresh GREEN naming the plan's hash"
+}

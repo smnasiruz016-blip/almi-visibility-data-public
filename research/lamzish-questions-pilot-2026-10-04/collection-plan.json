@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "kind": "PUBLIC_QUESTION_COLLECTION_PLAN",
+  "planId": "lamzish-pilot-1",
+  "subject": "lamzish",
+  "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
+  "researchBatch": "lamzish-questions-pilot-2026-10-04",
+  "adapter": "stack-exchange",
+  "site": "diy",
+  "query": {
+    "q": "concrete roof"
+  },
+  "language": "en",
+  "pagesize": 30,
+  "requests": 2,
+  "relevanceProfileSha256": "07a85842a372e87ffc5e037c6a5bbca23d2a8897b0090d8c3bbe2ff24727d0cc",
+  "keeps": [
+    "each question's title exactly as written",
+    "its link",
+    "its creation date and last-edit date",
+    "its author's display name",
+    "its licence as the source states it",
+    "the attribution line"
+  ],
+  "retention": "kept in this research batch until the owner removes it; never published; nothing else of the post (no body, score or tags) is kept",
+  "declaredOn": "2026-10-04"
+}

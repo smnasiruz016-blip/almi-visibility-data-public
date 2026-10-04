@@ -255,6 +255,30 @@
       "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
       "declaredOn": "2026-10-03",
       "declarationBasis": "STRUCTURAL_PROOF_RULE_2_SUBJECT_DESCRIPTOR_DECLARES_RESOURCE_ID"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "SITE_ORIGIN",
+      "resourceRef": "https://lamzish.com",
+      "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
+      "declaredOn": "2026-10-04",
+      "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "RESEARCH_BATCH",
+      "resourceRef": "lamzish-questions-pilot-2026-10-04",
+      "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
+      "declaredOn": "2026-10-04",
+      "declarationBasis": "STRUCTURAL_PROOF_RULE_2_SUBJECT_DESCRIPTOR_DECLARES_RESOURCE_ID"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "SITE_ORIGIN",
+      "resourceRef": "https://api.stackexchange.com",
+      "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
+      "declaredOn": "2026-10-04",
+      "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
     }
   ]
 }
