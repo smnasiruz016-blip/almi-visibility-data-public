@@ -1,0 +1,11 @@
+{
+  "profileId": "lamzish-concrete-roof-v1",
+  "subject": "lamzish",
+  "declaredAs": "CC-authored for the RR-155 pilot proposal; covered by the owner's GREEN through the plan's hash",
+  "confirms": [
+    "\\bconcrete\\b.*\\broof",
+    "\\broof\\b.*\\bconcrete\\b"
+  ],
+  "ambiguous": [],
+  "excludes": []
+}
