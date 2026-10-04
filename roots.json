@@ -58,6 +58,14 @@
           ]
         }
       ]
+    },
+    {
+      "subjectId": "lamzish",
+      "path": "lamzish",
+      "members": [
+        { "resourceKind": "SITE_ORIGIN", "resourceRef": "https://lamzish.com" }
+      ],
+      "connectors": []
     }
   ]
 }
