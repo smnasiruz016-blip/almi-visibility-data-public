@@ -17,9 +17,26 @@
       "TRAFFIC",
       "CONVERSION",
       "COVERAGE"
-    ]
+    ],
+    "product": "designs and constructs homes in Pakistan (the owner's declaration, RR-156 §1, _handoffs 50af0cc)",
+    "audience": "Pakistanis living inside Pakistan and Pakistanis living abroad who want a home designed and built in Pakistan"
   },
-  "productDimensions": "NOT MEASURED — none supplied by the owner",
+  "productDimensions": {
+    "declaredBy": "the owner, RR-156 §1 (_handoffs 50af0cc) — his words: \"196 na banao, is ko ghar, mall, flat, building, interior, exterior, architecture, construction wagheira main change ker do.\"",
+    "dimension": "service type",
+    "services": [
+      "house",
+      "mall",
+      "flat",
+      "building",
+      "interior",
+      "exterior",
+      "architecture",
+      "construction"
+    ],
+    "rule": "the owner adds any further service himself; none is invented, renamed or mapped",
+    "originCountry": "AUDIENCE CONTEXT — not a dimension: it is not proof of demand anywhere, never multiplies combinations and never multiplies pages; a genuine country-specific difference is written inside the one answer"
+  },
   "siteOriginScheme": "the owner named the domain only; the https scheme in the declared origin is an assumption, not read and not verified",
   "declares": {
     "siteOrigin": "https://lamzish.com",
