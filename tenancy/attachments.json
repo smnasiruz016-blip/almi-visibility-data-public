@@ -295,6 +295,30 @@
       "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
       "declaredOn": "2026-10-08",
       "declarationBasis": "STRUCTURAL_PROOF_RULE_2_SUBJECT_DESCRIPTOR_DECLARES_RESOURCE_ID"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "COST_LEDGER",
+      "resourceRef": "cost-ledger/tenant:93b991d5afa33b16ccb9166b249593b6",
+      "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
+      "declaredOn": "2026-10-09",
+      "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "COST_LEDGER",
+      "resourceRef": "cost-ledger/tenant:adc2d3b2637f05dc30cbb7cb11fc955e",
+      "tenantId": "tenant:adc2d3b2637f05dc30cbb7cb11fc955e",
+      "declaredOn": "2026-10-09",
+      "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "COST_LEDGER",
+      "resourceRef": "cost-ledger/tenant:7dca5e2bc05217d695662a63017b1c9a",
+      "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
+      "declaredOn": "2026-10-09",
+      "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
     }
   ]
 }
