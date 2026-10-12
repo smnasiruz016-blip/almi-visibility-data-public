@@ -4,13 +4,12 @@
  * The contract is the engine's: src/questionnaire/product-questionnaire.mjs (product-questionnaire/1). This file is DATA ONLY and
  * imports nothing. Its leading underscore keeps it out of the fact records.
  *
- * 🔴 EVERY ANSWER BELOW IS INFERRED, AND 23 OF THE 24 WERE APPROVED BY THE OWNER ON 12 OCTOBER 2026 (RR-251) "as correct for the
+ * 🔴 EVERY ANSWER BELOW IS INFERRED, AND EVERY ONE WAS APPROVED BY THE OWNER ON 12 OCTOBER 2026 (RR-251) "as correct for the
  * product as it is live today". The approval is the committed record each answer names. An approved answer is a SELF-SOURCED
  * capability claim: the product speaking about itself — never an independent fact, never VERIFIED.
- * 🔴 ONE ANSWER IS WITHHELD (PENDING, NOT EVIDENCE): the size of a full mock. It was shown to the owner as "22 items", and his own note
- * (RR-251, 1a) compares it with the real test's QUESTION counts — but the 22 are TASKS (the product's mock plan), each Listening or
- * Reading task holding several questions. The word "items" was CC's and was misleading, so the answer is reworded and waits for the
- * owner to approve the corrected wording. The other 23 answers are approved as shown.
+ * 🔴 ONE ANSWER WAS REWORDED AND APPROVED SEPARATELY: the size of a full mock. It was first shown to the owner as "22 items"; the 22 are
+ * TASKS (the product's mock plan), each Listening or Reading task holding several questions, so the word was misleading. The owner approved
+ * the corrected wording on 12 October 2026 (RR-252), and that answer names that record. All 24 answers are now approved.
  * 🔴 THE OWNER'S RULE (RR-251): when the product's live pricing changes, these answers must be updated and approved again.
  *
  * The client did not write these: CC pre-filled them on 12 October
@@ -27,7 +26,8 @@
 const APPROVED = Object.freeze({ state: "APPROVED", by: "owner", on: "2026-10-12", record: Object.freeze({ repo: "_handoffs", path: "AlmiVisibility_OWNER_DECISION_2026-10-12_RR-251_APPROVE_CLIENT_ANSWERS_F44_A1_SPEC_A6.md", commit: "f7cd82179d8f1b1c74cbe49cdfb3cb413736f835" }) });
 const code = (ref) => Object.freeze({ kind: "CODE", ref });
 const site = (ref) => Object.freeze({ kind: "PUBLIC_SITE", ref });
-const PENDING = Object.freeze({ state: "PENDING" });
+/* the one answer approved separately, in the owner's own wording (RR-252, answer 3) */
+const APPROVED_REWORDED = Object.freeze({ state: "APPROVED", by: "owner", on: "2026-10-12", record: Object.freeze({ repo: "_handoffs", path: "AlmiVisibility_OWNER_DECISION_2026-10-12_RR-252_MERGE_ANSWERS.md", commit: "38d6e9182e1cc9c5b09a4c8109f27e6300bd6c4a" }) });
 const says = (answerId, section, statement, value, inferredFrom, approval = APPROVED) => Object.freeze({ answerId, section, statement, value, basis: "INFERRED", inferredFrom: Object.freeze(inferredFrom), approval });
 const money = (value, unit) => Object.freeze({ value, valueType: "money", unit });
 const duration = (value, unit) => Object.freeze({ value, valueType: "duration", unit });
@@ -73,9 +73,9 @@ export default Object.freeze({
     // ── counts ──
     says("professions-supported", "COUNT", "The product supports this many OET professions.", count(12, "professions"), [code("almi-oet:src/lib/oet/professions.ts")]),
     says("task-types", "COUNT", "The product has this many task types across the four sub-tests.", count(8, "task types"), [code(REGISTRY)]),
-    /* PENDING ON PURPOSE (see the header): reworded after the approval, so the approval does not cover it */
-  says("tasks-in-one-full-mock", "COUNT", "One full mock test is made of this many tasks: 10 Listening, 9 Reading, 1 Writing and 2 Speaking. A Listening or Reading task holds several questions; the number of questions in a mock is not stated here.", count(22, "tasks"), [code(REGISTRY)], PENDING),
-    says("trial-ai-writing-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Writing letter, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
+    /* reworded after the first approval, then approved in the owner's own words (RR-252) — the statement is his sentence, word for word */
+  says("tasks-in-one-full-mock", "COUNT", "A full mock has 22 tasks: 10 Listening, 9 Reading, 1 Writing, 2 Speaking; the question count is not given here.", count(22, "tasks"), [code(REGISTRY)], APPROVED_REWORDED),
+  says("trial-ai-writing-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Writing letter, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
     says("trial-ai-speaking-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Speaking role-play, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
   ]),
 });
