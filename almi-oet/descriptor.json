@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "subjectId": "almi-oet",
+  "kind": "OWNER_DECLARED_SUBJECT",
+  "status": "DECLARED BY THE OWNER — no read of the site is authorised by this declaration; a read needs its own owner GREEN",
+  "authorisedBy": {
+    "party": "the AlmiWorld owner",
+    "record": "_handoffs d07d32f44b5fe996603553a7e35e945dece5cd7a (AlmiVisibility_OWNER_DECISION_2026-10-12_RR-253_ANSWERS_TO_THE_BUILD_STOP.md, answer 4)"
+  },
+  "ownerValues": {
+    "product": "AlmiOET — online OET practice: all four sub-tests, AI feedback on Writing and Speaking.",
+    "audience": "Healthcare professionals preparing for OET; for this test: nurses in Pakistan, and speech pathologists.",
+    "examProduct": true
+  },
+  "productDimensions": {
+    "declaredBy": "the owner, RR-253 answers to the build stop, answer 4 — \"Services (this test): nursing, speech-pathology.\"",
+    "dimension": "profession",
+    "services": [
+      "nursing",
+      "speech-pathology"
+    ],
+    "rule": "the owner adds any further service himself; none is invented, renamed or mapped"
+  },
+  "declares": {
+    "siteOrigin": "https://almioet.almiworld.com",
+    "researchBatches": [
+      "rr253-test-pages-2026-10-12"
+    ]
+  }
+}

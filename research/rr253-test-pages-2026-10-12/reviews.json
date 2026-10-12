@@ -1,0 +1,2662 @@
+[
+  {
+    "need": "n-difficulty",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-fee — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-difficulty — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-difficulty — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-difficulty",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-fee — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-fee — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-fee — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-fee",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-difficulty — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-fee — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-centres — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-centres",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-writing",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-difficulty — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-fee — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-centres — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-booking",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-format — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-format",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-scores",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-reschedule",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-prep",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-validity",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-results",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-id — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-reschedule — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-prep — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-results — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-id",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|n-writing — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|n-scores — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|n-validity — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|n-retake — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "n-retake",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-au — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-au",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-specific|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-speaking|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-uk",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-materials|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-ie — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-ie",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-specific|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-speaking|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-specific",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-materials|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-marking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-marking",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-speaking|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-speaking|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-speaking",
+    "against": "s-materials",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-materials|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-difficulty",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-difficulty|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-fee",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-fee|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-centres",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-centres|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-writing",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-writing|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-booking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-booking|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-format",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-format|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-scores",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-scores|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-reschedule",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-reschedule|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-prep",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-prep|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-validity",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-validity|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-results",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-results|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-id",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-id|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "n-retake",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:n-retake|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "s-au",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-au|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "s-uk",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-materials|s-uk — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "s-ie",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-ie|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "s-specific",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-materials|s-specific — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "s-marking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-marking|s-materials — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  },
+  {
+    "need": "s-materials",
+    "against": "s-speaking",
+    "verdict": "DISTINCT",
+    "needsGuidance": false,
+    "ref": "review:s-materials|s-speaking — a different question with a different answer; recorded by actor:cc as an agent, on reading both needs"
+  }
+]
