@@ -1,0 +1,70 @@
+/**
+ * ALMIOET — THE CLIENT PRODUCT QUESTIONNAIRE (owner answer A2, RR-250, 12 October 2026).
+ *
+ * The contract is the engine's: src/questionnaire/product-questionnaire.mjs (product-questionnaire/1). This file is DATA ONLY and
+ * imports nothing. Its leading underscore keeps it out of the fact records.
+ *
+ * 🔴 EVERY ANSWER BELOW IS INFERRED, AND NONE IS EVIDENCE. The client did not write these: CC pre-filled them on 12 October
+ * 2026 from the product's own code (repository almi-oet, origin/main 9e14caa — the five files read are byte-identical there
+ * and on the working head a4514b3) and from one read of the product's public pricing page. Each answer names what it was
+ * inferred from. An answer becomes evidence only when the owner approves it and its approval names the committed record.
+ *
+ * 🔴 WHAT WAS LEFT OUT ON PURPOSE (not found in code as a constant, so not asked of the owner as a number):
+ *   · the size of the practice bank — two dated code comments disagree (516 and 507) and no constant states it;
+ *   · the number of distinct mock tests — mocks are assembled from the bank;
+ *   · the amount actually charged — the code states the ADVERTISED price and says the payment provider holds the charged one;
+ *   · the currency CODE — the code and the public page show only "$".
+ */
+const PENDING = Object.freeze({ state: "PENDING" });
+const code = (ref) => Object.freeze({ kind: "CODE", ref });
+const site = (ref) => Object.freeze({ kind: "PUBLIC_SITE", ref });
+const says = (answerId, section, statement, value, inferredFrom) => Object.freeze({ answerId, section, statement, value, basis: "INFERRED", inferredFrom: Object.freeze(inferredFrom), approval: PENDING });
+const money = (value, unit) => Object.freeze({ value, valueType: "money", unit });
+const duration = (value, unit) => Object.freeze({ value, valueType: "duration", unit });
+const count = (value, unit) => Object.freeze({ value, valueType: "count", unit });
+
+const OFFER = "almi-oet:src/lib/billing/offer.ts";
+const REGISTRY = "almi-oet:src/lib/oet/registry.ts";
+const SHAPE = "almi-oet:src/lib/oet/exam-shape.ts";
+const PRICING_COPY = "almi-oet:src/app/pricing/page.tsx";
+const PRICING_PAGE = "the product's public pricing page, read once on 2026-10-12";
+
+export default Object.freeze({
+  schemaVersion: 1,
+  contractId: "product-questionnaire/1",
+  questionnaireId: "almi-oet-2026-10-12",
+  tenantId: "tenant:93b991d5afa33b16ccb9166b249593b6",
+  productId: "almi-oet",
+  submittedBy: "actor:cc (pre-filled for the client; not the client's own submission)",
+  submittedOn: "2026-10-12",
+  answers: Object.freeze([
+    // ── what the product does ──
+    says("practice-all-four-sub-tests", "CAPABILITY", "Students practise all four OET sub-tests: Listening, Reading, Writing and Speaking.", null, [code(REGISTRY), site(PRICING_PAGE)]),
+    says("auto-marked-listening-and-reading", "CAPABILITY", "Listening and Reading answers are marked automatically.", null, [code(REGISTRY)]),
+    says("ai-feedback-writing-and-speaking", "CAPABILITY", "The Writing letter and the Speaking role-play get AI feedback against the OET criteria.", null, [code(REGISTRY), code(PRICING_COPY), site(PRICING_PAGE)]),
+    says("speaking-judged-from-transcript", "CAPABILITY", "Speaking is judged from a transcript of what the student said, not from accent or audio quality.", null, [code(REGISTRY)]),
+    says("estimate-per-sub-test-as-a-range", "CAPABILITY", "Each sub-test gets an estimated score on the 0 to 500 scale with a grade (A, B, C+ or C), shown as a range. No overall score is given.", null, [code(PRICING_COPY), site(PRICING_PAGE)]),
+    says("writing-and-speaking-by-profession", "CAPABILITY", "Writing and Speaking tasks are specific to the student's profession; Listening and Reading are shared by all professions.", null, [code("almi-oet:src/lib/oet/professions.ts")]),
+    says("full-mock-in-one-sitting", "CAPABILITY", "A student can sit a full mock test in the OET order in one sitting, and resume an unfinished one.", null, [code(REGISTRY), code("almi-oet:src/app/(app)/practice/mock/page.tsx")]),
+    says("adaptive-difficulty", "CAPABILITY", "Practice adapts to the student's level across three difficulty levels.", null, [code("almi-oet:src/lib/oet/session.ts"), site(PRICING_PAGE)]),
+    says("progress-page", "CAPABILITY", "A progress page shows, per sub-test, how many exercises are done and which exercise to do next.", null, [code("almi-oet:src/app/(app)/progress/page.tsx")]),
+    says("original-material", "CAPABILITY", "All practice material is original and is never copied from OET.", null, [code(PRICING_COPY), site(PRICING_PAGE)]),
+    says("cancel-anytime", "CAPABILITY", "A subscriber can cancel at any time from the account page.", null, [code(PRICING_COPY), site(PRICING_PAGE)]),
+    // ── prices ──
+    says("price-pro-monthly", "PRICE", "The one plan on sale, Pro, is advertised at this price per month. There is no yearly plan and no free plan.", money(12, "USD"), [code(OFFER), code(PRICING_COPY), site(PRICING_PAGE)]),
+    // ── durations ──
+    says("free-trial-length", "DURATION", "The free trial lasts this long. A card is entered at the start and is not charged during the trial.", duration(7, "days"), [code(OFFER), site(PRICING_PAGE)]),
+    says("billing-period", "DURATION", "The subscription renews every billing period of this length.", duration(1, "months"), [code(PRICING_COPY), site(PRICING_PAGE)]),
+    says("reading-part-a-time", "DURATION", "Reading Part A is timed at this length.", duration(15, "minutes"), [code(SHAPE)]),
+    says("reading-parts-b-and-c-time", "DURATION", "Reading Parts B and C together are timed at this length.", duration(45, "minutes"), [code(SHAPE)]),
+    says("writing-time", "DURATION", "The Writing task is timed at this length in total: 5 minutes of reading time, then 40 minutes of writing.", duration(45, "minutes"), [code(SHAPE)]),
+    says("speaking-preparation-time", "DURATION", "Each Speaking role-play has this much preparation time.", duration(3, "minutes"), [code(SHAPE)]),
+    says("speaking-role-play-time", "DURATION", "Each Speaking role-play lasts this long.", duration(5, "minutes"), [code(SHAPE)]),
+    // ── counts ──
+    says("professions-supported", "COUNT", "The product supports this many OET professions.", count(12, "professions"), [code("almi-oet:src/lib/oet/professions.ts")]),
+    says("task-types", "COUNT", "The product has this many task types across the four sub-tests.", count(8, "task types"), [code(REGISTRY)]),
+    says("items-in-one-full-mock", "COUNT", "One full mock test holds this many items.", count(22, "items"), [code(REGISTRY)]),
+    says("trial-ai-writing-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Writing letter, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
+    says("trial-ai-speaking-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Speaking role-play, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
+  ]),
+});
