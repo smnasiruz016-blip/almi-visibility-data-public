@@ -4,21 +4,31 @@
  * The contract is the engine's: src/questionnaire/product-questionnaire.mjs (product-questionnaire/1). This file is DATA ONLY and
  * imports nothing. Its leading underscore keeps it out of the fact records.
  *
- * 🔴 EVERY ANSWER BELOW IS INFERRED, AND NONE IS EVIDENCE. The client did not write these: CC pre-filled them on 12 October
+ * 🔴 EVERY ANSWER BELOW IS INFERRED, AND 23 OF THE 24 WERE APPROVED BY THE OWNER ON 12 OCTOBER 2026 (RR-251) "as correct for the
+ * product as it is live today". The approval is the committed record each answer names. An approved answer is a SELF-SOURCED
+ * capability claim: the product speaking about itself — never an independent fact, never VERIFIED.
+ * 🔴 ONE ANSWER IS WITHHELD (PENDING, NOT EVIDENCE): the size of a full mock. It was shown to the owner as "22 items", and his own note
+ * (RR-251, 1a) compares it with the real test's QUESTION counts — but the 22 are TASKS (the product's mock plan), each Listening or
+ * Reading task holding several questions. The word "items" was CC's and was misleading, so the answer is reworded and waits for the
+ * owner to approve the corrected wording. The other 23 answers are approved as shown.
+ * 🔴 THE OWNER'S RULE (RR-251): when the product's live pricing changes, these answers must be updated and approved again.
+ *
+ * The client did not write these: CC pre-filled them on 12 October
  * 2026 from the product's own code (repository almi-oet, origin/main 9e14caa — the five files read are byte-identical there
  * and on the working head a4514b3) and from one read of the product's public pricing page. Each answer names what it was
- * inferred from. An answer becomes evidence only when the owner approves it and its approval names the committed record.
+ * inferred from.
  *
- * 🔴 WHAT WAS LEFT OUT ON PURPOSE (not found in code as a constant, so not asked of the owner as a number):
+ * 🔴 WHAT WAS LEFT OUT ON PURPOSE, AND STAYS OUT (the owner, RR-251: "stay omitted, not invented"):
  *   · the size of the practice bank — two dated code comments disagree (516 and 507) and no constant states it;
  *   · the number of distinct mock tests — mocks are assembled from the bank;
- *   · the amount actually charged — the code states the ADVERTISED price and says the payment provider holds the charged one;
- *   · the currency CODE — the code and the public page show only "$".
+ *   · the amount actually charged — the code states the ADVERTISED price and says the payment provider holds the charged one.
+ * The currency CODE is not in the code or on the public page (both show only "$"); "USD" is the owner's own word (RR-251).
  */
-const PENDING = Object.freeze({ state: "PENDING" });
+const APPROVED = Object.freeze({ state: "APPROVED", by: "owner", on: "2026-10-12", record: Object.freeze({ repo: "_handoffs", path: "AlmiVisibility_OWNER_DECISION_2026-10-12_RR-251_APPROVE_CLIENT_ANSWERS_F44_A1_SPEC_A6.md", commit: "f7cd82179d8f1b1c74cbe49cdfb3cb413736f835" }) });
 const code = (ref) => Object.freeze({ kind: "CODE", ref });
 const site = (ref) => Object.freeze({ kind: "PUBLIC_SITE", ref });
-const says = (answerId, section, statement, value, inferredFrom) => Object.freeze({ answerId, section, statement, value, basis: "INFERRED", inferredFrom: Object.freeze(inferredFrom), approval: PENDING });
+const PENDING = Object.freeze({ state: "PENDING" });
+const says = (answerId, section, statement, value, inferredFrom, approval = APPROVED) => Object.freeze({ answerId, section, statement, value, basis: "INFERRED", inferredFrom: Object.freeze(inferredFrom), approval });
 const money = (value, unit) => Object.freeze({ value, valueType: "money", unit });
 const duration = (value, unit) => Object.freeze({ value, valueType: "duration", unit });
 const count = (value, unit) => Object.freeze({ value, valueType: "count", unit });
@@ -63,7 +73,8 @@ export default Object.freeze({
     // ── counts ──
     says("professions-supported", "COUNT", "The product supports this many OET professions.", count(12, "professions"), [code("almi-oet:src/lib/oet/professions.ts")]),
     says("task-types", "COUNT", "The product has this many task types across the four sub-tests.", count(8, "task types"), [code(REGISTRY)]),
-    says("items-in-one-full-mock", "COUNT", "One full mock test holds this many items.", count(22, "items"), [code(REGISTRY)]),
+    /* PENDING ON PURPOSE (see the header): reworded after the approval, so the approval does not cover it */
+  says("tasks-in-one-full-mock", "COUNT", "One full mock test is made of this many tasks: 10 Listening, 9 Reading, 1 Writing and 2 Speaking. A Listening or Reading task holds several questions; the number of questions in a mock is not stated here.", count(22, "tasks"), [code(REGISTRY)], PENDING),
     says("trial-ai-writing-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Writing letter, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
     says("trial-ai-speaking-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Speaking role-play, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
   ]),
