@@ -1,0 +1,255 @@
+[
+  {
+    "questionId": "39fd3840b07a36d2879fd85201451558",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — the owner's seed question (RR-253 C1), his words",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "615a8cc95c511b27e9b35180ec96087e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — seen only as a search-result title; the page was not opened",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "bd447bcffdcdfd9af8c7c5a63a1594d0",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — the owner's seed question (RR-253 C1), his words",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "dccc4361864a61488334574b27b7b424",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — the owner's seed question (RR-253 C1), his words",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "16dd38d7654767209d0fefff3b1d7a63",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "4cd57eab6376a280cae766ed405f5344",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — the owner's seed question (RR-253 C1), his words",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "bd3f109553982ccfc9bacd7884b36ee2",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — seen only as a search-result title; the page was not opened",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "86db1001c987b7e45341dc90d5460a49",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — seen only as a search-result title; the page was not opened",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "bb0312e22fee7881876935cd81e0b208",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "ff1b26c80fe7e245bd7a2c615dbbbe2b",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "1881d4e09091fed953749e49b8caf68d",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "fae7805d7683e17074242d4bf1af96b7",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "3c8ada87be3d3e4642635917cb4192e3",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "ac91a0fcadc2d89efc4167aaefbbf892",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "e8d19cb344f72ba19a5838704285ebd2",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "d5f586730ab871c03afb390f3e14cbeb",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "ef0c34fb58d22de8be4bc2e445fed237",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "f24655b6fcc02de4ce60128b26d217eb",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "30a974e3d258b57ebc506816ff74f5ca",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "05178315bedb7bbe959bfe426e3e6338",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "e23c7dca8b5254d2521082f52548824e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "dc1b3071f2e0ef599cccebe5dc86ee52",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "questionId": "09c635a37e3cc79697fad21354b36ac3",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience could ask — suggested by an AI research agent",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  }
+]

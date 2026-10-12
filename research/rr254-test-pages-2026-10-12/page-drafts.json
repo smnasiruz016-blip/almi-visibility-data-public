@@ -1,0 +1,1092 @@
+{
+  "productName": "AlmiOET",
+  "pages": [
+    {
+      "combination": {
+        "profession": "nursing"
+      },
+      "needs": [
+        {
+          "key": "n-difficulty",
+          "questions": [
+            "39fd3840b07a36d2879fd85201451558",
+            "628b88e74263cdca09d1bddd7ef5da0f",
+            "615a8cc95c511b27e9b35180ec96087e"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-difficulty-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET builds its tasks from nursing and healthcare workplaces: Listening uses health-related recordings such as nurse and patient consultations, Speaking is a role-play as a nurse with a patient, and Writing is a letter based on case notes. OET's own page for nurses does not say the test is easier or harder than any other test.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Which English test should a nurse take?",
+                  "link": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-difficulty-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-difficulty",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-fee",
+          "questions": [
+            "bd447bcffdcdfd9af8c7c5a63a1594d0",
+            "3896ed86021f796878c979fe287b9ae0"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-fee-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET lists the full four-part test at AU$587 (US$455 for tests taken in the USA). The price is published in Australian dollars; the page gives no amount in Pakistani rupees.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET help centre — How much does the OET Test cost?",
+                  "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-fee-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-fee",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-centres",
+          "questions": [
+            "dccc4361864a61488334574b27b7b424",
+            "d05742a9ec7d99b8e973047b6f9e0c18",
+            "14e0b119a7b83ee2081a20ec187ca9ad"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-centres-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET's website names Islamabad, Karachi and Lahore as the cities in Pakistan where the Speaking sub-test can be taken at a test venue.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Speaking sub-test available at a venue for select countries",
+                  "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-centres-1"
+                }
+              },
+              {
+                "claimId": "n-centres-2",
+                "central": false,
+                "states": "OTHER",
+                "text": "AEO Pakistan's own OET page names venues in Islamabad, Karachi, Lahore and Multan.",
+                "source": {
+                  "kind": "RELATED",
+                  "name": "AEO Pakistan — OET Test in Pakistan",
+                  "link": "https://aeo.com.pk/oet-test-in-pakistan/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-centres-2"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-centres",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-scores",
+          "questions": [
+            "cb28618d12b28cf37195fd1162fe8904",
+            "16dd38d7654767209d0fefff3b1d7a63"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-scores-uk",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Nursing and Midwifery Council (UK)",
+                "text": "The UK's Nursing and Midwifery Council asks for at least grade B (350) in Listening, Reading and Speaking and at least C+ (300) in Writing. Two sittings can be combined if they are within 12 months of each other and all four parts were taken each time; the test must be no more than two years old.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Nursing and Midwifery Council (UK)",
+                  "name": "Nursing and Midwifery Council (UK) — Accepted English language tests",
+                  "link": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-scores-uk"
+                }
+              },
+              {
+                "claimId": "n-scores-au",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "In Australia, for tests taken on or after 23 April 2026, the minimum OET scores are Listening 350, Reading 360, Writing 350 and Speaking 360; tests taken on or before 22 April 2026 need B in Listening, Reading and Speaking and C+ in Writing.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Accepted English language tests",
+                  "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-scores-au"
+                }
+              },
+              {
+                "claimId": "n-scores-ie",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "NMBI (Nursing and Midwifery Board of Ireland)",
+                "text": "Ireland's NMBI asks for grade B in three components and C+ in one, in a result less than two years old; it does not accept combined results or OET at home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "NMBI (Nursing and Midwifery Board of Ireland)",
+                  "name": "NMBI — English language requirements",
+                  "link": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-scores-ie"
+                }
+              },
+              {
+                "claimId": "n-scores-nz",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Nursing Council of New Zealand",
+                "text": "The Nursing Council of New Zealand asks for at least 350 in Reading, Listening and Speaking and 300 in Writing, reached within 12 months of the first sitting; it does not accept online tests taken outside an approved test centre.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Nursing Council of New Zealand",
+                  "name": "Nursing Council of New Zealand — English language requirement",
+                  "link": "https://nursingcouncil.org.nz/IQN/IQN/H8.aspx",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-scores-nz"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "estimate-per-sub-test-as-a-range"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:n-scores",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-writing",
+          "questions": [
+            "4cd57eab6376a280cae766ed405f5344",
+            "bd3f109553982ccfc9bacd7884b36ee2"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-writing-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "The Writing sub-test lasts 45 minutes: 5 minutes of reading time, then 40 minutes of writing. The task is one formal letter for the candidate's own profession, written from case notes, about 180 to 200 words long.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Writing sub-test",
+                  "link": "https://oet.com/ready/writing",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-writing-1"
+                }
+              },
+              {
+                "claimId": "n-writing-2",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "For nurses, OET describes the letter as a referral or discharge letter based on case notes.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Which English test should a nurse take?",
+                  "link": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-writing-2"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "ai-feedback-writing-and-speaking",
+            "writing-time"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:n-writing",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-format",
+          "questions": [
+            "da64d371460b717fc379460288e183bf"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-format-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Listening lasts about 40 minutes and has three parts with 42 questions.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Listening sub-test",
+                  "link": "https://oet.com/ready/listening",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-format-1"
+                }
+              },
+              {
+                "claimId": "n-format-2",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Reading lasts 60 minutes and has three parts with 42 questions in total; Part A materials are collected after 15 minutes.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Reading sub-test",
+                  "link": "https://oet.com/ready/reading",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-format-2"
+                }
+              },
+              {
+                "claimId": "n-format-3",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Speaking lasts about 20 minutes and has two role-plays for the candidate's own profession, 5 minutes each, with an interlocutor.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Speaking sub-test",
+                  "link": "https://oet.com/ready/speaking",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-format-3"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "practice-all-four-sub-tests",
+            "tasks-in-one-full-mock",
+            "full-mock-in-one-sitting"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:n-format",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-prep",
+          "questions": [
+            "be1e005f5079b75f56bafd980ac0bcb2",
+            "86db1001c987b7e45341dc90d5460a49"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-prep-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET offers free sample tests for all four sub-tests, as downloads for the paper test and as interactive tests for the computer test. The page does not say how long preparation takes; it suggests a practice test every two to three weeks.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Sample tests",
+                  "link": "https://oet.com/en-us/ready/sample-tests",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-prep-1"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "original-material",
+            "adaptive-difficulty",
+            "free-trial-length",
+            "price-pro-monthly"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:n-prep",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-booking",
+          "questions": [
+            "bb0312e22fee7881876935cd81e0b208"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-booking-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "A test is booked on OET's own website by searching for a test near you. Bookings close 24 days before the test date for the paper test, and 7 days before for the computer test at a venue and for OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Book a test",
+                  "link": "https://oet.com/test/book-a-test",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-booking-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-booking",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-reschedule",
+          "questions": [
+            "14024ec56c3710277be7dc91a9d493e5"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-reschedule-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Moving a booking to another date costs AU$120 before bookings close for that test date and AU$200 after. A paper test can be moved up to the day before the test; a computer or at-home test up to two days before the first sub-test.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+                  "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-reschedule-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-reschedule",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-results",
+          "questions": [
+            "ff1b26c80fe7e245bd7a2c615dbbbe2b"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-results-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Paper-test results can be available 12 days after the test date; results for the computer test and OET@Home can be available within 48 hours of finishing all four sub-tests.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Results and scoring",
+                  "link": "https://oet.com/test/results-and-scoring",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-results-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-results",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-validity",
+          "questions": [
+            "1881d4e09091fed953749e49b8caf68d"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-validity-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET sets no validity period itself: each body that recognises the test decides how long a result is accepted.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Results and scoring",
+                  "link": "https://oet.com/test/results-and-scoring",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-validity-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-validity",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-retake",
+          "questions": [
+            "fae7805d7683e17074242d4bf1af96b7"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-retake-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "After a first full test, OET lets a candidate book one, two or three sub-tests again, for the paper test only: AU$315, AU$415 and AU$515.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET help centre — How much does the OET Test cost?",
+                  "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-retake-1"
+                }
+              },
+              {
+                "claimId": "n-retake-2",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Nursing and Midwifery Council (UK)",
+                "text": "The UK's Nursing and Midwifery Council combines two sittings only when all four parts were taken each time, so a single sub-test taken alone does not count for it.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Nursing and Midwifery Council (UK)",
+                  "name": "Nursing and Midwifery Council (UK) — Accepted English language tests",
+                  "link": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-retake-2"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-retake",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-id",
+          "questions": [
+            "3c8ada87be3d3e4642635917cb4192e3"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-id-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET accepts a valid passport, or a national identity card issued by the government of the country where the test is taken that shows name, photo and date of birth. For the computer test and OET@Home the card must be in English lettering or come with a certified translation. The document shown on test day must be the one used to book.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Test regulations",
+                  "link": "https://oet.com/test-regulations",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-id-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-id",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-athome",
+          "questions": [
+            "ac91a0fcadc2d89efc4167aaefbbf892"
+          ],
+          "answer": {
+            "claims": []
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-athome",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        }
+      ]
+    },
+    {
+      "combination": {
+        "profession": "speech-pathology"
+      },
+      "needs": [
+        {
+          "key": "s-specific",
+          "questions": [
+            "8313a10bfe1c53f05ce01f45392c768d"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-specific-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Listening and Reading are the same for every profession; Writing and Speaking are specific to the candidate's own profession.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — The OET Test",
+                  "link": "https://oet.com/test/oet-test",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-specific-1"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "writing-and-speaking-by-profession"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:s-specific",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-speaking",
+          "questions": [
+            "7ba037f95383d07243707b287fb77184"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-speaking-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "The Speaking sub-test takes about 20 minutes and has two role-plays set in the candidate's own profession, each 5 minutes long, with an interlocutor. It is recorded, and two OET assessors mark it on linguistic criteria and clinical communication criteria.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Speaking sub-test",
+                  "link": "https://oet.com/ready/speaking",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-speaking-1"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "ai-feedback-writing-and-speaking",
+            "speaking-judged-from-transcript",
+            "speaking-role-play-time"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:s-speaking",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-marking",
+          "questions": [
+            "198a3723b6435fea8bb73b5198844fb5"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-marking-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Two OET assessors mark the Writing sub-test against six criteria.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Writing sub-test",
+                  "link": "https://oet.com/ready/writing",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-marking-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-marking",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-uk",
+          "questions": [
+            "26cdbb6a50bf8e553278c2cd349faec0"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-uk-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "HCPC (Health and Care Professions Council, UK)",
+                "text": "The UK's HCPC asks speech and language therapists for an OET total of at least 1800 with no sub-test below 400. The certificate must be no more than two years old when the application is received, and the test must be taken at an official test centre, not at home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "HCPC (Health and Care Professions Council, UK)",
+                  "name": "HCPC — English language proficiency",
+                  "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-uk-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-uk",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-au",
+          "questions": [
+            "e8d19cb344f72ba19a5838704285ebd2"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-au-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Speech Pathology Australia",
+                "text": "Speech Pathology Australia asks for at least two OET sub-test results in the 450 to 500 band and two in the 400 to 500 band. Results must be no more than 6 months old when the application is submitted, with no more than two attempts in six months and all four components taken at each sitting.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Speech Pathology Australia",
+                  "name": "Speech Pathology Australia — OSQCA application guide, 1.2.1 Occupational English Test requirements",
+                  "link": "https://www.speechpathologyaustralia.org.au/Public/Public/Certification-and-universities/Becoming-certified/OSQCA-application-guide.aspx",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-au-1"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "estimate-per-sub-test-as-a-range"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:s-au",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-ie",
+          "questions": [
+            "d5f586730ab871c03afb390f3e14cbeb"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-ie-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "CORU (Ireland)",
+                "text": "Ireland's CORU asks speech and language therapists for at least grade B (400) in three components and B (350) in one. Certificates must be dated within two years of the application; up to two sittings within six months are accepted, and OET may be taken online or at home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "CORU (Ireland)",
+                  "name": "CORU — Language requirements",
+                  "link": "https://coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-ie-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-ie",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-materials",
+          "questions": [
+            "ef0c34fb58d22de8be4bc2e445fed237"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-materials-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET publishes a Speech Pathology sample test for the computer test: questions for Listening, Reading and Writing with an answer key, and a Speaking role card.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Speech Pathology sample test (OET Test on Computer)",
+                  "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/speech-pathology",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-materials-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-materials",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-fee",
+          "questions": [
+            "f24655b6fcc02de4ce60128b26d217eb"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-fee-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET lists the full four-part test at AU$587 (US$455 for tests taken in the USA).",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET help centre — How much does the OET Test cost?",
+                  "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-fee-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-fee",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-booking",
+          "questions": [
+            "30a974e3d258b57ebc506816ff74f5ca"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-booking-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "A test is booked on OET's own website by searching for a test near you. Bookings close 24 days before the test date for the paper test, and 7 days before for the computer test at a venue and for OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Book a test",
+                  "link": "https://oet.com/test/book-a-test",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-booking-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-booking",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-results",
+          "questions": [
+            "05178315bedb7bbe959bfe426e3e6338"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-results-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Paper-test results can be available 12 days after the test date; results for the computer test and OET@Home can be available within 48 hours of finishing all four sub-tests.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Results and scoring",
+                  "link": "https://oet.com/test/results-and-scoring",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-results-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-results",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-validity",
+          "questions": [
+            "b67086db62194bd371eba983a8826bcc"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-validity-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET sets no validity period itself: each body that recognises the test decides how long a result is accepted.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Results and scoring",
+                  "link": "https://oet.com/test/results-and-scoring",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-validity-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-validity",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-id",
+          "questions": [
+            "e23c7dca8b5254d2521082f52548824e"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-id-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET accepts a valid passport, or a national identity card issued by the government of the country where the test is taken that shows name, photo and date of birth. For the computer test and OET@Home the card must be in English lettering or come with a certified translation. The document shown on test day must be the one used to book.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Test regulations",
+                  "link": "https://oet.com/test-regulations",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-id-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-id",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-nz",
+          "questions": [
+            "dc1b3071f2e0ef599cccebe5dc86ee52"
+          ],
+          "answer": {
+            "claims": []
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-nz",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-dates",
+          "questions": [
+            "09c635a37e3cc79697fad21354b36ac3"
+          ],
+          "answer": {
+            "claims": []
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-dates",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-equivalence",
+          "questions": [
+            "78ccf3d0f4340a4c498a04b8ac5ae3b8"
+          ],
+          "answer": {
+            "claims": []
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-equivalence",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        }
+      ]
+    }
+  ],
+  "sameNeed": [
+    {
+      "needs": [
+        "n-fee",
+        "s-fee"
+      ],
+      "judgementRef": "same-need:n-fee|s-fee",
+      "reason": "both ask what the test costs; the answer is the exam body's one published price"
+    },
+    {
+      "needs": [
+        "n-results",
+        "s-results"
+      ],
+      "judgementRef": "same-need:n-results|s-results",
+      "reason": "both ask how long results take; the answer is the exam body's one published timing"
+    },
+    {
+      "needs": [
+        "n-validity",
+        "s-validity"
+      ],
+      "judgementRef": "same-need:n-validity|s-validity",
+      "reason": "both ask how long a result stays valid; the answer is the exam body's one statement"
+    },
+    {
+      "needs": [
+        "n-booking",
+        "s-booking"
+      ],
+      "judgementRef": "same-need:n-booking|s-booking",
+      "reason": "both ask how the test is booked; the answer is the exam body's one booking route"
+    },
+    {
+      "needs": [
+        "n-id",
+        "s-id"
+      ],
+      "judgementRef": "same-need:n-id|s-id",
+      "reason": "both ask which identity document is accepted; the answer is the exam body's one rule"
+    }
+  ]
+}
