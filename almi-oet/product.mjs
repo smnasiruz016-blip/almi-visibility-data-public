@@ -58,6 +58,9 @@ export const ALMI_OET = registerProduct({
   factsDir: join(HERE, "facts"),
   pageSpecs: { nursing: NURSING_PAGE, "speech-pathology": SPEECH_PATHOLOGY_PAGE },
 
+  /** The product's own public site — the only origin a statement about the product itself may link to (RR-253, the owner's answer 5). */
+  officialSites: ["https://almioet.almiworld.com"],
+
   gapRegister: ALMI_OET_GAPS,
   licenceEntries: ALMI_OET_LICENCES,
 

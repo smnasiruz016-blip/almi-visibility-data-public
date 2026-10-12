@@ -1,0 +1,312 @@
+[
+  {
+    "questionId": "39fd3840b07a36d2879fd85201451558",
+    "need": "n-difficulty",
+    "page": "nursing",
+    "wording": "OET IELTS se mushkil hai ya aasan? (medical terms ki wajah se phans jaen ge?)",
+    "ownerLabel": "OWNER SEED (stored as research-derived)",
+    "note": "the owner's seed question (RR-253 C1), his words",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "628b88e74263cdca09d1bddd7ef5da0f",
+    "need": "n-difficulty",
+    "page": "nursing",
+    "wording": "Which English test should a nurse take?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "615a8cc95c511b27e9b35180ec96087e",
+    "need": "n-difficulty",
+    "page": "nursing",
+    "wording": "IELTS or OET for Nurses - Which Should You Take?",
+    "ownerLabel": "INFERRED",
+    "note": "seen only as a search-result title; the page was not opened",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "bd447bcffdcdfd9af8c7c5a63a1594d0",
+    "need": "n-fee",
+    "page": "nursing",
+    "wording": "OET ki fee Pakistan mein kitni hai? (aik lakh se upar PKR, fail ho gaye to kitna nuqsaan?)",
+    "ownerLabel": "OWNER SEED (stored as research-derived)",
+    "note": "the owner's seed question (RR-253 C1), his words",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "3896ed86021f796878c979fe287b9ae0",
+    "need": "n-fee",
+    "page": "nursing",
+    "wording": "How much does the OET Test cost?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "dccc4361864a61488334574b27b7b424",
+    "need": "n-centres",
+    "page": "nursing",
+    "wording": "Pakistan mein OET ke test centers kahan hain? (Islamabad, Lahore, Karachi ke ilawa bhi?)",
+    "ownerLabel": "OWNER SEED (stored as research-derived)",
+    "note": "the owner's seed question (RR-253 C1), his words",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "d05742a9ec7d99b8e973047b6f9e0c18",
+    "need": "n-centres",
+    "page": "nursing",
+    "wording": "When and where is the OET Test available?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "14e0b119a7b83ee2081a20ec187ca9ad",
+    "need": "n-centres",
+    "page": "nursing",
+    "wording": "Where is the test venue?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "4cd57eab6376a280cae766ed405f5344",
+    "need": "n-writing",
+    "page": "nursing",
+    "wording": "Writing task aur referral letter kaisay likhtay hain? (case notes se letter, practice kahan karain?)",
+    "ownerLabel": "OWNER SEED (stored as research-derived)",
+    "note": "the owner's seed question (RR-253 C1), his words",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "bd3f109553982ccfc9bacd7884b36ee2",
+    "need": "n-writing",
+    "page": "nursing",
+    "wording": "Do you have to use a template for your OET Writing letter?",
+    "ownerLabel": "INFERRED",
+    "note": "seen only as a search-result title; the page was not opened",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "bb0312e22fee7881876935cd81e0b208",
+    "need": "n-booking",
+    "page": "nursing",
+    "wording": "OET ka test kaise book karte hain?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "da64d371460b717fc379460288e183bf",
+    "need": "n-format",
+    "page": "nursing",
+    "wording": "What's in the OET test?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "cb28618d12b28cf37195fd1162fe8904",
+    "need": "n-scores",
+    "page": "nursing",
+    "wording": "Who uses the OET Test as proof of English proficiency?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "16dd38d7654767209d0fefff3b1d7a63",
+    "need": "n-scores",
+    "page": "nursing",
+    "wording": "UK NMC ke liye OET mein kitna score chahiye?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "14024ec56c3710277be7dc91a9d493e5",
+    "need": "n-reschedule",
+    "page": "nursing",
+    "wording": "Can I defer/reschedule my OET Test to a different date? How much does it cost?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "be1e005f5079b75f56bafd980ac0bcb2",
+    "need": "n-prep",
+    "page": "nursing",
+    "wording": "What preparation support does OET provide to candidates?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "86db1001c987b7e45341dc90d5460a49",
+    "need": "n-prep",
+    "page": "nursing",
+    "wording": "How much time do you need to prepare for OET?",
+    "ownerLabel": "INFERRED",
+    "note": "seen only as a search-result title; the page was not opened",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "1881d4e09091fed953749e49b8caf68d",
+    "need": "n-validity",
+    "page": "nursing",
+    "wording": "OET ka result kitne saal tak valid rehta hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "ff1b26c80fe7e245bd7a2c615dbbbe2b",
+    "need": "n-results",
+    "page": "nursing",
+    "wording": "OET ka result kitne din mein aata hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "3c8ada87be3d3e4642635917cb4192e3",
+    "need": "n-id",
+    "page": "nursing",
+    "wording": "Test day par passport zaroori hai ya CNIC chal jaye ga?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "fae7805d7683e17074242d4bf1af96b7",
+    "need": "n-retake",
+    "page": "nursing",
+    "wording": "Agar aik sub-test mein score kam aaye to kya sirf wohi dobara de sakti hoon?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "e8d19cb344f72ba19a5838704285ebd2",
+    "need": "s-au",
+    "page": "speech-pathology",
+    "wording": "What OET score do I need as a speech pathologist for Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "AU",
+    "language": "english"
+  },
+  {
+    "questionId": "26cdbb6a50bf8e553278c2cd349faec0",
+    "need": "s-uk",
+    "page": "speech-pathology",
+    "wording": "Why choose the OET Test for HCPC registration?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "GB",
+    "language": "english"
+  },
+  {
+    "questionId": "d5f586730ab871c03afb390f3e14cbeb",
+    "need": "s-ie",
+    "page": "speech-pathology",
+    "wording": "What OET score do speech and language therapists need for CORU in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "IE",
+    "language": "english"
+  },
+  {
+    "questionId": "8313a10bfe1c53f05ce01f45392c768d",
+    "need": "s-specific",
+    "page": "speech-pathology",
+    "wording": "Why are some of the OET sub-tests profession specific?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "198a3723b6435fea8bb73b5198844fb5",
+    "need": "s-marking",
+    "page": "speech-pathology",
+    "wording": "How is the Writing sub-test marked?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7ba037f95383d07243707b287fb77184",
+    "need": "s-speaking",
+    "page": "speech-pathology",
+    "wording": "How is the Speaking sub-test assessed?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ef0c34fb58d22de8be4bc2e445fed237",
+    "need": "s-materials",
+    "page": "speech-pathology",
+    "wording": "Where can I find OET speech pathology practice materials?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "f24655b6fcc02de4ce60128b26d217eb",
+    "need": "s-fee",
+    "page": "speech-pathology",
+    "wording": "How much does the OET cost?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "05178315bedb7bbe959bfe426e3e6338",
+    "need": "s-results",
+    "page": "speech-pathology",
+    "wording": "How long do OET results take?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by an AI research agent",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b67086db62194bd371eba983a8826bcc",
+    "need": "s-validity",
+    "page": "speech-pathology",
+    "wording": "For how long are OET Test results valid?",
+    "ownerLabel": "OBSERVED",
+    "note": null,
+    "country": "NOT MEASURED",
+    "language": "english"
+  }
+]
