@@ -1,0 +1,74 @@
+[
+  {
+    "needs": [
+      "n-fee",
+      "s-fee"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-fee|s-fee — the same question, shared by two pages of two different declared audience values; by the owner's clarification of Specification Amendment 6 (RR-254) it belongs on each page and neither item is a template of the other page; recorded by actor:cc as an agent",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-results",
+      "s-results"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-results|s-results — the same question, shared by two pages of two different declared audience values; by the owner's clarification of Specification Amendment 6 (RR-254) it belongs on each page and neither item is a template of the other page; recorded by actor:cc as an agent",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-validity",
+      "s-validity"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-validity|s-validity — the same question, shared by two pages of two different declared audience values; by the owner's clarification of Specification Amendment 6 (RR-254) it belongs on each page and neither item is a template of the other page; recorded by actor:cc as an agent",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-booking",
+      "s-booking"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-booking|s-booking — the same question, shared by two pages of two different declared audience values; by the owner's clarification of Specification Amendment 6 (RR-254) it belongs on each page and neither item is a template of the other page; recorded by actor:cc as an agent",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-id",
+      "s-id"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-id|s-id — the same question, shared by two pages of two different declared audience values; by the owner's clarification of Specification Amendment 6 (RR-254) it belongs on each page and neither item is a template of the other page; recorded by actor:cc as an agent",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-results",
+      "n-validity"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-results|n-validity — two different questions that share words and one source page: how soon a result arrives, and how long it stays valid; recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  }
+]
