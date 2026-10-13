@@ -528,7 +528,7 @@
                 "central": true,
                 "states": "RESPONSIBLE_BODY_RULE",
                 "body": "OET (Occupational English Test)",
-                "text": "OET offers free sample tests for all four sub-tests, as downloads for the paper test and as interactive tests for the computer test. The page does not say how long preparation takes; it suggests a practice test every two to three weeks.",
+                "text": "OET offers free sample tests for all four sub-tests and suggests a practice test every two to three weeks.",
                 "source": {
                   "kind": "RESPONSIBLE_BODY",
                   "body": "OET (Occupational English Test)",
@@ -544,11 +544,15 @@
             ]
           },
           "productAnswers": [
+            "practice-all-four-sub-tests",
+            "ai-feedback-writing-and-speaking",
             "original-material",
             "adaptive-difficulty",
             "free-trial-length",
             "price-pro-monthly"
           ],
+          "lead": "PRODUCT_STATEMENTS",
+          "leadRef": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-13_RR-261_PRACTICE_NEEDS_LEAD_WITH_OWN_PRACTICE.md",
           "sameness": {
             "judgementRef": "sameness:n-prep",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
@@ -889,6 +893,12 @@
               }
             ]
           },
+          "productAnswers": [
+            "practice-all-four-sub-tests",
+            "ai-feedback-writing-and-speaking"
+          ],
+          "lead": "PRODUCT_STATEMENTS",
+          "leadRef": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-13_RR-261_PRACTICE_NEEDS_LEAD_WITH_OWN_PRACTICE.md",
           "sameness": {
             "judgementRef": "sameness:s-materials",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
