@@ -1,0 +1,18 @@
+{
+  "note": "The owner's answers to the ten-item sample as it stands after his two corrections (13 October 2026, RR-260), in his own words. Items 2 to 7, 9 and 10 are his first answers (the items did not change). Items 1 and 8 are his FINAL answers on the corrected items; his first answers to them (item 1 yes with a correction, item 8 NO) are stored in the need store against the items as first shown, and each correction made is named here. The three needs split from item 8 (shown to him as 8b, 8c, 8d) are not sample items; his yes to each is in the referenced records.",
+  "answeredBy": "OWNER",
+  "reference": "_handoffs/AlmiVisibility_OWNER_DECISION_2026-10-13_RR-260_F12_SAMPLE_ANSWERS.md · _handoffs/AlmiVisibility_OWNER_DECISION_2026-10-13_RR-260_F12_SAMPLE_FINAL_ANSWERS.md",
+  "on": "2026-10-13",
+  "answers": [
+    { "item": 1, "answer": "yes", "words": "1 fee (with the \"rupees\" correction): YES", "correction": { "what": "made before this answer, by his first answer: a wording that says only rupees, with no country, was taken out of the Pakistan part of the fee need and stays in the need's general part", "on": "2026-10-13" } },
+    { "item": 2, "answer": "yes", "words": "2 difficulty: YES" },
+    { "item": 3, "answer": "yes", "words": "3 which test: YES" },
+    { "item": 4, "answer": "yes", "words": "4 cheaper than IELTS: YES" },
+    { "item": 5, "answer": "yes", "words": "5 nurses, who accepts / score needed: YES" },
+    { "item": 6, "answer": "yes", "words": "6 speech pathologists, score needed: YES" },
+    { "item": 7, "answer": "yes", "words": "7 where to take OET: YES" },
+    { "item": 8, "answer": "yes", "words": "8a general practice materials: YES", "correction": { "what": "made before this answer, by his first answer (NO): the practice-materials need was split — general practice stays this need; the Writing and Speaking samples became one need per profession present in the data (nursing, medicine, speech pathology), each naming the test provider's own statement as its fact. His final words on those three: 8b nurses Writing/Speaking samples: YES · 8c doctors Writing/Speaking samples: YES · 8d speech pathologists practice samples: YES (only 2 wordings is acceptable)", "on": "2026-10-13" } },
+    { "item": 9, "answer": "yes", "words": "9 speaking: YES" },
+    { "item": 10, "answer": "yes", "words": "10 score meaning: YES" }
+  ]
+}
