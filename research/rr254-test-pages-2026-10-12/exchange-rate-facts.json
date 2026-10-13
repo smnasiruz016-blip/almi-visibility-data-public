@@ -1,0 +1,16 @@
+[
+  {
+    "factId": "sbp-usd-pkr-2026-10-12",
+    "from": "USD",
+    "to": "PKR",
+    "rate": 276.9736,
+    "kind": "M2M Revaluation Rate",
+    "rateDate": "2026-10-12",
+    "source": "State Bank of Pakistan — USD/PKR rates",
+    "link": "https://www.sbp.org.pk/ecodata/rates/m2m/2026/Oct/12-Oct-26.pdf",
+    "readOn": "2026-10-13",
+    "readBy": "actor:cc (research agent)",
+    "usedOnAPage": false,
+    "why": "the exam body prices the test in Australian dollars outside the USA; this sheet gives the US dollar only"
+  }
+]

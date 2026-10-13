@@ -7,44 +7,15 @@
       },
       "needs": [
         {
-          "key": "n-difficulty",
-          "questions": [
-            "39fd3840b07a36d2879fd85201451558",
-            "628b88e74263cdca09d1bddd7ef5da0f",
-            "615a8cc95c511b27e9b35180ec96087e"
-          ],
-          "answer": {
-            "claims": [
-              {
-                "claimId": "n-difficulty-1",
-                "central": true,
-                "states": "RESPONSIBLE_BODY_RULE",
-                "body": "OET (Occupational English Test)",
-                "text": "OET builds its tasks from nursing and healthcare workplaces: Listening uses health-related recordings such as nurse and patient consultations, Speaking is a role-play as a nurse with a patient, and Writing is a letter based on case notes. OET's own page for nurses does not say the test is easier or harder than any other test.",
-                "source": {
-                  "kind": "RESPONSIBLE_BODY",
-                  "body": "OET (Occupational English Test)",
-                  "name": "OET — Which English test should a nurse take?",
-                  "link": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
-                  "readOn": "2026-10-12"
-                },
-                "supports": {
-                  "finding": "SUPPORTS",
-                  "ref": "finding:n-difficulty-1"
-                }
-              }
-            ]
-          },
-          "sameness": {
-            "judgementRef": "sameness:n-difficulty",
-            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
-          }
-        },
-        {
           "key": "n-fee",
           "questions": [
             "bd447bcffdcdfd9af8c7c5a63a1594d0",
-            "3896ed86021f796878c979fe287b9ae0"
+            "3896ed86021f796878c979fe287b9ae0",
+            "ba75d70375bccc432360e3cda8cbeb32",
+            "e4adbc49f82917d602fe5cebbfa49b70",
+            "8e296d801e54df029e134bd5f9a127f6",
+            "09b087c142ae4bd57f6f9b778166adee",
+            "aec4db52a0f192d75d09d78dfac62d2f"
           ],
           "answer": {
             "claims": [
@@ -74,11 +45,60 @@
           }
         },
         {
+          "key": "n-dates",
+          "questions": [
+            "f07b49fa421becea2fada04de304e737"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-dates-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET's booking page shows the available test dates and venues when you search for a test near you. Bookings close 24 days before the test date for the paper test, and 7 days before for the computer test at a venue and for OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Book a test",
+                  "link": "https://oet.com/test/book-a-test",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-dates-1"
+                }
+              },
+              {
+                "claimId": "n-dates-2",
+                "central": false,
+                "states": "OTHER",
+                "text": "AEO Pakistan's own OET page lists no specific dates: it says the test is available regularly and points to OET's booking page for dates and locations.",
+                "source": {
+                  "kind": "RELATED",
+                  "name": "AEO Pakistan — OET Test in Pakistan",
+                  "link": "https://aeo.com.pk/oet-test-in-pakistan/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-dates-2"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-dates",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
           "key": "n-centres",
           "questions": [
             "dccc4361864a61488334574b27b7b424",
             "d05742a9ec7d99b8e973047b6f9e0c18",
-            "14e0b119a7b83ee2081a20ec187ca9ad"
+            "14e0b119a7b83ee2081a20ec187ca9ad",
+            "8b546267db405910511b2caf2f24bfd5"
           ],
           "answer": {
             "claims": [
@@ -120,6 +140,69 @@
           },
           "sameness": {
             "judgementRef": "sameness:n-centres",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-booking",
+          "questions": [
+            "bb0312e22fee7881876935cd81e0b208",
+            "a462d8872a6966ac5bef5c50bccf04ef"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-booking-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "A test is booked on OET's own website by searching for a test near you. Bookings close 24 days before the test date for the paper test, and 7 days before for the computer test at a venue and for OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Book a test",
+                  "link": "https://oet.com/test/book-a-test",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-booking-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-booking",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "n-contact",
+          "questions": [
+            "cd82c04f7f5d1b0fcc0ba65c110d54d9"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-contact-1",
+                "central": true,
+                "states": "OTHER",
+                "text": "AEO Pakistan's own OET page gives the number 111-236(AEO)-000 and a Customer Care Unit number, 0320-3461147-8.",
+                "source": {
+                  "kind": "RELATED",
+                  "name": "AEO Pakistan — OET Test in Pakistan",
+                  "link": "https://aeo.com.pk/oet-test-in-pakistan/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-contact-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-contact",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           }
         },
@@ -271,7 +354,8 @@
         {
           "key": "n-format",
           "questions": [
-            "da64d371460b717fc379460288e183bf"
+            "da64d371460b717fc379460288e183bf",
+            "de0624294e3dfe7d2549618d3ec77772"
           ],
           "answer": {
             "claims": [
@@ -345,7 +429,11 @@
           "key": "n-prep",
           "questions": [
             "be1e005f5079b75f56bafd980ac0bcb2",
-            "86db1001c987b7e45341dc90d5460a49"
+            "86db1001c987b7e45341dc90d5460a49",
+            "261c19fce0c7f2882677212244455763",
+            "e7ffbb398c08cd51bfe8c0f0852e299e",
+            "61e17535d9f9570ab229160c8d184e7f",
+            "784b143f19c9d8c1fdafd51f7c34abdb"
           ],
           "answer": {
             "claims": [
@@ -381,34 +469,39 @@
           }
         },
         {
-          "key": "n-booking",
+          "key": "n-difficulty",
           "questions": [
-            "bb0312e22fee7881876935cd81e0b208"
+            "39fd3840b07a36d2879fd85201451558",
+            "628b88e74263cdca09d1bddd7ef5da0f",
+            "615a8cc95c511b27e9b35180ec96087e",
+            "04aa58ddee61e99c497d32d424ff8366",
+            "fbdb42eaececde1b4b7424bdd3fcb847",
+            "ddc4e412f6959683d5d91f1a9688593e"
           ],
           "answer": {
             "claims": [
               {
-                "claimId": "n-booking-1",
+                "claimId": "n-difficulty-1",
                 "central": true,
                 "states": "RESPONSIBLE_BODY_RULE",
                 "body": "OET (Occupational English Test)",
-                "text": "A test is booked on OET's own website by searching for a test near you. Bookings close 24 days before the test date for the paper test, and 7 days before for the computer test at a venue and for OET@Home.",
+                "text": "OET builds its tasks from nursing and healthcare workplaces: Listening uses health-related recordings such as nurse and patient consultations, Speaking is a role-play as a nurse with a patient, and Writing is a letter based on case notes. OET's own page for nurses does not say the test is easier or harder than any other test.",
                 "source": {
                   "kind": "RESPONSIBLE_BODY",
                   "body": "OET (Occupational English Test)",
-                  "name": "OET — Book a test",
-                  "link": "https://oet.com/test/book-a-test",
+                  "name": "OET — Which English test should a nurse take?",
+                  "link": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
                   "readOn": "2026-10-12"
                 },
                 "supports": {
                   "finding": "SUPPORTS",
-                  "ref": "finding:n-booking-1"
+                  "ref": "finding:n-difficulty-1"
                 }
               }
             ]
           },
           "sameness": {
-            "judgementRef": "sameness:n-booking",
+            "judgementRef": "sameness:n-difficulty",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           }
         },
@@ -591,6 +684,19 @@
           }
         },
         {
+          "key": "n-cheaper",
+          "questions": [
+            "f7e1d76b8837f4b18f059377c0e678fc"
+          ],
+          "answer": {
+            "claims": []
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-cheaper",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
           "key": "n-athome",
           "questions": [
             "ac91a0fcadc2d89efc4167aaefbbf892"
@@ -611,44 +717,43 @@
       },
       "needs": [
         {
-          "key": "s-specific",
+          "key": "s-score350",
           "questions": [
-            "8313a10bfe1c53f05ce01f45392c768d"
+            "957020a34e0bb47b24c9e1c481d4a82d"
           ],
           "answer": {
             "claims": [
               {
-                "claimId": "s-specific-1",
+                "claimId": "s-score350-1",
                 "central": true,
                 "states": "RESPONSIBLE_BODY_RULE",
                 "body": "OET (Occupational English Test)",
-                "text": "Listening and Reading are the same for every profession; Writing and Speaking are specific to the candidate's own profession.",
+                "text": "On OET's scale of 0 to 500, a score of 350 is grade B. For Listening and Reading, grade B typically corresponds to at least 30 of the 42 marks.",
                 "source": {
                   "kind": "RESPONSIBLE_BODY",
                   "body": "OET (Occupational English Test)",
-                  "name": "OET — The OET Test",
-                  "link": "https://oet.com/test/oet-test",
+                  "name": "OET — Results and scoring",
+                  "link": "https://oet.com/test/results-and-scoring",
                   "readOn": "2026-10-12"
                 },
                 "supports": {
                   "finding": "SUPPORTS",
-                  "ref": "finding:s-specific-1"
+                  "ref": "finding:s-score350-1"
                 }
               }
             ]
           },
-          "productAnswers": [
-            "writing-and-speaking-by-profession"
-          ],
           "sameness": {
-            "judgementRef": "sameness:s-specific",
+            "judgementRef": "sameness:s-score350",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           }
         },
         {
           "key": "s-speaking",
           "questions": [
-            "7ba037f95383d07243707b287fb77184"
+            "7ba037f95383d07243707b287fb77184",
+            "f1a5447432f5492063d5a47d61a7126e",
+            "2ca91a175b30978db95ba642e2d22a3f"
           ],
           "answer": {
             "claims": [
@@ -683,66 +788,36 @@
           }
         },
         {
-          "key": "s-marking",
+          "key": "s-materials",
           "questions": [
-            "198a3723b6435fea8bb73b5198844fb5"
+            "ef0c34fb58d22de8be4bc2e445fed237",
+            "348b18f22a183f907f9f74b9bb884f7a",
+            "7e5aea89be74f4457d7257559c705c8b"
           ],
           "answer": {
             "claims": [
               {
-                "claimId": "s-marking-1",
+                "claimId": "s-materials-1",
                 "central": true,
                 "states": "RESPONSIBLE_BODY_RULE",
                 "body": "OET (Occupational English Test)",
-                "text": "Two OET assessors mark the Writing sub-test against six criteria.",
+                "text": "OET publishes a Speech Pathology sample test for the computer test: questions for Listening, Reading and Writing with an answer key, and a Speaking role card.",
                 "source": {
                   "kind": "RESPONSIBLE_BODY",
                   "body": "OET (Occupational English Test)",
-                  "name": "OET — Writing sub-test",
-                  "link": "https://oet.com/ready/writing",
+                  "name": "OET — Speech Pathology sample test (OET Test on Computer)",
+                  "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/speech-pathology",
                   "readOn": "2026-10-12"
                 },
                 "supports": {
                   "finding": "SUPPORTS",
-                  "ref": "finding:s-marking-1"
+                  "ref": "finding:s-materials-1"
                 }
               }
             ]
           },
           "sameness": {
-            "judgementRef": "sameness:s-marking",
-            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
-          }
-        },
-        {
-          "key": "s-uk",
-          "questions": [
-            "26cdbb6a50bf8e553278c2cd349faec0"
-          ],
-          "answer": {
-            "claims": [
-              {
-                "claimId": "s-uk-1",
-                "central": true,
-                "states": "RESPONSIBLE_BODY_RULE",
-                "body": "HCPC (Health and Care Professions Council, UK)",
-                "text": "The UK's HCPC asks speech and language therapists for an OET total of at least 1800 with no sub-test below 400. The certificate must be no more than two years old when the application is received, and the test must be taken at an official test centre, not at home.",
-                "source": {
-                  "kind": "RESPONSIBLE_BODY",
-                  "body": "HCPC (Health and Care Professions Council, UK)",
-                  "name": "HCPC — English language proficiency",
-                  "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
-                  "readOn": "2026-10-12"
-                },
-                "supports": {
-                  "finding": "SUPPORTS",
-                  "ref": "finding:s-uk-1"
-                }
-              }
-            ]
-          },
-          "sameness": {
-            "judgementRef": "sameness:s-uk",
+            "judgementRef": "sameness:s-materials",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           }
         },
@@ -782,6 +857,38 @@
           }
         },
         {
+          "key": "s-uk",
+          "questions": [
+            "26cdbb6a50bf8e553278c2cd349faec0"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-uk-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "HCPC (Health and Care Professions Council, UK)",
+                "text": "The UK's HCPC asks speech and language therapists for an OET total of at least 1800 with no sub-test below 400. The certificate must be no more than two years old when the application is received, and the test must be taken at an official test centre, not at home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "HCPC (Health and Care Professions Council, UK)",
+                  "name": "HCPC — English language proficiency",
+                  "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-uk-1"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-uk",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
           "key": "s-ie",
           "questions": [
             "d5f586730ab871c03afb390f3e14cbeb"
@@ -814,41 +921,77 @@
           }
         },
         {
-          "key": "s-materials",
+          "key": "s-specific",
           "questions": [
-            "ef0c34fb58d22de8be4bc2e445fed237"
+            "8313a10bfe1c53f05ce01f45392c768d"
           ],
           "answer": {
             "claims": [
               {
-                "claimId": "s-materials-1",
+                "claimId": "s-specific-1",
                 "central": true,
                 "states": "RESPONSIBLE_BODY_RULE",
                 "body": "OET (Occupational English Test)",
-                "text": "OET publishes a Speech Pathology sample test for the computer test: questions for Listening, Reading and Writing with an answer key, and a Speaking role card.",
+                "text": "Listening and Reading are the same for every profession; Writing and Speaking are specific to the candidate's own profession.",
                 "source": {
                   "kind": "RESPONSIBLE_BODY",
                   "body": "OET (Occupational English Test)",
-                  "name": "OET — Speech Pathology sample test (OET Test on Computer)",
-                  "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/speech-pathology",
+                  "name": "OET — The OET Test",
+                  "link": "https://oet.com/test/oet-test",
                   "readOn": "2026-10-12"
                 },
                 "supports": {
                   "finding": "SUPPORTS",
-                  "ref": "finding:s-materials-1"
+                  "ref": "finding:s-specific-1"
+                }
+              }
+            ]
+          },
+          "productAnswers": [
+            "writing-and-speaking-by-profession"
+          ],
+          "sameness": {
+            "judgementRef": "sameness:s-specific",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-marking",
+          "questions": [
+            "198a3723b6435fea8bb73b5198844fb5"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "s-marking-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Two OET assessors mark the Writing sub-test against six criteria.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Writing sub-test",
+                  "link": "https://oet.com/ready/writing",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-marking-1"
                 }
               }
             ]
           },
           "sameness": {
-            "judgementRef": "sameness:s-materials",
+            "judgementRef": "sameness:s-marking",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           }
         },
         {
           "key": "s-fee",
           "questions": [
-            "f24655b6fcc02de4ce60128b26d217eb"
+            "f24655b6fcc02de4ce60128b26d217eb",
+            "7b6b94804252953ede744cc16c4f084a"
           ],
           "answer": {
             "claims": [
@@ -1041,6 +1184,32 @@
           },
           "sameness": {
             "judgementRef": "sameness:s-equivalence",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-difficulty",
+          "questions": [
+            "ab9e8c8f08353f5d1c689686d803c5d9"
+          ],
+          "answer": {
+            "claims": []
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-difficulty",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
+          "key": "s-contact",
+          "questions": [
+            "b0296433957c0ded1761d3b63254e820"
+          ],
+          "answer": {
+            "claims": []
+          },
+          "sameness": {
+            "judgementRef": "sameness:s-contact",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           }
         }

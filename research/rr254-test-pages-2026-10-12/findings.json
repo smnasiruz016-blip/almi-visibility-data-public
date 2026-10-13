@@ -526,5 +526,69 @@
       "tool": "WebFetch"
     },
     "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:n-dates-1",
+    "claimId": "n-dates-1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-for-a-test route for dates and venues and the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:n-dates-2",
+    "claimId": "n-dates-2",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "AEO Pakistan — OET Test in Pakistan",
+      "link": "https://aeo.com.pk/oet-test-in-pakistan/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the venue operator's page lists no dates and directs readers to OET's booking page"
+  },
+  {
+    "findingId": "finding:n-contact-1",
+    "claimId": "n-contact-1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "AEO Pakistan — OET Test in Pakistan",
+      "link": "https://aeo.com.pk/oet-test-in-pakistan/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the venue operator's page shows both numbers under its assistance heading"
+  },
+  {
+    "findingId": "finding:s-score350-1",
+    "claimId": "s-score350-1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page says grade B is a scale score of 350 and that grade B typically corresponds to at least 30 of 42 marks in Reading and Listening"
   }
 ]

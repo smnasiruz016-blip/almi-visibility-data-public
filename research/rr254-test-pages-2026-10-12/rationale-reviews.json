@@ -70,5 +70,125 @@
       "kind": "AGENT",
       "ref": "actor:cc (research agent)"
     }
+  },
+  {
+    "needs": [
+      "n-fee",
+      "n-dates"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-fee|n-dates — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-fee",
+      "n-centres"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-fee|n-centres — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-fee",
+      "n-booking"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-fee|n-booking — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-fee",
+      "n-contact"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-fee|n-contact — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-dates",
+      "n-centres"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-dates|n-centres — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-dates",
+      "n-booking"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-dates|n-booking — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-dates",
+      "n-contact"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-dates|n-contact — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-centres",
+      "n-booking"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-centres|n-booking — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-centres",
+      "n-contact"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-centres|n-contact — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
+  },
+  {
+    "needs": [
+      "n-booking",
+      "n-contact"
+    ],
+    "verdict": "DISTINCT",
+    "ref": "rationale-review:n-booking|n-contact — two different questions worded as short search phrases that share the same two words: each asks for a different thing (the fee, the dates, the test centres, how to book, whom to call); recorded by actor:cc as an agent, on reading both",
+    "source": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)"
+    }
   }
 ]

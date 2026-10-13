@@ -11,6 +11,11 @@
   },
   {
     "page": "nursing",
+    "claimId": "n-contact-1",
+    "value": "111-236(AEO)-000"
+  },
+  {
+    "page": "nursing",
     "claimId": "n-scores-uk",
     "value": "grade B (350)"
   },
@@ -25,9 +30,14 @@
     "value": "12 days"
   },
   {
-    "page": "nursing",
-    "claimId": "n-reschedule-1",
-    "value": "AU$120"
+    "page": "speech-pathology",
+    "claimId": "s-score350-1",
+    "value": "grade B"
+  },
+  {
+    "page": "speech-pathology",
+    "claimId": "s-speaking-1",
+    "value": "about 20 minutes"
   },
   {
     "page": "speech-pathology",
@@ -48,15 +58,5 @@
     "page": "speech-pathology",
     "claimId": "s-fee-1",
     "value": "AU$587"
-  },
-  {
-    "page": "speech-pathology",
-    "claimId": "s-speaking-1",
-    "value": "about 20 minutes"
-  },
-  {
-    "page": "speech-pathology",
-    "claimId": "s-marking-1",
-    "value": "six criteria"
   }
 ]
