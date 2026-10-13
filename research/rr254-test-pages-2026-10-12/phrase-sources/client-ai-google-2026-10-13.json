@@ -1,0 +1,103 @@
+{
+  "source": "CLIENT_AI_GOOGLE",
+  "what": "What the client's own AI (actor:cc, in the owner's own Chrome on the owner's machine) saw on Google on 13 October 2026. The engine fetched nothing; this file is the hand-in. Every phrase is verbatim as the page showed it.",
+  "startedBy": { "who": "CLIENT", "record": "_handoffs AlmiVisibility_CC_COMMAND_2026-10-13_RR-259.md (point 4: \"owner GREEN, given by this command\") and AlmiVisibility_OWNER_DECISION_2026-10-13_RR-259_APPROVE_F11_ACCEPTANCE.md (point 3)" },
+  "notice": { "givenAt": "2026-10-13T04:21:00Z", "atPrecision": "MINUTE — the notice was the chat message sent before the first page was opened at 04:21:26", "text": "Notice (source (a), started by your command): I will now search Google in your Chrome for your 10 seed terms at a slow pace — at most 30 searches, at least 20 seconds between any two, and I stop at once and tell you on a captcha or an \"unusual traffic\" page." },
+  "policy": { "minPauseSeconds": 20, "dailyCap": 30 },
+  "place": "Iceland — the country Google's own page showed in its footer; the owner's machine is in Reykjavík",
+  "language": "en-IS — the language attribute of Google's own page",
+  "date": "2026-10-13",
+  "caveat": "seen from Iceland in the owner's own browser; Google personalises by place and person, so a searcher in another country may be shown other phrases",
+  "runs": [
+    {
+      "runId": "2026-10-13-run-1",
+      "note": "A TOOLING FAULT, recorded as it happened. The first seed was typed by a script whose timers the hidden tab throttled; it was still typing when the results were requested, so the results query was the unfinished word and the two searches overlapped. The method was corrected and a new run started.",
+      "searches": [
+        { "n": 1, "action": "AUTOCOMPLETE", "query": "oet pakistan", "at": "2026-10-13T04:22:10Z", "until": "2026-10-13T04:24:02.383Z" },
+        { "n": 2, "action": "RESULTS", "query": "oet pakist", "at": "2026-10-13T04:24:02.383Z" }
+      ],
+      "stopped": null,
+      "observations": [
+        { "search": 1, "kind": "AUTOCOMPLETE", "texts": ["oet pakistan", "oet pakistan dates", "oet pakistan fee", "oet pakistan contact number", "oet pakistan booking", "oet pakistan login", "oet pakistan reddit", "oet exam pakistan", "aeo oet pakistan", "oet cost pakistan"] },
+        { "search": 2, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet pakistan fees", "OET Pakistan dates", "Oet pakistan price", "OET login", "Oet pakistan for nurses", "Oet exam center in pakistan", "OET fees in rupees", "OET exam dates 2026 Pakistan"] }
+      ]
+    },
+    {
+      "runId": "2026-10-13-run-2",
+      "note": "Search 4's start was not stamped by the page; it is bounded: after two 10-second waits that followed the reading at 04:24:54.925, and before the page was read at 04:25:22.970.",
+      "searches": [
+        { "n": 3, "action": "AUTOCOMPLETE", "query": "oet fee", "at": "2026-10-13T04:24:51.891Z" },
+        { "n": 4, "action": "RESULTS", "query": "oet fee", "at": "2026-10-13T04:25:14.925Z", "until": "2026-10-13T04:25:22.970Z" },
+        { "n": 5, "action": "AUTOCOMPLETE", "query": "oet pakistan", "at": "2026-10-13T04:26:05.934Z" },
+        { "n": 6, "action": "RESULTS", "query": "oet pakistan", "at": "2026-10-13T04:26:29.070Z" }
+      ],
+      "stopped": null,
+      "observations": [
+        { "search": 3, "kind": "AUTOCOMPLETE", "texts": ["oet fee", "oet fees", "oet fee in pakistan", "oet fees in india", "oet fee in uk", "oet fee in pkr", "oet fees in kerala", "oet fees in usa", "oet fees in pakistani rupees", "oet fees in saudi arabia"] },
+        { "search": 4, "kind": "PEOPLE_ALSO_ASK", "texts": ["How much is the OET exam fee?", "Is OET cheaper than IELTS?", "What is the fee for the OET exam in 2026?", "Is OET easier than IELTS?"] },
+        { "search": 4, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet fee for nurses", "OET fees in rupees", "OET fee in USD", "OET exam fees for nurses", "OET exam fees for doctors", "OET exam preparation", "OET exam for nurses", "OET exam requirements"] },
+        { "search": 5, "kind": "AUTOCOMPLETE", "texts": ["oet pakistan", "oet pakistan dates", "oet pakistan fee", "oet pakistan contact number", "oet pakistan booking", "oet pakistan login", "oet pakistan reddit", "oet exam pakistan", "aeo oet pakistan", "oet cost pakistan"] },
+        { "search": 6, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet pakistan fees", "OET Pakistan dates", "Oet pakistan price", "OET login", "Oet pakistan for nurses", "Oet exam center in pakistan", "OET fees in rupees", "OET exam dates 2026 Pakistan"] }
+      ]
+    },
+    {
+      "runId": "2026-10-13-run-3",
+      "note": "A TOOLING FAULT, recorded as it happened. Four searches were sent in one long batch whose reply was lost: the times of searches 7 and 9 and what searches 7, 8 and 9 showed were never received. The record is incomplete, so nothing of this run may be stored. The two seeds were searched again in run 4.",
+      "searches": [
+        { "n": 7, "action": "AUTOCOMPLETE", "query": "oet nurses", "at": null },
+        { "n": 8, "action": "RESULTS", "query": "oet nurses", "at": "2026-10-13T04:27:41.770Z" },
+        { "n": 9, "action": "AUTOCOMPLETE", "query": "oet nurses pakistan", "at": null },
+        { "n": 10, "action": "RESULTS", "query": "oet nurses pakistan", "at": "2026-10-13T04:28:35.077Z" }
+      ],
+      "stopped": null,
+      "observations": [
+        { "search": 10, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet nurses pakistan fees", "Best oet nurses pakistan", "OET exam fees in pakistani rupees", "OET fees in rupees", "OET login", "OET exam in Pakistan", "OET full form", "Oet fee in pakistan 2026"] }
+      ]
+    },
+    {
+      "runId": "2026-10-13-run-4",
+      "note": "One seed per batch; every autocomplete stamped by the page's own clock at the input, every results page by its own navigation time.",
+      "searches": [
+        { "n": 11, "action": "AUTOCOMPLETE", "query": "oet nurses", "at": "2026-10-13T04:29:24.273Z" },
+        { "n": 12, "action": "RESULTS", "query": "oet nurses", "at": "2026-10-13T04:29:47.336Z" },
+        { "n": 13, "action": "AUTOCOMPLETE", "query": "oet nurses pakistan", "at": "2026-10-13T04:30:28.883Z" },
+        { "n": 14, "action": "RESULTS", "query": "oet nurses pakistan", "at": "2026-10-13T04:30:51.959Z" },
+        { "n": 15, "action": "AUTOCOMPLETE", "query": "oet exam center pakistan", "at": "2026-10-13T04:31:28.925Z" },
+        { "n": 16, "action": "RESULTS", "query": "oet exam center pakistan", "at": "2026-10-13T04:31:52.864Z" },
+        { "n": 17, "action": "AUTOCOMPLETE", "query": "oet speech pathology", "at": "2026-10-13T04:32:28.541Z" },
+        { "n": 18, "action": "RESULTS", "query": "oet speech pathology", "at": "2026-10-13T04:32:51.875Z" },
+        { "n": 19, "action": "AUTOCOMPLETE", "query": "oet speaking test", "at": "2026-10-13T04:33:28.700Z" },
+        { "n": 20, "action": "RESULTS", "query": "oet speaking test", "at": "2026-10-13T04:33:52.065Z" },
+        { "n": 21, "action": "AUTOCOMPLETE", "query": "oet writing samples", "at": "2026-10-13T04:34:30.707Z" },
+        { "n": 22, "action": "RESULTS", "query": "oet writing samples", "at": "2026-10-13T04:34:54.088Z" },
+        { "n": 23, "action": "AUTOCOMPLETE", "query": "oet vs ielts", "at": "2026-10-13T04:35:29.552Z" },
+        { "n": 24, "action": "RESULTS", "query": "oet vs ielts", "at": "2026-10-13T04:35:52.983Z" },
+        { "n": 25, "action": "AUTOCOMPLETE", "query": "oet score nmc", "at": "2026-10-13T04:36:28.099Z" },
+        { "n": 26, "action": "RESULTS", "query": "oet score nmc", "at": "2026-10-13T04:36:51.530Z" }
+      ],
+      "stopped": null,
+      "observations": [
+        { "search": 11, "kind": "AUTOCOMPLETE", "texts": ["oet nurses", "oet nurses pakistan", "oet nurses exam fees in india", "oet nurses speaking sample", "oet nurses writing samples", "oet nurses reading sample pdf", "oet nurses speaking cards", "oet nurses writing samples pdf", "oet nurses reading sample", "oet nurses score"] },
+        { "search": 12, "kind": "PEOPLE_ALSO_ASK", "texts": ["What is the OET exam for nurses?", "How much is OET for nurses?", "Is the OET exam difficult?", "Which is better for nurses, IELTS or OET?"] },
+        { "search": 12, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["OET sample test for nurses PDF", "OET login", "OET for nurses sample tests", "OET results login for nurses", "OET materials for nurses", "OET mock test for nurses online free", "OET exam", "OET Nursing book"] },
+        { "search": 13, "kind": "AUTOCOMPLETE", "texts": ["oet nurses pakistan", "oet for nurses", "oet speaking for nurses", "oet requirements for nurses in uk", "oet books for nurses"] },
+        { "search": 14, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet nurses pakistan fees", "Best oet nurses pakistan", "OET exam fees in pakistani rupees", "OET fees in rupees", "OET login", "OET exam in Pakistan", "OET full form", "Oet fee in pakistan 2026"] },
+        { "search": 15, "kind": "AUTOCOMPLETE", "texts": ["oet exam centre in pakistan", "oet centers in pakistan", "oet exam", "oet exam centers in qatar", "oet test centres in uk"] },
+        { "search": 16, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet exam center pakistan lahore", "OET login", "Oet exam center pakistan near me", "OET Pakistan dates", "OET exam dates 2026", "OET exam dates 2026 Pakistan", "OET exam in Pakistan", "OET exam fee in Pakistan"] },
+        { "search": 17, "kind": "AUTOCOMPLETE", "texts": ["oet speech pathology", "oet criteria for speaking", "what is the fees for oet", "oet speaking sentence examples", "oet test example", "oet speaking test", "speech pathology", "oet speech therapist"] },
+        { "search": 18, "kind": "PEOPLE_ALSO_ASK", "texts": ["Is the OET exam difficult?", "How to pass OET in first attempt?", "What does a 350 OET score indicate?", "Is it easy to get 400 in OET?"] },
+        { "search": 18, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet speech pathology test", "Oet speech pathology pdf", "OET Online practice test for nurses", "Oet speaking test mock", "OET online writing Correction", "OET preparation online", "OET online login", "OET net"] },
+        { "search": 19, "kind": "AUTOCOMPLETE", "texts": ["oet speaking test", "oet speaking test sample pdf medicine", "oet speaking test sample pdf", "oet speaking test sample", "oet speaking test questions", "oet speaking test at home", "oet speaking test format", "oet speaking test criteria", "oet speaking test medicine", "oet speaking test time"] },
+        { "search": 20, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet speaking test reddit", "Oet speaking test sample", "Oet speaking test free", "OET Speaking Test Sample pdf", "Oet speaking test for nurses", "OET Speaking Test sample pdf Medicine", "Role play OET Speaking Samples for nurses pdf", "OET Speaking sample QUESTIONS WITH ANSWERS"] },
+        { "search": 21, "kind": "AUTOCOMPLETE", "texts": ["oet writing samples for nurses with answers pdf", "oet writing samples for doctors pdf with answers", "oet writing samples for nurses with answers pdf free", "oet writing samples", "oet writing samples for nurses pdf", "oet writing samples for nurses with answers", "oet writing samples for doctors pdf", "oet writing samples pdf", "oet writing samples for nurses", "oet writing samples for doctors"] },
+        { "search": 22, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet writing samples pdf", "Oet writing samples for nurses", "OET Writing Samples for Nurses PDF", "OET Writing samples for doctors pdf with answers", "Oet writing samples pdf 2022", "OET Writing samples for nurses with answers PDF", "OET Writing Sample answers PDF", "Oet writing samples for nurses pdf 2026"] },
+        { "search": 23, "kind": "AUTOCOMPLETE", "texts": ["oet vs ielts", "oet vs ielts which is easier", "oet vs ielts price", "oet vs ielts for nurses", "oet vs ielts academic", "oet vs ielts reddit", "oet vs ielts score", "oet vs ielts for doctors", "oet vs ielts vs toefl", "oet vs ielts fees"] },
+        { "search": 24, "kind": "PEOPLE_ALSO_ASK", "texts": ["Is OET better than IELTS?", "Is OET difficult to pass?", "Which is more expensive, OET or IELTS?", "What is 7.5 IELTS equivalent to?"] },
+        { "search": 24, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet vs ielts reddit", "OET vs IELTS which is easier", "Oet vs ielts for nurses", "Oet vs ielts which is better for", "OET vs IELTS fees", "OET vs IELTS score", "OET vs IELTS difficulty", "Oet vs ielts vs ielt"] },
+        { "search": 25, "kind": "AUTOCOMPLETE", "texts": ["oet score for nmc registration", "oet score for nmc uk", "oet score for nmc", "combining oet scores nmc", "nmc oet score requirements", "nmc oet score for nurses", "what is the passing score for oet", "nmc oet score calculator"] },
+        { "search": 26, "kind": "PEOPLE_ALSO_ASK", "texts": ["What is the required OET score for nurses?", "What is the score for OET?", "What does a 350 OET score indicate?", "What grade is 300 in OET?"] },
+        { "search": 26, "kind": "PEOPLE_ALSO_SEARCH_FOR", "texts": ["Oet score nmc for nurses", "OET score out of 42", "Oet score nmc 2022", "Nmc OET clubbing calculator", "OET score calculator", "OET score chart", "OET clubbing score", "NMC OET login"] }
+      ]
+    }
+  ]
+}
