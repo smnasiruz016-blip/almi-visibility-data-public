@@ -1,5 +1,5 @@
 {
-  "note": "The ten needs shown to the owner (F12 C7), each with 3 to 5 of its own wordings.",
+  "note": "The ten needs shown to the owner (F12 C7), each with 3 to 5 of its own wordings. Item 8 is the corrected general-practice need (the owner's NO of 13 October 2026 to the item as first shown is stored with its correction); the needs split from it are shown to him beside it.",
   "items": [
     {
       "need": "fee",
@@ -68,11 +68,11 @@
     {
       "need": "practice-materials",
       "wordings": [
-        "oet nurses writing samples",
         "OET mock test for nurses online free",
-        "oet writing samples for doctors pdf",
-        "Oet speech pathology pdf",
-        "oet books for nurses"
+        "oet books for nurses",
+        "oet nurses reading sample pdf",
+        "OET sample test for nurses PDF",
+        "oet writing samples"
       ]
     },
     {

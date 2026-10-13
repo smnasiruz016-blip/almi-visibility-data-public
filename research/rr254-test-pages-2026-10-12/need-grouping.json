@@ -1,5 +1,5 @@
 {
-  "note": "F12 (RR-260): every stored phrase and recorded question of this batch placed by MEANING. The grouping is the research agent's judgement (INFERRED), wording by wording; one wording is named per cleaned form and the others join by the declared clean-up. The owner's answers of 13 October 2026 are applied: 'this test or another test' is a recorded need; the login wordings are navigational.",
+  "note": "F12 (RR-260): every stored phrase and recorded question of this batch placed by MEANING. The grouping is the research agent's judgement (INFERRED), wording by wording; one wording is named per cleaned form and the others join by the declared clean-up. The owner's answers of 13 October 2026 are applied: 'this test or another test' is a recorded need; the login wordings are navigational. The owner's two corrections to the ten-item sample (13 October 2026) are applied: a wording that says only 'rupees' is not in the Pakistan part of the fee need; the practice-materials need is split into general practice and one Writing-and-Speaking-samples need per named profession.",
   "cleanUp": [
     "case",
     "spaces",
@@ -65,7 +65,6 @@
             "oet fee in pakistan",
             "oet fee in pkr",
             "oet fees in pakistani rupees",
-            "OET fees in rupees",
             "oet pakistan fee",
             "oet cost pakistan",
             "Oet pakistan fees",
@@ -406,19 +405,15 @@
     },
     {
       "need": "practice-materials",
-      "title": "Where do I find OET practice materials and samples?",
-      "reason": "Every wording looks for something to practise with: sample tests, sample answers, role-play cards, books, mock tests, PDFs. The profession named in a wording is kept inside this one need: no verified fact in this batch shows the answer differs by profession.",
+      "title": "Where do I find general OET practice materials?",
+      "reason": "Every wording looks for general practice: books, mock tests, whole sample tests, Listening and Reading samples, and Writing or Speaking samples that name no profession. By the owner's correction of 13 October 2026 the Writing and Speaking samples that name a profession are no longer here: each profession's are a need of their own.",
       "decidedBy": {
         "kind": "AI",
         "name": "research agent (actor:cc)",
         "on": "2026-10-13"
       },
       "wordings": [
-        "oet nurses speaking sample",
-        "oet nurses writing samples",
         "oet nurses reading sample pdf",
-        "oet nurses speaking cards",
-        "oet nurses writing samples pdf",
         "oet nurses reading sample",
         "OET sample test for nurses PDF",
         "OET for nurses sample tests",
@@ -428,33 +423,97 @@
         "oet books for nurses",
         "oet speaking sentence examples",
         "oet test example",
-        "Oet speech pathology pdf",
         "OET Online practice test for nurses",
         "Oet speaking test mock",
-        "oet speaking test sample pdf medicine",
         "oet speaking test sample pdf",
         "oet speaking test sample",
         "oet speaking test questions",
         "Oet speaking test free",
-        "Role play OET Speaking Samples for nurses pdf",
         "OET Speaking sample QUESTIONS WITH ANSWERS",
-        "oet writing samples for nurses with answers pdf",
-        "oet writing samples for doctors pdf with answers",
-        "oet writing samples for nurses with answers pdf free",
         "oet writing samples",
-        "oet writing samples for nurses pdf",
-        "oet writing samples for nurses with answers",
-        "oet writing samples for doctors pdf",
         "oet writing samples pdf",
-        "oet writing samples for nurses",
-        "oet writing samples for doctors",
         "Oet writing samples pdf 2022",
         "OET Writing Sample answers PDF",
-        "Oet writing samples for nurses pdf 2026",
         "oet speaking examples",
-        "What preparation support does OET provide to candidates?",
-        "Where can I find OET speech pathology practice materials?"
+        "What preparation support does OET provide to candidates?"
       ]
+    },
+    {
+      "need": "practice-writing-speaking-nursing",
+      "title": "Where do I find OET Writing and Speaking samples for nurses?",
+      "reason": "Every wording looks for a Writing sample letter or a Speaking role-play sample made for nurses. By the owner's correction of 13 October 2026 (his answer to sample item 8) this is a need of its own, apart from general practice: the test provider itself states that Writing and Speaking are specific to the profession. The owner adds that the provider publishes separate sample tests per profession; that sentence is his, it is not a stored finding of this batch.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet nurses speaking sample",
+        "oet nurses writing samples",
+        "oet nurses speaking cards",
+        "oet nurses writing samples pdf",
+        "Role play OET Speaking Samples for nurses pdf",
+        "oet writing samples for nurses with answers pdf",
+        "oet writing samples for nurses with answers pdf free",
+        "oet writing samples for nurses pdf",
+        "oet writing samples for nurses with answers",
+        "oet writing samples for nurses",
+        "Oet writing samples for nurses pdf 2026"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-medicine",
+      "title": "Where do I find OET Writing and Speaking samples for doctors?",
+      "reason": "Every wording looks for a Writing sample letter or a Speaking sample made for doctors (medicine). By the owner's correction of 13 October 2026 (his answer to sample item 8) this is a need of its own, apart from general practice: the test provider itself states that Writing and Speaking are specific to the profession. The owner adds that the provider publishes separate sample tests per profession; that sentence is his, it is not a stored finding of this batch.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet speaking test sample pdf medicine",
+        "oet writing samples for doctors pdf with answers",
+        "oet writing samples for doctors pdf",
+        "oet writing samples for doctors"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-speech-pathology",
+      "title": "Where do I find OET practice samples for speech pathologists?",
+      "reason": "Both wordings look for practice material made for speech pathologists. Neither names Writing or Speaking: the research agent placed them here because the only practice material that is specific to a profession is its Writing and Speaking material. By the owner's correction of 13 October 2026 (his answer to sample item 8) this is a need of its own, apart from general practice: the test provider itself states that Writing and Speaking are specific to the profession. The owner adds that the provider publishes separate sample tests per profession; that sentence is his, it is not a stored finding of this batch.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Oet speech pathology pdf",
+        "Where can I find OET speech pathology practice materials?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
     },
     {
       "need": "preparation-plan",
