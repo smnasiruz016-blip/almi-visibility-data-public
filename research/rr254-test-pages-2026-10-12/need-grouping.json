@@ -1,0 +1,690 @@
+{
+  "note": "F12 (RR-260): every stored phrase and recorded question of this batch placed by MEANING. The grouping is the research agent's judgement (INFERRED), wording by wording; one wording is named per cleaned form and the others join by the declared clean-up. The owner's answers of 13 October 2026 are applied: 'this test or another test' is a recorded need; the login wordings are navigational.",
+  "cleanUp": [
+    "case",
+    "spaces",
+    "end-punctuation"
+  ],
+  "needs": [
+    {
+      "need": "fee",
+      "title": "What does the OET cost?",
+      "reason": "Every wording asks the price of sitting the OET, whoever asks and in whatever currency or language.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet fee",
+        "oet fees",
+        "oet fee in pakistan",
+        "oet fees in india",
+        "oet fee in uk",
+        "oet fee in pkr",
+        "oet fees in kerala",
+        "oet fees in usa",
+        "oet fees in pakistani rupees",
+        "oet fees in saudi arabia",
+        "How much is the OET exam fee?",
+        "What is the fee for the OET exam in 2026?",
+        "Oet fee for nurses",
+        "OET fees in rupees",
+        "OET fee in USD",
+        "OET exam fees for nurses",
+        "OET exam fees for doctors",
+        "oet pakistan fee",
+        "oet cost pakistan",
+        "Oet pakistan fees",
+        "Oet pakistan price",
+        "oet nurses exam fees in india",
+        "How much is OET for nurses?",
+        "Oet nurses pakistan fees",
+        "OET exam fees in pakistani rupees",
+        "Oet fee in pakistan 2026",
+        "OET exam fee in Pakistan",
+        "what is the fees for oet",
+        "oet fees in pkr",
+        "oet fee in philippines",
+        "oet fees in canada",
+        "oet fees nz",
+        "How much does an OET exam cost?",
+        "OET exam fees in UK",
+        "How much does the OET Test cost?",
+        "OET ki fee Pakistan mein kitni hai? (aik lakh se upar PKR, fail ho gaye to kitna nuqsaan?)",
+        "How much does the OET cost?"
+      ],
+      "countryParts": [
+        {
+          "country": "Pakistan",
+          "fact": {
+            "statement": "the listed fee is in Australian dollars; in rupees it is that fee converted at the State Bank of Pakistan rate of the day",
+            "reference": "exchange-rate-facts.json#sbp-usd-pkr-2026-10-12"
+          },
+          "wordings": [
+            "oet fee in pakistan",
+            "oet fee in pkr",
+            "oet fees in pakistani rupees",
+            "OET fees in rupees",
+            "oet pakistan fee",
+            "oet cost pakistan",
+            "Oet pakistan fees",
+            "Oet pakistan price",
+            "Oet nurses pakistan fees",
+            "OET exam fees in pakistani rupees",
+            "Oet fee in pakistan 2026",
+            "OET exam fee in Pakistan",
+            "oet fees in pkr",
+            "OET ki fee Pakistan mein kitni hai? (aik lakh se upar PKR, fail ho gaye to kitna nuqsaan?)"
+          ]
+        }
+      ]
+    },
+    {
+      "need": "cheaper-than-ielts",
+      "title": "Is the OET cheaper than IELTS?",
+      "reason": "Every wording compares the price of the OET with the price of IELTS.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Is OET cheaper than IELTS?",
+        "oet vs ielts price",
+        "oet vs ielts fees",
+        "Which is more expensive, OET or IELTS?"
+      ]
+    },
+    {
+      "need": "which-test",
+      "title": "OET or another English test: which should I take?",
+      "reason": "Every wording weighs the OET against another English test (IELTS, TOEFL) as a choice, without asking about price or difficulty alone. The owner recorded this need (RR-260, answer 0 a); the research agent added the wordings that ask which test to take or which is better.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Which is better for nurses, IELTS or OET?",
+        "oet vs ielts",
+        "oet vs ielts for nurses",
+        "oet vs ielts academic",
+        "oet vs ielts reddit",
+        "oet vs ielts for doctors",
+        "oet vs ielts vs toefl",
+        "Is OET better than IELTS?",
+        "Oet vs ielts which is better for",
+        "Oet vs ielts vs ielt",
+        "Which English test should a nurse take?",
+        "IELTS or OET for Nurses - Which Should You Take?"
+      ]
+    },
+    {
+      "need": "difficulty",
+      "title": "How hard is the OET?",
+      "reason": "Every wording asks how hard the OET is to pass — on its own, or against IELTS.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Is OET easier than IELTS?",
+        "Is the OET exam difficult?",
+        "Is it easy to get 400 in OET?",
+        "oet vs ielts which is easier",
+        "Is OET difficult to pass?",
+        "OET vs IELTS difficulty",
+        "OET IELTS se mushkil hai ya aasan? (medical terms ki wajah se phans jaen ge?)"
+      ]
+    },
+    {
+      "need": "score-equivalence",
+      "title": "How do OET scores compare with IELTS scores?",
+      "reason": "Every wording asks what an OET result equals on another test's scale.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet vs ielts score",
+        "What is 7.5 IELTS equivalent to?",
+        "How do OET results compare to IELTS and CEFR scores?"
+      ]
+    },
+    {
+      "need": "score-meaning",
+      "title": "What does an OET score mean?",
+      "reason": "Every wording asks how the OET is scored: what a number or grade means, the pass mark, the score chart.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "What does a 350 OET score indicate?",
+        "what is the passing score for oet",
+        "What is the score for OET?",
+        "What grade is 300 in OET?",
+        "OET score out of 42",
+        "OET score calculator",
+        "OET score chart"
+      ]
+    },
+    {
+      "need": "score-required-nursing",
+      "title": "Who accepts the OET for nurses, and what result do they ask for?",
+      "reason": "Every wording asks what OET result a nurse needs for registration, or who accepts it — including combining results from two sittings.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet nurses score",
+        "oet requirements for nurses in uk",
+        "oet score for nmc registration",
+        "oet score for nmc uk",
+        "oet score for nmc",
+        "combining oet scores nmc",
+        "nmc oet score requirements",
+        "nmc oet score for nurses",
+        "nmc oet score calculator",
+        "What is the required OET score for nurses?",
+        "Oet score nmc for nurses",
+        "Oet score nmc 2022",
+        "Nmc OET clubbing calculator",
+        "OET clubbing score",
+        "Who uses the OET Test as proof of English proficiency?",
+        "UK NMC ke liye OET mein kitna score chahiye?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the UK nursing regulator asks for grade B (350)",
+            "reference": "key-facts.json#n-scores-uk"
+          },
+          "wordings": [
+            "oet requirements for nurses in uk",
+            "oet score for nmc registration",
+            "oet score for nmc uk",
+            "oet score for nmc",
+            "combining oet scores nmc",
+            "nmc oet score requirements",
+            "nmc oet score for nurses",
+            "nmc oet score calculator",
+            "Oet score nmc for nurses",
+            "Oet score nmc 2022",
+            "Nmc OET clubbing calculator",
+            "UK NMC ke liye OET mein kitna score chahiye?"
+          ]
+        }
+      ]
+    },
+    {
+      "need": "score-required-speech-pathology",
+      "title": "Who accepts the OET for speech pathologists, and what result do they ask for?",
+      "reason": "Every wording asks what OET result a speech pathologist needs for registration in a country, or whether it is accepted there. One need: each country is a part inside it.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Why choose the OET Test for HCPC registration?",
+        "What OET score do I need as a speech pathologist for Australia?",
+        "What OET score do speech and language therapists need for CORU in Ireland?",
+        "Is OET accepted for speech-language therapists in New Zealand?"
+      ],
+      "countryParts": [
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australian body asks for results in the 450 to 500 band",
+            "reference": "key-facts.json#s-au-1"
+          },
+          "wordings": [
+            "What OET score do I need as a speech pathologist for Australia?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Irish regulator asks for grade B (400)",
+            "reference": "key-facts.json#s-ie-1"
+          },
+          "wordings": [
+            "What OET score do speech and language therapists need for CORU in Ireland?"
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the UK regulator's own stated requirement",
+            "reference": "key-facts.json#s-uk-1"
+          },
+          "wordings": [
+            "Why choose the OET Test for HCPC registration?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result asked of a nurse by the UK nursing regulator (grade B, 350) is not the result asked of a speech pathologist (grade B, 400, in Ireland; the 450 to 500 band in Australia): another regulator, another answer",
+          "reference": "key-facts.json#n-scores-uk · key-facts.json#s-ie-1 · key-facts.json#s-au-1"
+        }
+      }
+    },
+    {
+      "need": "centres",
+      "title": "Where can I sit the OET?",
+      "reason": "Every wording asks where the test centres or venues are.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Oet exam center in pakistan",
+        "oet exam centre in pakistan",
+        "oet centers in pakistan",
+        "oet exam centers in qatar",
+        "oet test centres in uk",
+        "Oet exam center pakistan lahore",
+        "Oet exam center pakistan near me",
+        "When and where is the OET Test available?",
+        "Where is the test venue?",
+        "Pakistan mein OET ke test centers kahan hain? (Islamabad, Lahore, Karachi ke ilawa bhi?)"
+      ],
+      "countryParts": [
+        {
+          "country": "Pakistan",
+          "fact": {
+            "statement": "the test venues listed for Pakistan are in Islamabad, Karachi and Lahore",
+            "reference": "key-facts.json#n-centres-1"
+          },
+          "wordings": [
+            "Oet exam center in pakistan",
+            "oet exam centre in pakistan",
+            "oet centers in pakistan",
+            "Oet exam center pakistan lahore",
+            "Oet exam center pakistan near me",
+            "Pakistan mein OET ke test centers kahan hain? (Islamabad, Lahore, Karachi ke ilawa bhi?)"
+          ]
+        }
+      ]
+    },
+    {
+      "need": "dates",
+      "title": "When is the OET held?",
+      "reason": "Every wording asks on which dates, or how often, the test is held.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet pakistan dates",
+        "OET exam dates 2026 Pakistan",
+        "OET exam dates 2026",
+        "How often is the OET for Speech Pathology held?"
+      ]
+    },
+    {
+      "need": "booking",
+      "title": "How do I book the OET?",
+      "reason": "Every wording asks how to book a test.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet pakistan booking",
+        "OET ka test kaise book karte hain?",
+        "How do I book the OET for Speech Pathology?"
+      ]
+    },
+    {
+      "need": "contact",
+      "title": "How do I contact the OET?",
+      "reason": "Every wording asks for a way to reach the test provider or its local office.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet pakistan contact number",
+        "how do i contact oet"
+      ],
+      "countryParts": [
+        {
+          "country": "Pakistan",
+          "fact": {
+            "statement": "the contact number listed for Pakistan",
+            "reference": "key-facts.json#n-contact-1"
+          },
+          "wordings": [
+            "oet pakistan contact number"
+          ]
+        }
+      ]
+    },
+    {
+      "need": "format",
+      "title": "What is the OET, and what is in the test?",
+      "reason": "Every wording asks what the OET is or what the test contains.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "What is the OET exam for nurses?",
+        "OET full form",
+        "What's in the OET test?"
+      ]
+    },
+    {
+      "need": "why-profession-specific",
+      "title": "Why are some OET sub-tests specific to a profession?",
+      "reason": "One recorded question, asking why parts of the test differ by profession; no other wording asks this.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Why are some of the OET sub-tests profession specific?"
+      ]
+    },
+    {
+      "need": "practice-materials",
+      "title": "Where do I find OET practice materials and samples?",
+      "reason": "Every wording looks for something to practise with: sample tests, sample answers, role-play cards, books, mock tests, PDFs. The profession named in a wording is kept inside this one need: no verified fact in this batch shows the answer differs by profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet nurses speaking sample",
+        "oet nurses writing samples",
+        "oet nurses reading sample pdf",
+        "oet nurses speaking cards",
+        "oet nurses writing samples pdf",
+        "oet nurses reading sample",
+        "OET sample test for nurses PDF",
+        "OET for nurses sample tests",
+        "OET materials for nurses",
+        "OET mock test for nurses online free",
+        "OET Nursing book",
+        "oet books for nurses",
+        "oet speaking sentence examples",
+        "oet test example",
+        "Oet speech pathology pdf",
+        "OET Online practice test for nurses",
+        "Oet speaking test mock",
+        "oet speaking test sample pdf medicine",
+        "oet speaking test sample pdf",
+        "oet speaking test sample",
+        "oet speaking test questions",
+        "Oet speaking test free",
+        "Role play OET Speaking Samples for nurses pdf",
+        "OET Speaking sample QUESTIONS WITH ANSWERS",
+        "oet writing samples for nurses with answers pdf",
+        "oet writing samples for doctors pdf with answers",
+        "oet writing samples for nurses with answers pdf free",
+        "oet writing samples",
+        "oet writing samples for nurses pdf",
+        "oet writing samples for nurses with answers",
+        "oet writing samples for doctors pdf",
+        "oet writing samples pdf",
+        "oet writing samples for nurses",
+        "oet writing samples for doctors",
+        "Oet writing samples pdf 2022",
+        "OET Writing Sample answers PDF",
+        "Oet writing samples for nurses pdf 2026",
+        "oet speaking examples",
+        "What preparation support does OET provide to candidates?",
+        "Where can I find OET speech pathology practice materials?"
+      ]
+    },
+    {
+      "need": "preparation-plan",
+      "title": "How do I prepare for the OET, and how long does it take?",
+      "reason": "Every wording asks how to prepare or how much time preparation needs, not for a particular sample.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "OET exam preparation",
+        "How to pass OET in first attempt?",
+        "OET preparation online",
+        "How much time do you need to prepare for OET?"
+      ]
+    },
+    {
+      "need": "writing-correction",
+      "title": "Can someone correct my OET writing online?",
+      "reason": "Both wordings look for an online service that corrects a written letter.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "OET online writing Correction"
+      ]
+    },
+    {
+      "need": "speaking",
+      "title": "How does the OET Speaking sub-test work?",
+      "reason": "Every wording asks how the Speaking sub-test runs: its format, its length, its rules and how it is assessed.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet speaking for nurses",
+        "oet criteria for speaking",
+        "oet speaking test",
+        "oet speaking test format",
+        "oet speaking test criteria",
+        "oet speaking test time",
+        "Oet speaking test for nurses",
+        "oet speaking rules",
+        "How long is OET speaking?",
+        "How is the Speaking sub-test assessed?"
+      ]
+    },
+    {
+      "need": "writing",
+      "title": "How does the OET Writing sub-test work?",
+      "reason": "Every wording asks how the Writing letter is written or how it is marked.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "How is the Writing sub-test marked?",
+        "Writing task aur referral letter kaisay likhtay hain? (case notes se letter, practice kahan karain?)",
+        "Do you have to use a template for your OET Writing letter?"
+      ]
+    },
+    {
+      "need": "results-time",
+      "title": "How long do OET results take?",
+      "reason": "The same question in English and in Roman Urdu: how many days until the result.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "OET ka result kitne din mein aata hai?",
+        "How long do OET results take?"
+      ]
+    },
+    {
+      "need": "validity",
+      "title": "How long is an OET result valid?",
+      "reason": "The same question in English and in Roman Urdu: for how long a result stays valid.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "For how long are OET Test results valid?",
+        "OET ka result kitne saal tak valid rehta hai?"
+      ]
+    },
+    {
+      "need": "id",
+      "title": "What ID do I need on test day?",
+      "reason": "Both wordings ask which identity document is accepted on test day.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Test day par passport zaroori hai ya CNIC chal jaye ga?",
+        "What ID do I need on OET test day?"
+      ]
+    },
+    {
+      "need": "reschedule",
+      "title": "Can I move my OET test to another date?",
+      "reason": "One recorded question, asking whether a test can be deferred and what that costs.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Can I defer/reschedule my OET Test to a different date? How much does it cost?"
+      ]
+    },
+    {
+      "need": "retake",
+      "title": "Can I retake only one sub-test?",
+      "reason": "One recorded question, asking whether a single sub-test can be taken again.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "Agar aik sub-test mein score kam aaye to kya sirf wohi dobara de sakti hoon?"
+      ]
+    },
+    {
+      "need": "at-home",
+      "title": "Can I take the OET at home?",
+      "reason": "Both wordings ask about sitting the test, or its Speaking part, from home.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-13"
+      },
+      "wordings": [
+        "oet speaking test at home",
+        "Kya Pakistan se OET ghar baith kar (OET@Home) de sakte hain?"
+      ]
+    }
+  ],
+  "navigational": [
+    {
+      "wording": "oet pakistan login",
+      "reason": "The searcher wants the test provider's own site (a login or an account page), not an answer. The owner: not a need.",
+      "decidedBy": {
+        "kind": "OWNER",
+        "name": "the owner (RR-260, answer 0 b)",
+        "on": "2026-10-13"
+      }
+    },
+    {
+      "wording": "OET login",
+      "reason": "The searcher wants the test provider's own site (a login or an account page), not an answer. The owner: not a need.",
+      "decidedBy": {
+        "kind": "OWNER",
+        "name": "the owner (RR-260, answer 0 b)",
+        "on": "2026-10-13"
+      }
+    },
+    {
+      "wording": "OET results login for nurses",
+      "reason": "The searcher wants the test provider's own site (a login or an account page), not an answer. The owner: not a need.",
+      "decidedBy": {
+        "kind": "OWNER",
+        "name": "the owner (RR-260, answer 0 b)",
+        "on": "2026-10-13"
+      }
+    },
+    {
+      "wording": "OET online login",
+      "reason": "The searcher wants the test provider's own site (a login or an account page), not an answer. The owner: not a need.",
+      "decidedBy": {
+        "kind": "OWNER",
+        "name": "the owner (RR-260, answer 0 b)",
+        "on": "2026-10-13"
+      }
+    },
+    {
+      "wording": "OET net",
+      "reason": "The searcher wants the test provider's own site (a login or an account page), not an answer. The owner: not a need.",
+      "decidedBy": {
+        "kind": "OWNER",
+        "name": "the owner (RR-260, answer 0 b)",
+        "on": "2026-10-13"
+      }
+    },
+    {
+      "wording": "NMC OET login",
+      "reason": "The searcher wants the test provider's own site (a login or an account page), not an answer. The owner: not a need.",
+      "decidedBy": {
+        "kind": "OWNER",
+        "name": "the owner (RR-260, answer 0 b)",
+        "on": "2026-10-13"
+      }
+    }
+  ],
+  "noNeedYet": [
+    "OET exam for nurses",
+    "OET exam requirements",
+    "oet pakistan",
+    "oet pakistan reddit",
+    "oet exam pakistan",
+    "aeo oet pakistan",
+    "Oet pakistan for nurses",
+    "oet nurses",
+    "oet nurses pakistan",
+    "OET exam",
+    "oet for nurses",
+    "Best oet nurses pakistan",
+    "OET exam in Pakistan",
+    "oet speech pathology",
+    "speech pathology",
+    "oet speech therapist",
+    "Oet speech pathology test",
+    "oet speaking test medicine",
+    "Oet speaking test reddit",
+    "nursing and clinical in chelsea",
+    "oet nurses exam",
+    "oet speech",
+    "oet for speech therapist",
+    "oet test"
+  ]
+}
