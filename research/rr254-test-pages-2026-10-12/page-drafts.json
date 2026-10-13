@@ -45,6 +45,92 @@
           }
         },
         {
+          "key": "n-cheaper",
+          "questions": [
+            "f7e1d76b8837f4b18f059377c0e678fc"
+          ],
+          "answer": {
+            "claims": [
+              {
+                "claimId": "n-cheaper-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "No. On the listed prices OET costs more than IELTS in Pakistan: OET lists its full four-part test at AU$587.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET help centre — How much does the OET Test cost?",
+                  "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-cheaper-1"
+                }
+              },
+              {
+                "claimId": "n-cheaper-2",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "British Council (IELTS)",
+                "text": "British Council Pakistan's price list (its file is named as effective from 2 July 2026) puts the IELTS test registration fee at PKR 75,600 to PKR 76,240 depending on the city (PKR 76,240 in Lahore and the cities grouped with it, PKR 75,600 in the others), for the paper and the computer test alike. IELTS for UKVI on computer is PKR 78,820.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "British Council (IELTS)",
+                  "name": "British Council Pakistan — IELTS price list (effective 2 July 2026)",
+                  "link": "https://www.britishcouncil.pk/sites/default/files/pricing_document_effective_2nd_july_2026.pdf",
+                  "readOn": "2026-10-13"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-cheaper-2"
+                }
+              },
+              {
+                "claimId": "n-cheaper-3",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "A retake can cost less than a full test: after a first full OET test, one, two or three sub-tests can be booked again on the paper test, for AU$315, AU$415 and AU$515.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET help centre — How much does the OET Test cost?",
+                  "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-cheaper-3"
+                }
+              },
+              {
+                "claimId": "n-cheaper-4",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "British Council (IELTS)",
+                "text": "IELTS has a comparable option in Pakistan: British Council Pakistan offers IELTS One Skill Retake, a retake of one of the four skills, for IELTS and IELTS for UKVI taken on computer. Its price is not on the price list read.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "British Council (IELTS)",
+                  "name": "British Council Pakistan — IELTS One Skill Retake",
+                  "link": "https://www.britishcouncil.pk/exam/ielts/one-skill-retake",
+                  "readOn": "2026-10-13"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-cheaper-4"
+                }
+              }
+            ]
+          },
+          "sameness": {
+            "judgementRef": "sameness:n-cheaper",
+            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          }
+        },
+        {
           "key": "n-dates",
           "questions": [
             "f07b49fa421becea2fada04de304e737"
@@ -680,19 +766,6 @@
           },
           "sameness": {
             "judgementRef": "sameness:n-id",
-            "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
-          }
-        },
-        {
-          "key": "n-cheaper",
-          "questions": [
-            "f7e1d76b8837f4b18f059377c0e678fc"
-          ],
-          "answer": {
-            "claims": []
-          },
-          "sameness": {
-            "judgementRef": "sameness:n-cheaper",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           }
         },

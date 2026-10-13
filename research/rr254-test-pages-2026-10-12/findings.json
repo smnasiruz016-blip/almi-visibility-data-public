@@ -576,6 +576,70 @@
     "whatSupportsIt": "the venue operator's page shows both numbers under its assistance heading"
   },
   {
+    "findingId": "finding:n-cheaper-1",
+    "claimId": "n-cheaper-1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test; the comparison is with the price list named in the next statement"
+  },
+  {
+    "findingId": "finding:n-cheaper-2",
+    "claimId": "n-cheaper-2",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "British Council Pakistan — IELTS price list (effective 2 July 2026)",
+      "link": "https://www.britishcouncil.pk/sites/default/files/pricing_document_effective_2nd_july_2026.pdf",
+      "readOn": "2026-10-13"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "Chrome (the PDF opened on the publisher's own site and its text read)"
+    },
+    "whatSupportsIt": "rows 1 to 3 of the price list: IELTS (P&P) and IELTS (CD) test registration fee 76,240 in the first city group and 75,600 in the other four; IELTS UKVI CD 78,820 in all five"
+  },
+  {
+    "findingId": "finding:n-cheaper-3",
+    "claimId": "n-cheaper-3",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the 1, 2 and 3 sub-test prices for OET on Paper"
+  },
+  {
+    "findingId": "finding:n-cheaper-4",
+    "claimId": "n-cheaper-4",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "British Council Pakistan — IELTS One Skill Retake",
+      "link": "https://www.britishcouncil.pk/exam/ielts/one-skill-retake",
+      "readOn": "2026-10-13"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "Chrome"
+    },
+    "whatSupportsIt": "the page says One Skill Retake lets a candidate retake any one of the four skills and is available for IELTS Academic and General Training on computer and IELTS for UKVI on computer; the price list read has no row for it"
+  },
+  {
     "findingId": "finding:s-score350-1",
     "claimId": "s-score350-1",
     "finding": "SUPPORTS",

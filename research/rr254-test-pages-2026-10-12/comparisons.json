@@ -1,0 +1,103 @@
+[
+  {
+    "page": "nursing",
+    "need": "n-cheaper",
+    "caption": "OET and IELTS in Pakistan: the listed fees",
+    "columns": [
+      "",
+      "OET",
+      "IELTS (Pakistan)"
+    ],
+    "rows": [
+      {
+        "label": "Full test, as listed",
+        "cells": [
+          {
+            "claimId": "n-cheaper-1",
+            "value": "AU$587"
+          },
+          {
+            "claimId": "n-cheaper-2",
+            "value": "PKR 75,600 to PKR 76,240"
+          }
+        ]
+      },
+      {
+        "label": "In rupees",
+        "cells": [
+          {
+            "conversionOf": "n-cheaper-1"
+          },
+          {
+            "claimId": "n-cheaper-2",
+            "value": "PKR 75,600 to PKR 76,240"
+          }
+        ]
+      },
+      {
+        "label": "Retaking part of the test",
+        "cells": [
+          {
+            "claimId": "n-cheaper-3",
+            "value": "one, two or three sub-tests can be booked again on the paper test"
+          },
+          {
+            "claimId": "n-cheaper-4",
+            "value": "a retake of one of the four skills"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "speech-pathology",
+    "need": "s-au",
+    "caption": "The OET result each regulator asks of speech pathologists",
+    "columns": [
+      "",
+      "Result asked",
+      "Age of the result"
+    ],
+    "rows": [
+      {
+        "label": "Australia — Speech Pathology Australia",
+        "cells": [
+          {
+            "claimId": "s-au-1",
+            "value": "at least two OET sub-test results in the 450 to 500 band and two in the 400 to 500 band"
+          },
+          {
+            "claimId": "s-au-1",
+            "value": "no more than 6 months old"
+          }
+        ]
+      },
+      {
+        "label": "United Kingdom — HCPC",
+        "cells": [
+          {
+            "claimId": "s-uk-1",
+            "value": "at least 1800 with no sub-test below 400"
+          },
+          {
+            "claimId": "s-uk-1",
+            "value": "no more than two years old"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU",
+        "cells": [
+          {
+            "claimId": "s-ie-1",
+            "value": "at least grade B (400) in three components and B (350) in one"
+          },
+          {
+            "claimId": "s-ie-1",
+            "value": "within two years"
+          }
+        ]
+      }
+    ]
+  }
+]

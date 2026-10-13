@@ -1,0 +1,20 @@
+{
+  "what": "RR-257 B1 and C3 — a READ-ONLY record. Nothing was changed on any site. A robots.txt that allows a crawler is not proof that the host, CDN or firewall lets its published addresses through: that part is NOT MEASURED.",
+  "readOn": "2026-10-13",
+  "readBy": "actor:cc (research agent), in a browser",
+  "robotsFile": {
+    "address": "https://almioet.almiworld.com/robots.txt",
+    "content": ["User-Agent: *", "Allow: /", "", "Sitemap: https://almioet.almiworld.com/sitemap-index.xml"],
+    "namedRulesForAnyOfTheFiveBots": 0,
+    "reading": "one group for every user agent, allowing every path; no bot is named, so each of the five falls under the wildcard group and is allowed by this file"
+  },
+  "searchBots": [
+    { "bot": "OAI-SearchBot", "vendor": "OpenAI", "allowedByRobotsFile": true, "vendorDoc": "https://developers.openai.com/api/docs/bots", "docSays": "used to surface websites in search results in ChatGPT's search features; managed with its own robots.txt tag, independent of GPTBot" },
+    { "bot": "Googlebot", "vendor": "Google", "allowedByRobotsFile": true, "vendorDoc": "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers", "docSays": "lists Googlebot Smartphone and Googlebot Desktop; Google-Extended is a separate robots.txt control token with no user agent string of its own" },
+    { "bot": "Bingbot", "vendor": "Microsoft Bing", "allowedByRobotsFile": true, "vendorDoc": "https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0", "docSays": "Bingbot is the standard crawler" },
+    { "bot": "PerplexityBot", "vendor": "Perplexity", "allowedByRobotsFile": true, "vendorDoc": "https://docs.perplexity.ai/docs/resources/perplexity-crawlers", "docSays": "surfaces and links websites in Perplexity search results; not used to crawl content for AI foundation models" },
+    { "bot": "Claude-SearchBot", "vendor": "Anthropic", "allowedByRobotsFile": true, "vendorDoc": "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler", "docSays": "navigates the web to improve search result quality; ClaudeBot (training) and Claude-User (user-initiated fetches) are separate agents" }
+  ],
+  "trainingBotsNotRequired": ["GPTBot", "Google-Extended", "ClaudeBot"],
+  "notMeasured": ["whether the host, CDN or firewall blocks any bot's published addresses", "whether any of the five bots has fetched a page of the site (no server log was read)", "the sitemap named by the robots file"]
+}

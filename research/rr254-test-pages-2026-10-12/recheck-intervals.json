@@ -1,0 +1,207 @@
+[
+  {
+    "claimId": "n-fee-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-cheaper-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-cheaper-2",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-cheaper-3",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-cheaper-4",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-dates-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-dates-2",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-centres-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-centres-2",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-booking-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-contact-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-scores-uk",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-au",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-ie",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-nz",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-writing-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-writing-2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-format-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-format-2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-format-3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-prep-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-difficulty-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-reschedule-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-results-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-validity-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-retake-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-retake-2",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-id-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-score350-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-speaking-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-materials-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-au-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-uk-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-ie-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-specific-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-marking-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-fee-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "s-booking-1",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "s-results-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-validity-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-id-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  }
+]

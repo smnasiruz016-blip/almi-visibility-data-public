@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "page": "nursing",
+    "claimId": "n-fee-1",
+    "label": "OET fee",
+    "shown": "AU$587",
+    "amount": 587,
+    "from": "AUD",
+    "to": "PKR",
+    "toName": "rupee",
+    "notA": "an OET price",
+    "steps": [
+      {
+        "from": "AUD",
+        "to": "USD",
+        "rate": 0.6979,
+        "rateDate": "2026-10-12",
+        "source": "Reserve Bank of Australia — Exchange Rates",
+        "short": "RBA",
+        "link": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html",
+        "recheckDays": 7
+      },
+      {
+        "from": "USD",
+        "to": "PKR",
+        "rate": 276.9736,
+        "rateDate": "2026-10-12",
+        "source": "State Bank of Pakistan — USD/PKR rates",
+        "short": "SBP",
+        "link": "https://www.sbp.org.pk/ecodata/rates/m2m/2026/Oct/12-Oct-26.pdf",
+        "recheckDays": 7
+      }
+    ]
+  },
+  {
+    "page": "nursing",
+    "claimId": "n-cheaper-1",
+    "label": "OET fee",
+    "shown": "AU$587",
+    "amount": 587,
+    "from": "AUD",
+    "to": "PKR",
+    "toName": "rupee",
+    "notA": "an OET price",
+    "steps": [
+      {
+        "from": "AUD",
+        "to": "USD",
+        "rate": 0.6979,
+        "rateDate": "2026-10-12",
+        "source": "Reserve Bank of Australia — Exchange Rates",
+        "short": "RBA",
+        "link": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html",
+        "recheckDays": 7
+      },
+      {
+        "from": "USD",
+        "to": "PKR",
+        "rate": 276.9736,
+        "rateDate": "2026-10-12",
+        "source": "State Bank of Pakistan — USD/PKR rates",
+        "short": "SBP",
+        "link": "https://www.sbp.org.pk/ecodata/rates/m2m/2026/Oct/12-Oct-26.pdf",
+        "recheckDays": 7
+      }
+    ]
+  }
+]
