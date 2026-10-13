@@ -1,0 +1,15 @@
+{
+  "note": "F10 (Acceptance Amendment 4, RR-261): the audience of each built page of this batch and the words that name that audience in a recorded wording. Declared by the research agent (actor:cc) BEFORE the first F10 run, as the owner's survivor rule requires ('the page whose audience matches more of the shared need's recorded wordings'): a wording matches a page when it holds one of that page's words as a whole word, in any letter case. The audience is the page's own dimension value.",
+  "pages": {
+    "nursing": {
+      "audience": "nursing",
+      "words": ["nurse", "nurses", "nursing"],
+      "declaredOn": "2026-10-13"
+    },
+    "speech-pathology": {
+      "audience": "speech-pathology",
+      "words": ["speech pathology", "speech pathologist", "speech pathologists", "speech therapist", "speech therapists", "speech and language therapist", "speech and language therapists", "speech-language therapist", "speech-language therapists"],
+      "declaredOn": "2026-10-13"
+    }
+  }
+}
