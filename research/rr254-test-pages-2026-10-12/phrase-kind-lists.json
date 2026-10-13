@@ -1,0 +1,99 @@
+{
+  "primaryLanguage": "english",
+  "places": [
+    {
+      "name": "Pakistan",
+      "forms": [
+        "pakistani"
+      ]
+    },
+    {
+      "name": "Lahore"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Kerala"
+    },
+    {
+      "name": "United Kingdom",
+      "forms": [
+        "uk"
+      ]
+    },
+    {
+      "name": "United States",
+      "forms": [
+        "usa"
+      ]
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "New Zealand",
+      "forms": [
+        "nz"
+      ]
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Qatar"
+    }
+  ],
+  "entities": [
+    {
+      "name": "OET"
+    },
+    {
+      "name": "IELTS",
+      "forms": [
+        "ielt"
+      ]
+    },
+    {
+      "name": "TOEFL"
+    },
+    {
+      "name": "NMC"
+    },
+    {
+      "name": "AEO"
+    },
+    {
+      "name": "HCPC"
+    },
+    {
+      "name": "CORU"
+    }
+  ],
+  "languageVariants": [
+    {
+      "language": "roman-urdu",
+      "markers": [
+        "kya",
+        "kaise",
+        "kaisay",
+        "kitni",
+        "kitna",
+        "kitne",
+        "mein",
+        "hai",
+        "hain",
+        "sakte",
+        "sakti",
+        "karte",
+        "karain",
+        "aata",
+        "dobara",
+        "zaroori"
+      ]
+    }
+  ]
+}
