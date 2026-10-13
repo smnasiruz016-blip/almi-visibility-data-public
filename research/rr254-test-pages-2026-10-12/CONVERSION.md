@@ -1,12 +1,10 @@
-# The fee in rupees: NOT SHOWN (measured 13 October 2026)
+# The fee in rupees: an ESTIMATE from two central-bank rates (RR-257 A1, 13 October 2026)
 
-The owner approved a line "≈ PKR <amount> at the <date> exchange rate" from an official rate source (the State Bank of Pakistan).
+AU$587 x 0.6979 (Reserve Bank of Australia, US dollars per Australian dollar, 12 October 2026) x 276.9736 (State Bank of Pakistan,
+rupees per US dollar, revaluation rate, 12 October 2026). The engine multiplies; no rupee figure is typed anywhere.
 
-- The exam body's price outside the USA is in AUSTRALIAN dollars (AU$587). Its US-dollar price (US$455) is for tests taken in the USA.
-- The State Bank of Pakistan sheets read on 13 October 2026 (the weighted-average and the revaluation sheet "as on 12-Oct-2026") show
-  the US dollar only: weighted average 276.6927 / 277.1178, revaluation rate 276.9736. No Australian-dollar rate was on either sheet read.
-- So no official AUD-to-PKR rate is recorded, and none is invented: `conversion-rates.json` is empty and no rupee figure is on any page.
-  The US-dollar rate is kept in `exchange-rate-facts.json` as a dated fact, not used on a page.
-
-The engine's conversion line is built and tested. It needs one record in `conversion-rates.json`:
-`{ "page", "claimId", "shown": "AU$587", "amount": 587, "from": "AUD", "to": "PKR", "rate", "rateDate", "source", "link", "staleAfterDays" }`.
+- Both rates are dated facts in `exchange-rate-facts.json`, each with its source, link and a 7-day recheck interval.
+- `conversion-rates.json` names the two claims the estimate stands beside. Past 7 days the engine shows nothing and the title's
+  "Fees in PKR" then fails its own check (the title promises only what the page holds).
+- The page says it is an estimate and not the exam body's price. The State Bank of Pakistan sheet shows no Australian-dollar rate, which
+  is why two rates are chained (the owner's ruling).

@@ -70,6 +70,16 @@
     "language": "english"
   },
   {
+    "questionId": "f7e1d76b8837f4b18f059377c0e678fc",
+    "need": "n-cheaper",
+    "page": "nursing",
+    "wording": "Is OET cheaper than IELTS?",
+    "ownerLabel": "INFERRED",
+    "note": "the owner's own Google observation (RR-256), recorded verbatim as a search phrase; as a question nobody is shown to have asked it on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
     "questionId": "f07b49fa421becea2fada04de304e737",
     "need": "n-dates",
     "page": "nursing",
@@ -378,16 +388,6 @@
     "note": "suggested by an AI research agent",
     "country": "PK",
     "language": "roman-urdu"
-  },
-  {
-    "questionId": "f7e1d76b8837f4b18f059377c0e678fc",
-    "need": "n-cheaper",
-    "page": "nursing",
-    "wording": "Is OET cheaper than IELTS?",
-    "ownerLabel": "INFERRED",
-    "note": "the owner's own Google observation (RR-256), recorded verbatim as a search phrase; as a question nobody is shown to have asked it on an opened page",
-    "country": "NOT MEASURED",
-    "language": "english"
   },
   {
     "questionId": "ac91a0fcadc2d89efc4167aaefbbf892",

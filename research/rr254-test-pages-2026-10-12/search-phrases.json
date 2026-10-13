@@ -191,7 +191,8 @@
     "recordedFrom": "_handoffs 17a9854df908faf3f941a1d1f4eb6c47eb87f938 AlmiVisibility_CC_COMMAND_2026-10-13_RR-256.md",
     "role": "TOPIC",
     "use": "fees in pkr",
-    "need": "n-fee"
+    "need": "n-fee",
+    "promisesConversionTo": "PKR"
   },
   {
     "phraseId": "sp-015",
