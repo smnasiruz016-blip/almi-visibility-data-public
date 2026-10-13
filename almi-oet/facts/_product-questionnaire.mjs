@@ -56,18 +56,21 @@ export default Object.freeze({
    * RR-258 (the owner's standing ruling on header and logos, 13 October 2026): the COMPANY and its logo file, the FULL header navigation
    * (26 items), the header actions and the FULL footer (with its "Products" column, 22 items) — every item, the same order, the same
    * links, read by CC in a browser from the live header and footer of the site address below on 13 October 2026. `provenance` says,
-   * part by part, that each was READ and none was FILED by the client.
-   * The company logo: design/almiworld-logo.png beside this folder — a byte-for-byte copy of the estate's own file
-   * (repository almi-hq, public/almiworld-logo.png, git blob 68daa8cea4da0b4ac11338ea0d85d9e884dac0ac; the same blob is in almi-cv-v2).
-   * It is shown as it is; `focus` is the measured box of the picture that holds the mark (ink at x 324..1210, y 320..668 of 1536 x 1024,
-   * with a 12-pixel margin). It was not drawn, redrawn or edited.
+   * part by part, which were READ and which FILED: since RR-259 the company logo is FILED (the owner named his own folder and file); the rest were READ.
+   * The company logo: design/almiworld-logo.png beside this folder — since RR-259 (13 October 2026) a byte-for-byte copy of the OWNER's
+   * own file, from his folder: Desktop\almiworld\almi banners\almi new files\almi_latest.png (45,837 bytes, 1536 x 1024). His folder
+   * holds two AlmiWorld logo files; NEITHER has a transparent background (every pixel opaque). The other one, "almi latest.png", is byte
+   * for byte the estate's file used in RR-258 (repository almi-hq, public/almiworld-logo.png). This one is the same picture in a file a
+   * quarter of the size, and is the one in the folder the owner named.
+   * It is shown as it is; `focus` is the measured box of the picture that holds the mark (ink at x 324..1210, y 320..670 of 1536 x 1024,
+   * with a margin). It was not drawn, redrawn or edited.
    * The product has NO logo file: on the live site its mark is a letter in a coloured square beside its name, and that is what is filed.
    */
   design: Object.freeze({
     siteAddress: "https://almioet.almiworld.com",
     brandName: "AlmiOET",
     productLine: "AlmiOET — online OET practice: all four sub-tests, AI feedback on Writing and Speaking.",
-    company: Object.freeze({ name: "AlmiWorld", href: "https://almiworld.com/", logo: Object.freeze({ file: "design/almiworld-logo.png", alt: "AlmiWorld — live beautifully", sha256: "a6f99406f1271913e2fb6aec552bc2a9a6dc388a006c6030e6dd2d3126998885", width: 1536, height: 1024, focus: Object.freeze({ x: 312, y: 308, w: 912, h: 372 }) }) }),
+    company: Object.freeze({ name: "AlmiWorld", href: "https://almiworld.com/", logo: Object.freeze({ file: "design/almiworld-logo.png", alt: "AlmiWorld — live beautifully", sha256: "fb008fd6d592970268c2d64b3ea392510ac76114dc1195f76ad08ef683dc81a5", width: 1536, height: 1024, focus: Object.freeze({ x: 312, y: 308, w: 912, h: 372 }) }) }),
     logo: Object.freeze({ mark: "A", wordmark: "AlmiOET" }),
     colours: Object.freeze({ background: "#FFFBF5", surface: "#FFFFFF", border: "#FFE8D6", primary: "#FF7A6B", primaryDeep: "#ff6b5b", accent: "#0d9488", ink: "#1a1a2e", text: "#334155", muted: "#475569", footerBackground: "#14110D", footerAccent: "#D4A24C", onDark: "#f8fafc" }),
     fonts: Object.freeze({ body: "Inter, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif" }),
@@ -134,8 +137,8 @@ export default Object.freeze({
       notice: "© 2026 AlmiWorld. All rights reserved.",
     }),
     basis: "READ_FROM_CLIENT_SITE",
-    readFrom: Object.freeze([code("almi-oet:src/app/globals.css"), code("almi-oet:src/components/GlobalHeader.tsx"), code("almi-oet:src/components/GlobalFooter.tsx"), site("https://almioet.almiworld.com/"), code("almi-hq:public/almiworld-logo.png")]),
-    provenance: Object.freeze({ company: "READ_FROM_CLIENT_SITE", logo: "READ_FROM_CLIENT_SITE", nav: "READ_FROM_CLIENT_SITE", actions: "READ_FROM_CLIENT_SITE", cta: "READ_FROM_CLIENT_SITE", footer: "READ_FROM_CLIENT_SITE", colours: "READ_FROM_CLIENT_SITE", fonts: "READ_FROM_CLIENT_SITE" }),
+    readFrom: Object.freeze([code("almi-oet:src/app/globals.css"), code("almi-oet:src/components/GlobalHeader.tsx"), code("almi-oet:src/components/GlobalFooter.tsx"), site("https://almioet.almiworld.com/")]),
+    provenance: Object.freeze({ company: "CLIENT_DECLARED", logo: "READ_FROM_CLIENT_SITE", nav: "READ_FROM_CLIENT_SITE", actions: "READ_FROM_CLIENT_SITE", cta: "READ_FROM_CLIENT_SITE", footer: "READ_FROM_CLIENT_SITE", colours: "READ_FROM_CLIENT_SITE", fonts: "READ_FROM_CLIENT_SITE" }),
   }),
   answers: Object.freeze([
     // ── what the product does ──
