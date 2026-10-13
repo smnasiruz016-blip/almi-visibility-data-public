@@ -47,6 +47,33 @@ export default Object.freeze({
   productId: "almi-oet",
   submittedBy: "actor:cc (pre-filled for the client; not the client's own submission)",
   submittedOn: "2026-10-12",
+  /**
+   * 🔴 THE CLIENT'S DESIGN (the owner's standing page law, RR-255, clause 1) — how a page built for this product must LOOK: the product's
+   * own header, colours, fonts, cards and footer. READ, read-only, by CC on 12 October 2026 from the product's own code (repository
+   * almi-oet, working head a4514b3; nothing in that repository was changed). The client has not filed it itself yet. It is not an answer,
+   * not a capability record and not evidence. The product line is the owner's own declared wording (RR-253, answer 4).
+   * Left out: the footer's "Products" column (the code builds it from a shared list, not from a fixed text).
+   */
+  design: Object.freeze({
+    siteAddress: "https://almioet.almiworld.com",
+    brandName: "AlmiOET",
+    productLine: "AlmiOET — online OET practice: all four sub-tests, AI feedback on Writing and Speaking.",
+    logo: Object.freeze({ mark: "A", wordmark: "AlmiOET" }),
+    colours: Object.freeze({ background: "#FFFBF5", surface: "#FFFFFF", border: "#FFE8D6", primary: "#FF7A6B", primaryDeep: "#ff6b5b", accent: "#0d9488", ink: "#1a1a2e", text: "#334155", muted: "#475569", footerBackground: "#14110D", footerAccent: "#D4A24C", onDark: "#f8fafc" }),
+    fonts: Object.freeze({ body: "Inter, ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", sans-serif" }),
+    card: Object.freeze({ radius: "16px" }),
+    nav: Object.freeze([Object.freeze({ label: "Practice", href: "/practice" }), Object.freeze({ label: "Log in", href: "/login" })]),
+    cta: Object.freeze({ label: "Start 7-day free trial", href: "/signup" }),
+    footer: Object.freeze({
+      columns: Object.freeze([
+        Object.freeze({ title: "AlmiWorld", links: Object.freeze([Object.freeze({ label: "Home", href: "https://almiworld.com/" }), Object.freeze({ label: "Ebooks", href: "https://almiworld.com/ebooks-2/" }), Object.freeze({ label: "Shamool Foundation", href: "https://shamoolfoundation.com/" })]) }),
+        Object.freeze({ title: "Legal & Contact", links: Object.freeze([Object.freeze({ label: "Contact Us", href: "https://almiworld.com/contact-us/" }), Object.freeze({ label: "Refund and Return Policy", href: "https://almiworld.com/refund_returns/" }), Object.freeze({ label: "Privacy Policy", href: "https://almiworld.com/privacy-policy/" })]) }),
+      ]),
+      notice: "© 2026 AlmiWorld. All rights reserved.",
+    }),
+    basis: "READ_FROM_CLIENT_SITE",
+    readFrom: Object.freeze([code("almi-oet:src/app/globals.css"), code("almi-oet:src/components/GlobalHeader.tsx"), code("almi-oet:src/components/GlobalFooter.tsx")]),
+  }),
   answers: Object.freeze([
     // ── what the product does ──
     says("practice-all-four-sub-tests", "CAPABILITY", "Students practise all four OET sub-tests: Listening, Reading, Writing and Speaking.", null, [code(REGISTRY), site(PRICING_PAGE)]),
