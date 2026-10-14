@@ -1,0 +1,290 @@
+{
+  "source": "AI_SUGGESTION",
+  "what": "REWORDED by the client's own AI (RR-264 fast way, second pass): seven shared questions now name the profession, so that no two pages' compiled rationales are the same text (F36 refuses an identical rationale as a template). The first hand-in of the day (ai-suggestions-2026-10-14.json) stays as it was handed in. The client's own AI research questions for the ten remaining professions: formed from the product declaration, in the countries and languages the first two pages' needs showed (Roman Urdu included). INFERRED — never OBSERVED, never a volume.",
+  "label": "INFERRED",
+  "place": "NOT MEASURED — written for searchers in Pakistan, the UK, Australia, Ireland, New Zealand and the USA",
+  "language": "english and roman-urdu",
+  "date": "2026-10-14",
+  "suggestions": [
+    {
+      "text": "What does an OET score of 350 mean for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How long do OET results take for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How long is an OET result valid for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How do doctors book the OET?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Where can doctors take the OET in Pakistan?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What ID do doctors need on OET test day?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Can doctors move their OET test to another date?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What does an OET score of 350 mean for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "How long do OET results take for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "How long is an OET result valid for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "How do dentists book the OET?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Where can dentists take the OET in Pakistan?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What ID do dentists need on OET test day?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Can dentists move their OET test to another date?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What does an OET score of 350 mean for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "How long do OET results take for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "How long is an OET result valid for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "How do pharmacists book the OET?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Where can pharmacists take the OET in Pakistan?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What ID do pharmacists need on OET test day?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Can pharmacists move their OET test to another date?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What does an OET score of 350 mean for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "How long do OET results take for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "How long is an OET result valid for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "How do physiotherapists book the OET?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "Where can physiotherapists take the OET in Pakistan?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What ID do physiotherapists need on OET test day?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "Can physiotherapists move their OET test to another date?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What does an OET score of 350 mean for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "How long do OET results take for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "How long is an OET result valid for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "How do occupational therapists book the OET?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Where can occupational therapists take the OET in Pakistan?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What ID do occupational therapists need on OET test day?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Can occupational therapists move their OET test to another date?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What does an OET score of 350 mean for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "How long do OET results take for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "How long is an OET result valid for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "How do dietitians book the OET?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "Where can dietitians take the OET in Pakistan?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What ID do dietitians need on OET test day?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "Can dietitians move their OET test to another date?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What does an OET score of 350 mean for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "How long do OET results take for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "How long is an OET result valid for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "How do optometrists book the OET?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Where can optometrists take the OET in Pakistan?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What ID do optometrists need on OET test day?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Can optometrists move their OET test to another date?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What does an OET score of 350 mean for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "How long do OET results take for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "How long is an OET result valid for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "How do podiatrists book the OET?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "Where can podiatrists take the OET in Pakistan?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What ID do podiatrists need on OET test day?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "Can podiatrists move their OET test to another date?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What does an OET score of 350 mean for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "How long do OET results take for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "How long is an OET result valid for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "How do radiographers book the OET?",
+      "seed": "radiography"
+    },
+    {
+      "text": "Where can radiographers take the OET in Pakistan?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What ID do radiographers need on OET test day?",
+      "seed": "radiography"
+    },
+    {
+      "text": "Can radiographers move their OET test to another date?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What does an OET score of 350 mean for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "How long do OET results take for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "How long is an OET result valid for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "How do veterinarians book the OET?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Where can veterinarians take the OET in Pakistan?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "What ID do veterinarians need on OET test day?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Can veterinarians move their OET test to another date?",
+      "seed": "veterinary-science"
+    }
+  ]
+}

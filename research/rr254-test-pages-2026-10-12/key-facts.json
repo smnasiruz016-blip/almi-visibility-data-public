@@ -58,5 +58,310 @@
     "page": "speech-pathology",
     "claimId": "s-fee-1",
     "value": "AU$587"
+  },
+  {
+    "page": "medicine",
+    "claimId": "md-scores-1",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "medicine",
+    "claimId": "md-scores-2",
+    "value": "grade B"
+  },
+  {
+    "page": "medicine",
+    "claimId": "md-scores-3",
+    "value": "300 in Writing"
+  },
+  {
+    "page": "medicine",
+    "claimId": "md-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "medicine",
+    "claimId": "md-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "medicine",
+    "claimId": "md-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "medicine",
+    "claimId": "md-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "dentistry",
+    "claimId": "dn-scores-2",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "dentistry",
+    "claimId": "dn-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "dentistry",
+    "claimId": "dn-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "dentistry",
+    "claimId": "dn-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "dentistry",
+    "claimId": "dn-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "pharmacy",
+    "claimId": "ph-scores-1",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "pharmacy",
+    "claimId": "ph-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "pharmacy",
+    "claimId": "ph-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "pharmacy",
+    "claimId": "ph-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "pharmacy",
+    "claimId": "ph-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "physiotherapy",
+    "claimId": "pt-scores-1",
+    "value": "1400"
+  },
+  {
+    "page": "physiotherapy",
+    "claimId": "pt-scores-2",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "physiotherapy",
+    "claimId": "pt-scores-3",
+    "value": "C+ (300)"
+  },
+  {
+    "page": "physiotherapy",
+    "claimId": "pt-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "physiotherapy",
+    "claimId": "pt-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "physiotherapy",
+    "claimId": "pt-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "physiotherapy",
+    "claimId": "pt-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "occupational-therapy",
+    "claimId": "ot-scores-1",
+    "value": "1400"
+  },
+  {
+    "page": "occupational-therapy",
+    "claimId": "ot-scores-2",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "occupational-therapy",
+    "claimId": "ot-scores-3",
+    "value": "C+ (300)"
+  },
+  {
+    "page": "occupational-therapy",
+    "claimId": "ot-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "occupational-therapy",
+    "claimId": "ot-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "occupational-therapy",
+    "claimId": "ot-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "occupational-therapy",
+    "claimId": "ot-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "dietetics",
+    "claimId": "dt-scores-1",
+    "value": "1400"
+  },
+  {
+    "page": "dietetics",
+    "claimId": "dt-scores-4",
+    "value": "C+ (300)"
+  },
+  {
+    "page": "dietetics",
+    "claimId": "dt-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "dietetics",
+    "claimId": "dt-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "dietetics",
+    "claimId": "dt-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "dietetics",
+    "claimId": "dt-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "optometry",
+    "claimId": "op-scores-2",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "optometry",
+    "claimId": "op-scores-4",
+    "value": "C+ (300)"
+  },
+  {
+    "page": "optometry",
+    "claimId": "op-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "optometry",
+    "claimId": "op-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "optometry",
+    "claimId": "op-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "optometry",
+    "claimId": "op-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "podiatry",
+    "claimId": "pd-scores-1",
+    "value": "1400"
+  },
+  {
+    "page": "podiatry",
+    "claimId": "pd-scores-2",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "podiatry",
+    "claimId": "pd-scores-3",
+    "value": "C+ (300)"
+  },
+  {
+    "page": "podiatry",
+    "claimId": "pd-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "podiatry",
+    "claimId": "pd-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "podiatry",
+    "claimId": "pd-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "podiatry",
+    "claimId": "pd-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "radiography",
+    "claimId": "rd-scores-1",
+    "value": "1400"
+  },
+  {
+    "page": "radiography",
+    "claimId": "rd-scores-2",
+    "value": "360 in Reading"
+  },
+  {
+    "page": "radiography",
+    "claimId": "rd-scores-3",
+    "value": "grade B (350)"
+  },
+  {
+    "page": "radiography",
+    "claimId": "rd-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "radiography",
+    "claimId": "rd-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "radiography",
+    "claimId": "rd-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "radiography",
+    "claimId": "rd-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
+  },
+  {
+    "page": "veterinary-science",
+    "claimId": "vt-fee-1",
+    "value": "AU$587"
+  },
+  {
+    "page": "veterinary-science",
+    "claimId": "vt-writing-1",
+    "value": "45 minutes"
+  },
+  {
+    "page": "veterinary-science",
+    "claimId": "vt-speaking-1",
+    "value": "about 20 minutes"
+  },
+  {
+    "page": "veterinary-science",
+    "claimId": "vt-centres-1",
+    "value": "Islamabad, Karachi and Lahore"
   }
 ]

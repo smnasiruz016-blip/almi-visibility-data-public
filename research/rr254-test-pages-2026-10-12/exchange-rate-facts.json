@@ -30,5 +30,37 @@
     "readBy": "actor:cc (research agent)",
     "usedOnAPage": true,
     "recheckWhy": "exchange rates move every business day; the estimate is not shown once the rate is more than 7 days old"
+  },
+  {
+    "factId": "rba-aud-usd-2026-10-14",
+    "from": "AUD",
+    "to": "USD",
+    "rate": 0.7002,
+    "kind": "Units of foreign currency per Australian dollar (4.00 pm Eastern Australian time)",
+    "rateDate": "2026-10-14",
+    "source": "Reserve Bank of Australia — Exchange Rates",
+    "short": "RBA",
+    "link": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html",
+    "recheckDays": 7,
+    "readOn": "2026-10-14",
+    "readBy": "research agent (actor:cc)",
+    "usedOnAPage": true,
+    "recheckWhy": "exchange rates move every business day; the estimate is not shown once the rate is more than 7 days old"
+  },
+  {
+    "factId": "sbp-usd-pkr-2026-10-14",
+    "from": "USD",
+    "to": "PKR",
+    "rate": 276.9545,
+    "kind": "M2M Revaluation Rate",
+    "rateDate": "2026-10-14",
+    "source": "State Bank of Pakistan — USD/PKR rates",
+    "short": "SBP",
+    "link": "https://www.sbp.org.pk/ecodata/rates/m2m/2026/Oct/14-Oct-26.pdf",
+    "recheckDays": 7,
+    "readOn": "2026-10-14",
+    "readBy": "research agent (actor:cc)",
+    "usedOnAPage": true,
+    "recheckWhy": "exchange rates move every business day; the estimate is not shown once the rate is more than 7 days old"
   }
 ]

@@ -1,0 +1,322 @@
+[
+  {
+    "page": "medicine",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for doctors",
+    "role": "HEAD",
+    "use": "oet for doctors",
+    "withYear": true
+  },
+  {
+    "page": "medicine",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do doctors need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "md-scores"
+  },
+  {
+    "page": "medicine",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for doctors fees",
+    "role": "TOPIC",
+    "use": "fees",
+    "need": "md-fee"
+  },
+  {
+    "page": "medicine",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet medicine writing samples",
+    "role": "TOPIC",
+    "use": "writing samples",
+    "need": "md-practice"
+  },
+  {
+    "page": "dentistry",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for dentists",
+    "role": "HEAD",
+    "use": "oet for dentists",
+    "withYear": true
+  },
+  {
+    "page": "dentistry",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do dentists need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "dn-scores"
+  },
+  {
+    "page": "dentistry",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for dentists?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "dn-fee"
+  },
+  {
+    "page": "dentistry",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for dentists?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "dn-practice"
+  },
+  {
+    "page": "pharmacy",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for pharmacists",
+    "role": "HEAD",
+    "use": "oet for pharmacists",
+    "withYear": true
+  },
+  {
+    "page": "pharmacy",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do pharmacists need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "ph-scores"
+  },
+  {
+    "page": "pharmacy",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for pharmacists?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "ph-fee"
+  },
+  {
+    "page": "pharmacy",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for pharmacists?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "ph-practice"
+  },
+  {
+    "page": "physiotherapy",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for physiotherapists",
+    "role": "HEAD",
+    "use": "oet for physiotherapists",
+    "withYear": true
+  },
+  {
+    "page": "physiotherapy",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do physiotherapists need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "pt-scores"
+  },
+  {
+    "page": "physiotherapy",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for physiotherapists?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "pt-fee"
+  },
+  {
+    "page": "physiotherapy",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for physiotherapists?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "pt-practice"
+  },
+  {
+    "page": "occupational-therapy",
+    "source": "AI_SUGGESTION",
+    "phrase": "What is the OET for occupational therapists?",
+    "role": "HEAD",
+    "use": "oet for occupational therapists",
+    "withYear": true
+  },
+  {
+    "page": "occupational-therapy",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do occupational therapists need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "ot-scores"
+  },
+  {
+    "page": "occupational-therapy",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for occupational therapists?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "ot-fee"
+  },
+  {
+    "page": "occupational-therapy",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for occupational therapists?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "ot-practice"
+  },
+  {
+    "page": "dietetics",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet test for dietitians",
+    "role": "HEAD",
+    "use": "oet for dietitians",
+    "withYear": true
+  },
+  {
+    "page": "dietetics",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do dietitians need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "dt-scores"
+  },
+  {
+    "page": "dietetics",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for dietitians?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "dt-fee"
+  },
+  {
+    "page": "dietetics",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for dietitians?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "dt-practice"
+  },
+  {
+    "page": "optometry",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for optometrists",
+    "role": "HEAD",
+    "use": "oet for optometrists",
+    "withYear": true
+  },
+  {
+    "page": "optometry",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do optometrists need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "op-scores"
+  },
+  {
+    "page": "optometry",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for optometrists?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "op-fee"
+  },
+  {
+    "page": "optometry",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for optometrists?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "op-practice"
+  },
+  {
+    "page": "podiatry",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for podiatrists",
+    "role": "HEAD",
+    "use": "oet for podiatrists",
+    "withYear": true
+  },
+  {
+    "page": "podiatry",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do podiatrists need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "pd-scores"
+  },
+  {
+    "page": "podiatry",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for podiatrists?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "pd-fee"
+  },
+  {
+    "page": "podiatry",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for podiatrists?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "pd-practice"
+  },
+  {
+    "page": "radiography",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for radiographers",
+    "role": "HEAD",
+    "use": "oet for radiographers",
+    "withYear": true
+  },
+  {
+    "page": "radiography",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do radiographers need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "rd-scores"
+  },
+  {
+    "page": "radiography",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for radiographers?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "rd-fee"
+  },
+  {
+    "page": "radiography",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for radiographers?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "rd-practice"
+  },
+  {
+    "page": "veterinary-science",
+    "source": "CLIENT_AI_GOOGLE",
+    "phrase": "oet for veterinarians",
+    "role": "HEAD",
+    "use": "oet for veterinarians",
+    "withYear": true
+  },
+  {
+    "page": "veterinary-science",
+    "source": "AI_SUGGESTION",
+    "phrase": "What OET score do veterinarians need?",
+    "role": "TOPIC",
+    "use": "score",
+    "need": "vt-scores"
+  },
+  {
+    "page": "veterinary-science",
+    "source": "AI_SUGGESTION",
+    "phrase": "How much does the OET cost for veterinarians?",
+    "role": "TOPIC",
+    "use": "cost",
+    "need": "vt-fee"
+  },
+  {
+    "page": "veterinary-science",
+    "source": "AI_SUGGESTION",
+    "phrase": "Are there OET Writing and Speaking samples for veterinarians?",
+    "role": "TOPIC",
+    "use": "samples",
+    "need": "vt-practice"
+  }
+]

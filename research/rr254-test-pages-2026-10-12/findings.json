@@ -654,5 +654,3133 @@
       "tool": "WebFetch"
     },
     "whatSupportsIt": "the page says grade B is a scale score of 350 and that grade B typically corresponds to at least 30 of 42 marks in Reading and Listening"
+  },
+  {
+    "findingId": "finding:md-format-1",
+    "claimId": "md-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:md-scores-1",
+    "claimId": "md-scores-1",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:md-scores-2",
+    "claimId": "md-scores-2",
+    "factId": "mci-medicine",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Medical Council of Ireland — English language requirements",
+      "link": "https://www.medicalcouncil.ie/registration-applications/first-time-applicants/english-language.html",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives Medicine only, grade B each, one sitting"
+  },
+  {
+    "findingId": "finding:md-scores-3",
+    "claimId": "md-scores-3",
+    "factId": "mcnz-medicine",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Medical Council of New Zealand — English language policy",
+      "link": "https://www.mcnz.org.nz/assets/Policies/English-language-policy.pdf",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the policy gives 350/350/350 and 300 in Writing"
+  },
+  {
+    "findingId": "finding:md-fee-1",
+    "claimId": "md-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:md-fee-2",
+    "claimId": "md-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:md-practice-1",
+    "claimId": "md-practice-1",
+    "factId": "oet-sample-medicine",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Medicine sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/medicine",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:md-writing-1",
+    "claimId": "md-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:md-speaking-1",
+    "claimId": "md-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:md-score-meaning-1",
+    "claimId": "md-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:md-results-1",
+    "claimId": "md-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:md-results-2",
+    "claimId": "md-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:md-validity-1",
+    "claimId": "md-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:md-booking-1",
+    "claimId": "md-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:md-booking-2",
+    "claimId": "md-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:md-centres-1",
+    "claimId": "md-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:md-id-1",
+    "claimId": "md-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:md-reschedule-1",
+    "claimId": "md-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:dn-format-1",
+    "claimId": "dn-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:dn-scores-1",
+    "claimId": "dn-scores-1",
+    "factId": "gdc-ielts",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "General Dental Council — Guidance on English language controls",
+      "link": "https://www.gdc-uk.org/docs/default-source/registration/english-language-controls/gdc-guidance-on-english-language-controls.pdf?sfvrsn=88adf167_2",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the guidance names IELTS Academic (6.5 each, 7 overall) and no other test"
+  },
+  {
+    "findingId": "finding:dn-scores-2",
+    "claimId": "dn-scores-2",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:dn-scores-3",
+    "claimId": "dn-scores-3",
+    "factId": "dcnz-ab",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Dental Council (NZ) — English language",
+      "link": "https://dcnz.org.nz/i-want-to-practise-in-new-zealand/english-language",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives A or B in each component and two years"
+  },
+  {
+    "findingId": "finding:dn-scores-4",
+    "claimId": "dn-scores-4",
+    "factId": "dci-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Dental Council of Ireland — Language proficiency",
+      "link": "https://www.dentalcouncil.ie/registration/language-proficiency",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives grade B in each module"
+  },
+  {
+    "findingId": "finding:dn-fee-1",
+    "claimId": "dn-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:dn-fee-2",
+    "claimId": "dn-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:dn-practice-1",
+    "claimId": "dn-practice-1",
+    "factId": "oet-sample-dentistry",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Dentistry sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/dentistry",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:dn-writing-1",
+    "claimId": "dn-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:dn-speaking-1",
+    "claimId": "dn-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:dn-score-meaning-1",
+    "claimId": "dn-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:dn-results-1",
+    "claimId": "dn-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:dn-results-2",
+    "claimId": "dn-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:dn-validity-1",
+    "claimId": "dn-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:dn-booking-1",
+    "claimId": "dn-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:dn-booking-2",
+    "claimId": "dn-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:dn-centres-1",
+    "claimId": "dn-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:dn-id-1",
+    "claimId": "dn-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:dn-reschedule-1",
+    "claimId": "dn-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:ph-format-1",
+    "claimId": "ph-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:ph-scores-1",
+    "claimId": "ph-scores-1",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:ph-scores-2",
+    "claimId": "ph-scores-2",
+    "factId": "pcnz-ab",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Pharmacy Council of New Zealand — English language requirements",
+      "link": "https://pharmacycouncil.org.nz/pharmacy_registries/english-language-requirements/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives A or B in each band within two years"
+  },
+  {
+    "findingId": "finding:ph-scores-3",
+    "claimId": "ph-scores-3",
+    "factId": "psi-accepts",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "PSI — Language requirements",
+      "link": "https://www.psi.ie/registration/pharmacists/first-time-registration/language-requirements",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists OET among accepted tests and gives two years from the test date (its score table is not used: two of its rows disagree)"
+  },
+  {
+    "findingId": "finding:ph-fee-1",
+    "claimId": "ph-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:ph-fee-2",
+    "claimId": "ph-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:ph-practice-1",
+    "claimId": "ph-practice-1",
+    "factId": "oet-sample-pharmacy",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Pharmacy sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/pharmacy",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:ph-writing-1",
+    "claimId": "ph-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:ph-speaking-1",
+    "claimId": "ph-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:ph-score-meaning-1",
+    "claimId": "ph-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:ph-results-1",
+    "claimId": "ph-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:ph-results-2",
+    "claimId": "ph-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:ph-validity-1",
+    "claimId": "ph-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:ph-booking-1",
+    "claimId": "ph-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:ph-booking-2",
+    "claimId": "ph-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:ph-centres-1",
+    "claimId": "ph-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:ph-id-1",
+    "claimId": "ph-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:ph-reschedule-1",
+    "claimId": "ph-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:pt-format-1",
+    "claimId": "pt-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:pt-scores-1",
+    "claimId": "pt-scores-1",
+    "factId": "hcpc-1400",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 1400 overall and 300 per sub-test for these professions (1800 and 400 only for speech and language therapists)"
+  },
+  {
+    "findingId": "finding:pt-scores-2",
+    "claimId": "pt-scores-2",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:pt-scores-3",
+    "claimId": "pt-scores-3",
+    "factId": "coru-b3c1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's table gives B x3 and C+ x1 for physiotherapists, occupational therapists, dietitians, podiatrists and optometrists"
+  },
+  {
+    "findingId": "finding:pt-fee-1",
+    "claimId": "pt-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:pt-fee-2",
+    "claimId": "pt-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:pt-practice-1",
+    "claimId": "pt-practice-1",
+    "factId": "oet-sample-physiotherapy",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Physiotherapy sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/physiotherapy",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:pt-writing-1",
+    "claimId": "pt-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:pt-speaking-1",
+    "claimId": "pt-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:pt-score-meaning-1",
+    "claimId": "pt-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:pt-results-1",
+    "claimId": "pt-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:pt-results-2",
+    "claimId": "pt-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:pt-validity-1",
+    "claimId": "pt-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:pt-booking-1",
+    "claimId": "pt-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:pt-booking-2",
+    "claimId": "pt-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:pt-centres-1",
+    "claimId": "pt-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:pt-id-1",
+    "claimId": "pt-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:pt-reschedule-1",
+    "claimId": "pt-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:ot-format-1",
+    "claimId": "ot-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:ot-scores-1",
+    "claimId": "ot-scores-1",
+    "factId": "hcpc-1400",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 1400 overall and 300 per sub-test for these professions (1800 and 400 only for speech and language therapists)"
+  },
+  {
+    "findingId": "finding:ot-scores-2",
+    "claimId": "ot-scores-2",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:ot-scores-3",
+    "claimId": "ot-scores-3",
+    "factId": "coru-b3c1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's table gives B x3 and C+ x1 for physiotherapists, occupational therapists, dietitians, podiatrists and optometrists"
+  },
+  {
+    "findingId": "finding:ot-scores-4",
+    "claimId": "ot-scores-4",
+    "factId": "otbnz-accepts",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Occupational Therapy Board of NZ — Overseas applicants",
+      "link": "https://www.otboard.org.nz/site/rp/overseas",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page names OET or IELTS; the grades are in a policy document that could not be read"
+  },
+  {
+    "findingId": "finding:ot-fee-1",
+    "claimId": "ot-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:ot-fee-2",
+    "claimId": "ot-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:ot-practice-1",
+    "claimId": "ot-practice-1",
+    "factId": "oet-sample-occupational-therapy",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Occupational Therapy sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/occupational-therapy",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:ot-writing-1",
+    "claimId": "ot-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:ot-speaking-1",
+    "claimId": "ot-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:ot-score-meaning-1",
+    "claimId": "ot-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:ot-results-1",
+    "claimId": "ot-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:ot-results-2",
+    "claimId": "ot-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:ot-validity-1",
+    "claimId": "ot-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:ot-booking-1",
+    "claimId": "ot-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:ot-booking-2",
+    "claimId": "ot-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:ot-centres-1",
+    "claimId": "ot-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:ot-id-1",
+    "claimId": "ot-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:ot-reschedule-1",
+    "claimId": "ot-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:dt-format-1",
+    "claimId": "dt-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:dt-scores-1",
+    "claimId": "dt-scores-1",
+    "factId": "hcpc-1400",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 1400 overall and 300 per sub-test for these professions (1800 and 400 only for speech and language therapists)"
+  },
+  {
+    "findingId": "finding:dt-scores-2",
+    "claimId": "dt-scores-2",
+    "factId": "dietitians-au",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Dietitians Australia — Skills recognition, English language",
+      "link": "https://dietitiansaustralia.org.au/node/59",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 350 (B) in each component"
+  },
+  {
+    "findingId": "finding:dt-scores-3",
+    "claimId": "dt-scores-3",
+    "factId": "dbnz-ab",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Dietitians Board — English language requirements",
+      "link": "https://www.dietitiansboard.org.nz/Public/Public/Registration/English-Language-Requirements.aspx",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives A or B in all four and 12 months"
+  },
+  {
+    "findingId": "finding:dt-scores-4",
+    "claimId": "dt-scores-4",
+    "factId": "coru-b3c1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's table gives B x3 and C+ x1 for physiotherapists, occupational therapists, dietitians, podiatrists and optometrists"
+  },
+  {
+    "findingId": "finding:dt-fee-1",
+    "claimId": "dt-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:dt-fee-2",
+    "claimId": "dt-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:dt-practice-1",
+    "claimId": "dt-practice-1",
+    "factId": "oet-sample-dietetics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Dietetics sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/dietetics",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:dt-writing-1",
+    "claimId": "dt-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:dt-speaking-1",
+    "claimId": "dt-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:dt-score-meaning-1",
+    "claimId": "dt-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:dt-results-1",
+    "claimId": "dt-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:dt-results-2",
+    "claimId": "dt-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:dt-validity-1",
+    "claimId": "dt-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:dt-booking-1",
+    "claimId": "dt-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:dt-booking-2",
+    "claimId": "dt-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:dt-centres-1",
+    "claimId": "dt-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:dt-id-1",
+    "claimId": "dt-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:dt-reschedule-1",
+    "claimId": "dt-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:op-format-1",
+    "claimId": "op-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:op-scores-1",
+    "claimId": "op-scores-1",
+    "factId": "goc-ielts-only",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "General Optical Council — International optometrists",
+      "link": "https://optical.org/registration/register-from-overseas/international-optometrists.html",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page names IELTS Academic or IELTS for UKVI Academic only"
+  },
+  {
+    "findingId": "finding:op-scores-2",
+    "claimId": "op-scores-2",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:op-scores-3",
+    "claimId": "op-scores-3",
+    "factId": "odob-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "ODOB — English language requirements (policy)",
+      "link": "https://odob.health.nz/document/8136/O.%20English%20language%20requirements%20(v1).pdf",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the policy gives B (350) in each component, one result"
+  },
+  {
+    "findingId": "finding:op-scores-4",
+    "claimId": "op-scores-4",
+    "factId": "coru-b3c1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's table gives B x3 and C+ x1 for physiotherapists, occupational therapists, dietitians, podiatrists and optometrists"
+  },
+  {
+    "findingId": "finding:op-fee-1",
+    "claimId": "op-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:op-fee-2",
+    "claimId": "op-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:op-practice-1",
+    "claimId": "op-practice-1",
+    "factId": "oet-sample-optometry",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Optometry sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/optometry",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:op-writing-1",
+    "claimId": "op-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:op-speaking-1",
+    "claimId": "op-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:op-score-meaning-1",
+    "claimId": "op-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:op-results-1",
+    "claimId": "op-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:op-results-2",
+    "claimId": "op-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:op-validity-1",
+    "claimId": "op-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:op-booking-1",
+    "claimId": "op-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:op-booking-2",
+    "claimId": "op-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:op-centres-1",
+    "claimId": "op-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:op-id-1",
+    "claimId": "op-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:op-reschedule-1",
+    "claimId": "op-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:pd-format-1",
+    "claimId": "pd-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:pd-scores-1",
+    "claimId": "pd-scores-1",
+    "factId": "hcpc-1400",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 1400 overall and 300 per sub-test for these professions (1800 and 400 only for speech and language therapists)"
+  },
+  {
+    "findingId": "finding:pd-scores-2",
+    "claimId": "pd-scores-2",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:pd-scores-3",
+    "claimId": "pd-scores-3",
+    "factId": "coru-b3c1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's table gives B x3 and C+ x1 for physiotherapists, occupational therapists, dietitians, podiatrists and optometrists"
+  },
+  {
+    "findingId": "finding:pd-fee-1",
+    "claimId": "pd-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:pd-fee-2",
+    "claimId": "pd-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:pd-practice-1",
+    "claimId": "pd-practice-1",
+    "factId": "oet-sample-podiatry",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Podiatry sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/podiatry",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:pd-writing-1",
+    "claimId": "pd-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:pd-speaking-1",
+    "claimId": "pd-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:pd-score-meaning-1",
+    "claimId": "pd-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:pd-results-1",
+    "claimId": "pd-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:pd-results-2",
+    "claimId": "pd-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:pd-validity-1",
+    "claimId": "pd-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:pd-booking-1",
+    "claimId": "pd-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:pd-booking-2",
+    "claimId": "pd-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:pd-centres-1",
+    "claimId": "pd-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:pd-id-1",
+    "claimId": "pd-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:pd-reschedule-1",
+    "claimId": "pd-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:rd-format-1",
+    "claimId": "rd-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:rd-scores-1",
+    "claimId": "rd-scores-1",
+    "factId": "hcpc-1400",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 1400 overall and 300 per sub-test for these professions (1800 and 400 only for speech and language therapists)"
+  },
+  {
+    "findingId": "finding:rd-scores-2",
+    "claimId": "rd-scores-2",
+    "factId": "ahpra-2026",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one"
+  },
+  {
+    "findingId": "finding:rd-scores-3",
+    "claimId": "rd-scores-3",
+    "factId": "coru-radiography",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's table gives grade B in all four for radiographers"
+  },
+  {
+    "findingId": "finding:rd-fee-1",
+    "claimId": "rd-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:rd-fee-2",
+    "claimId": "rd-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:rd-practice-1",
+    "claimId": "rd-practice-1",
+    "factId": "oet-sample-radiography",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Radiography sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/radiography",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:rd-writing-1",
+    "claimId": "rd-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:rd-speaking-1",
+    "claimId": "rd-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:rd-score-meaning-1",
+    "claimId": "rd-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:rd-results-1",
+    "claimId": "rd-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:rd-results-2",
+    "claimId": "rd-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:rd-validity-1",
+    "claimId": "rd-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:rd-booking-1",
+    "claimId": "rd-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:rd-booking-2",
+    "claimId": "rd-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:rd-centres-1",
+    "claimId": "rd-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:rd-id-1",
+    "claimId": "rd-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:rd-reschedule-1",
+    "claimId": "rd-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:vt-format-1",
+    "claimId": "vt-format-1",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:vt-scores-1",
+    "claimId": "vt-scores-1",
+    "factId": "rcvs-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "RCVS — English language requirements",
+      "link": "https://www.rcvs.org.uk/veterinary-professionals/registration/join-the-register-of-veterinary-surgeons/english-language-requirements",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives overall B, B in three and C+ minimum"
+  },
+  {
+    "findingId": "finding:vt-scores-2",
+    "claimId": "vt-scores-2",
+    "factId": "vcnz-ab",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Veterinary Council of NZ — English competence policy",
+      "link": "https://vetcouncil.org.nz/common/Uploaded%20files/Web/Publications/Policies%20and%20Statements/EnglishCompetence.pdf",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the policy gives A or B in each and one sitting"
+  },
+  {
+    "findingId": "finding:vt-scores-3",
+    "claimId": "vt-scores-3",
+    "factId": "avbc-inperson",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "AVBC — English language standards",
+      "link": "https://avbc.asn.au/avbc-english-language-standards/",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page accepts in-person tests only"
+  },
+  {
+    "findingId": "finding:vt-fee-1",
+    "claimId": "vt-fee-1",
+    "factId": "oet-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears"
+  },
+  {
+    "findingId": "finding:vt-fee-2",
+    "claimId": "vt-fee-2",
+    "factId": "oet-subtest-fees",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists the single sub-test fees for the paper test"
+  },
+  {
+    "findingId": "finding:vt-practice-1",
+    "claimId": "vt-practice-1",
+    "factId": "oet-sample-veterinary-science",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Veterinary Science sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/veterinary-science",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card"
+  },
+  {
+    "findingId": "finding:vt-writing-1",
+    "claimId": "vt-writing-1",
+    "factId": "oet-writing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes"
+  },
+  {
+    "findingId": "finding:vt-speaking-1",
+    "claimId": "vt-speaking-1",
+    "factId": "oet-speaking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes"
+  },
+  {
+    "findingId": "finding:vt-score-meaning-1",
+    "claimId": "vt-score-meaning-1",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:vt-results-1",
+    "claimId": "vt-results-1",
+    "factId": "oet-results-computer",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home"
+  },
+  {
+    "findingId": "finding:vt-results-2",
+    "claimId": "vt-results-2",
+    "factId": "oet-results-paper",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 12 days for the paper test"
+  },
+  {
+    "findingId": "finding:vt-validity-1",
+    "claimId": "vt-validity-1",
+    "factId": "oet-validity",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page leaves validity to the recognising body"
+  },
+  {
+    "findingId": "finding:vt-booking-1",
+    "claimId": "vt-booking-1",
+    "factId": "oet-booking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-and-book route and the three formats"
+  },
+  {
+    "findingId": "finding:vt-booking-2",
+    "claimId": "vt-booking-2",
+    "factId": "oet-closing",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 24-day and 7-day closing rules"
+  },
+  {
+    "findingId": "finding:vt-centres-1",
+    "claimId": "vt-centres-1",
+    "factId": "oet-pk-venues",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore"
+  },
+  {
+    "findingId": "finding:vt-id-1",
+    "claimId": "vt-id-1",
+    "factId": "oet-id",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+  },
+  {
+    "findingId": "finding:vt-reschedule-1",
+    "claimId": "vt-reschedule-1",
+    "factId": "oet-reschedule",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
   }
 ]

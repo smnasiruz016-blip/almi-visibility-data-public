@@ -1,0 +1,642 @@
+{
+  "source": "AI_SUGGESTION",
+  "what": "The client's own AI research questions for the ten remaining professions (RR-264 fast way): formed from the product declaration, in the countries and languages the first two pages' needs showed (Roman Urdu included). INFERRED — never OBSERVED, never a volume.",
+  "label": "INFERRED",
+  "place": "NOT MEASURED — written for searchers in Pakistan, the UK, Australia, Ireland, New Zealand and the USA",
+  "language": "english and roman-urdu",
+  "date": "2026-10-14",
+  "suggestions": [
+    {
+      "text": "What is the OET for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Which OET sub-tests are specific to doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What OET score do doctors need?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What OET score do doctors need in Australia?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What OET score do doctors need in Ireland?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What OET score do doctors need in New Zealand?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What OET score do doctors need in the UK?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What OET score do doctors need in the USA?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How much does the OET cost for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What is the OET fee for doctors in Pakistan in rupees?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Pakistan mein doctors ke liye OET ki fee kitni hai?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Where can I find OET practice tests for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What does an OET score of 350 mean?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How long do OET results take?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How long is an OET result valid?",
+      "seed": "medicine"
+    },
+    {
+      "text": "How do I book the OET?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Where can I take the OET in Pakistan?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What ID do I need on OET test day?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Can I move my OET test to another date?",
+      "seed": "medicine"
+    },
+    {
+      "text": "Is the OET harder than IELTS for doctors?",
+      "seed": "medicine"
+    },
+    {
+      "text": "What is the OET for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Which OET sub-tests are specific to dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What OET score do dentists need?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Is the OET accepted for dentists in the UK?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What OET score do dentists need in Australia?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What OET score do dentists need in New Zealand?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What OET score do dentists need in Ireland?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "How much does the OET cost for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What is the OET fee for dentists in Pakistan in rupees?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Pakistan mein dentists ke liye OET ki fee kitni hai?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Where can I find OET practice tests for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "Is the OET harder than IELTS for dentists?",
+      "seed": "dentistry"
+    },
+    {
+      "text": "What is the OET for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Which OET sub-tests are specific to pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What OET score do pharmacists need?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What OET score do pharmacists need in Australia?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What OET score do pharmacists need in New Zealand?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Does Ireland accept the OET for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What OET score do pharmacists need in the UK?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "How much does the OET cost for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What is the OET fee for pharmacists in Pakistan in rupees?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Pakistan mein pharmacists ke liye OET ki fee kitni hai?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Where can I find OET practice tests for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "Is the OET harder than IELTS for pharmacists?",
+      "seed": "pharmacy"
+    },
+    {
+      "text": "What is the OET for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "Which OET sub-tests are specific to physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What OET score do physiotherapists need?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What OET score do physiotherapists need in the UK?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What OET score do physiotherapists need in Australia?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What OET score do physiotherapists need in Ireland?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What OET score do physiotherapists need in New Zealand?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "How much does the OET cost for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What is the OET fee for physiotherapists in Pakistan in rupees?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "Pakistan mein physiotherapists ke liye OET ki fee kitni hai?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "Where can I find OET practice tests for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "Is the OET harder than IELTS for physiotherapists?",
+      "seed": "physiotherapy"
+    },
+    {
+      "text": "What is the OET for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Which OET sub-tests are specific to occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What OET score do occupational therapists need?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What OET score do occupational therapists need in the UK?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What OET score do occupational therapists need in Australia?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What OET score do occupational therapists need in Ireland?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Does New Zealand accept the OET for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "How much does the OET cost for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What is the OET fee for occupational therapists in Pakistan in rupees?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Pakistan mein occupational therapists ke liye OET ki fee kitni hai?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Where can I find OET practice tests for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "Is the OET harder than IELTS for occupational therapists?",
+      "seed": "occupational-therapy"
+    },
+    {
+      "text": "What is the OET for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "Which OET sub-tests are specific to dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What OET score do dietitians need?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What OET score do dietitians need in the UK?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What OET score do dietitians need in Australia?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What OET score do dietitians need in New Zealand?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What OET score do dietitians need in Ireland?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "How much does the OET cost for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What is the OET fee for dietitians in Pakistan in rupees?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "Pakistan mein dietitians ke liye OET ki fee kitni hai?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "Where can I find OET practice tests for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "Is the OET harder than IELTS for dietitians?",
+      "seed": "dietetics"
+    },
+    {
+      "text": "What is the OET for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Which OET sub-tests are specific to optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What OET score do optometrists need?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Is the OET accepted for optometrists in the UK?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What OET score do optometrists need in Australia?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What OET score do optometrists need in New Zealand?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What OET score do optometrists need in Ireland?",
+      "seed": "optometry"
+    },
+    {
+      "text": "How much does the OET cost for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What is the OET fee for optometrists in Pakistan in rupees?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Pakistan mein optometrists ke liye OET ki fee kitni hai?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Where can I find OET practice tests for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "Is the OET harder than IELTS for optometrists?",
+      "seed": "optometry"
+    },
+    {
+      "text": "What is the OET for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "Which OET sub-tests are specific to podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What OET score do podiatrists need?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What OET score do podiatrists need in the UK?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What OET score do podiatrists need in Australia?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What OET score do podiatrists need in Ireland?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What OET score do podiatrists need in New Zealand?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "How much does the OET cost for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What is the OET fee for podiatrists in Pakistan in rupees?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "Pakistan mein podiatrists ke liye OET ki fee kitni hai?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "Where can I find OET practice tests for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "Is the OET harder than IELTS for podiatrists?",
+      "seed": "podiatry"
+    },
+    {
+      "text": "What is the OET for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "Which OET sub-tests are specific to radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What OET score do radiographers need?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What OET score do radiographers need in the UK?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What OET score do radiographers need in Australia?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What OET score do radiographers need in Ireland?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What OET score do radiographers need in New Zealand?",
+      "seed": "radiography"
+    },
+    {
+      "text": "How much does the OET cost for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What is the OET fee for radiographers in Pakistan in rupees?",
+      "seed": "radiography"
+    },
+    {
+      "text": "Pakistan mein radiographers ke liye OET ki fee kitni hai?",
+      "seed": "radiography"
+    },
+    {
+      "text": "Where can I find OET practice tests for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "Is the OET harder than IELTS for radiographers?",
+      "seed": "radiography"
+    },
+    {
+      "text": "What is the OET for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Which OET sub-tests are specific to veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "What OET score do veterinarians need?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "What OET score do veterinarians need in the UK?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "What OET score do veterinarians need in New Zealand?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Can veterinarians use OET@Home for Australia?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "What OET score do veterinarians need in Ireland?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "How much does the OET cost for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "What is the OET fee for veterinarians in Pakistan in rupees?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Pakistan mein veterinarians ke liye OET ki fee kitni hai?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Where can I find OET practice tests for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Are there OET Writing and Speaking samples for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "How does the OET Writing sub-test work for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "How long is the OET Speaking sub-test for veterinarians?",
+      "seed": "veterinary-science"
+    },
+    {
+      "text": "Is the OET harder than IELTS for veterinarians?",
+      "seed": "veterinary-science"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "note": "F12 (RR-260): every stored phrase and recorded question of this batch placed by MEANING. The grouping is the research agent's judgement (INFERRED), wording by wording; one wording is named per cleaned form and the others join by the declared clean-up. The owner's answers of 13 October 2026 are applied: 'this test or another test' is a recorded need; the login wordings are navigational. The owner's two corrections to the ten-item sample (13 October 2026) are applied: a wording that says only 'rupees' is not in the Pakistan part of the fee need; the practice-materials need is split into general practice and one Writing-and-Speaking-samples need per named profession.",
+  "note": "F12 (RR-260): every stored phrase and recorded question of this batch placed by MEANING. The grouping is the research agent's judgement (INFERRED), wording by wording; one wording is named per cleaned form and the others join by the declared clean-up. The owner's answers of 13 October 2026 are applied: 'this test or another test' is a recorded need; the login wordings are navigational. The owner's two corrections to the ten-item sample (13 October 2026) are applied: a wording that says only 'rupees' is not in the Pakistan part of the fee need; the practice-materials need is split into general practice and one Writing-and-Speaking-samples need per named profession. RR-264 (14 October 2026): the ten new pilot pages' questions (the client's own AI research, INFERRED) are placed where the research agent recorded them; the browser phrases of 14 October by stated rules (gen264b, the research agent's judgement, INFERRED); one score need and one practice need per new profession, each differing from the nursing need by a named fact. RR-264 (14 October 2026): the ten new pilot pages' questions (the client's own AI research, INFERRED) are placed where the research agent recorded them; the browser phrases of 14 October by stated rules (gen264b, the research agent's judgement, INFERRED); one score need and one practice need per new profession, each differing from the nursing need by a named fact.",
   "cleanUp": [
     "case",
     "spaces",
@@ -52,7 +52,26 @@
         "OET exam fees in UK",
         "How much does the OET Test cost?",
         "OET ki fee Pakistan mein kitni hai? (aik lakh se upar PKR, fail ho gaye to kitna nuqsaan?)",
-        "How much does the OET cost?"
+        "How much does the OET cost?",
+        "How much does the OET cost for doctors?",
+        "How much does the OET cost for dentists?",
+        "How much does the OET cost for pharmacists?",
+        "How much does the OET cost for physiotherapists?",
+        "How much does the OET cost for occupational therapists?",
+        "How much does the OET cost for dietitians?",
+        "How much does the OET cost for optometrists?",
+        "How much does the OET cost for podiatrists?",
+        "How much does the OET cost for radiographers?",
+        "How much does the OET cost for veterinarians?",
+        "oet medicine cost",
+        "oet medicine fees",
+        "oet for doctors price",
+        "how much is oet in new zealand",
+        "how much oet exam cost",
+        "how much does it cost for oet exam",
+        "how much is oet test",
+        "oet for doctors fees",
+        "oet doctors cost"
       ],
       "countryParts": [
         {
@@ -74,7 +93,30 @@
             "Oet fee in pakistan 2026",
             "OET exam fee in Pakistan",
             "oet fees in pkr",
-            "OET ki fee Pakistan mein kitni hai? (aik lakh se upar PKR, fail ho gaye to kitna nuqsaan?)"
+            "OET ki fee Pakistan mein kitni hai? (aik lakh se upar PKR, fail ho gaye to kitna nuqsaan?)",
+            "What is the OET fee for doctors in Pakistan in rupees?",
+            "Pakistan mein doctors ke liye OET ki fee kitni hai?",
+            "What is the OET fee for dentists in Pakistan in rupees?",
+            "Pakistan mein dentists ke liye OET ki fee kitni hai?",
+            "What is the OET fee for pharmacists in Pakistan in rupees?",
+            "Pakistan mein pharmacists ke liye OET ki fee kitni hai?",
+            "What is the OET fee for physiotherapists in Pakistan in rupees?",
+            "Pakistan mein physiotherapists ke liye OET ki fee kitni hai?",
+            "What is the OET fee for occupational therapists in Pakistan in rupees?",
+            "Pakistan mein occupational therapists ke liye OET ki fee kitni hai?",
+            "What is the OET fee for dietitians in Pakistan in rupees?",
+            "Pakistan mein dietitians ke liye OET ki fee kitni hai?",
+            "What is the OET fee for optometrists in Pakistan in rupees?",
+            "Pakistan mein optometrists ke liye OET ki fee kitni hai?",
+            "What is the OET fee for podiatrists in Pakistan in rupees?",
+            "Pakistan mein podiatrists ke liye OET ki fee kitni hai?",
+            "What is the OET fee for radiographers in Pakistan in rupees?",
+            "Pakistan mein radiographers ke liye OET ki fee kitni hai?",
+            "What is the OET fee for veterinarians in Pakistan in rupees?",
+            "Pakistan mein veterinarians ke liye OET ki fee kitni hai?",
+            "Oet for doctors pakistan price",
+            "Oet for doctors pakistan fees",
+            "Oet for doctors pakistan cost"
           ]
         }
       ]
@@ -116,7 +158,10 @@
         "Oet vs ielts which is better for",
         "Oet vs ielts vs ielt",
         "Which English test should a nurse take?",
-        "IELTS or OET for Nurses - Which Should You Take?"
+        "IELTS or OET for Nurses - Which Should You Take?",
+        "Which test is better for doctors, IELTS or OET?",
+        "IELTS or OET which is better for doctors",
+        "IELTS or OET: which is better for nurses"
       ]
     },
     {
@@ -135,7 +180,20 @@
         "oet vs ielts which is easier",
         "Is OET difficult to pass?",
         "OET vs IELTS difficulty",
-        "OET IELTS se mushkil hai ya aasan? (medical terms ki wajah se phans jaen ge?)"
+        "OET IELTS se mushkil hai ya aasan? (medical terms ki wajah se phans jaen ge?)",
+        "Is the OET harder than IELTS for doctors?",
+        "Is OET harder than IELTS?",
+        "Is the OET harder than IELTS for dentists?",
+        "Is the OET harder than IELTS for pharmacists?",
+        "Is the OET harder than IELTS for physiotherapists?",
+        "Is the OET harder than IELTS for occupational therapists?",
+        "Is the OET harder than IELTS for dietitians?",
+        "Is the OET harder than IELTS for optometrists?",
+        "Is the OET harder than IELTS for podiatrists?",
+        "Is the OET harder than IELTS for radiographers?",
+        "Is the OET harder than IELTS for veterinarians?",
+        "IELTS or OET which is easier",
+        "is oet exam difficult"
       ]
     },
     {
@@ -169,7 +227,21 @@
         "What grade is 300 in OET?",
         "OET score out of 42",
         "OET score calculator",
-        "OET score chart"
+        "OET score chart",
+        "What does an OET score of 350 mean?",
+        "What score is 350 in OET?",
+        "oet scoring system for doctors",
+        "How to calculate oet score for doctors in uk",
+        "What does an OET score of 350 mean for doctors?",
+        "What does an OET score of 350 mean for dentists?",
+        "What does an OET score of 350 mean for pharmacists?",
+        "What does an OET score of 350 mean for physiotherapists?",
+        "What does an OET score of 350 mean for occupational therapists?",
+        "What does an OET score of 350 mean for dietitians?",
+        "What does an OET score of 350 mean for optometrists?",
+        "What does an OET score of 350 mean for podiatrists?",
+        "What does an OET score of 350 mean for radiographers?",
+        "What does an OET score of 350 mean for veterinarians?"
       ]
     },
     {
@@ -313,7 +385,18 @@
             "oet centers in pakistan",
             "Oet exam center pakistan lahore",
             "Oet exam center pakistan near me",
-            "Pakistan mein OET ke test centers kahan hain? (Islamabad, Lahore, Karachi ke ilawa bhi?)"
+            "Pakistan mein OET ke test centers kahan hain? (Islamabad, Lahore, Karachi ke ilawa bhi?)",
+            "Where can I take the OET in Pakistan?",
+            "Where can doctors take the OET in Pakistan?",
+            "Where can dentists take the OET in Pakistan?",
+            "Where can pharmacists take the OET in Pakistan?",
+            "Where can physiotherapists take the OET in Pakistan?",
+            "Where can occupational therapists take the OET in Pakistan?",
+            "Where can dietitians take the OET in Pakistan?",
+            "Where can optometrists take the OET in Pakistan?",
+            "Where can podiatrists take the OET in Pakistan?",
+            "Where can radiographers take the OET in Pakistan?",
+            "Where can veterinarians take the OET in Pakistan?"
           ]
         }
       ]
@@ -331,7 +414,9 @@
         "oet pakistan dates",
         "OET exam dates 2026 Pakistan",
         "OET exam dates 2026",
-        "How often is the OET for Speech Pathology held?"
+        "How often is the OET for Speech Pathology held?",
+        "oet for doctors exam dates",
+        "oet test dates in new zealand 2023"
       ]
     },
     {
@@ -346,7 +431,18 @@
       "wordings": [
         "oet pakistan booking",
         "OET ka test kaise book karte hain?",
-        "How do I book the OET for Speech Pathology?"
+        "How do I book the OET for Speech Pathology?",
+        "How do I book the OET?",
+        "How do doctors book the OET?",
+        "How do dentists book the OET?",
+        "How do pharmacists book the OET?",
+        "How do physiotherapists book the OET?",
+        "How do occupational therapists book the OET?",
+        "How do dietitians book the OET?",
+        "How do optometrists book the OET?",
+        "How do podiatrists book the OET?",
+        "How do radiographers book the OET?",
+        "How do veterinarians book the OET?"
       ]
     },
     {
@@ -387,7 +483,51 @@
       "wordings": [
         "What is the OET exam for nurses?",
         "OET full form",
-        "What's in the OET test?"
+        "What's in the OET test?",
+        "What is the OET for doctors?",
+        "What is the OET test for doctors?",
+        "What is the OET exam for doctors?",
+        "What is the OET for dentists?",
+        "What is the OET for pharmacists?",
+        "What is the OET for physiotherapists?",
+        "What is the OET for occupational therapists?",
+        "What is the OET for dietitians?",
+        "What is the OET for optometrists?",
+        "What is the OET for podiatrists?",
+        "What is the OET for radiographers?",
+        "What is the OET for veterinarians?",
+        "oet for doctors",
+        "oet for doctors in uk",
+        "oet medicine",
+        "oet medicine examination",
+        "what is oet test for doctors",
+        "oet for pakistani doctors",
+        "OET stands for",
+        "oet for uk doctors",
+        "oet exam for doctors in uk",
+        "oet for medical doctors",
+        "oet for physicians",
+        "oet for ireland doctors",
+        "oet for dentists",
+        "oet dentistry exam",
+        "oet for dentist uk",
+        "oet for pharmacists",
+        "oet for pharmacy",
+        "oet for pharmacist in ireland",
+        "oet for pharmacist uk",
+        "oet for physiotherapists",
+        "oet for physiotherapist in uk",
+        "oet for physiotherapy",
+        "oet for occupational therapist",
+        "oet exam for occupational therapist",
+        "oet occupational therapy",
+        "oet test for dietitians",
+        "oet for dietitian",
+        "oet for optometrists",
+        "oet for podiatrists",
+        "oet for radiographers",
+        "oet for radiography",
+        "oet for veterinarians"
       ]
     },
     {
@@ -400,7 +540,17 @@
         "on": "2026-10-13"
       },
       "wordings": [
-        "Why are some of the OET sub-tests profession specific?"
+        "Why are some of the OET sub-tests profession specific?",
+        "Which OET sub-tests are specific to doctors?",
+        "Which OET sub-tests are specific to dentists?",
+        "Which OET sub-tests are specific to pharmacists?",
+        "Which OET sub-tests are specific to physiotherapists?",
+        "Which OET sub-tests are specific to occupational therapists?",
+        "Which OET sub-tests are specific to dietitians?",
+        "Which OET sub-tests are specific to optometrists?",
+        "Which OET sub-tests are specific to podiatrists?",
+        "Which OET sub-tests are specific to radiographers?",
+        "Which OET sub-tests are specific to veterinarians?"
       ]
     },
     {
@@ -482,7 +632,26 @@
         "oet speaking test sample pdf medicine",
         "oet writing samples for doctors pdf with answers",
         "oet writing samples for doctors pdf",
-        "oet writing samples for doctors"
+        "oet writing samples for doctors",
+        "Where can I find OET practice tests for doctors?",
+        "Are there OET Writing and Speaking samples for doctors?",
+        "Is there an OET book specifically for doctors?",
+        "oet for doctors sample test",
+        "oet for doctors online course",
+        "oet for doctors material",
+        "oet for doctors pdf",
+        "oet for doctors sample",
+        "Oet for doctors free",
+        "OET sample Test for doctors PDF",
+        "oet medicine official oet practice book 1",
+        "oet medicine sample test",
+        "oet medicine speaking role play cards",
+        "oet medicine writing samples",
+        "oet medicine practice test",
+        "Oet medicine pdf",
+        "Oet medicine practice",
+        "Oet medicine free",
+        "oet books for doctors in pakistan"
       ],
       "differsFrom": {
         "need": "practice-materials",
@@ -528,7 +697,9 @@
         "OET exam preparation",
         "How to pass OET in first attempt?",
         "OET preparation online",
-        "How much time do you need to prepare for OET?"
+        "How much time do you need to prepare for OET?",
+        "how to prepare for oet exam for doctors",
+        "doctors ke liye oet kaise kare"
       ]
     },
     {
@@ -563,7 +734,17 @@
         "Oet speaking test for nurses",
         "oet speaking rules",
         "How long is OET speaking?",
-        "How is the Speaking sub-test assessed?"
+        "How is the Speaking sub-test assessed?",
+        "How long is the OET Speaking sub-test for doctors?",
+        "How long is the OET Speaking sub-test for dentists?",
+        "How long is the OET Speaking sub-test for pharmacists?",
+        "How long is the OET Speaking sub-test for physiotherapists?",
+        "How long is the OET Speaking sub-test for occupational therapists?",
+        "How long is the OET Speaking sub-test for dietitians?",
+        "How long is the OET Speaking sub-test for optometrists?",
+        "How long is the OET Speaking sub-test for podiatrists?",
+        "How long is the OET Speaking sub-test for radiographers?",
+        "How long is the OET Speaking sub-test for veterinarians?"
       ]
     },
     {
@@ -578,7 +759,20 @@
       "wordings": [
         "How is the Writing sub-test marked?",
         "Writing task aur referral letter kaisay likhtay hain? (case notes se letter, practice kahan karain?)",
-        "Do you have to use a template for your OET Writing letter?"
+        "Do you have to use a template for your OET Writing letter?",
+        "How does the OET Writing sub-test work for doctors?",
+        "How does the OET Writing sub-test work for dentists?",
+        "How does the OET Writing sub-test work for pharmacists?",
+        "How does the OET Writing sub-test work for physiotherapists?",
+        "How does the OET Writing sub-test work for occupational therapists?",
+        "How does the OET Writing sub-test work for dietitians?",
+        "How does the OET Writing sub-test work for optometrists?",
+        "How does the OET Writing sub-test work for podiatrists?",
+        "How does the OET Writing sub-test work for radiographers?",
+        "How does the OET Writing sub-test work for veterinarians?",
+        "Oet medicine writing",
+        "doctors ke liye oet letter",
+        "oet writing for pharmacists"
       ]
     },
     {
@@ -592,7 +786,17 @@
       },
       "wordings": [
         "OET ka result kitne din mein aata hai?",
-        "How long do OET results take?"
+        "How long do OET results take?",
+        "How long do OET results take for doctors?",
+        "How long do OET results take for dentists?",
+        "How long do OET results take for pharmacists?",
+        "How long do OET results take for physiotherapists?",
+        "How long do OET results take for occupational therapists?",
+        "How long do OET results take for dietitians?",
+        "How long do OET results take for optometrists?",
+        "How long do OET results take for podiatrists?",
+        "How long do OET results take for radiographers?",
+        "How long do OET results take for veterinarians?"
       ]
     },
     {
@@ -606,7 +810,18 @@
       },
       "wordings": [
         "For how long are OET Test results valid?",
-        "OET ka result kitne saal tak valid rehta hai?"
+        "OET ka result kitne saal tak valid rehta hai?",
+        "How long is an OET result valid?",
+        "How long is an OET result valid for doctors?",
+        "How long is an OET result valid for dentists?",
+        "How long is an OET result valid for pharmacists?",
+        "How long is an OET result valid for physiotherapists?",
+        "How long is an OET result valid for occupational therapists?",
+        "How long is an OET result valid for dietitians?",
+        "How long is an OET result valid for optometrists?",
+        "How long is an OET result valid for podiatrists?",
+        "How long is an OET result valid for radiographers?",
+        "How long is an OET result valid for veterinarians?"
       ]
     },
     {
@@ -620,7 +835,17 @@
       },
       "wordings": [
         "Test day par passport zaroori hai ya CNIC chal jaye ga?",
-        "What ID do I need on OET test day?"
+        "What ID do I need on OET test day?",
+        "What ID do doctors need on OET test day?",
+        "What ID do dentists need on OET test day?",
+        "What ID do pharmacists need on OET test day?",
+        "What ID do physiotherapists need on OET test day?",
+        "What ID do occupational therapists need on OET test day?",
+        "What ID do dietitians need on OET test day?",
+        "What ID do optometrists need on OET test day?",
+        "What ID do podiatrists need on OET test day?",
+        "What ID do radiographers need on OET test day?",
+        "What ID do veterinarians need on OET test day?"
       ]
     },
     {
@@ -633,7 +858,18 @@
         "on": "2026-10-13"
       },
       "wordings": [
-        "Can I defer/reschedule my OET Test to a different date? How much does it cost?"
+        "Can I defer/reschedule my OET Test to a different date? How much does it cost?",
+        "Can I move my OET test to another date?",
+        "Can doctors move their OET test to another date?",
+        "Can dentists move their OET test to another date?",
+        "Can pharmacists move their OET test to another date?",
+        "Can physiotherapists move their OET test to another date?",
+        "Can occupational therapists move their OET test to another date?",
+        "Can dietitians move their OET test to another date?",
+        "Can optometrists move their OET test to another date?",
+        "Can podiatrists move their OET test to another date?",
+        "Can radiographers move their OET test to another date?",
+        "Can veterinarians move their OET test to another date?"
       ]
     },
     {
@@ -660,8 +896,870 @@
       },
       "wordings": [
         "oet speaking test at home",
-        "Kya Pakistan se OET ghar baith kar (OET@Home) de sakte hain?"
+        "Kya Pakistan se OET ghar baith kar (OET@Home) de sakte hain?",
+        "can i take oet exam online"
       ]
+    },
+    {
+      "need": "score-required-medicine",
+      "title": "Who accepts the OET for doctors, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for doctors and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do doctors need?",
+        "oet score for doctors",
+        "oet passing score for doctors",
+        "oet requirements for doctors"
+      ],
+      "countryParts": [
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for doctors",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do doctors need in Australia?",
+            "oet score for doctors in australia",
+            "oet requirements for doctors in australia",
+            "does australia accept oet for doctors"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for doctors",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do doctors need in Ireland?",
+            "oet score for doctors in ireland",
+            "oet requirement for ireland doctors",
+            "oet score for ireland doctors",
+            "oet validity for ireland for doctors"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for doctors",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do doctors need in New Zealand?",
+            "new zealand oet score for doctors"
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for doctors",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do doctors need in the UK?",
+            "What is the minimum OET score for the UK?",
+            "oet score for doctors in uk",
+            "oet score required for doctors in uk",
+            "oet score for uk doctors",
+            "oet requirements for uk doctors",
+            "oet passing score for doctors in uk",
+            "minimum oet score for uk doctors",
+            "Minimum oet score for doctors in uk"
+          ]
+        },
+        {
+          "country": "United States",
+          "fact": {
+            "statement": "the United States regulator sets its own OET result for doctors",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United States"
+          },
+          "wordings": [
+            "What OET score do doctors need in the USA?",
+            "oet score for usa doctors"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a doctor is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the medicine page)"
+        }
+      }
+    },
+    {
+      "need": "score-required-dentistry",
+      "title": "Who accepts the OET for dentists, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for dentists and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do dentists need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for dentists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "Is the OET accepted for dentists in the UK?"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for dentists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do dentists need in Australia?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for dentists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do dentists need in New Zealand?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for dentists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do dentists need in Ireland?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a dentist is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the dentistry page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-dentistry",
+      "title": "Where do I find OET Writing and Speaking samples for dentists?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for dentists: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for dentists?",
+        "Are there OET Writing and Speaking samples for dentists?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-pharmacy",
+      "title": "Who accepts the OET for pharmacists, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for pharmacists and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do pharmacists need?"
+      ],
+      "countryParts": [
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for pharmacists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do pharmacists need in Australia?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for pharmacists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do pharmacists need in New Zealand?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for pharmacists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "Does Ireland accept the OET for pharmacists?"
+          ]
+        },
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for pharmacists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do pharmacists need in the UK?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a pharmacist is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the pharmacy page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-pharmacy",
+      "title": "Where do I find OET Writing and Speaking samples for pharmacists?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for pharmacists: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for pharmacists?",
+        "Are there OET Writing and Speaking samples for pharmacists?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-physiotherapy",
+      "title": "Who accepts the OET for physiotherapists, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for physiotherapists and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do physiotherapists need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for physiotherapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do physiotherapists need in the UK?",
+            "oet score for physiotherapist in uk"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for physiotherapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do physiotherapists need in Australia?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for physiotherapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do physiotherapists need in Ireland?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for physiotherapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do physiotherapists need in New Zealand?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a physiotherapist is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the physiotherapy page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-physiotherapy",
+      "title": "Where do I find OET Writing and Speaking samples for physiotherapists?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for physiotherapists: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for physiotherapists?",
+        "Are there OET Writing and Speaking samples for physiotherapists?",
+        "oet for physiotherapist sample"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-occupational-therapy",
+      "title": "Who accepts the OET for occupational therapists, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for occupational therapists and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do occupational therapists need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for occupational therapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do occupational therapists need in the UK?"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for occupational therapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do occupational therapists need in Australia?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for occupational therapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do occupational therapists need in Ireland?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for occupational therapists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "Does New Zealand accept the OET for occupational therapists?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of an occupational therapist is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the occupational-therapy page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-occupational-therapy",
+      "title": "Where do I find OET Writing and Speaking samples for occupational therapists?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for occupational therapists: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for occupational therapists?",
+        "Are there OET Writing and Speaking samples for occupational therapists?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-dietetics",
+      "title": "Who accepts the OET for dietitians, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for dietitians and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do dietitians need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for dietitians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do dietitians need in the UK?"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for dietitians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do dietitians need in Australia?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for dietitians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do dietitians need in New Zealand?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for dietitians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do dietitians need in Ireland?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a dietitian is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the dietetics page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-dietetics",
+      "title": "Where do I find OET Writing and Speaking samples for dietitians?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for dietitians: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for dietitians?",
+        "Are there OET Writing and Speaking samples for dietitians?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-optometry",
+      "title": "Who accepts the OET for optometrists, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for optometrists and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do optometrists need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for optometrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "Is the OET accepted for optometrists in the UK?"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for optometrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do optometrists need in Australia?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for optometrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do optometrists need in New Zealand?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for optometrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do optometrists need in Ireland?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of an optometrist is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the optometry page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-optometry",
+      "title": "Where do I find OET Writing and Speaking samples for optometrists?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for optometrists: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for optometrists?",
+        "Are there OET Writing and Speaking samples for optometrists?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-podiatry",
+      "title": "Who accepts the OET for podiatrists, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for podiatrists and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do podiatrists need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for podiatrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do podiatrists need in the UK?"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for podiatrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do podiatrists need in Australia?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for podiatrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do podiatrists need in Ireland?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for podiatrists",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do podiatrists need in New Zealand?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a podiatrist is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the podiatry page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-podiatry",
+      "title": "Where do I find OET Writing and Speaking samples for podiatrists?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for podiatrists: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for podiatrists?",
+        "Are there OET Writing and Speaking samples for podiatrists?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-radiography",
+      "title": "Who accepts the OET for radiographers, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for radiographers and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do radiographers need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for radiographers",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do radiographers need in the UK?"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for radiographers",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "What OET score do radiographers need in Australia?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for radiographers",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do radiographers need in Ireland?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for radiographers",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do radiographers need in New Zealand?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a radiographer is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the radiography page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-radiography",
+      "title": "Where do I find OET Writing and Speaking samples for radiographers?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for radiographers: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for radiographers?",
+        "Are there OET Writing and Speaking samples for radiographers?",
+        "oet books for radiographers"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
+    },
+    {
+      "need": "score-required-veterinary-science",
+      "title": "Who accepts the OET for veterinarians, and what result do they ask for?",
+      "reason": "Every wording asks which regulator accepts the OET for veterinarians and the result it asks for, in whichever country is named.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "What OET score do veterinarians need?"
+      ],
+      "countryParts": [
+        {
+          "country": "United Kingdom",
+          "fact": {
+            "statement": "the United Kingdom regulator sets its own OET result for veterinarians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — United Kingdom"
+          },
+          "wordings": [
+            "What OET score do veterinarians need in the UK?"
+          ]
+        },
+        {
+          "country": "New Zealand",
+          "fact": {
+            "statement": "the New Zealand regulator sets its own OET result for veterinarians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — New Zealand"
+          },
+          "wordings": [
+            "What OET score do veterinarians need in New Zealand?"
+          ]
+        },
+        {
+          "country": "Australia",
+          "fact": {
+            "statement": "the Australia regulator sets its own OET result for veterinarians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Australia"
+          },
+          "wordings": [
+            "Can veterinarians use OET@Home for Australia?"
+          ]
+        },
+        {
+          "country": "Ireland",
+          "fact": {
+            "statement": "the Ireland regulator sets its own OET result for veterinarians",
+            "reference": "facts-registry-2026-10-14.json#facts (or #notFound where no answer was found) — Ireland"
+          },
+          "wordings": [
+            "What OET score do veterinarians need in Ireland?"
+          ]
+        }
+      ],
+      "differsFrom": {
+        "need": "score-required-nursing",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the result a regulator asks of a veterinarian is set for that profession (each regulator's own page, recorded in the fact registry of 14 October 2026), not the result the UK nursing regulator asks of a nurse (grade B, 350)",
+          "reference": "facts-registry-2026-10-14.json#facts (the score facts named on the veterinary-science page)"
+        }
+      }
+    },
+    {
+      "need": "practice-writing-speaking-veterinary-science",
+      "title": "Where do I find OET Writing and Speaking samples for veterinarians?",
+      "reason": "Every wording looks for OET practice or a Writing or Speaking sample made for veterinarians: the test provider states that Writing and Speaking are specific to the profession.",
+      "decidedBy": {
+        "kind": "AI",
+        "name": "research agent (actor:cc)",
+        "on": "2026-10-14"
+      },
+      "wordings": [
+        "Where can I find OET practice tests for veterinarians?",
+        "Are there OET Writing and Speaking samples for veterinarians?"
+      ],
+      "differsFrom": {
+        "need": "practice-materials",
+        "by": "PROFESSION",
+        "fact": {
+          "statement": "the test provider's own page marks Listening and Reading as common to all professions and Writing and Speaking as specific to the candidate's own profession: a Writing or Speaking sample made for one profession is not the answer for another",
+          "reference": "findings.json#finding:s-specific-1 (the test provider's own page https://oet.com/test/oet-test, read 2026-10-12) · fact registry oet.subtests-and-which-are-profession-specific (VERIFIED, official source)"
+        }
+      }
     }
   ],
   "navigational": [
@@ -744,6 +1842,58 @@
     "oet nurses exam",
     "oet speech",
     "oet for speech therapist",
-    "oet test"
+    "oet test",
+    "oet for doctors reddit",
+    "Oet for doctors for nurses",
+    "E2 OET for Doctors",
+    "OET on Computer",
+    "Oet medicine reddit",
+    "Oet medicine for nurses",
+    "oet doha",
+    "oet for qatar",
+    "Best oet for doctors pakistan",
+    "oet pass rate for doctors",
+    "is oet accepted in uk",
+    "oet requirements for uk",
+    "is oet accepted in australia",
+    "oet for uk",
+    "is oet accepted in usa",
+    "is oet accepted in ireland",
+    "oet ireland",
+    "oet for new zealand",
+    "is oet accepted in new zealand",
+    "what to take for oet exam",
+    "oet fees in qatar",
+    "doctors ke liye oet test",
+    "Oet score for doctors in uk for nurses",
+    "Clubbing OET score for UK",
+    "OET score for UK nurses",
+    "UK OET score for nurses clubbing",
+    "pet kya hai",
+    "pet kya hai in hindi",
+    "pet kya hai exam",
+    "pet kya hai isase kya hota hai",
+    "pet kya hai syllabus",
+    "pet kya hai question paper",
+    "pet kya hai puri jankari",
+    "pet kya hai full form",
+    "pet kya hai upsssc",
+    "GMC OET requirements",
+    "OET validity for GMC registration",
+    "oet guidelines",
+    "is oet accepted in canada",
+    "is oet valid in canada",
+    "occupational therapist in iceland",
+    "oet",
+    "how to take oet exam",
+    "what to bring for oet exam",
+    "oet diet",
+    "radiologist iceland",
+    "what to bring during oet exam",
+    "vet clinic reykjavik",
+    "emergency vet iceland",
+    "vet in iceland",
+    "vet reykjavik",
+    "veterinary clinic reykjavik"
   ]
 }

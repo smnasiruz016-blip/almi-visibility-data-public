@@ -3,13 +3,117 @@
   "pages": {
     "nursing": {
       "audience": "nursing",
-      "words": ["nurse", "nurses", "nursing"],
+      "words": [
+        "nurse",
+        "nurses",
+        "nursing"
+      ],
       "declaredOn": "2026-10-13"
     },
     "speech-pathology": {
       "audience": "speech-pathology",
-      "words": ["speech pathology", "speech pathologist", "speech pathologists", "speech therapist", "speech therapists", "speech and language therapist", "speech and language therapists", "speech-language therapist", "speech-language therapists"],
+      "words": [
+        "speech pathology",
+        "speech pathologist",
+        "speech pathologists",
+        "speech therapist",
+        "speech therapists",
+        "speech and language therapist",
+        "speech and language therapists",
+        "speech-language therapist",
+        "speech-language therapists"
+      ],
       "declaredOn": "2026-10-13"
+    },
+    "medicine": {
+      "audience": "medicine",
+      "words": [
+        "doctor",
+        "doctors",
+        "medicine"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "dentistry": {
+      "audience": "dentistry",
+      "words": [
+        "dentist",
+        "dentists",
+        "dentistry"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "pharmacy": {
+      "audience": "pharmacy",
+      "words": [
+        "pharmacist",
+        "pharmacists",
+        "pharmacy"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "physiotherapy": {
+      "audience": "physiotherapy",
+      "words": [
+        "physiotherapist",
+        "physiotherapists",
+        "physiotherapy"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "occupational-therapy": {
+      "audience": "occupational-therapy",
+      "words": [
+        "occupational therapist",
+        "occupational therapists",
+        "occupational therapy"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "dietetics": {
+      "audience": "dietetics",
+      "words": [
+        "dietitian",
+        "dietitians",
+        "dietetics"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "optometry": {
+      "audience": "optometry",
+      "words": [
+        "optometrist",
+        "optometrists",
+        "optometry"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "podiatry": {
+      "audience": "podiatry",
+      "words": [
+        "podiatrist",
+        "podiatrists",
+        "podiatry"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "radiography": {
+      "audience": "radiography",
+      "words": [
+        "radiographer",
+        "radiographers",
+        "radiography"
+      ],
+      "declaredOn": "2026-10-14"
+    },
+    "veterinary-science": {
+      "audience": "veterinary-science",
+      "words": [
+        "veterinarian",
+        "veterinarians",
+        "veterinary science"
+      ],
+      "declaredOn": "2026-10-14"
     }
   }
 }
