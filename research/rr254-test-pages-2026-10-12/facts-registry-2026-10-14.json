@@ -731,6 +731,60 @@
         "ref": "research agent (actor:cc)",
         "tool": "WebFetch"
       }
+    },
+    {
+      "factId": "ielts-academic-no-ranking",
+      "body": "IELTS (International English Language Testing System)",
+      "sourceName": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "text": "IELTS's own page on its Academic test does not say that OET or any other test is harder or easier.",
+      "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier",
+      "recheckDays": 90,
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "value": null,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "actor:cc (research agent)",
+        "tool": "WebFetch",
+        "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+      }
+    },
+    {
+      "factId": "ielts-reading-general-topics",
+      "body": "IELTS (International English Language Testing System)",
+      "sourceName": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "text": "IELTS Academic Reading texts are written for a non-specialist audience, on topics of general interest to university students.",
+      "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest",
+      "recheckDays": 90,
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "value": null,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "actor:cc (research agent)",
+        "tool": "WebFetch",
+        "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+      }
+    },
+    {
+      "factId": "ielts-band-scores",
+      "body": "IELTS (International English Language Testing System)",
+      "sourceName": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "text": "IELTS gives a band score from 0 to 9 for each of its four skills and an overall band score.",
+      "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four",
+      "recheckDays": 90,
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "value": null,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "actor:cc (research agent)",
+        "tool": "WebFetch",
+        "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+      }
     }
   ],
   "notFound": [
