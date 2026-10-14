@@ -1900,7 +1900,80 @@
             "9f56d8a84585451d82002e21b9fc62e1"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "md-uk-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Medical Council (UK)",
+                "text": "The UK's General Medical Council asks for at least grade B in Listening, Reading, Writing and Speaking in the OET Medicine.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Medical Council (UK)",
+                  "name": "GMC — Using your OET certificate",
+                  "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:md-uk-1"
+                }
+              },
+              {
+                "claimId": "md-uk-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Medical Council (UK)",
+                "text": "All four grades must come from the same test, in the applicant's most recent sitting.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Medical Council (UK)",
+                  "name": "GMC — Using your OET certificate",
+                  "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:md-uk-2"
+                }
+              },
+              {
+                "claimId": "md-uk-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Medical Council (UK)",
+                "text": "The GMC accepts OET on paper, OET on computer and OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Medical Council (UK)",
+                  "name": "GMC — Using your OET certificate",
+                  "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:md-uk-3"
+                }
+              },
+              {
+                "claimId": "md-uk-4",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Medical Council (UK)",
+                "text": "The GMC treats OET certificates as valid for two years.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Medical Council (UK)",
+                  "name": "GMC — Using your OET certificate",
+                  "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:md-uk-4"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:md-uk",
@@ -1913,7 +1986,62 @@
             "5be99d44870212099b3553a18819d58d"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "md-us-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                "text": "For the ECFMG Certification Pathways, applicants need at least 350 in Listening, Reading and Speaking and 300 in Writing in the OET Medicine, in one test administration.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                  "name": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+                  "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:md-us-1"
+                }
+              },
+              {
+                "claimId": "md-us-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                "text": "A Pathways applicant who misses the score in one sub-test must retake all four sub-tests, and retakes are not limited.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                  "name": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+                  "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:md-us-2"
+                }
+              },
+              {
+                "claimId": "md-us-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                "text": "For the 2027 Pathways, the OET score must be attained on or after 1 January 2025.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                  "name": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+                  "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:md-us-3"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:md-us",
@@ -3230,7 +3358,62 @@
             "770e824fdb703fdc7fab986ec28c0cd5"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "ph-uk-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Pharmaceutical Council (UK)",
+                "text": "The UK's General Pharmaceutical Council accepts a recent pass of the Pharmacy OET as evidence of English language competence.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Pharmaceutical Council (UK)",
+                  "name": "GPhC — Language requirements",
+                  "link": "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:ph-uk-1"
+                }
+              },
+              {
+                "claimId": "ph-uk-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Pharmaceutical Council (UK)",
+                "text": "The GPhC's language requirements page names no minimum OET score.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Pharmaceutical Council (UK)",
+                  "name": "GPhC — Language requirements",
+                  "link": "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:ph-uk-2"
+                }
+              },
+              {
+                "claimId": "ph-uk-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Pharmaceutical Council (UK)",
+                "text": "The requirement applies to everyone registering with the GPhC, wherever they trained or practised.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Pharmaceutical Council (UK)",
+                  "name": "GPhC — Language requirements",
+                  "link": "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:ph-uk-3"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:ph-uk",
@@ -3883,7 +4066,44 @@
             "19fa51019679868adc18f5f7cc8c0f89"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "pt-nz-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Physiotherapy Board of New Zealand",
+                "text": "The Physiotherapy Board of New Zealand asks for at least 350 in Reading, Listening and Speaking and 300 in Writing in the OET.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Physiotherapy Board of New Zealand",
+                  "name": "Physiotherapy Board of New Zealand — English proficiency evidence",
+                  "link": "https://physioboard.org.nz/faq/english-proficiency-evidence",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:pt-nz-1"
+                }
+              },
+              {
+                "claimId": "pt-nz-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Physiotherapy Board of New Zealand",
+                "text": "OET results must be less than two years old on the date the application is submitted.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Physiotherapy Board of New Zealand",
+                  "name": "Physiotherapy Board of New Zealand — English proficiency evidence",
+                  "link": "https://physioboard.org.nz/faq/english-proficiency-evidence",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:pt-nz-2"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:pt-nz",
@@ -7819,7 +8039,62 @@
             "d631997dcdc62e257e21faab88011306"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "vt-ie-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Veterinary Council of Ireland",
+                "text": "The Veterinary Council of Ireland accepts an OET certificate with grade B or above, from an in-person exam only.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Veterinary Council of Ireland",
+                  "name": "Veterinary Council of Ireland — English language requirements for registration",
+                  "link": "https://www.vci.ie/english-language-requirements-for-registration",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:vt-ie-1"
+                }
+              },
+              {
+                "claimId": "vt-ie-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Veterinary Council of Ireland",
+                "text": "The certificate must be no older than two years on the date of submission.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Veterinary Council of Ireland",
+                  "name": "Veterinary Council of Ireland — English language requirements for registration",
+                  "link": "https://www.vci.ie/english-language-requirements-for-registration",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:vt-ie-2"
+                }
+              },
+              {
+                "claimId": "vt-ie-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Veterinary Council of Ireland",
+                "text": "The rule applies to applicants who obtained their qualification outside Ireland.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Veterinary Council of Ireland",
+                  "name": "Veterinary Council of Ireland — English language requirements for registration",
+                  "link": "https://www.vci.ie/english-language-requirements-for-registration",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:vt-ie-3"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:vt-ie",

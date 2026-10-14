@@ -1508,5 +1508,80 @@
     "claimId": "vt-difficulty-gv5",
     "recheckDays": 90,
     "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "md-uk-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "md-uk-2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "md-uk-3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "md-uk-4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "md-us-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "md-us-2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "md-us-3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "ph-uk-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "ph-uk-2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "ph-uk-3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "pt-nz-1",
+    "recheckDays": 30,
+    "why": "the page was updated on 13 October 2026 and contradicts itself on sittings: recheck every month (the reads file's interval)"
+  },
+  {
+    "claimId": "pt-nz-2",
+    "recheckDays": 30,
+    "why": "the page was updated on 13 October 2026 and contradicts itself on sittings: recheck every month (the reads file's interval)"
+  },
+  {
+    "claimId": "vt-ie-1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "vt-ie-2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "vt-ie-3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
   }
 ]
