@@ -1,0 +1,26 @@
+{
+  "note": "RR-265 (owner decision item 3): a general view for a question no official source answers. GENERAL_VIEW, INFERRED — the client's own AI research, recorded with its source; never in the FAQ structured data; shown only after the sourced parts (that no official page ranks one test as harder, and the real differences from the test owners' own pages); attributes no view to people; disparages no product.",
+  "views": [
+    {
+      "id": "oet-vs-ielts-difficulty",
+      "text": "Which test feels harder depends on the candidate's own strengths: OET's Writing and Speaking come from healthcare work, while IELTS uses general topics.",
+      "label": "INFERRED",
+      "kind": "GENERAL_VIEW",
+      "source": "the client's own AI research (14 Oct 2026)",
+      "recordedBy": "actor:cc (the client's own AI)",
+      "recordedOn": "2026-10-14",
+      "usedBy": [
+        "medicine:md-difficulty",
+        "dentistry:dn-difficulty",
+        "pharmacy:ph-difficulty",
+        "physiotherapy:pt-difficulty",
+        "occupational-therapy:ot-difficulty",
+        "dietetics:dt-difficulty",
+        "optometry:op-difficulty",
+        "podiatry:pd-difficulty",
+        "radiography:rd-difficulty",
+        "veterinary-science:vt-difficulty"
+      ]
+    }
+  ]
+}

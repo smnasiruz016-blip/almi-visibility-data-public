@@ -13,7 +13,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page describes the healthcare content of each skill for nurses and makes no easier/harder comparison"
+    "whatSupportsIt": "the page describes the healthcare content of each skill for nurses and makes no easier/harder comparison",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-fee-1",
@@ -29,7 +31,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 for the USA; no rupee amount appears"
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 for the USA; no rupee amount appears",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-centres-1",
@@ -77,7 +81,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives 45 minutes (5 reading, 40 writing), a profession-specific formal letter based on case notes, 180–200 words"
+    "whatSupportsIt": "the page gives 45 minutes (5 reading, 40 writing), a profession-specific formal letter based on case notes, 180–200 words",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-writing-2",
@@ -109,7 +115,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives the search-for-a-test booking route and the 24-day and 7-day closing rules"
+    "whatSupportsIt": "the page gives the search-for-a-test booking route and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-format-1",
@@ -173,7 +181,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page lists B (350) for Listening, Reading, Speaking and C+ (300) for Writing, the 12-month combining rule and the two-year limit"
+    "whatSupportsIt": "the page lists B (350) for Listening, Reading, Speaking and C+ (300) for Writing, the 12-month combining rule and the two-year limit",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-scores-au",
@@ -189,7 +199,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page's two tables give the scores before and from 23 April 2026"
+    "whatSupportsIt": "the page's two tables give the scores before and from 23 April 2026",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-scores-ie",
@@ -205,7 +217,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page states grade B in three components and C+ in one, results under two years old, no combined results, no OET at home"
+    "whatSupportsIt": "the page states grade B in three components and C+ in one, results under two years old, no combined results, no OET at home",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-scores-nz",
@@ -221,7 +235,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives 350/350/350 and 300, the 12-month rule and the approved-centre rule"
+    "whatSupportsIt": "the page gives 350/350/350 and 300, the 12-month rule and the approved-centre rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-reschedule-1",
@@ -237,7 +253,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the article lists AU$120 before and AU$200 after bookings close, and the two deadlines"
+    "whatSupportsIt": "the article lists AU$120 before and AU$200 after bookings close, and the two deadlines",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-prep-1",
@@ -301,7 +319,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-retake-1",
@@ -349,7 +369,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "browser (page text)"
     },
-    "whatSupportsIt": "section 1.2.1 of the guide states the two bands, the 6-month age limit, the two-attempt limit and the all-four-components rule"
+    "whatSupportsIt": "section 1.2.1 of the guide states the two bands, the 6-month age limit, the two-attempt limit and the all-four-components rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:s-uk-1",
@@ -365,7 +387,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives 1800 total with no element below 400 for speech and language therapists, the two-year limit and the test-centre rule"
+    "whatSupportsIt": "the page gives 1800 total with no element below 400 for speech and language therapists, the two-year limit and the test-centre rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:s-ie-1",
@@ -381,7 +405,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives B (400) in three components and B (350) in one, the two-year rule, the two-sittings rule and that online/at-home OET is accepted"
+    "whatSupportsIt": "the page gives B (400) in three components and B (350) in one, the two-year rule, the two-sittings rule and that online/at-home OET is accepted",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:s-specific-1",
@@ -429,7 +455,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives the duration, the two 5-minute role-plays, the recording and the two assessors with the two criteria types"
+    "whatSupportsIt": "the page gives the duration, the two 5-minute role-plays, the recording and the two assessors with the two criteria types",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:s-materials-1",
@@ -509,7 +537,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives the search-for-a-test booking route and the 24-day and 7-day closing rules"
+    "whatSupportsIt": "the page gives the search-for-a-test booking route and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:s-id-1",
@@ -525,7 +555,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the regulations list passport and national ID with these conditions"
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-dates-1",
@@ -541,7 +573,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page gives the search-for-a-test route for dates and venues and the 24-day and 7-day closing rules"
+    "whatSupportsIt": "the page gives the search-for-a-test route for dates and venues and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-dates-2",
@@ -589,7 +623,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page lists AU$587 for the full test; the comparison is with the price list named in the next statement"
+    "whatSupportsIt": "the page lists AU$587 for the full test; the comparison is with the price list named in the next statement",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-cheaper-2",
@@ -605,7 +641,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "Chrome (the PDF opened on the publisher's own site and its text read)"
     },
-    "whatSupportsIt": "rows 1 to 3 of the price list: IELTS (P&P) and IELTS (CD) test registration fee 76,240 in the first city group and 75,600 in the other four; IELTS UKVI CD 78,820 in all five"
+    "whatSupportsIt": "rows 1 to 3 of the price list: IELTS (P&P) and IELTS (CD) test registration fee 76,240 in the first city group and 75,600 in the other four; IELTS UKVI CD 78,820 in all five",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-cheaper-3",
@@ -621,7 +659,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page lists the 1, 2 and 3 sub-test prices for OET on Paper"
+    "whatSupportsIt": "the page lists the 1, 2 and 3 sub-test prices for OET on Paper",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:n-cheaper-4",
@@ -637,7 +677,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "Chrome"
     },
-    "whatSupportsIt": "the page says One Skill Retake lets a candidate retake any one of the four skills and is available for IELTS Academic and General Training on computer and IELTS for UKVI on computer; the price list read has no row for it"
+    "whatSupportsIt": "the page says One Skill Retake lets a candidate retake any one of the four skills and is available for IELTS Academic and General Training on computer and IELTS for UKVI on computer; the price list read has no row for it",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:s-score350-1",
@@ -653,7 +695,9 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page says grade B is a scale score of 350 and that grade B typically corresponds to at least 30 of 42 marks in Reading and Listening"
+    "whatSupportsIt": "the page says grade B is a scale score of 350 and that grade B typically corresponds to at least 30 of 42 marks in Reading and Listening",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
   {
     "findingId": "finding:md-format-1",
@@ -3782,5 +3826,1398 @@
       "tool": "WebFetch"
     },
     "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees"
+  },
+  {
+    "findingId": "finding:n-fee-1-b",
+    "claimId": "n-fee-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists AU$587 for the full test and US$455 for the USA; no rupee amount appears",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-fee-1"
+  },
+  {
+    "findingId": "finding:n-cheaper-2-b",
+    "claimId": "n-cheaper-2-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "British Council Pakistan — IELTS price list (effective 2 July 2026)",
+      "link": "https://www.britishcouncil.pk/sites/default/files/pricing_document_effective_2nd_july_2026.pdf",
+      "readOn": "2026-10-13"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "Chrome (the PDF opened on the publisher's own site and its text read)"
+    },
+    "whatSupportsIt": "rows 1 to 3 of the price list: IELTS (P&P) and IELTS (CD) test registration fee 76,240 in the first city group and 75,600 in the other four; IELTS UKVI CD 78,820 in all five",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-cheaper-2"
+  },
+  {
+    "findingId": "finding:n-cheaper-4-b",
+    "claimId": "n-cheaper-4-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "British Council Pakistan — IELTS One Skill Retake",
+      "link": "https://www.britishcouncil.pk/exam/ielts/one-skill-retake",
+      "readOn": "2026-10-13"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "Chrome"
+    },
+    "whatSupportsIt": "the page says One Skill Retake lets a candidate retake any one of the four skills and is available for IELTS Academic and General Training on computer and IELTS for UKVI on computer; the price list read has no row for it",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-cheaper-4"
+  },
+  {
+    "findingId": "finding:n-dates-1-b",
+    "claimId": "n-dates-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-for-a-test route for dates and venues and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-dates-1"
+  },
+  {
+    "findingId": "finding:n-booking-1-b",
+    "claimId": "n-booking-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-for-a-test booking route and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-booking-1"
+  },
+  {
+    "findingId": "finding:n-scores-uk-b",
+    "claimId": "n-scores-uk-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Nursing and Midwifery Council (UK) — Accepted English language tests",
+      "link": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists B (350) for Listening, Reading, Speaking and C+ (300) for Writing, the 12-month combining rule and the two-year limit",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-scores-uk"
+  },
+  {
+    "findingId": "finding:n-scores-uk-c",
+    "claimId": "n-scores-uk-c",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Nursing and Midwifery Council (UK) — Accepted English language tests",
+      "link": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page lists B (350) for Listening, Reading, Speaking and C+ (300) for Writing, the 12-month combining rule and the two-year limit",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-scores-uk"
+  },
+  {
+    "findingId": "finding:n-scores-au-b",
+    "claimId": "n-scores-au-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page's two tables give the scores before and from 23 April 2026",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-scores-au"
+  },
+  {
+    "findingId": "finding:n-scores-ie-b",
+    "claimId": "n-scores-ie-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "NMBI — English language requirements",
+      "link": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page states grade B in three components and C+ in one, results under two years old, no combined results, no OET at home",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-scores-ie"
+  },
+  {
+    "findingId": "finding:n-scores-nz-b",
+    "claimId": "n-scores-nz-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Nursing Council of New Zealand — English language requirement",
+      "link": "https://nursingcouncil.org.nz/IQN/IQN/H8.aspx",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 350/350/350 and 300, the 12-month rule and the approved-centre rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-scores-nz"
+  },
+  {
+    "findingId": "finding:n-scores-nz-c",
+    "claimId": "n-scores-nz-c",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Nursing Council of New Zealand — English language requirement",
+      "link": "https://nursingcouncil.org.nz/IQN/IQN/H8.aspx",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 350/350/350 and 300, the 12-month rule and the approved-centre rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-scores-nz"
+  },
+  {
+    "findingId": "finding:n-writing-1-b",
+    "claimId": "n-writing-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 45 minutes (5 reading, 40 writing), a profession-specific formal letter based on case notes, 180–200 words",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-writing-1"
+  },
+  {
+    "findingId": "finding:n-difficulty-1-b",
+    "claimId": "n-difficulty-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Which English test should a nurse take?",
+      "link": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page describes the healthcare content of each skill for nurses and makes no easier/harder comparison",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-difficulty-1"
+  },
+  {
+    "findingId": "finding:n-reschedule-1-b",
+    "claimId": "n-reschedule-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the article lists AU$120 before and AU$200 after bookings close, and the two deadlines",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-reschedule-1"
+  },
+  {
+    "findingId": "finding:n-id-1-b",
+    "claimId": "n-id-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-id-1"
+  },
+  {
+    "findingId": "finding:n-id-1-c",
+    "claimId": "n-id-1-c",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-id-1"
+  },
+  {
+    "findingId": "finding:s-score350-1-b",
+    "claimId": "s-score350-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page says grade B is a scale score of 350 and that grade B typically corresponds to at least 30 of 42 marks in Reading and Listening",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-score350-1"
+  },
+  {
+    "findingId": "finding:s-speaking-1-b",
+    "claimId": "s-speaking-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the duration, the two 5-minute role-plays, the recording and the two assessors with the two criteria types",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-speaking-1"
+  },
+  {
+    "findingId": "finding:s-au-1-b",
+    "claimId": "s-au-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Speech Pathology Australia — OSQCA application guide, 1.2.1 Occupational English Test requirements",
+      "link": "https://www.speechpathologyaustralia.org.au/Public/Public/Certification-and-universities/Becoming-certified/OSQCA-application-guide.aspx",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "browser (page text)"
+    },
+    "whatSupportsIt": "section 1.2.1 of the guide states the two bands, the 6-month age limit, the two-attempt limit and the all-four-components rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-au-1"
+  },
+  {
+    "findingId": "finding:s-au-1-c",
+    "claimId": "s-au-1-c",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "Speech Pathology Australia — OSQCA application guide, 1.2.1 Occupational English Test requirements",
+      "link": "https://www.speechpathologyaustralia.org.au/Public/Public/Certification-and-universities/Becoming-certified/OSQCA-application-guide.aspx",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "browser (page text)"
+    },
+    "whatSupportsIt": "section 1.2.1 of the guide states the two bands, the 6-month age limit, the two-attempt limit and the all-four-components rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-au-1"
+  },
+  {
+    "findingId": "finding:s-uk-1-b",
+    "claimId": "s-uk-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 1800 total with no element below 400 for speech and language therapists, the two-year limit and the test-centre rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-uk-1"
+  },
+  {
+    "findingId": "finding:s-uk-1-c",
+    "claimId": "s-uk-1-c",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives 1800 total with no element below 400 for speech and language therapists, the two-year limit and the test-centre rule",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-uk-1"
+  },
+  {
+    "findingId": "finding:s-ie-1-b",
+    "claimId": "s-ie-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives B (400) in three components and B (350) in one, the two-year rule, the two-sittings rule and that online/at-home OET is accepted",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-ie-1"
+  },
+  {
+    "findingId": "finding:s-ie-1-c",
+    "claimId": "s-ie-1-c",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "CORU — Language requirements",
+      "link": "https://coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives B (400) in three components and B (350) in one, the two-year rule, the two-sittings rule and that online/at-home OET is accepted",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-ie-1"
+  },
+  {
+    "findingId": "finding:s-booking-1-b",
+    "claimId": "s-booking-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-for-a-test booking route and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-booking-1"
+  },
+  {
+    "findingId": "finding:s-id-1-b",
+    "claimId": "s-id-1-b",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-id-1"
+  },
+  {
+    "findingId": "finding:s-id-1-c",
+    "claimId": "s-id-1-c",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the regulations list passport and national ID with these conditions",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "s-id-1"
+  },
+  {
+    "findingId": "finding:md-difficulty-gv1",
+    "claimId": "md-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:md-difficulty-gv2",
+    "claimId": "md-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:md-difficulty-gv3",
+    "claimId": "md-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:md-difficulty-gv4",
+    "claimId": "md-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:md-difficulty-gv5",
+    "claimId": "md-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:dn-difficulty-gv1",
+    "claimId": "dn-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:dn-difficulty-gv2",
+    "claimId": "dn-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:dn-difficulty-gv3",
+    "claimId": "dn-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:dn-difficulty-gv4",
+    "claimId": "dn-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:dn-difficulty-gv5",
+    "claimId": "dn-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:ph-difficulty-gv1",
+    "claimId": "ph-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:ph-difficulty-gv2",
+    "claimId": "ph-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:ph-difficulty-gv3",
+    "claimId": "ph-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:ph-difficulty-gv4",
+    "claimId": "ph-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:ph-difficulty-gv5",
+    "claimId": "ph-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:pt-difficulty-gv1",
+    "claimId": "pt-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:pt-difficulty-gv2",
+    "claimId": "pt-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:pt-difficulty-gv3",
+    "claimId": "pt-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:pt-difficulty-gv4",
+    "claimId": "pt-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:pt-difficulty-gv5",
+    "claimId": "pt-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:ot-difficulty-gv1",
+    "claimId": "ot-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:ot-difficulty-gv2",
+    "claimId": "ot-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:ot-difficulty-gv3",
+    "claimId": "ot-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:ot-difficulty-gv4",
+    "claimId": "ot-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:ot-difficulty-gv5",
+    "claimId": "ot-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:dt-difficulty-gv1",
+    "claimId": "dt-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:dt-difficulty-gv2",
+    "claimId": "dt-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:dt-difficulty-gv3",
+    "claimId": "dt-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:dt-difficulty-gv4",
+    "claimId": "dt-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:dt-difficulty-gv5",
+    "claimId": "dt-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:op-difficulty-gv1",
+    "claimId": "op-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:op-difficulty-gv2",
+    "claimId": "op-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:op-difficulty-gv3",
+    "claimId": "op-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:op-difficulty-gv4",
+    "claimId": "op-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:op-difficulty-gv5",
+    "claimId": "op-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:pd-difficulty-gv1",
+    "claimId": "pd-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:pd-difficulty-gv2",
+    "claimId": "pd-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:pd-difficulty-gv3",
+    "claimId": "pd-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:pd-difficulty-gv4",
+    "claimId": "pd-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:pd-difficulty-gv5",
+    "claimId": "pd-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:rd-difficulty-gv1",
+    "claimId": "rd-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:rd-difficulty-gv2",
+    "claimId": "rd-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:rd-difficulty-gv3",
+    "claimId": "rd-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:rd-difficulty-gv4",
+    "claimId": "rd-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:rd-difficulty-gv5",
+    "claimId": "rd-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
+  },
+  {
+    "findingId": "finding:vt-difficulty-gv1",
+    "claimId": "vt-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier"
+  },
+  {
+    "findingId": "finding:vt-difficulty-gv2",
+    "claimId": "vt-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific"
+  },
+  {
+    "findingId": "finding:vt-difficulty-gv3",
+    "claimId": "vt-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest"
+  },
+  {
+    "findingId": "finding:vt-difficulty-gv4",
+    "claimId": "vt-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350"
+  },
+  {
+    "findingId": "finding:vt-difficulty-gv5",
+    "claimId": "vt-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four"
   }
 ]

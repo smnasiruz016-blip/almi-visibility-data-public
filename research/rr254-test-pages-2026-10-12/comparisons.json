@@ -67,7 +67,7 @@
             "value": "at least two OET sub-test results in the 450 to 500 band and two in the 400 to 500 band"
           },
           {
-            "claimId": "s-au-1",
+            "claimId": "s-au-1-b",
             "value": "no more than 6 months old"
           }
         ]
@@ -80,7 +80,7 @@
             "value": "at least 1800 with no sub-test below 400"
           },
           {
-            "claimId": "s-uk-1",
+            "claimId": "s-uk-1-b",
             "value": "no more than two years old"
           }
         ]
@@ -93,7 +93,7 @@
             "value": "at least grade B (400) in three components and B (350) in one"
           },
           {
-            "claimId": "s-ie-1",
+            "claimId": "s-ie-1-b",
             "value": "within two years"
           }
         ]

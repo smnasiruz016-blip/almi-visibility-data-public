@@ -1123,5 +1123,390 @@
     "claimId": "vt-reschedule-1",
     "recheckDays": 30,
     "why": "prices, dates, venues, booking and timing details change without notice: recheck monthly (the shared fact's interval)"
+  },
+  {
+    "claimId": "n-fee-1-b",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-cheaper-2-b",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-cheaper-4-b",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-dates-1-b",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-booking-1-b",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-scores-uk-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-uk-c",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-au-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-ie-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-nz-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-nz-c",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-writing-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-difficulty-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-reschedule-1-b",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "n-id-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-id-1-c",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-score350-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-speaking-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-au-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-au-1-c",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-uk-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-uk-1-c",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-ie-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-ie-1-c",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-booking-1-b",
+    "recheckDays": 30,
+    "why": "prices, dates, venues, booking and contact details change without notice: recheck monthly"
+  },
+  {
+    "claimId": "s-id-1-b",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-id-1-c",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "md-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "md-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "md-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "md-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "md-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dn-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dn-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dn-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dn-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dn-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ph-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ph-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ph-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ph-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ph-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pt-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pt-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pt-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pt-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pt-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ot-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ot-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ot-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ot-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "ot-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dt-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dt-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dt-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dt-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "dt-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "op-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "op-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "op-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "op-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "op-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pd-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pd-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pd-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pd-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "pd-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "rd-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "rd-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "rd-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "rd-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "rd-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "vt-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "vt-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "vt-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "vt-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "vt-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
   }
 ]
