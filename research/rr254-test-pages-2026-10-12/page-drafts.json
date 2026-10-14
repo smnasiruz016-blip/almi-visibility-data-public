@@ -545,18 +545,15 @@
           },
           "productAnswers": [
             "practice-all-four-sub-tests",
-            "ai-feedback-writing-and-speaking",
-            "original-material",
-            "adaptive-difficulty",
-            "free-trial-length",
-            "price-pro-monthly"
+            "ai-feedback-writing-and-speaking"
           ],
           "lead": "PRODUCT_STATEMENTS",
           "leadRef": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-13_RR-261_PRACTICE_NEEDS_LEAD_WITH_OWN_PRACTICE.md",
           "sameness": {
             "judgementRef": "sameness:n-prep",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
-          }
+          },
+          "productAnswersRef": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-14_RR-262_PRACTICE_ITEM_TWO_CARDS_ONE_BUTTON.md"
         },
         {
           "key": "n-difficulty",
@@ -902,7 +899,8 @@
           "sameness": {
             "judgementRef": "sameness:s-materials",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
-          }
+          },
+          "productAnswersRef": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-14_RR-262_PRACTICE_ITEM_TWO_CARDS_ONE_BUTTON.md"
         },
         {
           "key": "s-au",
