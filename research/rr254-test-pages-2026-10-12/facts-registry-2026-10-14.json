@@ -1,5 +1,5 @@
 {
-  "note": "RR-264: every fact the ten new pages use, recorded ONCE (one sentence, one claim, one tier-1 source each) and reused by every page that needs it; and every read that found no answer. Read 14 October 2026 by research agents of actor:cc, public pages only, no login.",
+  "note": "RR-264: every fact the ten new pages use, recorded ONCE (one sentence, one claim, one tier-1 source each) and reused by every page that needs it; and every read that found no answer. Read 14 October 2026 by research agents of actor:cc, public pages only, no login. RR-266: five regulator pages that blocked the engine (GMC, ECFMG, GPhC, NZ physiotherapy, VCI) were read by beta-g in the Claude desktop app's built-in browser, route \"client browser\"; their NOT FOUND entries are kept, marked resolved.",
   "facts": [
     {
       "factId": "oet-fee",
@@ -785,6 +785,291 @@
         "tool": "WebFetch",
         "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
       }
+    },
+    {
+      "factId": "gmc-grade-b",
+      "body": "General Medical Council (UK)",
+      "sourceName": "GMC — Using your OET certificate",
+      "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The UK's General Medical Council asks for at least grade B in Listening, Reading, Writing and Speaking in the OET Medicine.",
+      "whatSupportsIt": "the page asks for \"at least a grade 'B' in each testing area (speaking, listening, reading and writing)\" and says \"You must take the Medicine version of the test.\"",
+      "value": "grade B",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "gmc-one-sitting",
+      "body": "General Medical Council (UK)",
+      "sourceName": "GMC — Using your OET certificate",
+      "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "All four grades must come from the same test, in the applicant's most recent sitting.",
+      "whatSupportsIt": "the page says the grades must be \"in the same test\" and \"in your most recent sitting\"",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "gmc-formats",
+      "body": "General Medical Council (UK)",
+      "sourceName": "GMC — Using your OET certificate",
+      "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The GMC accepts OET on paper, OET on computer and OET@Home.",
+      "whatSupportsIt": "the page names OET on paper, OET on computer and OET@Home as accepted",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "gmc-two-years",
+      "body": "General Medical Council (UK)",
+      "sourceName": "GMC — Using your OET certificate",
+      "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The GMC treats OET certificates as valid for two years.",
+      "whatSupportsIt": "the page says \"OET certificates are valid for two years.\"",
+      "value": "two years",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "ecfmg-pathways-scores",
+      "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+      "sourceName": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+      "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "For the ECFMG Certification Pathways, applicants need at least 350 in Listening, Reading and Speaking and 300 in Writing in the OET Medicine, in one test administration.",
+      "whatSupportsIt": "the page asks Pathways applicants for \"a minimum score of 350 on the Listening, Reading, and Speaking sub-tests, and a minimum score of 300 on the Writing sub-test, in one test administration\"; it is the Pathways requirement, not a rule for every US route",
+      "value": "350",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "ecfmg-retake-all",
+      "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+      "sourceName": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+      "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "A Pathways applicant who misses the score in one sub-test must retake all four sub-tests, and retakes are not limited.",
+      "whatSupportsIt": "the page says missing one sub-test means retaking all four, with no limit on retakes",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "ecfmg-2027-date",
+      "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+      "sourceName": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+      "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "For the 2027 Pathways, the OET score must be attained on or after 1 January 2025.",
+      "whatSupportsIt": "the page (\"2027 Pathways\", last updated 14 May 2026) says the score must be attained on or after January 1, 2025",
+      "value": "1 January 2025",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "gphc-accepts-oet",
+      "body": "General Pharmaceutical Council (UK)",
+      "sourceName": "GPhC — Language requirements",
+      "link": "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The UK's General Pharmaceutical Council accepts a recent pass of the Pharmacy OET as evidence of English language competence.",
+      "whatSupportsIt": "the page says \"Applicants can use a recent pass of the Pharmacy Occupational English Language Test as evidence of English language competence.\"",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "gphc-no-score-on-page",
+      "body": "General Pharmaceutical Council (UK)",
+      "sourceName": "GPhC — Language requirements",
+      "link": "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The GPhC's language requirements page names no minimum OET score.",
+      "whatSupportsIt": "the page states no OET score; the score detail is in a GPhC guidance PDF that was not read",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "gphc-applies-to-all",
+      "body": "General Pharmaceutical Council (UK)",
+      "sourceName": "GPhC — Language requirements",
+      "link": "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The requirement applies to everyone registering with the GPhC, wherever they trained or practised.",
+      "whatSupportsIt": "the page says the requirement \"applies to pharmacy professionals registering with us, wherever they have trained or practised.\"",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "pbnz-scores",
+      "body": "Physiotherapy Board of New Zealand",
+      "sourceName": "Physiotherapy Board of New Zealand — English proficiency evidence",
+      "link": "https://physioboard.org.nz/faq/english-proficiency-evidence",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Physiotherapy Board of New Zealand asks for at least 350 in Reading, Listening and Speaking and 300 in Writing in the OET.",
+      "whatSupportsIt": "the page asks for a \"minimum score of 350 for reading, listening, and speaking; and minimum score of 300 for writing.\"",
+      "value": "300 in Writing",
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "pbnz-two-years",
+      "body": "Physiotherapy Board of New Zealand",
+      "sourceName": "Physiotherapy Board of New Zealand — English proficiency evidence",
+      "link": "https://physioboard.org.nz/faq/english-proficiency-evidence",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET results must be less than two years old on the date the application is submitted.",
+      "whatSupportsIt": "the page says \"Test results must be less than 2 years old on the date you submit your application.\"",
+      "value": "two years",
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "vci-grade-b",
+      "body": "Veterinary Council of Ireland",
+      "sourceName": "Veterinary Council of Ireland — English language requirements for registration",
+      "link": "https://www.vci.ie/english-language-requirements-for-registration",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Veterinary Council of Ireland accepts an OET certificate with grade B or above, from an in-person exam only.",
+      "whatSupportsIt": "the page accepts an \"OET certificate with a required grade of B or above\", \"In person examination only\"",
+      "value": "grade B",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "vci-two-years",
+      "body": "Veterinary Council of Ireland",
+      "sourceName": "Veterinary Council of Ireland — English language requirements for registration",
+      "link": "https://www.vci.ie/english-language-requirements-for-registration",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The certificate must be no older than two years on the date of submission.",
+      "whatSupportsIt": "the page says the certificate must be \"no older than two years on the date of submission\"",
+      "value": "two years",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
+    },
+    {
+      "factId": "vci-applies-to",
+      "body": "Veterinary Council of Ireland",
+      "sourceName": "Veterinary Council of Ireland — English language requirements for registration",
+      "link": "https://www.vci.ie/english-language-requirements-for-registration",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The rule applies to applicants who obtained their qualification outside Ireland.",
+      "whatSupportsIt": "the page applies it to applicants \"who have obtained their qualification outside of Ireland\"",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      }
     }
   ],
   "notFound": [
@@ -794,7 +1079,9 @@
       "body": "General Medical Council",
       "outcome": "NOT FOUND",
       "why": "HTTP 403 on every request (3 addresses); not retried by any other route",
-      "on": "2026-10-14"
+      "on": "2026-10-14",
+      "resolvedOn": "2026-10-14",
+      "resolvedBy": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md (route \"client browser\")"
     },
     {
       "country": "US",
@@ -802,7 +1089,9 @@
       "body": "ECFMG / Intealth",
       "outcome": "NOT FOUND",
       "why": "HTTP 403 on every request (3 hosts); not retried by any other route",
-      "on": "2026-10-14"
+      "on": "2026-10-14",
+      "resolvedOn": "2026-10-14",
+      "resolvedBy": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md (route \"client browser\")"
     },
     {
       "country": "UK",
@@ -810,7 +1099,9 @@
       "body": "General Pharmaceutical Council",
       "outcome": "NOT FOUND",
       "why": "HTTP 403; not retried",
-      "on": "2026-10-14"
+      "on": "2026-10-14",
+      "resolvedOn": "2026-10-14",
+      "resolvedBy": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md (route \"client browser\")"
     },
     {
       "country": "NZ",
@@ -818,7 +1109,9 @@
       "body": "Physiotherapy Board of New Zealand",
       "outcome": "NOT FOUND",
       "why": "HTTP 403; not retried",
-      "on": "2026-10-14"
+      "on": "2026-10-14",
+      "resolvedOn": "2026-10-14",
+      "resolvedBy": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md (route \"client browser\")"
     },
     {
       "country": "NZ",
@@ -842,7 +1135,9 @@
       "body": "Veterinary Council of Ireland",
       "outcome": "NOT FOUND",
       "why": "HTTP 429 on the first request; not retried",
-      "on": "2026-10-14"
+      "on": "2026-10-14",
+      "resolvedOn": "2026-10-14",
+      "resolvedBy": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md (route \"client browser\")"
     },
     {
       "country": "AU",
@@ -851,6 +1146,29 @@
       "outcome": "NOT FOUND",
       "why": "the page gives no OET grade; the standards PDF is encrypted and its text could not be read",
       "on": "2026-10-14"
+    }
+  ],
+  "contradictions": [
+    {
+      "findingId": "finding:pbnz-sitting-rule-contradiction",
+      "claimId": null,
+      "factId": null,
+      "finding": "CONTRADICTION_ON_THE_SOURCE",
+      "source": {
+        "name": "Physiotherapy Board of New Zealand — English proficiency evidence",
+        "link": "https://physioboard.org.nz/faq/english-proficiency-evidence",
+        "readOn": "2026-10-14"
+      },
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
+      },
+      "whatSupportsIt": "one line on the page allows OET scores \"across two sittings in six months\"; another says \"The Board does not accept composite results from multiple examinations.\"",
+      "consequence": "neither sitting rule is stated on any page; only the scores and the two-year age are stated (RR-266 command §1)",
+      "recordedOn": "2026-10-14"
     }
   ]
 }
