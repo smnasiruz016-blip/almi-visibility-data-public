@@ -17,9 +17,37 @@
     "dimension": "profession",
     "services": [
       "nursing",
-      "speech-pathology"
+      "speech-pathology",
+      "medicine",
+      "dentistry",
+      "pharmacy",
+      "physiotherapy",
+      "occupational-therapy",
+      "dietetics",
+      "optometry",
+      "podiatry",
+      "radiography",
+      "veterinary-science"
     ],
-    "rule": "the owner adds any further service himself; none is invented, renamed or mapped"
+    "rule": "the owner adds any further service himself; none is invented, renamed or mapped",
+    "addedBy": [
+      {
+        "services": [
+          "medicine",
+          "dentistry",
+          "pharmacy",
+          "physiotherapy",
+          "occupational-therapy",
+          "dietetics",
+          "optometry",
+          "podiatry",
+          "radiography",
+          "veterinary-science"
+        ],
+        "by": "the owner's command RR-264 (_handoffs 31a7b21) and owner decision RR-264 item 4 (AlmiVisibility_OWNER_DECISION_2026-10-14_RR-264_PILOT_PAGES_PUBLISH_LATER_AND_SEARCH_SOURCES.md): twelve pilot pages, one per profession",
+        "on": "2026-10-14"
+      }
+    ]
   },
   "declares": {
     "siteOrigin": "https://almioet.almiworld.com",

@@ -628,5 +628,2295 @@
     "note": "the owner's own Google observation (RR-256), recorded verbatim as a search phrase; as a question nobody is shown to have asked it on an opened page",
     "country": "NOT MEASURED",
     "language": "english"
+  },
+  {
+    "questionId": "4e06d3a46a356a1d94f9d875209b79f0",
+    "need": "md-format",
+    "page": "medicine",
+    "wording": "What is the OET for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "674d1124a611f89bda6cfead3728d629",
+    "need": "md-format",
+    "page": "medicine",
+    "wording": "Which OET sub-tests are specific to doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "31cade493917bc6d8c1c4d0181b9d78c",
+    "need": "md-format",
+    "page": "medicine",
+    "wording": "What is the OET test for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "814e363a9b7c6974b0093c9aa9e079e5",
+    "need": "md-format",
+    "page": "medicine",
+    "wording": "What is the OET exam for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d18acf20a06b5055f4c907b82c99c2ec",
+    "need": "md-scores",
+    "page": "medicine",
+    "wording": "What OET score do doctors need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b24d0132188fdb261e6c0d32d5a346fd",
+    "need": "md-scores",
+    "page": "medicine",
+    "wording": "What OET score do doctors need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c5128687132afd22def6223ef8f4ae24",
+    "need": "md-scores",
+    "page": "medicine",
+    "wording": "What OET score do doctors need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "21bb04e89108e530a7dcca00310dbc73",
+    "need": "md-scores",
+    "page": "medicine",
+    "wording": "What OET score do doctors need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b93429c7a9f8b22413e83dc0196f77aa",
+    "need": "md-uk",
+    "page": "medicine",
+    "wording": "What OET score do doctors need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "9f56d8a84585451d82002e21b9fc62e1",
+    "need": "md-uk",
+    "page": "medicine",
+    "wording": "What is the minimum OET score for the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5be99d44870212099b3553a18819d58d",
+    "need": "md-us",
+    "page": "medicine",
+    "wording": "What OET score do doctors need in the USA?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "a5f2f6923ac7f8cc85262128f711e991",
+    "need": "md-fee",
+    "page": "medicine",
+    "wording": "How much does the OET cost for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "305f5229f0018eb6a2f09158b23aaaff",
+    "need": "md-fee",
+    "page": "medicine",
+    "wording": "What is the OET fee for doctors in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "97463c5442f6be46e834f8ba36cd4159",
+    "need": "md-fee",
+    "page": "medicine",
+    "wording": "Pakistan mein doctors ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "1c6805e4ab99f7dcbe6f7cb4c526dec3",
+    "need": "md-practice",
+    "page": "medicine",
+    "wording": "Where can I find OET practice tests for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "cfbeec5f809747ecee7df6328233bbb1",
+    "need": "md-practice",
+    "page": "medicine",
+    "wording": "Are there OET Writing and Speaking samples for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ad104879446d48446c9a620ed3744266",
+    "need": "md-practice",
+    "page": "medicine",
+    "wording": "Is there an OET book specifically for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ea7ff0741295b4d74802fb98559835a9",
+    "need": "md-writing",
+    "page": "medicine",
+    "wording": "How does the OET Writing sub-test work for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4f35a5a37df20803a7f221617d8c88ea",
+    "need": "md-speaking",
+    "page": "medicine",
+    "wording": "How long is the OET Speaking sub-test for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "3d744ea72d126d98efdc8daf2c586a2c",
+    "need": "md-score-meaning",
+    "page": "medicine",
+    "wording": "What does an OET score of 350 mean for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "f586095f432d9e2e143a22db410be50c",
+    "need": "md-score-meaning",
+    "page": "medicine",
+    "wording": "What score is 350 in OET?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "71929db49f5b35c80b56c5a57667a2aa",
+    "need": "md-results",
+    "page": "medicine",
+    "wording": "How long do OET results take for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b4eced218058f9e175260b19cc4f6f11",
+    "need": "md-validity",
+    "page": "medicine",
+    "wording": "How long is an OET result valid for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7421ff26bb41d30d919504185b9933d7",
+    "need": "md-booking",
+    "page": "medicine",
+    "wording": "How do doctors book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "6b6e84e20f00c3e85fb79d97a6f20817",
+    "need": "md-centres",
+    "page": "medicine",
+    "wording": "Where can doctors take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "c80570045d76ad3c6091df74f1fe7677",
+    "need": "md-id",
+    "page": "medicine",
+    "wording": "What ID do doctors need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "2f6421eabd09523c0d03a7779b0db4a8",
+    "need": "md-reschedule",
+    "page": "medicine",
+    "wording": "Can doctors move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7122e95b91caaa1eec072a62e17496c7",
+    "need": "md-difficulty",
+    "page": "medicine",
+    "wording": "Is the OET harder than IELTS for doctors?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "fa883041f2fc2c6f89995368b79d1322",
+    "need": "md-difficulty",
+    "page": "medicine",
+    "wording": "Is OET harder than IELTS?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "84c0de66c8627d7dcdcf2f27b6929642",
+    "need": "md-difficulty",
+    "page": "medicine",
+    "wording": "Is it easy to get 400 in OET?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d078925edd41e5b8b2b13b7c31c2fe3a",
+    "need": "md-difficulty",
+    "page": "medicine",
+    "wording": "Which test is better for doctors, IELTS or OET?",
+    "ownerLabel": "INFERRED",
+    "note": "seen by the client's own AI as a Google \"People also ask\" question on 14 October 2026 (Iceland); as a question nobody is shown to have asked on an opened page",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "306a61b0a30bde75bed959c9f7a7f956",
+    "need": "dn-format",
+    "page": "dentistry",
+    "wording": "What is the OET for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "14d23316eac9158c7b0c331ed4e7226a",
+    "need": "dn-format",
+    "page": "dentistry",
+    "wording": "Which OET sub-tests are specific to dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "99034c86652eddbf77f7f54d5cc110ab",
+    "need": "dn-scores",
+    "page": "dentistry",
+    "wording": "What OET score do dentists need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "545c5284eb0d538abedfb9826ff64b2a",
+    "need": "dn-scores",
+    "page": "dentistry",
+    "wording": "Is the OET accepted for dentists in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b269bc0807f15f9476ba3cc948302ff0",
+    "need": "dn-scores",
+    "page": "dentistry",
+    "wording": "What OET score do dentists need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "cd39a7cb325091aec34e09af110eb01d",
+    "need": "dn-scores",
+    "page": "dentistry",
+    "wording": "What OET score do dentists need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "2887e5f23191ab9a06e7c57576ada3f3",
+    "need": "dn-scores",
+    "page": "dentistry",
+    "wording": "What OET score do dentists need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c0358380489c9e41a8a6b2917c80b266",
+    "need": "dn-fee",
+    "page": "dentistry",
+    "wording": "How much does the OET cost for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "34f64c5629b5f48d116c4b5a53b06508",
+    "need": "dn-fee",
+    "page": "dentistry",
+    "wording": "What is the OET fee for dentists in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "8498de51df1e034d0478e356047591fb",
+    "need": "dn-fee",
+    "page": "dentistry",
+    "wording": "Pakistan mein dentists ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "867ab1aecadd908e41a63d58b90ae89a",
+    "need": "dn-practice",
+    "page": "dentistry",
+    "wording": "Where can I find OET practice tests for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "fb0e88362c03332a9332b51cb077e4cf",
+    "need": "dn-practice",
+    "page": "dentistry",
+    "wording": "Are there OET Writing and Speaking samples for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "431a8625305153b41f6506e4e4b96432",
+    "need": "dn-writing",
+    "page": "dentistry",
+    "wording": "How does the OET Writing sub-test work for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "2b01cbbfd1cb2a7ea3d5343470038c6e",
+    "need": "dn-speaking",
+    "page": "dentistry",
+    "wording": "How long is the OET Speaking sub-test for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "98d7bc8bb1e4d443d7a642a9e33df586",
+    "need": "dn-score-meaning",
+    "page": "dentistry",
+    "wording": "What does an OET score of 350 mean for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7e17cf39123947e130e0d2ce1c70ce9e",
+    "need": "dn-results",
+    "page": "dentistry",
+    "wording": "How long do OET results take for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ec9e19523b93892b4d61de3b0013a14d",
+    "need": "dn-validity",
+    "page": "dentistry",
+    "wording": "How long is an OET result valid for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d1f66003d239344e981cc3b3ad2091c7",
+    "need": "dn-booking",
+    "page": "dentistry",
+    "wording": "How do dentists book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c36edfed3aaf60d34a00a797e8b60ada",
+    "need": "dn-centres",
+    "page": "dentistry",
+    "wording": "Where can dentists take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "0899ac22bce67341c96fc54cd6897c14",
+    "need": "dn-id",
+    "page": "dentistry",
+    "wording": "What ID do dentists need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7bfeee33216dc3794d42cefbd2d29a75",
+    "need": "dn-reschedule",
+    "page": "dentistry",
+    "wording": "Can dentists move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "be59016cfb55494b9f0244cbb44c10ba",
+    "need": "dn-difficulty",
+    "page": "dentistry",
+    "wording": "Is the OET harder than IELTS for dentists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "42aecddab792c680afcfb0aa56e6955d",
+    "need": "ph-format",
+    "page": "pharmacy",
+    "wording": "What is the OET for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "834fd766f245b898b78f2e952f1e9d19",
+    "need": "ph-format",
+    "page": "pharmacy",
+    "wording": "Which OET sub-tests are specific to pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "6b1720666fa143ac68435a77d0c16e83",
+    "need": "ph-scores",
+    "page": "pharmacy",
+    "wording": "What OET score do pharmacists need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "23420912fcf7fadc82e1714283fa76c7",
+    "need": "ph-scores",
+    "page": "pharmacy",
+    "wording": "What OET score do pharmacists need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d9611343e433d0910d4419803e139537",
+    "need": "ph-scores",
+    "page": "pharmacy",
+    "wording": "What OET score do pharmacists need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "80bf0c173f8f2dcb3e6d7dfbc6b7d71c",
+    "need": "ph-scores",
+    "page": "pharmacy",
+    "wording": "Does Ireland accept the OET for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "770e824fdb703fdc7fab986ec28c0cd5",
+    "need": "ph-uk",
+    "page": "pharmacy",
+    "wording": "What OET score do pharmacists need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "cef2a747a0be8de85d8046a77e4cd81e",
+    "need": "ph-fee",
+    "page": "pharmacy",
+    "wording": "How much does the OET cost for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4a55d3ff3a1934d4007b171fc301cfc4",
+    "need": "ph-fee",
+    "page": "pharmacy",
+    "wording": "What is the OET fee for pharmacists in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "e6135ea937bfdadb4e239fc085eef60f",
+    "need": "ph-fee",
+    "page": "pharmacy",
+    "wording": "Pakistan mein pharmacists ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "bf39c85ecdc927958b05ddf0ab124f2c",
+    "need": "ph-practice",
+    "page": "pharmacy",
+    "wording": "Where can I find OET practice tests for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "150d84a057d92ebe71c64b618dd11398",
+    "need": "ph-practice",
+    "page": "pharmacy",
+    "wording": "Are there OET Writing and Speaking samples for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "32e0929fd431c096ce0d88918062e094",
+    "need": "ph-writing",
+    "page": "pharmacy",
+    "wording": "How does the OET Writing sub-test work for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "276f30317b6c4148db2e26482b7308a5",
+    "need": "ph-speaking",
+    "page": "pharmacy",
+    "wording": "How long is the OET Speaking sub-test for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "86fdd4421938aa4e030c334016d3c3ac",
+    "need": "ph-score-meaning",
+    "page": "pharmacy",
+    "wording": "What does an OET score of 350 mean for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "25105bc8b3a88ba59c507f2667e01b5b",
+    "need": "ph-results",
+    "page": "pharmacy",
+    "wording": "How long do OET results take for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b9ddbcfaaebbebe2a9511cf1e29186c7",
+    "need": "ph-validity",
+    "page": "pharmacy",
+    "wording": "How long is an OET result valid for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "f6207c8a849e81e7adbcc07b07b6e00c",
+    "need": "ph-booking",
+    "page": "pharmacy",
+    "wording": "How do pharmacists book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c2f271229f0a32d1da2c8e43e6a8ae7f",
+    "need": "ph-centres",
+    "page": "pharmacy",
+    "wording": "Where can pharmacists take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "cf238035b376f031066868ec54eca122",
+    "need": "ph-id",
+    "page": "pharmacy",
+    "wording": "What ID do pharmacists need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "3d7531c6192498f88318ec74d5b87b3f",
+    "need": "ph-reschedule",
+    "page": "pharmacy",
+    "wording": "Can pharmacists move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "046df1f8288769a27dd66300e3f9eb4b",
+    "need": "ph-difficulty",
+    "page": "pharmacy",
+    "wording": "Is the OET harder than IELTS for pharmacists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "1bfc27c85c9c9e6204df724294d30c90",
+    "need": "pt-format",
+    "page": "physiotherapy",
+    "wording": "What is the OET for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4aef975d9794053e9876320ce55ebd0b",
+    "need": "pt-format",
+    "page": "physiotherapy",
+    "wording": "Which OET sub-tests are specific to physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "82b52f1393e26cd0478443f5ddff895a",
+    "need": "pt-scores",
+    "page": "physiotherapy",
+    "wording": "What OET score do physiotherapists need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d807eb51a632c52d42d21fbb6efbe03e",
+    "need": "pt-scores",
+    "page": "physiotherapy",
+    "wording": "What OET score do physiotherapists need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "bbfe44f295db738bddc87b9a204f14d7",
+    "need": "pt-scores",
+    "page": "physiotherapy",
+    "wording": "What OET score do physiotherapists need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b3e4c23c2e1bdf97aa3727a511a78df7",
+    "need": "pt-scores",
+    "page": "physiotherapy",
+    "wording": "What OET score do physiotherapists need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "19fa51019679868adc18f5f7cc8c0f89",
+    "need": "pt-nz",
+    "page": "physiotherapy",
+    "wording": "What OET score do physiotherapists need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ae7f356b219fdf4fe6876a9b8514b0f4",
+    "need": "pt-fee",
+    "page": "physiotherapy",
+    "wording": "How much does the OET cost for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d8efcb38cb60da1d7477105ea4e088bb",
+    "need": "pt-fee",
+    "page": "physiotherapy",
+    "wording": "What is the OET fee for physiotherapists in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "42a00ad3016d86859b032e9d148606d7",
+    "need": "pt-fee",
+    "page": "physiotherapy",
+    "wording": "Pakistan mein physiotherapists ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "e881de90ae1db2ff0f902372a76f465e",
+    "need": "pt-practice",
+    "page": "physiotherapy",
+    "wording": "Where can I find OET practice tests for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "0553badc8d90770411337c517cf52e8b",
+    "need": "pt-practice",
+    "page": "physiotherapy",
+    "wording": "Are there OET Writing and Speaking samples for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "e727ade3773a037005933bc7e8e13fe8",
+    "need": "pt-writing",
+    "page": "physiotherapy",
+    "wording": "How does the OET Writing sub-test work for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "0be1754c4991bbfa938ecc23b748b463",
+    "need": "pt-speaking",
+    "page": "physiotherapy",
+    "wording": "How long is the OET Speaking sub-test for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4f4b2606502813b93cf842db76488b53",
+    "need": "pt-score-meaning",
+    "page": "physiotherapy",
+    "wording": "What does an OET score of 350 mean for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ecf457752150b708627d29a9abf7308e",
+    "need": "pt-results",
+    "page": "physiotherapy",
+    "wording": "How long do OET results take for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "312977341d749747ca0ac92cd31fb192",
+    "need": "pt-validity",
+    "page": "physiotherapy",
+    "wording": "How long is an OET result valid for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c2310f3b64ca62d3b6721b7d588a0b99",
+    "need": "pt-booking",
+    "page": "physiotherapy",
+    "wording": "How do physiotherapists book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "8f91cabacfd7a1b39e1b641b54b9407a",
+    "need": "pt-centres",
+    "page": "physiotherapy",
+    "wording": "Where can physiotherapists take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "4fb0c8d7e22c51c9f109c5b62c07109f",
+    "need": "pt-id",
+    "page": "physiotherapy",
+    "wording": "What ID do physiotherapists need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "753e4f0abdbad703040191e4bd42db66",
+    "need": "pt-reschedule",
+    "page": "physiotherapy",
+    "wording": "Can physiotherapists move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5bc0b87b3f88df2d1c636666c60dc079",
+    "need": "pt-difficulty",
+    "page": "physiotherapy",
+    "wording": "Is the OET harder than IELTS for physiotherapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "311cd94f70ebc8701a8337cf773a5e35",
+    "need": "ot-format",
+    "page": "occupational-therapy",
+    "wording": "What is the OET for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "bdad7c6caf84337dd764a37d28004bf8",
+    "need": "ot-format",
+    "page": "occupational-therapy",
+    "wording": "Which OET sub-tests are specific to occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "135a0691ef25c4a4ac621cd337be5177",
+    "need": "ot-scores",
+    "page": "occupational-therapy",
+    "wording": "What OET score do occupational therapists need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "004657ca8344097d6b831bbcff24f64d",
+    "need": "ot-scores",
+    "page": "occupational-therapy",
+    "wording": "What OET score do occupational therapists need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "416b75202ff80555568a796531467188",
+    "need": "ot-scores",
+    "page": "occupational-therapy",
+    "wording": "What OET score do occupational therapists need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "6d214d8066706113e17dc06e9166df89",
+    "need": "ot-scores",
+    "page": "occupational-therapy",
+    "wording": "What OET score do occupational therapists need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d39ca29e8e8d0c5049066aaa0fe3e74c",
+    "need": "ot-scores",
+    "page": "occupational-therapy",
+    "wording": "Does New Zealand accept the OET for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4c02ff7fcd255307a8fd4636623947cc",
+    "need": "ot-fee",
+    "page": "occupational-therapy",
+    "wording": "How much does the OET cost for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ef4b6c2d95f950a53c48f25e6fc6b74c",
+    "need": "ot-fee",
+    "page": "occupational-therapy",
+    "wording": "What is the OET fee for occupational therapists in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "7c0aa14fdb7fe99162aa2a42d47f2198",
+    "need": "ot-fee",
+    "page": "occupational-therapy",
+    "wording": "Pakistan mein occupational therapists ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "1b23f1f12337e2fe6b8ae377d4124169",
+    "need": "ot-practice",
+    "page": "occupational-therapy",
+    "wording": "Where can I find OET practice tests for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "85990888e2c42110ada3b067402b0458",
+    "need": "ot-practice",
+    "page": "occupational-therapy",
+    "wording": "Are there OET Writing and Speaking samples for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "e0115326da87a322cb71fe7099595e95",
+    "need": "ot-writing",
+    "page": "occupational-therapy",
+    "wording": "How does the OET Writing sub-test work for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ad9ede461fbe682c58e2d46a657b0356",
+    "need": "ot-speaking",
+    "page": "occupational-therapy",
+    "wording": "How long is the OET Speaking sub-test for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "9e0f206bbf9825d031e44f4ccd57612e",
+    "need": "ot-score-meaning",
+    "page": "occupational-therapy",
+    "wording": "What does an OET score of 350 mean for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d94719495e0407c0e02ece536b5e8c3c",
+    "need": "ot-results",
+    "page": "occupational-therapy",
+    "wording": "How long do OET results take for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4162d28defa215aa0e75233845c47d71",
+    "need": "ot-validity",
+    "page": "occupational-therapy",
+    "wording": "How long is an OET result valid for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "152f7855cdfa39dab61d0da42e19923f",
+    "need": "ot-booking",
+    "page": "occupational-therapy",
+    "wording": "How do occupational therapists book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "a26030dc8ce744225809a41160cfa261",
+    "need": "ot-centres",
+    "page": "occupational-therapy",
+    "wording": "Where can occupational therapists take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "217bf7fe570bc85fdfc59e20c1578eda",
+    "need": "ot-id",
+    "page": "occupational-therapy",
+    "wording": "What ID do occupational therapists need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "366f9f247824acf701db3a7c7f4f71a1",
+    "need": "ot-reschedule",
+    "page": "occupational-therapy",
+    "wording": "Can occupational therapists move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b7b84b2a105572603ad1e10de8c5835f",
+    "need": "ot-difficulty",
+    "page": "occupational-therapy",
+    "wording": "Is the OET harder than IELTS for occupational therapists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "8ffbce77608eade7726abe786e2fe9e1",
+    "need": "dt-format",
+    "page": "dietetics",
+    "wording": "What is the OET for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "321d514d7493f73d4a0c82c814e9eada",
+    "need": "dt-format",
+    "page": "dietetics",
+    "wording": "Which OET sub-tests are specific to dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5a5fb2b9d7359baf62430aa34f317438",
+    "need": "dt-scores",
+    "page": "dietetics",
+    "wording": "What OET score do dietitians need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "2dc787cfba34f4c1109a0611b30ef2c1",
+    "need": "dt-scores",
+    "page": "dietetics",
+    "wording": "What OET score do dietitians need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "715217c59eaa7cae24a6483a3ca71343",
+    "need": "dt-scores",
+    "page": "dietetics",
+    "wording": "What OET score do dietitians need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "95e51f92508083c9e12e2cd1b54ecf60",
+    "need": "dt-scores",
+    "page": "dietetics",
+    "wording": "What OET score do dietitians need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4c788f3189260ab7aba13c63675106e5",
+    "need": "dt-scores",
+    "page": "dietetics",
+    "wording": "What OET score do dietitians need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "21f08792de727fa157035c66267155c8",
+    "need": "dt-fee",
+    "page": "dietetics",
+    "wording": "How much does the OET cost for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "9294d7efc1a8379d5fc08abc97944c5e",
+    "need": "dt-fee",
+    "page": "dietetics",
+    "wording": "What is the OET fee for dietitians in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "72d579421169b2e1109ef7f94f44058f",
+    "need": "dt-fee",
+    "page": "dietetics",
+    "wording": "Pakistan mein dietitians ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "adef684232c0d787bf661610e4d0c464",
+    "need": "dt-practice",
+    "page": "dietetics",
+    "wording": "Where can I find OET practice tests for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "98406c95b32cb3a01037dcd932a0f376",
+    "need": "dt-practice",
+    "page": "dietetics",
+    "wording": "Are there OET Writing and Speaking samples for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "90a124fe11a20266161cf4a6ccd4b18c",
+    "need": "dt-writing",
+    "page": "dietetics",
+    "wording": "How does the OET Writing sub-test work for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "9d51af90691a2038967fcef41ec848a3",
+    "need": "dt-speaking",
+    "page": "dietetics",
+    "wording": "How long is the OET Speaking sub-test for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d825618170899102814354dba68e11b3",
+    "need": "dt-score-meaning",
+    "page": "dietetics",
+    "wording": "What does an OET score of 350 mean for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ee6206de8a4f63342ee58c527d8062b9",
+    "need": "dt-results",
+    "page": "dietetics",
+    "wording": "How long do OET results take for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7c290d6e929c578f49a9feed6ab714e7",
+    "need": "dt-validity",
+    "page": "dietetics",
+    "wording": "How long is an OET result valid for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c54444702e641d48b129b65b5beeb613",
+    "need": "dt-booking",
+    "page": "dietetics",
+    "wording": "How do dietitians book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c40fe5ef90c74e4972c3d1902f386172",
+    "need": "dt-centres",
+    "page": "dietetics",
+    "wording": "Where can dietitians take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "f4e1e16587e4aa2b9f3bd691688f8d38",
+    "need": "dt-id",
+    "page": "dietetics",
+    "wording": "What ID do dietitians need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "a67e17e17c9fdeacc8378e4840a3423a",
+    "need": "dt-reschedule",
+    "page": "dietetics",
+    "wording": "Can dietitians move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4bbfe64da02449faaafd081e1b613850",
+    "need": "dt-difficulty",
+    "page": "dietetics",
+    "wording": "Is the OET harder than IELTS for dietitians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d5dd92508e016e7096bd67b5963492d5",
+    "need": "op-format",
+    "page": "optometry",
+    "wording": "What is the OET for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "16bb592dc0d28f03531c1fedf3cc38be",
+    "need": "op-format",
+    "page": "optometry",
+    "wording": "Which OET sub-tests are specific to optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4bb7d4d0b740094f493dbfc7fbeaccd3",
+    "need": "op-scores",
+    "page": "optometry",
+    "wording": "What OET score do optometrists need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7923f82213a3b0929ac63c1b113545c0",
+    "need": "op-scores",
+    "page": "optometry",
+    "wording": "Is the OET accepted for optometrists in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ef4521042afeb1183612b6345ee0d8e6",
+    "need": "op-scores",
+    "page": "optometry",
+    "wording": "What OET score do optometrists need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "a36e98769d6d10d5fde1da781ccf7e8b",
+    "need": "op-scores",
+    "page": "optometry",
+    "wording": "What OET score do optometrists need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5a16ecf1aed6ee58589eb08da889f602",
+    "need": "op-scores",
+    "page": "optometry",
+    "wording": "What OET score do optometrists need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "433c171affd1c750875e0b6d9514a2ea",
+    "need": "op-fee",
+    "page": "optometry",
+    "wording": "How much does the OET cost for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "49effd25df2a4ce15b20df018c28346b",
+    "need": "op-fee",
+    "page": "optometry",
+    "wording": "What is the OET fee for optometrists in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "305a431d837080bd95b3842b9d063a2c",
+    "need": "op-fee",
+    "page": "optometry",
+    "wording": "Pakistan mein optometrists ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "6b1f10b7c8f877f2b773201073c5815e",
+    "need": "op-practice",
+    "page": "optometry",
+    "wording": "Where can I find OET practice tests for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "a74a04d0202640889c7639f90ed9d174",
+    "need": "op-practice",
+    "page": "optometry",
+    "wording": "Are there OET Writing and Speaking samples for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d8e77bb94ceb4d3d905274bc71f553db",
+    "need": "op-writing",
+    "page": "optometry",
+    "wording": "How does the OET Writing sub-test work for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5d9c79790c544e1a67e7a3759d177864",
+    "need": "op-speaking",
+    "page": "optometry",
+    "wording": "How long is the OET Speaking sub-test for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "20a60833177025ded17d46eaf22abdf2",
+    "need": "op-score-meaning",
+    "page": "optometry",
+    "wording": "What does an OET score of 350 mean for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "6af9b071974f68aaada9d6c3020e9371",
+    "need": "op-results",
+    "page": "optometry",
+    "wording": "How long do OET results take for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "fa2d6f36cbd5e1c8df3fb151c5dfc24e",
+    "need": "op-validity",
+    "page": "optometry",
+    "wording": "How long is an OET result valid for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "dd3409d644458957cd9af3730dd0054d",
+    "need": "op-booking",
+    "page": "optometry",
+    "wording": "How do optometrists book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "dc52b79bccaa25eafee5cba07915b5c9",
+    "need": "op-centres",
+    "page": "optometry",
+    "wording": "Where can optometrists take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "4b55cd1cd2515fd2d0e146d4a910b9fc",
+    "need": "op-id",
+    "page": "optometry",
+    "wording": "What ID do optometrists need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "f76ae2678444136f5fb88664c7206cca",
+    "need": "op-reschedule",
+    "page": "optometry",
+    "wording": "Can optometrists move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "88e8d942a31fa396d505c095f886beb5",
+    "need": "op-difficulty",
+    "page": "optometry",
+    "wording": "Is the OET harder than IELTS for optometrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "2cab11ab80ed8729b8ba215752f718d5",
+    "need": "pd-format",
+    "page": "podiatry",
+    "wording": "What is the OET for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5461a08cb8b2c06e5a1e15cd1d0bb8ea",
+    "need": "pd-format",
+    "page": "podiatry",
+    "wording": "Which OET sub-tests are specific to podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "6a46af7090d85ea6d23d947350bdde8c",
+    "need": "pd-scores",
+    "page": "podiatry",
+    "wording": "What OET score do podiatrists need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7b670a80e04c76d32bd3995f6eb31cc0",
+    "need": "pd-scores",
+    "page": "podiatry",
+    "wording": "What OET score do podiatrists need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "3ec7358a78defc924db179cf8824a97a",
+    "need": "pd-scores",
+    "page": "podiatry",
+    "wording": "What OET score do podiatrists need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "656dd2aca4d1e203b7c973af2d5227fe",
+    "need": "pd-scores",
+    "page": "podiatry",
+    "wording": "What OET score do podiatrists need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "dd2277b24cdf13e28e47df78af6971c2",
+    "need": "pd-nz",
+    "page": "podiatry",
+    "wording": "What OET score do podiatrists need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "3784d055d920419c355f9437f17b717f",
+    "need": "pd-fee",
+    "page": "podiatry",
+    "wording": "How much does the OET cost for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d05d6dcff1be7ab973cd6913dde2b658",
+    "need": "pd-fee",
+    "page": "podiatry",
+    "wording": "What is the OET fee for podiatrists in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "89e2567345e04460f3623e2305aec5ee",
+    "need": "pd-fee",
+    "page": "podiatry",
+    "wording": "Pakistan mein podiatrists ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "9f8f51a1c3f7d5bf077aa104b6ac2108",
+    "need": "pd-practice",
+    "page": "podiatry",
+    "wording": "Where can I find OET practice tests for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "2ca0bd190c621ccb9c9880df5db6a166",
+    "need": "pd-practice",
+    "page": "podiatry",
+    "wording": "Are there OET Writing and Speaking samples for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "aaeb3104fed6ad81d524841fa688e4bf",
+    "need": "pd-writing",
+    "page": "podiatry",
+    "wording": "How does the OET Writing sub-test work for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "b5b85ad9e55a41ea25aae77a1ccae2f9",
+    "need": "pd-speaking",
+    "page": "podiatry",
+    "wording": "How long is the OET Speaking sub-test for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "6da1bc8e6cf418c3c99f1b421645be3a",
+    "need": "pd-score-meaning",
+    "page": "podiatry",
+    "wording": "What does an OET score of 350 mean for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "3b141460d24895a080d337a66e2524aa",
+    "need": "pd-results",
+    "page": "podiatry",
+    "wording": "How long do OET results take for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "6dc5447b408085b8e2190608408bc000",
+    "need": "pd-validity",
+    "page": "podiatry",
+    "wording": "How long is an OET result valid for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5aee7325135f19536a12fe30fe41acc0",
+    "need": "pd-booking",
+    "page": "podiatry",
+    "wording": "How do podiatrists book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "1f12edc550fa632cc8a880519ba4ad1e",
+    "need": "pd-centres",
+    "page": "podiatry",
+    "wording": "Where can podiatrists take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "eb36d03c98eaa75d4b90d209309e489e",
+    "need": "pd-id",
+    "page": "podiatry",
+    "wording": "What ID do podiatrists need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c48ff5888c6621cd5c227004f5d13143",
+    "need": "pd-reschedule",
+    "page": "podiatry",
+    "wording": "Can podiatrists move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "08f353529c47b363b78cfd2e590700bc",
+    "need": "pd-difficulty",
+    "page": "podiatry",
+    "wording": "Is the OET harder than IELTS for podiatrists?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "86e68144bb98157ddf77797c2ae9dd7c",
+    "need": "rd-format",
+    "page": "radiography",
+    "wording": "What is the OET for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "962e9608fb7f50bb0b08cca20ccdfd67",
+    "need": "rd-format",
+    "page": "radiography",
+    "wording": "Which OET sub-tests are specific to radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d7067eb763650b376425d9cebdea9d0d",
+    "need": "rd-scores",
+    "page": "radiography",
+    "wording": "What OET score do radiographers need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "0dc2cc3efda99983a7d820a5557e1992",
+    "need": "rd-scores",
+    "page": "radiography",
+    "wording": "What OET score do radiographers need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "fc2169e541ad7a5145daa17c10880e63",
+    "need": "rd-scores",
+    "page": "radiography",
+    "wording": "What OET score do radiographers need in Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "7517903f79ed3ac3142449b8bc8380db",
+    "need": "rd-scores",
+    "page": "radiography",
+    "wording": "What OET score do radiographers need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "4235fc8e0b001899609ef0f5c34e7a7d",
+    "need": "rd-nz",
+    "page": "radiography",
+    "wording": "What OET score do radiographers need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "87ce273e32dd38b4f436005dd2e3604d",
+    "need": "rd-fee",
+    "page": "radiography",
+    "wording": "How much does the OET cost for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "5c941a0d70a5c6f307295e70ebe446ba",
+    "need": "rd-fee",
+    "page": "radiography",
+    "wording": "What is the OET fee for radiographers in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "a40c0eb11079448d323e24e4b0d57571",
+    "need": "rd-fee",
+    "page": "radiography",
+    "wording": "Pakistan mein radiographers ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "a5d1a5392f71ef0a626d4f7add449b1d",
+    "need": "rd-practice",
+    "page": "radiography",
+    "wording": "Where can I find OET practice tests for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "3b6a31d5e701fcdacf28c18e419f8e8c",
+    "need": "rd-practice",
+    "page": "radiography",
+    "wording": "Are there OET Writing and Speaking samples for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "a64fc9b9823eece9bd0da00323e14e1b",
+    "need": "rd-writing",
+    "page": "radiography",
+    "wording": "How does the OET Writing sub-test work for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "2fe412f5d0866278d07f93e5c10db3c1",
+    "need": "rd-speaking",
+    "page": "radiography",
+    "wording": "How long is the OET Speaking sub-test for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c8b559e85aea0699b6656976550dbf37",
+    "need": "rd-score-meaning",
+    "page": "radiography",
+    "wording": "What does an OET score of 350 mean for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "f0d8c00c2a47ae8e45f96731dae5e907",
+    "need": "rd-results",
+    "page": "radiography",
+    "wording": "How long do OET results take for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "49ff44d33c8dc79888ca6037b9556de1",
+    "need": "rd-validity",
+    "page": "radiography",
+    "wording": "How long is an OET result valid for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "930357fa89e1294705ed752532f32383",
+    "need": "rd-booking",
+    "page": "radiography",
+    "wording": "How do radiographers book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "fb74cf7e81f632de989347209cf03778",
+    "need": "rd-centres",
+    "page": "radiography",
+    "wording": "Where can radiographers take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "c088e11145e16ce12e1ad234c67af213",
+    "need": "rd-id",
+    "page": "radiography",
+    "wording": "What ID do radiographers need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "1d188b81f93c79de107725119b3d81fe",
+    "need": "rd-reschedule",
+    "page": "radiography",
+    "wording": "Can radiographers move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "85950eb05ea449c379d48ec9330b53be",
+    "need": "rd-difficulty",
+    "page": "radiography",
+    "wording": "Is the OET harder than IELTS for radiographers?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "ef4a2d7c2876b47db9cf68447c22708e",
+    "need": "vt-format",
+    "page": "veterinary-science",
+    "wording": "What is the OET for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d3a5ffdc522ff557df7b63e769639fe8",
+    "need": "vt-format",
+    "page": "veterinary-science",
+    "wording": "Which OET sub-tests are specific to veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "462d1c7df5b0bde62ee79f4c7c108e3b",
+    "need": "vt-scores",
+    "page": "veterinary-science",
+    "wording": "What OET score do veterinarians need?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "01ac6b3dea0242f7a4cd4eab0145c61f",
+    "need": "vt-scores",
+    "page": "veterinary-science",
+    "wording": "What OET score do veterinarians need in the UK?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "f10c2e23c67b70d4c26b13b94f9e442b",
+    "need": "vt-scores",
+    "page": "veterinary-science",
+    "wording": "What OET score do veterinarians need in New Zealand?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "89ee09277da41a299f17f41f1e6a8e17",
+    "need": "vt-scores",
+    "page": "veterinary-science",
+    "wording": "Can veterinarians use OET@Home for Australia?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d631997dcdc62e257e21faab88011306",
+    "need": "vt-ie",
+    "page": "veterinary-science",
+    "wording": "What OET score do veterinarians need in Ireland?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "d3f5432afab57f86802c8285de38ff0f",
+    "need": "vt-fee",
+    "page": "veterinary-science",
+    "wording": "How much does the OET cost for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "bf6f5442cc10cd455adac6ae82dae4ea",
+    "need": "vt-fee",
+    "page": "veterinary-science",
+    "wording": "What is the OET fee for veterinarians in Pakistan in rupees?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "b9c1e1833b5eeaabe6134bf998ee7d2c",
+    "need": "vt-fee",
+    "page": "veterinary-science",
+    "wording": "Pakistan mein veterinarians ke liye OET ki fee kitni hai?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "roman-urdu"
+  },
+  {
+    "questionId": "dbbf3dc4981b623aba2796422260d0c7",
+    "need": "vt-practice",
+    "page": "veterinary-science",
+    "wording": "Where can I find OET practice tests for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "991cb16dc35ea7dac0c6f9b82f9ebdfe",
+    "need": "vt-practice",
+    "page": "veterinary-science",
+    "wording": "Are there OET Writing and Speaking samples for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "8cd628b8b6db7e69572c4f5dd813047a",
+    "need": "vt-writing",
+    "page": "veterinary-science",
+    "wording": "How does the OET Writing sub-test work for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "335816d6feccc21aa41e697ae01e1dba",
+    "need": "vt-speaking",
+    "page": "veterinary-science",
+    "wording": "How long is the OET Speaking sub-test for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "04dbce5bcc2f2a00e4bc5e8fa780334f",
+    "need": "vt-score-meaning",
+    "page": "veterinary-science",
+    "wording": "What does an OET score of 350 mean for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "c3ac2256c374c548fb75f71231196792",
+    "need": "vt-results",
+    "page": "veterinary-science",
+    "wording": "How long do OET results take for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "f8631097565e7413f1d81a440faed036",
+    "need": "vt-validity",
+    "page": "veterinary-science",
+    "wording": "How long is an OET result valid for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "761798681b02bb5befa692940252b592",
+    "need": "vt-booking",
+    "page": "veterinary-science",
+    "wording": "How do veterinarians book the OET?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "11cfab2743301e3b36ab8987bd1a6f2b",
+    "need": "vt-centres",
+    "page": "veterinary-science",
+    "wording": "Where can veterinarians take the OET in Pakistan?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "PK",
+    "language": "english"
+  },
+  {
+    "questionId": "f8f6ab49e22a7ce1ba8837f413c6c935",
+    "need": "vt-id",
+    "page": "veterinary-science",
+    "wording": "What ID do veterinarians need on OET test day?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "de611b2d83825f701edfe95b99a2db89",
+    "need": "vt-reschedule",
+    "page": "veterinary-science",
+    "wording": "Can veterinarians move their OET test to another date?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
+  },
+  {
+    "questionId": "dacc2587c127540f7cc6eb5f9239f684",
+    "need": "vt-difficulty",
+    "page": "veterinary-science",
+    "wording": "Is the OET harder than IELTS for veterinarians?",
+    "ownerLabel": "INFERRED",
+    "note": "suggested by the client's own AI research (RR-264 fast way)",
+    "country": "NOT MEASURED",
+    "language": "english"
   }
 ]

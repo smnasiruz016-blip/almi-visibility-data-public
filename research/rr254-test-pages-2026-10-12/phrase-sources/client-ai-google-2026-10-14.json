@@ -1,0 +1,617 @@
+{
+  "source": "CLIENT_AI_GOOGLE",
+  "what": "What the client's own AI (actor:cc, in the owner's own Chrome on the owner's machine) saw on Google on 14 October 2026. The engine fetched nothing; this file is the hand-in. Every phrase is verbatim as the page showed it, except the AI-prompt suggestions Google mixes into its list (named in each run's note, never kept).",
+  "startedBy": {
+    "who": "CLIENT",
+    "record": "_handoffs 31a7b21 AlmiVisibility_CC_COMMAND_2026-10-14_RR-264.md and the fast-way command of the same round (the owner pasting the command is today's start)"
+  },
+  "notice": {
+    "givenAt": "2026-10-14T16:31:28Z",
+    "atPrecision": "SECOND — the notice was the chat message sent before the first search at 16:32:00",
+    "text": "Notice (source (a), aap ke is command se shuru): ab main aap ke Chrome mein Google par medicine (doctors) ke seed terms dheemi raftaar se search karunga. Aaj zyada se zyada 30 searches honge, aur har do searches ke beech kam az kam 20 second ka waqfa hoga. Captcha ya \"unusual traffic\" page aaya to main foran ruk kar aap ko bataunga."
+  },
+  "policy": {
+    "minPauseSeconds": 20,
+    "dailyCap": 30
+  },
+  "place": "Iceland — the country Google's own page showed in its footer; the owner's machine is in Reykjavík",
+  "language": "en-IS — the language attribute of Google's own page",
+  "date": "2026-10-14",
+  "caveat": "seen from Iceland in the owner's own browser; Google personalises by place and person, so a searcher in another country may be shown other phrases",
+  "runs": [
+    {
+      "runId": "2026-10-14-run-1",
+      "note": "A TOOLING FAULT, recorded as it happened. Twice the typed seed did not reach Google's search box (the box stayed empty). Search 1 read no suggestion. Search 2 showed only the browser user's own past searches (not suggestions for the seed) and nothing of it was kept. Both are counted against the day's cap.",
+      "searches": [
+        {
+          "n": 1,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors",
+          "at": "2026-10-14T16:32:00.575Z",
+          "until": "2026-10-14T16:32:03.614Z"
+        },
+        {
+          "n": 2,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors",
+          "at": "2026-10-14T16:34:09.931Z",
+          "until": "2026-10-14T16:34:12.964Z"
+        }
+      ],
+      "observations": []
+    },
+    {
+      "runId": "2026-10-14-run-2",
+      "note": "Medicine (doctors). The seed was put into the box by the page's own input event. Kept out, not phrases: the AI-prompt suggestions Google mixed into three lists — search 3 \"Explain the OET exam structure for doctors, including scoring criteria and preparation tips\"; search 5 \"Create a study plan and practice quiz for the OET Medicine subtest\"; search 19 \"Medical tests mein PET scan kya hota hai aur yeh kyun kiya jata hai samjhayein\". Search 19: Google read the seed as another word (\"pet\"); its list is kept verbatim. Searches 15 and 16 are the same seed twice: a timed-out tool call ran on and searched once more; both are counted, and only search 16's list is handed in (search 15's list was not read back). No results page showed a captcha or an unusual-traffic page.",
+      "searches": [
+        {
+          "n": 3,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors",
+          "at": "2026-10-14T16:34:42.175Z",
+          "until": "2026-10-14T16:34:45.210Z"
+        },
+        {
+          "n": 4,
+          "action": "RESULTS",
+          "query": "oet for doctors",
+          "at": "2026-10-14T16:35:16.035Z",
+          "until": "2026-10-14T16:35:22.646Z"
+        },
+        {
+          "n": 5,
+          "action": "AUTOCOMPLETE",
+          "query": "oet medicine",
+          "at": "2026-10-14T16:36:10.400Z",
+          "until": "2026-10-14T16:36:13.440Z"
+        },
+        {
+          "n": 6,
+          "action": "RESULTS",
+          "query": "oet medicine",
+          "at": "2026-10-14T16:36:47.134Z",
+          "until": "2026-10-14T16:36:53.428Z"
+        },
+        {
+          "n": 7,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors pakistan",
+          "at": "2026-10-14T16:37:26.021Z",
+          "until": "2026-10-14T16:37:29.055Z"
+        },
+        {
+          "n": 8,
+          "action": "RESULTS",
+          "query": "oet for doctors pakistan",
+          "at": "2026-10-14T16:37:49.110Z",
+          "until": "2026-10-14T16:37:55.277Z"
+        },
+        {
+          "n": 9,
+          "action": "AUTOCOMPLETE",
+          "query": "oet score for doctors",
+          "at": "2026-10-14T16:38:35.127Z",
+          "until": "2026-10-14T16:38:38.169Z"
+        },
+        {
+          "n": 10,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors uk",
+          "at": "2026-10-14T16:39:00.226Z",
+          "until": "2026-10-14T16:39:03.296Z"
+        },
+        {
+          "n": 11,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors australia",
+          "at": "2026-10-14T16:39:25.369Z",
+          "until": "2026-10-14T16:39:28.403Z"
+        },
+        {
+          "n": 12,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors usa",
+          "at": "2026-10-14T16:40:10.532Z",
+          "until": "2026-10-14T16:40:13.561Z"
+        },
+        {
+          "n": 13,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors ireland",
+          "at": "2026-10-14T16:40:35.624Z",
+          "until": "2026-10-14T16:40:38.656Z"
+        },
+        {
+          "n": 14,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for doctors new zealand",
+          "at": "2026-10-14T16:41:00.702Z",
+          "until": "2026-10-14T16:41:03.726Z"
+        },
+        {
+          "n": 15,
+          "action": "AUTOCOMPLETE",
+          "query": "oet fee for doctors",
+          "at": "2026-10-14T16:41:25.765Z",
+          "until": "2026-10-14T16:41:28.804Z"
+        },
+        {
+          "n": 16,
+          "action": "AUTOCOMPLETE",
+          "query": "oet fee for doctors",
+          "at": "2026-10-14T16:41:48.805Z",
+          "until": "2026-10-14T16:41:51.830Z"
+        },
+        {
+          "n": 17,
+          "action": "AUTOCOMPLETE",
+          "query": "doctors ke liye oet",
+          "at": "2026-10-14T16:42:13.876Z",
+          "until": "2026-10-14T16:42:16.908Z"
+        },
+        {
+          "n": 18,
+          "action": "RESULTS",
+          "query": "oet score for doctors in uk",
+          "at": "2026-10-14T16:42:54.307Z",
+          "until": "2026-10-14T16:43:00.212Z"
+        },
+        {
+          "n": 19,
+          "action": "AUTOCOMPLETE",
+          "query": "oet kya hai",
+          "at": "2026-10-14T16:43:34.336Z",
+          "until": "2026-10-14T16:43:37.404Z"
+        },
+        {
+          "n": 20,
+          "action": "RESULTS",
+          "query": "is oet accepted for doctors",
+          "at": "2026-10-14T16:43:59.458Z",
+          "until": "2026-10-14T16:44:05.321Z"
+        }
+      ],
+      "observations": [
+        {
+          "search": 3,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for doctors",
+            "oet for doctors sample test",
+            "oet for doctors reddit",
+            "oet for doctors online course",
+            "oet for doctors material",
+            "oet for doctors pdf",
+            "oet for doctors in uk",
+            "oet for doctors exam dates",
+            "oet for doctors sample"
+          ]
+        },
+        {
+          "search": 4,
+          "kind": "PEOPLE_ALSO_SEARCH_FOR",
+          "texts": [
+            "Oet for doctors free",
+            "OET for Doctors sample test",
+            "OET sample Test for doctors PDF",
+            "Oet for doctors for nurses",
+            "OET login",
+            "E2 OET for Doctors",
+            "OET exam",
+            "OET on Computer"
+          ]
+        },
+        {
+          "search": 5,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet medicine",
+            "oet medicine official oet practice book 1",
+            "oet medicine sample test",
+            "oet medicine speaking role play cards",
+            "oet medicine examination",
+            "oet medicine writing samples",
+            "oet medicine cost",
+            "oet medicine fees",
+            "oet medicine practice test"
+          ]
+        },
+        {
+          "search": 6,
+          "kind": "PEOPLE_ALSO_SEARCH_FOR",
+          "texts": [
+            "Oet medicine reddit",
+            "Oet medicine pdf",
+            "Oet medicine practice",
+            "OET Medicine fees",
+            "OET login",
+            "Oet medicine free",
+            "Oet medicine writing",
+            "Oet medicine for nurses"
+          ]
+        },
+        {
+          "search": 7,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet books for doctors in pakistan",
+            "how to prepare for oet exam for doctors",
+            "what is oet test for doctors",
+            "oet for pakistani doctors",
+            "oet for doctors",
+            "oet doha",
+            "oet for qatar"
+          ]
+        },
+        {
+          "search": 8,
+          "kind": "PEOPLE_ALSO_SEARCH_FOR",
+          "texts": [
+            "Oet for doctors pakistan price",
+            "Oet for doctors pakistan fees",
+            "Oet for doctors pakistan cost",
+            "Best oet for doctors pakistan",
+            "OET exam in Pakistan",
+            "OET fees in rupees",
+            "OET login",
+            "OET stands for"
+          ]
+        },
+        {
+          "search": 9,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet score for doctors in australia",
+            "oet score for doctors in uk",
+            "oet score for doctors",
+            "oet score for doctors in ireland",
+            "oet passing score for doctors",
+            "oet score required for doctors in uk",
+            "oet scoring system for doctors",
+            "new zealand oet score for doctors",
+            "what is oet test for doctors",
+            "oet pass rate for doctors"
+          ]
+        },
+        {
+          "search": 10,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for uk doctors",
+            "oet score for uk doctors",
+            "oet requirements for uk doctors",
+            "oet exam for doctors in uk",
+            "oet score required for doctors in uk",
+            "oet passing score for doctors in uk",
+            "minimum oet score for uk doctors",
+            "is oet accepted in uk",
+            "oet requirements for uk",
+            "what is oet test for doctors"
+          ]
+        },
+        {
+          "search": 11,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet score for doctors in australia",
+            "oet requirements for doctors in australia",
+            "does australia accept oet for doctors",
+            "what is oet test for doctors",
+            "how to prepare for oet exam for doctors",
+            "is oet accepted in australia",
+            "oet for uk",
+            "oet for doctors",
+            "oet full form",
+            "oet medicine"
+          ]
+        },
+        {
+          "search": 12,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet score for usa doctors",
+            "is oet accepted in usa",
+            "how to prepare for oet exam for doctors",
+            "oet for doctors",
+            "oet for medical doctors",
+            "oet for uk",
+            "oet for doctors price",
+            "oet for physicians"
+          ]
+        },
+        {
+          "search": 13,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for ireland doctors",
+            "oet requirement for ireland doctors",
+            "oet score for ireland doctors",
+            "oet validity for ireland for doctors",
+            "is oet accepted in ireland",
+            "what is oet test for doctors",
+            "oet ireland"
+          ]
+        },
+        {
+          "search": 14,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for new zealand",
+            "new zealand oet score for doctors",
+            "is oet accepted in new zealand",
+            "what to take for oet exam",
+            "what is oet test for doctors",
+            "oet test dates in new zealand 2023",
+            "how much is oet in new zealand",
+            "oet full form"
+          ]
+        },
+        {
+          "search": 16,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet exam fees for doctors",
+            "what is the fees for oet",
+            "how much oet exam cost",
+            "how much does it cost for oet exam",
+            "how much is oet test",
+            "oet fees in qatar",
+            "oet for doctors price",
+            "oet for doctors fees",
+            "oet doctors cost"
+          ]
+        },
+        {
+          "search": 17,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "doctors ke liye oet kaise kare",
+            "doctors ke liye oet letter",
+            "doctors ke liye oet test"
+          ]
+        },
+        {
+          "search": 18,
+          "kind": "PEOPLE_ALSO_ASK",
+          "texts": [
+            "Is it easy to get 400 in OET?",
+            "What score is 350 in OET?",
+            "What is the minimum OET score for the UK?",
+            "What is the OET test for doctors?"
+          ]
+        },
+        {
+          "search": 18,
+          "kind": "PEOPLE_ALSO_SEARCH_FOR",
+          "texts": [
+            "Minimum oet score for doctors in uk",
+            "Oet score for doctors in uk for nurses",
+            "How to calculate oet score for doctors in uk",
+            "Clubbing OET score for UK",
+            "OET score for UK nurses",
+            "UK OET score for nurses clubbing",
+            "OET score out of 42",
+            "OET login"
+          ]
+        },
+        {
+          "search": 19,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "pet kya hai",
+            "pet kya hai in hindi",
+            "pet kya hai exam",
+            "pet kya hai isase kya hota hai",
+            "pet kya hai syllabus",
+            "pet kya hai question paper",
+            "pet kya hai puri jankari",
+            "pet kya hai full form",
+            "pet kya hai upsssc"
+          ]
+        },
+        {
+          "search": 20,
+          "kind": "PEOPLE_ALSO_ASK",
+          "texts": [
+            "Which test is better for doctors, IELTS or OET?",
+            "What is the OET exam for doctors?",
+            "Is there an OET book specifically for doctors?",
+            "Is OET harder than IELTS?"
+          ]
+        },
+        {
+          "search": 20,
+          "kind": "PEOPLE_ALSO_SEARCH_FOR",
+          "texts": [
+            "IELTS or OET which is better for doctors",
+            "IELTS or OET: which is better for nurses",
+            "IELTS or OET which is easier",
+            "GMC OET requirements",
+            "OET vs IELTS fees",
+            "OET login",
+            "OET exam",
+            "OET validity for GMC registration"
+          ]
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-14-run-3",
+      "note": "The background limb of the fast way (started after the owner's second command of the round): one autocomplete search for each of the other nine professions, in the demand order. No captcha and no unusual-traffic page.",
+      "searches": [
+        {
+          "n": 21,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for dentists",
+          "at": "2026-10-14T16:45:48.104Z",
+          "until": "2026-10-14T16:45:51.134Z"
+        },
+        {
+          "n": 22,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for pharmacists",
+          "at": "2026-10-14T16:46:13.180Z",
+          "until": "2026-10-14T16:46:16.234Z"
+        },
+        {
+          "n": 23,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for physiotherapists",
+          "at": "2026-10-14T16:46:49.719Z",
+          "until": "2026-10-14T16:46:52.746Z"
+        },
+        {
+          "n": 24,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for occupational therapists",
+          "at": "2026-10-14T16:47:14.817Z",
+          "until": "2026-10-14T16:47:17.847Z"
+        },
+        {
+          "n": 25,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for dietitians",
+          "at": "2026-10-14T16:47:50.768Z",
+          "until": "2026-10-14T16:47:53.798Z"
+        },
+        {
+          "n": 26,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for optometrists",
+          "at": "2026-10-14T16:48:15.858Z",
+          "until": "2026-10-14T16:48:18.893Z"
+        },
+        {
+          "n": 27,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for podiatrists",
+          "at": "2026-10-14T16:48:51.914Z",
+          "until": "2026-10-14T16:48:54.940Z"
+        },
+        {
+          "n": 28,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for radiographers",
+          "at": "2026-10-14T16:49:17.300Z",
+          "until": "2026-10-14T16:49:20.332Z"
+        },
+        {
+          "n": 29,
+          "action": "AUTOCOMPLETE",
+          "query": "oet for veterinarians",
+          "at": "2026-10-14T16:49:52.156Z",
+          "until": "2026-10-14T16:49:55.189Z"
+        }
+      ],
+      "observations": [
+        {
+          "search": 21,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for dentists",
+            "how much oet exam cost",
+            "oet passing score for doctors",
+            "oet pass rate for doctors",
+            "oet dentistry exam",
+            "oet for dentist uk"
+          ]
+        },
+        {
+          "search": 22,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for pharmacists",
+            "oet writing for pharmacists",
+            "oet passing score for doctors",
+            "oet for pharmacy",
+            "oet for pharmacist in ireland",
+            "oet for pharmacist uk"
+          ]
+        },
+        {
+          "search": 23,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for physiotherapists",
+            "oet score for physiotherapist in uk",
+            "what to take for oet exam",
+            "oet for physiotherapist in uk",
+            "oet for physiotherapy",
+            "oet for physiotherapist sample",
+            "oet for physicians"
+          ]
+        },
+        {
+          "search": 24,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for occupational therapist",
+            "oet exam for occupational therapist",
+            "oet guidelines",
+            "is oet accepted in canada",
+            "is oet valid in canada",
+            "occupational therapist in iceland",
+            "oet occupational therapy",
+            "oet",
+            "oet full form"
+          ]
+        },
+        {
+          "search": 25,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet test for dietitians",
+            "how to take oet exam",
+            "what to bring for oet exam",
+            "oet for dietitian",
+            "oet diet",
+            "oet doha",
+            "oet for doctors",
+            "oet requirements for doctors"
+          ]
+        },
+        {
+          "search": 26,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for optometrists"
+          ]
+        },
+        {
+          "search": 27,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for podiatrists"
+          ]
+        },
+        {
+          "search": 28,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for radiographers",
+            "oet books for radiographers",
+            "what to take for oet exam",
+            "can i take oet exam online",
+            "is oet exam difficult",
+            "oet for radiography",
+            "radiologist iceland"
+          ]
+        },
+        {
+          "search": 29,
+          "kind": "AUTOCOMPLETE",
+          "texts": [
+            "oet for veterinarians",
+            "what to take for oet exam",
+            "what to bring during oet exam",
+            "vet clinic reykjavik",
+            "emergency vet iceland",
+            "vet in iceland",
+            "vet reykjavik",
+            "veterinary clinic reykjavik"
+          ]
+        }
+      ]
+    }
+  ]
+}

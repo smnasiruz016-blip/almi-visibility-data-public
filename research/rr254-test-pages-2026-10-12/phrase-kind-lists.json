@@ -45,6 +45,18 @@
     },
     {
       "name": "Qatar"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Ireland"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "Reykjavik"
     }
   ],
   "entities": [
@@ -71,6 +83,18 @@
     },
     {
       "name": "CORU"
+    },
+    {
+      "name": "GMC"
+    },
+    {
+      "name": "Ahpra"
+    },
+    {
+      "name": "ECFMG"
+    },
+    {
+      "name": "RCVS"
     }
   ],
   "languageVariants": [
@@ -92,7 +116,10 @@
         "karain",
         "aata",
         "dobara",
-        "zaroori"
+        "zaroori",
+        "ke",
+        "liye",
+        "kare"
       ]
     }
   ]

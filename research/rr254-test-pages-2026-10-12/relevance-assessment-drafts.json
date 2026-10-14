@@ -1,1 +1,772 @@
-[]
+[
+  {
+    "questionId": "3d744ea72d126d98efdc8daf2c586a2c",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (doctors) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "71929db49f5b35c80b56c5a57667a2aa",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (doctors) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "b4eced218058f9e175260b19cc4f6f11",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (doctors) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "7421ff26bb41d30d919504185b9933d7",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (doctors) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "6b6e84e20f00c3e85fb79d97a6f20817",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (doctors) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c80570045d76ad3c6091df74f1fe7677",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (doctors) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "2f6421eabd09523c0d03a7779b0db4a8",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (doctors) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "98d7bc8bb1e4d443d7a642a9e33df586",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dentists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "7e17cf39123947e130e0d2ce1c70ce9e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dentists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "ec9e19523b93892b4d61de3b0013a14d",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dentists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "d1f66003d239344e981cc3b3ad2091c7",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dentists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c36edfed3aaf60d34a00a797e8b60ada",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dentists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "0899ac22bce67341c96fc54cd6897c14",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dentists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "7bfeee33216dc3794d42cefbd2d29a75",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dentists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "86fdd4421938aa4e030c334016d3c3ac",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (pharmacists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "25105bc8b3a88ba59c507f2667e01b5b",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (pharmacists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "b9ddbcfaaebbebe2a9511cf1e29186c7",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (pharmacists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "f6207c8a849e81e7adbcc07b07b6e00c",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (pharmacists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c2f271229f0a32d1da2c8e43e6a8ae7f",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (pharmacists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "cf238035b376f031066868ec54eca122",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (pharmacists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "3d7531c6192498f88318ec74d5b87b3f",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (pharmacists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "4f4b2606502813b93cf842db76488b53",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (physiotherapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "ecf457752150b708627d29a9abf7308e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (physiotherapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "312977341d749747ca0ac92cd31fb192",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (physiotherapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c2310f3b64ca62d3b6721b7d588a0b99",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (physiotherapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "8f91cabacfd7a1b39e1b641b54b9407a",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (physiotherapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "4fb0c8d7e22c51c9f109c5b62c07109f",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (physiotherapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "753e4f0abdbad703040191e4bd42db66",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (physiotherapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "9e0f206bbf9825d031e44f4ccd57612e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (occupational therapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "d94719495e0407c0e02ece536b5e8c3c",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (occupational therapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "4162d28defa215aa0e75233845c47d71",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (occupational therapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "152f7855cdfa39dab61d0da42e19923f",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (occupational therapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "a26030dc8ce744225809a41160cfa261",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (occupational therapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "217bf7fe570bc85fdfc59e20c1578eda",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (occupational therapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "366f9f247824acf701db3a7c7f4f71a1",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (occupational therapists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "d825618170899102814354dba68e11b3",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dietitians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "ee6206de8a4f63342ee58c527d8062b9",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dietitians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "7c290d6e929c578f49a9feed6ab714e7",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dietitians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c54444702e641d48b129b65b5beeb613",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dietitians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c40fe5ef90c74e4972c3d1902f386172",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dietitians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "f4e1e16587e4aa2b9f3bd691688f8d38",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dietitians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "a67e17e17c9fdeacc8378e4840a3423a",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (dietitians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "20a60833177025ded17d46eaf22abdf2",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (optometrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "6af9b071974f68aaada9d6c3020e9371",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (optometrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "fa2d6f36cbd5e1c8df3fb151c5dfc24e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (optometrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "dd3409d644458957cd9af3730dd0054d",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (optometrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "dc52b79bccaa25eafee5cba07915b5c9",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (optometrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "4b55cd1cd2515fd2d0e146d4a910b9fc",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (optometrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "f76ae2678444136f5fb88664c7206cca",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (optometrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "6da1bc8e6cf418c3c99f1b421645be3a",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (podiatrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "3b141460d24895a080d337a66e2524aa",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (podiatrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "6dc5447b408085b8e2190608408bc000",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (podiatrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "5aee7325135f19536a12fe30fe41acc0",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (podiatrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "1f12edc550fa632cc8a880519ba4ad1e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (podiatrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "eb36d03c98eaa75d4b90d209309e489e",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (podiatrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c48ff5888c6621cd5c227004f5d13143",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (podiatrists) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c8b559e85aea0699b6656976550dbf37",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (radiographers) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "f0d8c00c2a47ae8e45f96731dae5e907",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (radiographers) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "49ff44d33c8dc79888ca6037b9556de1",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (radiographers) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "930357fa89e1294705ed752532f32383",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (radiographers) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "fb74cf7e81f632de989347209cf03778",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (radiographers) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c088e11145e16ce12e1ad234c67af213",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (radiographers) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "1d188b81f93c79de107725119b3d81fe",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (radiographers) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "04dbce5bcc2f2a00e4bc5e8fa780334f",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (veterinarians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "c3ac2256c374c548fb75f71231196792",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (veterinarians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "f8631097565e7413f1d81a440faed036",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (veterinarians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "761798681b02bb5befa692940252b592",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (veterinarians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "11cfab2743301e3b36ab8987bd1a6f2b",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (veterinarians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "f8f6ab49e22a7ce1ba8837f413c6c935",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (veterinarians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  },
+  {
+    "questionId": "de611b2d83825f701edfe95b99a2db89",
+    "verdict": "RELEVANT",
+    "reason": "a question about the declared product's field that a member of the declared audience (veterinarians) could ask — suggested by the client's own AI research (INFERRED)",
+    "meaningTest": "does the wording ask something about the declared field that the declared audience needs answered",
+    "declarationVersion": "descriptor authorised by _handoffs d07d32f44b5f (RR-253 answer 4); services extended by RR-264 (_handoffs 31a7b21)",
+    "source": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)"
+    }
+  }
+]

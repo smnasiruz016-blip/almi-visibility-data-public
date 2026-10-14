@@ -99,5 +99,421 @@
         ]
       }
     ]
+  },
+  {
+    "page": "medicine",
+    "need": "md-scores",
+    "caption": "The OET result each regulator asks of doctors",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "md-scores-1",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — Medical Council of Ireland",
+        "cells": [
+          {
+            "claimId": "md-scores-2",
+            "value": "at least grade B in every sub-test gained in one sitting"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Medical Council of New Zealand",
+        "cells": [
+          {
+            "claimId": "md-scores-3",
+            "value": "at least 350 in Speaking, Listening and Reading and 300 in Writing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "dentistry",
+    "need": "dn-scores",
+    "caption": "The OET result each regulator asks of dentists",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — General Dental Council (UK)",
+        "cells": [
+          {
+            "claimId": "dn-scores-1",
+            "value": "it names IELTS Academic, and its guidance does not name the OET"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "dn-scores-2",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Dental Council (New Zealand)",
+        "cells": [
+          {
+            "claimId": "dn-scores-3",
+            "value": "grade A or B in all four components"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — Dental Council of Ireland",
+        "cells": [
+          {
+            "claimId": "dn-scores-4",
+            "value": "at least grade B in each of the four modules"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "pharmacy",
+    "need": "ph-scores",
+    "caption": "The OET result each regulator asks of pharmacists",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "ph-scores-1",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Pharmacy Council of New Zealand",
+        "cells": [
+          {
+            "claimId": "ph-scores-2",
+            "value": "grade A or B in each OET sub-test"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — Pharmaceutical Society of Ireland",
+        "cells": [
+          {
+            "claimId": "ph-scores-3",
+            "value": "accepts the OET for pharmacist registration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "physiotherapy",
+    "need": "pt-scores",
+    "caption": "The OET result each regulator asks of physiotherapists",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — HCPC (Health and Care Professions Council, UK)",
+        "cells": [
+          {
+            "claimId": "pt-scores-1",
+            "value": "an overall score of at least 1400 and no sub-test below 300"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "pt-scores-2",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU (Ireland)",
+        "cells": [
+          {
+            "claimId": "pt-scores-3",
+            "value": "grade B (350) in three components and at least C+ (300) in the fourth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "occupational-therapy",
+    "need": "ot-scores",
+    "caption": "The OET result each regulator asks of occupational therapists",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — HCPC (Health and Care Professions Council, UK)",
+        "cells": [
+          {
+            "claimId": "ot-scores-1",
+            "value": "an overall score of at least 1400 and no sub-test below 300"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "ot-scores-2",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU (Ireland)",
+        "cells": [
+          {
+            "claimId": "ot-scores-3",
+            "value": "grade B (350) in three components and at least C+ (300) in the fourth"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Occupational Therapy Board of New Zealand",
+        "cells": [
+          {
+            "claimId": "ot-scores-4",
+            "value": "accepts the OET as proof of English"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "dietetics",
+    "need": "dt-scores",
+    "caption": "The OET result each regulator asks of dietitians",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — HCPC (Health and Care Professions Council, UK)",
+        "cells": [
+          {
+            "claimId": "dt-scores-1",
+            "value": "an overall score of at least 1400 and no sub-test below 300"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Dietitians Australia",
+        "cells": [
+          {
+            "claimId": "dt-scores-2",
+            "value": "at least 350 (grade B) in each of the four OET components"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Dietitians Board (New Zealand)",
+        "cells": [
+          {
+            "claimId": "dt-scores-3",
+            "value": "grade A or B in all four OET sections"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU (Ireland)",
+        "cells": [
+          {
+            "claimId": "dt-scores-4",
+            "value": "grade B (350) in three components and at least C+ (300) in the fourth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "optometry",
+    "need": "op-scores",
+    "caption": "The OET result each regulator asks of optometrists",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — General Optical Council (UK)",
+        "cells": [
+          {
+            "claimId": "op-scores-1",
+            "value": "the OET is not accepted"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "op-scores-2",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Optometrists and Dispensing Opticians Board (New Zealand)",
+        "cells": [
+          {
+            "claimId": "op-scores-3",
+            "value": "at least grade B (350) in each of the four OET components in one result"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU (Ireland)",
+        "cells": [
+          {
+            "claimId": "op-scores-4",
+            "value": "grade B (350) in three components and at least C+ (300) in the fourth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "podiatry",
+    "need": "pd-scores",
+    "caption": "The OET result each regulator asks of podiatrists",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — HCPC (Health and Care Professions Council, UK)",
+        "cells": [
+          {
+            "claimId": "pd-scores-1",
+            "value": "an overall score of at least 1400 and no sub-test below 300"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "pd-scores-2",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU (Ireland)",
+        "cells": [
+          {
+            "claimId": "pd-scores-3",
+            "value": "grade B (350) in three components and at least C+ (300) in the fourth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "radiography",
+    "need": "rd-scores",
+    "caption": "The OET result each regulator asks of radiographers",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — HCPC (Health and Care Professions Council, UK)",
+        "cells": [
+          {
+            "claimId": "rd-scores-1",
+            "value": "an overall score of at least 1400 and no sub-test below 300"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
+        "cells": [
+          {
+            "claimId": "rd-scores-2",
+            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU (Ireland)",
+        "cells": [
+          {
+            "claimId": "rd-scores-3",
+            "value": "at least grade B (350) in all four components"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "veterinary-science",
+    "need": "vt-scores",
+    "caption": "The OET result each regulator asks of veterinarians",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — Royal College of Veterinary Surgeons (UK)",
+        "cells": [
+          {
+            "claimId": "vt-scores-1",
+            "value": "an overall grade B, at least B in three sub-tests and no lower than C+ in the fourth"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Veterinary Council of New Zealand",
+        "cells": [
+          {
+            "claimId": "vt-scores-2",
+            "value": "grade A or B in each of the four OET sub-tests, all from one sitting"
+          }
+        ]
+      },
+      {
+        "label": "Australia — Australasian Veterinary Boards Council",
+        "cells": [
+          {
+            "claimId": "vt-scores-3",
+            "value": "OET@Home is not accepted"
+          }
+        ]
+      }
+    ]
   }
 ]

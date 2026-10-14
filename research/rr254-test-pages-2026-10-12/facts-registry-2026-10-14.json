@@ -1,0 +1,802 @@
+{
+  "note": "RR-264: every fact the ten new pages use, recorded ONCE (one sentence, one claim, one tier-1 source each) and reused by every page that needs it; and every read that found no answer. Read 14 October 2026 by research agents of actor:cc, public pages only, no login.",
+  "facts": [
+    {
+      "factId": "oet-fee",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET lists the full four-part test at AU$587 (US$455 for the computer test or OET@Home taken in the USA).",
+      "whatSupportsIt": "the page lists AU$587 for the full test and US$455 in the USA; no rupee amount appears",
+      "value": "AU$587",
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-subtest-fees",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET help centre — How much does the OET Test cost?",
+      "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "Booking one, two or three sub-tests again on paper at a venue costs AU$315, AU$415 or AU$515, each including a AU$7 booking fee.",
+      "whatSupportsIt": "the page lists the single sub-test fees for the paper test",
+      "value": null,
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-common",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "Listening and Reading are the same for every profession, while Writing and Speaking are set in the candidate's own profession.",
+      "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-writing",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Writing sub-test",
+      "link": "https://oet.com/ready/writing",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Writing sub-test takes 45 minutes, starting with 5 minutes of reading time, and asks for a formal letter based on case notes from the candidate's profession.",
+      "whatSupportsIt": "the page gives 45 minutes with 5 of reading time and a profession-specific letter from case notes",
+      "value": "45 minutes",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-speaking",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Speaking sub-test",
+      "link": "https://oet.com/ready/speaking",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Speaking sub-test takes about 20 minutes and is made of two role-plays of 5 minutes each, set in the candidate's own profession.",
+      "whatSupportsIt": "the page gives about 20 minutes and two profession-specific role-plays of 5 minutes",
+      "value": "about 20 minutes",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-grades",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "Each OET sub-test is scored from 0 to 500 and given a grade from A to E, and a score of 350 is a grade B.",
+      "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350",
+      "value": "grade B",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-results-computer",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET aims to release computer-test and OET@Home results within 6 calendar days of the last sub-test.",
+      "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home",
+      "value": "6 calendar days",
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-results-paper",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "Paper-test results can be released 12 days after the test date.",
+      "whatSupportsIt": "the page gives 12 days for the paper test",
+      "value": "12 days",
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-validity",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET sets no validity period of its own: each regulator or organisation that accepts OET decides how old a result may be.",
+      "whatSupportsIt": "the page leaves validity to the recognising body",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-booking",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "A test is booked on OET's own website by searching for a test near you and choosing the computer test at a venue, OET@Home or the paper test.",
+      "whatSupportsIt": "the page gives the search-and-book route and the three formats",
+      "value": null,
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-closing",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "Bookings close 24 days before the test date for the paper test and 7 days before for the computer test and OET@Home.",
+      "whatSupportsIt": "the page gives the 24-day and 7-day closing rules",
+      "value": null,
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-id",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Test regulations",
+      "link": "https://oet.com/test-regulations",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "On test day OET accepts a valid passport or a national identity card showing your name, photo and date of birth, and it must be the document you booked with.",
+      "whatSupportsIt": "the regulations list passport and national ID with these conditions",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-reschedule",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET help centre — Can I defer/reschedule my OET Test to a different date?",
+      "link": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "A computer-test or OET@Home booking can be moved up to two days before the first sub-test, for AU$120 before bookings close or AU$200 after.",
+      "whatSupportsIt": "the page gives the two-day limit and the AU$120 and AU$200 fees",
+      "value": null,
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-pk-venues",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Speaking sub-test available at a venue for select countries",
+      "link": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET's website names Islamabad, Karachi and Lahore as the cities in Pakistan where computer-test candidates can take the Speaking sub-test at a venue.",
+      "whatSupportsIt": "the page's list of places has Pakistan with Islamabad, Karachi and Lahore",
+      "value": "Islamabad, Karachi and Lahore",
+      "recheckDays": 30,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-medicine",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Medicine sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/medicine",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Medicine sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-dentistry",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Dentistry sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/dentistry",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Dentistry sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-pharmacy",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Pharmacy sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/pharmacy",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Pharmacy sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-physiotherapy",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Physiotherapy sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/physiotherapy",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Physiotherapy sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-occupational-therapy",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Occupational Therapy sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/occupational-therapy",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Occupational Therapy sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-dietetics",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Dietetics sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/dietetics",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Dietetics sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-optometry",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Optometry sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/optometry",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Optometry sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-podiatry",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Podiatry sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/podiatry",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Podiatry sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-radiography",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Radiography sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/radiography",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Radiography sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "oet-sample-veterinary-science",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Veterinary Science sample test (OET Test on Computer)",
+      "link": "https://oet.com/ready/sample-tests/oet-test-on-computer/veterinary-science",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "OET publishes a free Veterinary Science sample test for the computer test, with questions, an answer key and a Speaking role card.",
+      "whatSupportsIt": "the page offers the profession's sample test pack with answer key and role card",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "ahpra-2026",
+      "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+      "sourceName": "Ahpra — Accepted English language tests",
+      "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "For an OET sat on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+      "whatSupportsIt": "the page gives these per-component minimums and no overall score; the same list applies to every National Board but one",
+      "value": "360 in Reading",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "hcpc-1400",
+      "body": "HCPC (Health and Care Professions Council, UK)",
+      "sourceName": "HCPC — English language proficiency",
+      "link": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "HCPC accepts the OET in the applicant's own profession with an overall score of at least 1400 and no sub-test below 300.",
+      "whatSupportsIt": "the page gives 1400 overall and 300 per sub-test for these professions (1800 and 400 only for speech and language therapists)",
+      "value": "1400",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "coru-b3c1",
+      "body": "CORU (Ireland)",
+      "sourceName": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "CORU asks for the OET with grade B (350) in three components and at least C+ (300) in the fourth.",
+      "whatSupportsIt": "the page's table gives B x3 and C+ x1 for physiotherapists, occupational therapists, dietitians, podiatrists and optometrists",
+      "value": "C+ (300)",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "coru-radiography",
+      "body": "CORU (Ireland)",
+      "sourceName": "CORU — Language requirements",
+      "link": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "CORU asks radiographers for the OET with at least grade B (350) in all four components.",
+      "whatSupportsIt": "the page's table gives grade B in all four for radiographers",
+      "value": "grade B (350)",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "mci-medicine",
+      "body": "Medical Council of Ireland",
+      "sourceName": "Medical Council of Ireland — English language requirements",
+      "link": "https://www.medicalcouncil.ie/registration-applications/first-time-applicants/english-language.html",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Medical Council of Ireland accepts the OET only in Medicine, with at least grade B in every sub-test gained in one sitting.",
+      "whatSupportsIt": "the page gives Medicine only, grade B each, one sitting",
+      "value": "grade B",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "mcnz-medicine",
+      "body": "Medical Council of New Zealand",
+      "sourceName": "Medical Council of New Zealand — English language policy",
+      "link": "https://www.mcnz.org.nz/assets/Policies/English-language-policy.pdf",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Medical Council of New Zealand asks doctors for at least 350 in Speaking, Listening and Reading and 300 in Writing in the OET Medicine.",
+      "whatSupportsIt": "the policy gives 350/350/350 and 300 in Writing",
+      "value": "300 in Writing",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "gdc-ielts",
+      "body": "General Dental Council (UK)",
+      "sourceName": "General Dental Council — Guidance on English language controls",
+      "link": "https://www.gdc-uk.org/docs/default-source/registration/english-language-controls/gdc-guidance-on-english-language-controls.pdf?sfvrsn=88adf167_2",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "Where the General Dental Council asks a dentist to sit an English test, it names IELTS Academic, and its guidance does not name the OET.",
+      "whatSupportsIt": "the guidance names IELTS Academic (6.5 each, 7 overall) and no other test",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "dcnz-ab",
+      "body": "Dental Council (New Zealand)",
+      "sourceName": "Dental Council (NZ) — English language",
+      "link": "https://dcnz.org.nz/i-want-to-practise-in-new-zealand/english-language",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Dental Council of New Zealand asks for an OET pass with grade A or B in all four components, valid for two years.",
+      "whatSupportsIt": "the page gives A or B in each component and two years",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "dci-b",
+      "body": "Dental Council of Ireland",
+      "sourceName": "Dental Council of Ireland — Language proficiency",
+      "link": "https://www.dentalcouncil.ie/registration/language-proficiency",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Dental Council of Ireland asks for the OET in Dentistry with at least grade B in each of the four modules.",
+      "whatSupportsIt": "the page gives grade B in each module",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "pcnz-ab",
+      "body": "Pharmacy Council of New Zealand",
+      "sourceName": "Pharmacy Council of New Zealand — English language requirements",
+      "link": "https://pharmacycouncil.org.nz/pharmacy_registries/english-language-requirements/",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Pharmacy Council of New Zealand asks for grade A or B in each OET sub-test, gained within two years of applying.",
+      "whatSupportsIt": "the page gives A or B in each band within two years",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "psi-accepts",
+      "body": "Pharmaceutical Society of Ireland",
+      "sourceName": "PSI — Language requirements",
+      "link": "https://www.psi.ie/registration/pharmacists/first-time-registration/language-requirements",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Pharmaceutical Society of Ireland accepts the OET for pharmacist registration, and a result stays valid for two years from the test date.",
+      "whatSupportsIt": "the page lists OET among accepted tests and gives two years from the test date (its score table is not used: two of its rows disagree)",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "goc-ielts-only",
+      "body": "General Optical Council (UK)",
+      "sourceName": "General Optical Council — International optometrists",
+      "link": "https://optical.org/registration/register-from-overseas/international-optometrists.html",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The General Optical Council accepts only IELTS as an English test for international optometrists, so the OET is not accepted.",
+      "whatSupportsIt": "the page names IELTS Academic or IELTS for UKVI Academic only",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "odob-b",
+      "body": "Optometrists and Dispensing Opticians Board (New Zealand)",
+      "sourceName": "ODOB — English language requirements (policy)",
+      "link": "https://odob.health.nz/document/8136/O.%20English%20language%20requirements%20(v1).pdf",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Optometrists and Dispensing Opticians Board asks for at least grade B (350) in each of the four OET components in one result.",
+      "whatSupportsIt": "the policy gives B (350) in each component, one result",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "otbnz-accepts",
+      "body": "Occupational Therapy Board of New Zealand",
+      "sourceName": "Occupational Therapy Board of NZ — Overseas applicants",
+      "link": "https://www.otboard.org.nz/site/rp/overseas",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Occupational Therapy Board of New Zealand accepts the OET as proof of English for applicants whose first language is not English.",
+      "whatSupportsIt": "the page names OET or IELTS; the grades are in a policy document that could not be read",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "dietitians-au",
+      "body": "Dietitians Australia",
+      "sourceName": "Dietitians Australia — Skills recognition, English language",
+      "link": "https://dietitiansaustralia.org.au/node/59",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "Dietitians Australia asks overseas-qualified dietitians for at least 350 (grade B) in each of the four OET components.",
+      "whatSupportsIt": "the page gives 350 (B) in each component",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "dbnz-ab",
+      "body": "Dietitians Board (New Zealand)",
+      "sourceName": "Dietitians Board — English language requirements",
+      "link": "https://www.dietitiansboard.org.nz/Public/Public/Registration/English-Language-Requirements.aspx",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Dietitians Board of New Zealand asks for grade A or B in all four OET sections, dated within the 12 months before it receives the application.",
+      "whatSupportsIt": "the page gives A or B in all four and 12 months",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "rcvs-b",
+      "body": "Royal College of Veterinary Surgeons (UK)",
+      "sourceName": "RCVS — English language requirements",
+      "link": "https://www.rcvs.org.uk/veterinary-professionals/registration/join-the-register-of-veterinary-surgeons/english-language-requirements",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The RCVS asks for the OET in Veterinary Science with an overall grade B, at least B in three sub-tests and no lower than C+ in the fourth.",
+      "whatSupportsIt": "the page gives overall B, B in three and C+ minimum",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "vcnz-ab",
+      "body": "Veterinary Council of New Zealand",
+      "sourceName": "Veterinary Council of NZ — English competence policy",
+      "link": "https://vetcouncil.org.nz/common/Uploaded%20files/Web/Publications/Policies%20and%20Statements/EnglishCompetence.pdf",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Veterinary Council of New Zealand asks for grade A or B in each of the four OET sub-tests, all from one sitting.",
+      "whatSupportsIt": "the policy gives A or B in each and one sitting",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    },
+    {
+      "factId": "avbc-inperson",
+      "body": "Australasian Veterinary Boards Council",
+      "sourceName": "AVBC — English language standards",
+      "link": "https://avbc.asn.au/avbc-english-language-standards/",
+      "readOn": "2026-10-14",
+      "tier": 1,
+      "text": "The Australasian Veterinary Boards Council accepts English test results only from tests sat in person, so OET@Home is not accepted.",
+      "whatSupportsIt": "the page accepts in-person tests only",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "research agent (actor:cc)",
+        "tool": "WebFetch"
+      }
+    }
+  ],
+  "notFound": [
+    {
+      "country": "UK",
+      "profession": "medicine",
+      "body": "General Medical Council",
+      "outcome": "NOT FOUND",
+      "why": "HTTP 403 on every request (3 addresses); not retried by any other route",
+      "on": "2026-10-14"
+    },
+    {
+      "country": "US",
+      "profession": "medicine",
+      "body": "ECFMG / Intealth",
+      "outcome": "NOT FOUND",
+      "why": "HTTP 403 on every request (3 hosts); not retried by any other route",
+      "on": "2026-10-14"
+    },
+    {
+      "country": "UK",
+      "profession": "pharmacy",
+      "body": "General Pharmaceutical Council",
+      "outcome": "NOT FOUND",
+      "why": "HTTP 403; not retried",
+      "on": "2026-10-14"
+    },
+    {
+      "country": "NZ",
+      "profession": "physiotherapy",
+      "body": "Physiotherapy Board of New Zealand",
+      "outcome": "NOT FOUND",
+      "why": "HTTP 403; not retried",
+      "on": "2026-10-14"
+    },
+    {
+      "country": "NZ",
+      "profession": "podiatry",
+      "body": "Podiatrists Board of New Zealand",
+      "outcome": "NOT FOUND",
+      "why": "the page read (HTTP 200) holds no English-language rule; its guide could not be read",
+      "on": "2026-10-14"
+    },
+    {
+      "country": "NZ",
+      "profession": "radiography",
+      "body": "Medical Radiation Technologists Board (NZ)",
+      "outcome": "NOT FOUND",
+      "why": "the page read (HTTP 200) asks for English evidence with IELTS as the example and gives no OET grade",
+      "on": "2026-10-14"
+    },
+    {
+      "country": "IE",
+      "profession": "veterinary-science",
+      "body": "Veterinary Council of Ireland",
+      "outcome": "NOT FOUND",
+      "why": "HTTP 429 on the first request; not retried",
+      "on": "2026-10-14"
+    },
+    {
+      "country": "AU",
+      "profession": "veterinary-science",
+      "body": "Australasian Veterinary Boards Council",
+      "outcome": "NOT FOUND",
+      "why": "the page gives no OET grade; the standards PDF is encrypted and its text could not be read",
+      "on": "2026-10-14"
+    }
+  ]
+}
