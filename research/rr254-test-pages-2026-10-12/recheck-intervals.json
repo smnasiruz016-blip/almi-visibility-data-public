@@ -2028,5 +2028,50 @@
     "claimId": "vt-difficulty-gv2-q3",
     "recheckDays": 90,
     "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "md-us-2-r2",
+    "recheckDays": 90,
+    "why": "rules and score requirements change rarely: recheck every quarter (as its first line)"
+  },
+  {
+    "claimId": "op-scores-3-r2",
+    "recheckDays": 90,
+    "why": "rules and score requirements change rarely: recheck every quarter (as its first line)"
+  },
+  {
+    "claimId": "n-cheaper-oet",
+    "recheckDays": 7,
+    "why": "fees change: recheck every week (RR-269 §4)"
+  },
+  {
+    "claimId": "n-cheaper-ielts-1",
+    "recheckDays": 7,
+    "why": "fees change: recheck every week (RR-269 §4)"
+  },
+  {
+    "claimId": "n-cheaper-ielts-2",
+    "recheckDays": 7,
+    "why": "fees change: recheck every week (RR-269 §4)"
+  },
+  {
+    "claimId": "n-cheaper-ielts-3",
+    "recheckDays": 7,
+    "why": "fees change: recheck every week (RR-269 §4)"
+  },
+  {
+    "claimId": "n-cheaper-ielts-4",
+    "recheckDays": 7,
+    "why": "fees change: recheck every week (RR-269 §4)"
+  },
+  {
+    "claimId": "n-athome-au-1",
+    "recheckDays": 90,
+    "why": "rules change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-athome-au-2",
+    "recheckDays": 90,
+    "why": "rules change rarely: recheck every quarter"
   }
 ]

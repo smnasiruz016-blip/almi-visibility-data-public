@@ -1,0 +1,76 @@
+[
+  {
+    "id": "cnf-no-difficulty-ranking",
+    "needs": [
+      "n-difficulty",
+      "s-difficulty",
+      "md-difficulty",
+      "dn-difficulty",
+      "ph-difficulty",
+      "pt-difficulty",
+      "ot-difficulty",
+      "dt-difficulty",
+      "op-difficulty",
+      "pd-difficulty",
+      "rd-difficulty",
+      "vt-difficulty"
+    ],
+    "line": "No official ranking of OET against IELTS by difficulty was found on the official OET and IELTS pages checked on 15 October 2026.",
+    "checked": [
+      {
+        "url": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+        "name": "OET — Which English test should a nurse take?"
+      },
+      {
+        "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+        "name": "IELTS — IELTS Academic test"
+      }
+    ],
+    "checkedOn": "2026-10-15",
+    "replaces": [
+      "claim:n-difficulty-1",
+      "ielts-academic-no-ranking"
+    ],
+    "basis": "the owner's line (RR-269 §0); the two stored page texts hold no ranking by difficulty"
+  },
+  {
+    "id": "cnf-gphc-no-minimum-score",
+    "needs": [
+      "ph-uk"
+    ],
+    "line": "The GPhC page checked on 15 October 2026 states no minimum OET score.",
+    "checked": [
+      {
+        "url": "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+        "name": "GPhC — Language requirements"
+      }
+    ],
+    "checkedOn": "2026-10-15",
+    "replaces": [
+      "gphc-no-score-on-page"
+    ],
+    "basis": "the owner's line (RR-269 §3); the captured page text (client browser) names no score"
+  },
+  {
+    "id": "cnf-no-fee-comparison",
+    "needs": [
+      "n-cheaper"
+    ],
+    "line": "No official comparison of the OET and IELTS fees was found on the official OET and British Council pages checked on 15 October 2026.",
+    "checked": [
+      {
+        "url": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+        "name": "OET — How much does the OET Test cost?"
+      },
+      {
+        "url": "https://www.britishcouncil.pk/exam/ielts/book-test",
+        "name": "British Council Pakistan — Book an IELTS test"
+      }
+    ],
+    "checkedOn": "2026-10-15",
+    "replaces": [
+      "claim:n-cheaper-1"
+    ],
+    "basis": "RR-269 §3 names n-cheaper-1; its old line was a 'cheaper' claim, so this record says only that no official comparison was found (the line is this session's, not the owner's)"
+  }
+]
