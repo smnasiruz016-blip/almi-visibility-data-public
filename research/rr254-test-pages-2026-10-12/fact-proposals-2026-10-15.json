@@ -1,0 +1,759 @@
+{
+ "route": "OWNER_SUBSCRIPTION_SESSION",
+ "proposedOn": "2026-10-15",
+ "proposals": [
+  {
+   "proposalId": "p001",
+   "fact": "claim:n-fee-1",
+   "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+   "sentence": "OET lists the full four-part test at AU$587 (US$455 for the computer test at a venue and OET@Home in the USA).",
+   "quotation": "costs AU$587 (or US$455 for OET on Computer at a venue and OET@Home in the US)"
+  },
+  {
+   "proposalId": "p002",
+   "fact": "claim:n-fee-1-b",
+   "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+   "sentence": "OET publishes the price of the full test in Australian dollars.",
+   "quotation": "costs AU$587 (or US$455 for OET on Computer at a venue and OET@Home in the US)"
+  },
+  {
+   "proposalId": "p003",
+   "fact": "claim:n-cheaper-3",
+   "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+   "sentence": "After a first full OET test, one, two or three sub-tests can be booked again on the paper test at a venue, for AU$315, AU$415 and AU$515.",
+   "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+  },
+  {
+   "proposalId": "p004",
+   "fact": "claim:n-retake-1",
+   "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+   "sentence": "After a first full test, OET lets a candidate book one, two or three sub-tests again, on the paper test only and not in the USA: AU$315, AU$415 and AU$515.",
+   "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+  },
+  {
+   "proposalId": "p005",
+   "fact": "oet-fee",
+   "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+   "sentence": "OET lists the full four-part test at AU$587 (US$455 for the computer test at a venue or OET@Home in the USA).",
+   "quotation": "costs AU$587 (or US$455 for OET on Computer at a venue and OET@Home in the US)"
+  },
+  {
+   "proposalId": "p006",
+   "fact": "oet-subtest-fees",
+   "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+   "sentence": "Booking one, two or three sub-tests again on paper at a venue costs AU$315, AU$415 or AU$515, each including a AU$7 booking fee.",
+   "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+  },
+  {
+   "proposalId": "p007",
+   "fact": "claim:n-dates-1",
+   "source": "https://oet.com/test/book-a-test",
+   "sentence": "OET's booking page has a search for a test near you.",
+   "quotation": "Search for a test near you search Find a test"
+  },
+  {
+   "proposalId": "p008",
+   "fact": "claim:n-dates-1-b",
+   "source": "https://oet.com/test/book-a-test",
+   "sentence": "Bookings close 24 days before the test date for the paper test, and 7 days before for the computer test at a venue and for OET@Home.",
+   "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+  },
+  {
+   "proposalId": "p009",
+   "fact": "claim:n-booking-1",
+   "source": "https://oet.com/test/book-a-test",
+   "sentence": "A test is booked on OET's own website by searching for a test near you.",
+   "quotation": "Book a test Search for a test near you"
+  },
+  {
+   "proposalId": "p010",
+   "fact": "oet-booking",
+   "source": "https://oet.com/test/book-a-test",
+   "sentence": "OET's booking page covers the paper test, the computer test at a test venue and OET@Home.",
+   "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+  },
+  {
+   "proposalId": "p011",
+   "fact": "oet-closing",
+   "source": "https://oet.com/test/book-a-test",
+   "sentence": "Bookings close 24 days before the test date for the paper test and 7 days before for the computer test and OET@Home.",
+   "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+  },
+  {
+   "proposalId": "p012",
+   "fact": "claim:n-dates-2",
+   "source": "https://aeo.com.pk/oet-test-in-pakistan/",
+   "sentence": "AEO Pakistan's own OET page says the test is available regularly at venues worldwide and points to OET's booking page for test dates and locations.",
+   "quotation": "The OET Test is available regularly at venues worldwide. For up-to-date details on test dates and locations, go to: oet.com/test/book-a-test"
+  },
+  {
+   "proposalId": "p013",
+   "fact": "claim:n-centres-2",
+   "source": "https://aeo.com.pk/oet-test-in-pakistan/",
+   "sentence": "AEO Pakistan's own OET page says it holds the OET in Islamabad, Karachi, Lahore and Multan.",
+   "quotation": "AEO Pakistan conducts the OET exam in various cities across Pakistan. Islamabad Karachi Lahore Multan"
+  },
+  {
+   "proposalId": "p014",
+   "fact": "claim:n-contact-1",
+   "source": "https://aeo.com.pk/oet-test-in-pakistan/",
+   "sentence": "AEO Pakistan's own OET page gives the number 111-236(AEO)-000 and a Customer Care Unit number, 0320-3461147-8.",
+   "quotation": "UAN 111-236(AEO)-000 Customer Care Unit 0320-3461147-8"
+  },
+  {
+   "proposalId": "p015",
+   "fact": "claim:n-centres-1",
+   "source": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+   "sentence": "OET's website names Islamabad, Karachi and Lahore as the cities in Pakistan where the Speaking sub-test can be taken at a test venue.",
+   "quotation": "Pakistan (Islamabad, Karachi and Lahore)"
+  },
+  {
+   "proposalId": "p016",
+   "fact": "oet-pk-venues",
+   "source": "https://oet.com/en-us/post/speaking-sub-test-available-for-select-countries",
+   "sentence": "OET's website names Islamabad, Karachi and Lahore as the cities in Pakistan where computer-test candidates can take the Speaking sub-test at a venue.",
+   "quotation": "Pakistan (Islamabad, Karachi and Lahore)"
+  },
+  {
+   "proposalId": "p017",
+   "fact": "claim:n-scores-uk",
+   "source": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+   "sentence": "The UK's Nursing and Midwifery Council asks for at least grade B (350) in Listening, Reading and Speaking and at least C+ (300) in Writing.",
+   "quotation": "OET B (350 or above) B (350 or above) C+(300 or above) B (350 or above)"
+  },
+  {
+   "proposalId": "p018",
+   "fact": "claim:n-scores-uk-b",
+   "source": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+   "sentence": "Two sittings can be combined if they are within 12 months of each other and all four parts were taken each time.",
+   "quotation": "Sit the tests within 12 months of each other, and complete both tests no more than two years prior to the date we are assessing your complete NMC application. This means that your test dates (not certificate dates) must be within 12 months of each other, and your test dates must be no more than two years old when we review your application. Be tested in all four domains at the same time"
+  },
+  {
+   "proposalId": "p019",
+   "fact": "claim:n-scores-uk-c",
+   "source": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+   "sentence": "The test must be no more than two years old.",
+   "quotation": "your test dates must be no more than two years old when we review your application"
+  },
+  {
+   "proposalId": "p020",
+   "fact": "claim:n-retake-2",
+   "source": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+   "sentence": "The UK's Nursing and Midwifery Council combines two sittings only when all four parts were taken each time, so a single sub-test taken alone does not count for it.",
+   "quotation": "Be tested in all four domains at the same time - you cannot take (or retake) individual test domains separately"
+  },
+  {
+   "proposalId": "p021",
+   "fact": "claim:n-scores-ie",
+   "source": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
+   "sentence": "Ireland's NMBI asks for grade B in three components and C+ in one, in a result less than two years old.",
+   "quotation": "OET (Nursing) with Grade B in three components and C+ in one component. (please see table for example) Reading B (350 - 450) Writing C+ (300 - 340) Speaking B (350 - 450) Please note that: We only accept IELTS/OET test results that are less than two years old"
+  },
+  {
+   "proposalId": "p022",
+   "fact": "claim:n-scores-ie-b",
+   "source": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
+   "sentence": "It does not accept combined results or OET at home.",
+   "quotation": "We only accept one test result and do not accept combined results We do not accept IELTS One Skill Retake We do not accept IELTS online or OET at home"
+  },
+  {
+   "proposalId": "p023",
+   "fact": "claim:n-scores-nz",
+   "source": "https://nursingcouncil.org.nz/IQN/IQN/H8.aspx",
+   "sentence": "The Nursing Council of New Zealand asks for at least 350 in Reading, Listening and Speaking and 300 in Writing.",
+   "quotation": "For OET you must achieve a minimum score of 350 for reading, listening, and speaking; and a minimum score of 300 for writing"
+  },
+  {
+   "proposalId": "p024",
+   "fact": "claim:n-scores-nz-b",
+   "source": "https://nursingcouncil.org.nz/IQN/IQN/H8.aspx",
+   "sentence": "These must be reached within 12 months of the first sitting.",
+   "quotation": "the required score must be met within 12 months of first sitting the test"
+  },
+  {
+   "proposalId": "p025",
+   "fact": "claim:n-scores-nz-c",
+   "source": "https://nursingcouncil.org.nz/IQN/IQN/H8.aspx",
+   "sentence": "It does not accept online tests taken outside an approved test centre.",
+   "quotation": "the Nursing Council of New Zealand does not currently accept online computer-based tests. However, computer-based tests administered in an approved testing centre are accepted"
+  },
+  {
+   "proposalId": "p026",
+   "fact": "claim:n-writing-1",
+   "source": "https://oet.com/ready/writing",
+   "sentence": "The Writing sub-test lasts 45 minutes.",
+   "quotation": "45 mins in duration"
+  },
+  {
+   "proposalId": "p027",
+   "fact": "claim:n-writing-1",
+   "source": "https://oet.com/ready/writing",
+   "sentence": "It starts with five minutes of reading time.",
+   "quotation": "The five minutes of reading time at the start of the Writing sub-test"
+  },
+  {
+   "proposalId": "p028",
+   "fact": "claim:n-writing-1-b",
+   "source": "https://oet.com/ready/writing",
+   "sentence": "The task is a formal letter on a matter of the candidate's own profession, written from case notes.",
+   "quotation": "Formal letter on a profession-specific matter using case notes"
+  },
+  {
+   "proposalId": "p029",
+   "fact": "claim:n-writing-1-b",
+   "source": "https://oet.com/ready/writing",
+   "sentence": "The word range for the letter is 180 to 200 words.",
+   "quotation": "the word range for the task (180 - 200 words)"
+  },
+  {
+   "proposalId": "p030",
+   "fact": "claim:s-marking-1",
+   "source": "https://oet.com/ready/writing",
+   "sentence": "Two OET assessors mark the Writing sub-test using the official OET Writing criteria.",
+   "quotation": "Two OET assessors use the official OET Writing criteria to assess your performance"
+  },
+  {
+   "proposalId": "p031",
+   "fact": "claim:s-marking-1",
+   "source": "https://oet.com/ready/writing",
+   "sentence": "The Writing sub-test is marked against six assessment criteria.",
+   "quotation": "Marked by OET assessors using six assessment criteria"
+  },
+  {
+   "proposalId": "p032",
+   "fact": "oet-writing",
+   "source": "https://oet.com/ready/writing",
+   "sentence": "The Writing sub-test takes 45 minutes and asks for a formal letter on a matter of the candidate's own profession, written from case notes.",
+   "quotation": "45 mins in duration Formal letter on a profession-specific matter using case notes"
+  },
+  {
+   "proposalId": "p033",
+   "fact": "claim:n-writing-2",
+   "source": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+   "sentence": "For nurses, OET describes the letter as a referral letter or a discharge letter based on case notes.",
+   "quotation": "write a referral letter or a discharge letter. When a nurse takes OET, they receive a set of case notes"
+  },
+  {
+   "proposalId": "p034",
+   "fact": "claim:n-difficulty-1-b",
+   "source": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+   "sentence": "In OET Listening, nurses follow health-related material, which can include consultations between patients and nurses.",
+   "quotation": "you listen to and follow health-related material , which can include consultations between patients and nurses"
+  },
+  {
+   "proposalId": "p035",
+   "fact": "claim:n-difficulty-1-b",
+   "source": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+   "sentence": "In OET Speaking, a nurse role-plays as a nurse with an interlocutor playing a patient.",
+   "quotation": "A nurse sitting the test will role-play as a nurse and is assessed on their ability to accurately communicate with an interlocutor playing a patient"
+  },
+  {
+   "proposalId": "p036",
+   "fact": "claim:n-format-1",
+   "source": "https://oet.com/ready/listening",
+   "sentence": "Listening lasts about 40 minutes and has three parts with 42 questions.",
+   "quotation": "Approximately 40 minutes Three parts in the sub-test 42 questions to answer in total"
+  },
+  {
+   "proposalId": "p037",
+   "fact": "claim:n-format-2",
+   "source": "https://oet.com/ready/reading",
+   "sentence": "Reading lasts 60 minutes and has three parts with 42 questions in total.",
+   "quotation": "60 minutes in duration Three parts in the sub-test 42 questions to answer in total"
+  },
+  {
+   "proposalId": "p038",
+   "fact": "claim:n-format-3",
+   "source": "https://oet.com/ready/speaking",
+   "sentence": "Speaking lasts about 20 minutes and has two role-plays for the candidate's own profession, 5 minutes each.",
+   "quotation": "Approximately 20 minutes Two profession-specific roleplays (5 mins each)"
+  },
+  {
+   "proposalId": "p039",
+   "fact": "claim:s-speaking-1",
+   "source": "https://oet.com/ready/speaking",
+   "sentence": "The Speaking sub-test takes about 20 minutes: two role-plays of 5 minutes each, set in the candidate's own profession.",
+   "quotation": "Approximately 20 minutes Two profession-specific roleplays (5 mins each)"
+  },
+  {
+   "proposalId": "p040",
+   "fact": "claim:s-speaking-1-b",
+   "source": "https://oet.com/ready/speaking",
+   "sentence": "It is recorded, and two OET assessors mark the audio using OET's Linguistic and Clinical Communication Criteria.",
+   "quotation": "The Speaking sub-test is recorded and the audio is assessed by two official OET assessors using the official OET Linguistic and Clinical Communication Criteria"
+  },
+  {
+   "proposalId": "p041",
+   "fact": "oet-speaking",
+   "source": "https://oet.com/ready/speaking",
+   "sentence": "The Speaking sub-test takes about 20 minutes and is made of two role-plays of 5 minutes each, set in the candidate's own profession.",
+   "quotation": "Approximately 20 minutes Two profession-specific roleplays (5 mins each)"
+  },
+  {
+   "proposalId": "p042",
+   "fact": "claim:n-prep-1",
+   "source": "https://oet.com/en-us/ready/sample-tests",
+   "sentence": "OET offers free sample tests across all its sub-tests.",
+   "quotation": "Access sample tests across all OET sub-tests and feel prepared for test day Get OET ready with free OET sample tests"
+  },
+  {
+   "proposalId": "p043",
+   "fact": "claim:n-prep-1",
+   "source": "https://oet.com/en-us/ready/sample-tests",
+   "sentence": "OET recommends taking one practice test every 2 to 3 weeks.",
+   "quotation": "We would recommend taking one practice test every 2-3 weeks"
+  },
+  {
+   "proposalId": "p044",
+   "fact": "claim:n-reschedule-1",
+   "source": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+   "sentence": "Moving a booking to another date costs AU$120 before bookings close for that test date and AU$200 after.",
+   "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 . If you reschedule after bookings close for your original test date, the rescheduling fee is AU$200"
+  },
+  {
+   "proposalId": "p045",
+   "fact": "claim:n-reschedule-1-b",
+   "source": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+   "sentence": "A paper test can be moved up to 23:59 on the day before the test.",
+   "quotation": "You can reschedule your test in your OET account up to 23:59 pm the day before the test"
+  },
+  {
+   "proposalId": "p046",
+   "fact": "claim:n-reschedule-1-b",
+   "source": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+   "sentence": "A computer test at a venue or OET@Home can be moved up to two days before the first sub-test.",
+   "quotation": "You can reschedule your test up to two days before the start of your first sub-test"
+  },
+  {
+   "proposalId": "p047",
+   "fact": "oet-reschedule",
+   "source": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+   "sentence": "A computer-test or OET@Home booking can be moved up to two days before the first sub-test.",
+   "quotation": "You can reschedule your test up to two days before the start of your first sub-test"
+  },
+  {
+   "proposalId": "p048",
+   "fact": "oet-reschedule",
+   "source": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+   "sentence": "For the computer test and OET@Home, moving costs AU$120 before bookings close and AU$200 after.",
+   "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+  },
+  {
+   "proposalId": "p049",
+   "fact": "claim:n-results-1",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "Paper-test results can be made available 12 days after the test date.",
+   "quotation": "OET Test on Paper results can be made available 12 days** after the test date"
+  },
+  {
+   "proposalId": "p050",
+   "fact": "claim:n-results-1",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "Results for the computer test and OET@Home can be made available within 48 hours of finishing all four sub-tests.",
+   "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+  },
+  {
+   "proposalId": "p051",
+   "fact": "claim:n-validity-1",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "OET sets no validity period itself: each body that recognises the test decides how long a result is accepted.",
+   "quotation": "The length of time the results are recognised as valid is decided by the authorities that recognise the OET Test"
+  },
+  {
+   "proposalId": "p052",
+   "fact": "claim:s-score350-1",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "On OET's scale, a score of 350 is grade B.",
+   "quotation": "Test-takers awarded Grade B (scale score of 350)"
+  },
+  {
+   "proposalId": "p053",
+   "fact": "claim:s-score350-1",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "Each OET sub-test is reported on a scale from 0 to 500.",
+   "quotation": "reported on a scale from 0 to 500 in ten-point increments"
+  },
+  {
+   "proposalId": "p054",
+   "fact": "claim:s-score350-1-b",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "For Listening and Reading, which have 42 questions each, grade B typically means at least 30 marks.",
+   "quotation": "contains 42 questions. Each correct answer is awarded 1 mark. Scores out of 42 are converted to the 500 scale. Test-takers awarded Grade B (scale score of 350) typically achieve at least 30 marks"
+  },
+  {
+   "proposalId": "p055",
+   "fact": "oet-grades",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "Each OET sub-test is reported on a scale from 0 to 500 and given a letter grade from A (highest) to E (lowest).",
+   "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+  },
+  {
+   "proposalId": "p056",
+   "fact": "oet-results-computer",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "Computer-test and OET@Home results can be made available within 48 hours of finishing all four sub-tests.",
+   "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+  },
+  {
+   "proposalId": "p057",
+   "fact": "oet-results-paper",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "Paper-test results can be made available 12 days after the test date.",
+   "quotation": "OET Test on Paper results can be made available 12 days** after the test date"
+  },
+  {
+   "proposalId": "p058",
+   "fact": "oet-validity",
+   "source": "https://oet.com/test/results-and-scoring",
+   "sentence": "OET sets no validity period of its own: the bodies that recognise OET decide how long a result stays valid.",
+   "quotation": "The length of time the results are recognised as valid is decided by the authorities that recognise the OET Test"
+  },
+  {
+   "proposalId": "p059",
+   "fact": "claim:n-id-1",
+   "source": "https://oet.com/test-regulations",
+   "sentence": "OET accepts a valid passport or a valid national ID.",
+   "quotation": "Valid Passport; or Valid national ID*"
+  },
+  {
+   "proposalId": "p060",
+   "fact": "claim:n-id-1",
+   "source": "https://oet.com/test-regulations",
+   "sentence": "A national ID must be issued by the government of the country where you sit the test and show your full name, photograph and date of birth.",
+   "quotation": "identification issued by the national government in the country in which you are sitting the OET Test (this excludes a driver's license). A valid national ID must be in English lettering and include your full name, photograph and date of birth (DoB)"
+  },
+  {
+   "proposalId": "p061",
+   "fact": "claim:n-id-1-b",
+   "source": "https://oet.com/test-regulations",
+   "sentence": "For the computer test and OET@Home, a national ID must be in English lettering.",
+   "quotation": "A valid national ID must be in English lettering"
+  },
+  {
+   "proposalId": "p062",
+   "fact": "claim:n-id-1-b",
+   "source": "https://oet.com/test-regulations",
+   "sentence": "A national ID that is not in English must be shown with a certified translated copy on test day.",
+   "quotation": "Where a National ID is not in English, then a certified translated copy will need to be presented along with the original ID on the test day"
+  },
+  {
+   "proposalId": "p063",
+   "fact": "claim:n-id-1-c",
+   "source": "https://oet.com/test-regulations",
+   "sentence": "The ID shown on test day must match the ID used to book.",
+   "quotation": "the ID used for booking must match the ID presented on the test day"
+  },
+  {
+   "proposalId": "p064",
+   "fact": "oet-id",
+   "source": "https://oet.com/test-regulations",
+   "sentence": "On test day you can show your passport or national ID, and it must match the ID you booked with.",
+   "quotation": "You can use your passport or national ID on the test day to verify your identity (note: the ID used for booking must match the ID presented on the test day)"
+  },
+  {
+   "proposalId": "p065",
+   "fact": "claim:s-materials-1",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/speech-pathology",
+   "sentence": "OET publishes a Speech Pathology sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Speech Pathology sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p066",
+   "fact": "claim:s-uk-1",
+   "source": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+   "sentence": "The UK's HCPC asks speech and language therapists for an OET score of 1800 with no element below 400.",
+   "quotation": "Speech and Language Therapists Speech and Language 1800 with no elements below 400"
+  },
+  {
+   "proposalId": "p067",
+   "fact": "claim:s-uk-1-b",
+   "source": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+   "sentence": "The certificate must be no more than two years old when the application is received.",
+   "quotation": "The certificate must be no more than two years old when we receive your application"
+  },
+  {
+   "proposalId": "p068",
+   "fact": "claim:s-uk-1-c",
+   "source": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+   "sentence": "The test must be taken at an official test centre, not at home.",
+   "quotation": "The test needs to be taken at an official test centre and not at home"
+  },
+  {
+   "proposalId": "p069",
+   "fact": "hcpc-1400",
+   "source": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/english-language-proficiency/",
+   "sentence": "HCPC asks podiatrists, dietitians, occupational therapists, physiotherapists and radiographers for an OET score of 1400 in their own profession's test, with no element below 300.",
+   "quotation": "Chiropodists/Podiatrists Podiatry 1400 with no elements below 300 Dietitians Dietary 1400 with no elements below 300 Occupational therapists Occupational therapy 1400 with no elements below 300 Speech and Language Therapists Speech and Language 1800 with no elements below 400 Physiotherapists Physiotherapy 1400 with no elements below 300 Radiographers Radiography 1400 with no elements below 300"
+  },
+  {
+   "proposalId": "p070",
+   "fact": "claim:s-specific-1",
+   "source": "https://oet.com/test/oet-test",
+   "sentence": "Listening and Reading are not profession specific: they are common to all candidates.",
+   "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+  },
+  {
+   "proposalId": "p071",
+   "fact": "claim:s-specific-1",
+   "source": "https://oet.com/test/oet-test",
+   "sentence": "The Writing task is specific to the candidate's own profession.",
+   "quotation": "Complete a writing task specific to your profession"
+  },
+  {
+   "proposalId": "p072",
+   "fact": "claim:s-specific-1",
+   "source": "https://oet.com/test/oet-test",
+   "sentence": "The Speaking role-play is specific to the candidate's own profession.",
+   "quotation": "Engage in a role-play based speaking assessment specific to your profession"
+  },
+  {
+   "proposalId": "p073",
+   "fact": "oet-common",
+   "source": "https://oet.com/test/oet-test",
+   "sentence": "Listening and Reading are not profession specific: they are common to all candidates.",
+   "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+  },
+  {
+   "proposalId": "p074",
+   "fact": "oet-common",
+   "source": "https://oet.com/test/oet-test",
+   "sentence": "The Writing task is specific to the candidate's own profession.",
+   "quotation": "Complete a writing task specific to your profession"
+  },
+  {
+   "proposalId": "p075",
+   "fact": "oet-common",
+   "source": "https://oet.com/test/oet-test",
+   "sentence": "The Speaking role-play is specific to the candidate's own profession.",
+   "quotation": "Engage in a role-play based speaking assessment specific to your profession"
+  },
+  {
+   "proposalId": "p076",
+   "fact": "ielts-reading-general-topics",
+   "source": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+   "sentence": "IELTS Academic Reading texts are written for a non-specialist audience, on topics of general interest to university students.",
+   "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+  },
+  {
+   "proposalId": "p077",
+   "fact": "ielts-band-scores",
+   "source": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+   "sentence": "IELTS gives a band score for each of its four sections, and the overall band score is their average rounded to the nearest half band.",
+   "quotation": "The overall band score is the average of the four section band scores rounded to the nearest half band"
+  },
+  {
+   "proposalId": "p078",
+   "fact": "mci-medicine",
+   "source": "https://www.medicalcouncil.ie/registration-applications/first-time-applicants/english-language.html",
+   "sentence": "The Medical Council of Ireland asks for a pass in OET Medicine with at least grade B in each module, in a single sitting within the last two years.",
+   "quotation": "Applicants must have passed the OET Medicine category and attained a minimum grade B in each module in a single sitting within the last two years"
+  },
+  {
+   "proposalId": "p079",
+   "fact": "oet-sample-medicine",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/medicine",
+   "sentence": "OET publishes a Medicine sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Medicine sample test packs desktop_windows OET Test on Computer Sample Test 1 Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p080",
+   "fact": "dcnz-ab",
+   "source": "https://dcnz.org.nz/i-want-to-practise-in-new-zealand/english-language",
+   "sentence": "The Dental Council of New Zealand asks dentists for an OET pass with A or B grades in each of the four components.",
+   "quotation": "dental technicians A pass with A or B grades in each of the four components"
+  },
+  {
+   "proposalId": "p081",
+   "fact": "dcnz-ab",
+   "source": "https://dcnz.org.nz/i-want-to-practise-in-new-zealand/english-language",
+   "sentence": "A pass in the English test is valid for two years.",
+   "quotation": "A pass in the English test is only valid for two years"
+  },
+  {
+   "proposalId": "p082",
+   "fact": "dci-b",
+   "source": "https://www.dentalcouncil.ie/registration/language-proficiency",
+   "sentence": "The Dental Council of Ireland asks for the OET for Dentistry with at least a B in Listening, Reading, Writing and Speaking.",
+   "quotation": "Modules OET (for Dentistry) IELTS (Academic) Listening minimum score of B minimum score of 7.0 Reading minimum score of B minimum score of 7.0 Writing minimum score of B minimum score of 7.0 Speaking minimum score of B"
+  },
+  {
+   "proposalId": "p083",
+   "fact": "oet-sample-dentistry",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/dentistry",
+   "sentence": "OET publishes a Dentistry sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Dentistry sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p084",
+   "fact": "pcnz-ab",
+   "source": "https://pharmacycouncil.org.nz/pharmacy_registries/english-language-requirements/",
+   "sentence": "The Pharmacy Council of New Zealand asks for an A or B in each of the four OET bands, achieved within two years of applying.",
+   "quotation": "OET An A or B score in each of the four bands (listening, reading, writing and speaking) achieved within two years of the date of application"
+  },
+  {
+   "proposalId": "p085",
+   "fact": "psi-accepts",
+   "source": "https://www.psi.ie/registration/pharmacists/first-time-registration/language-requirements",
+   "sentence": "The Pharmaceutical Society of Ireland lists OET Pharmacy among its recognised language tests.",
+   "quotation": "OET Pharmacy Listening 350 300"
+  },
+  {
+   "proposalId": "p086",
+   "fact": "psi-accepts",
+   "source": "https://www.psi.ie/registration/pharmacists/first-time-registration/language-requirements",
+   "sentence": "Its test results are valid for two years from the date of the test.",
+   "quotation": "Test results are valid for two years from date of test"
+  },
+  {
+   "proposalId": "p087",
+   "fact": "oet-sample-pharmacy",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/pharmacy",
+   "sentence": "OET publishes a Pharmacy sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Pharmacy sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p088",
+   "fact": "coru-b3c1",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks for the OET with grade B (350) in three components and at least C+ (300) in the fourth.",
+   "quotation": "A minimum of Grade B (350) in three components and a minimum of Grade C+ (300) in one component (listening, reading, writing and speaking)"
+  },
+  {
+   "proposalId": "p089",
+   "fact": "coru-radiography",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks radiographers for the OET with at least grade B (350) in all four components.",
+   "quotation": "Radiographers RB OET (Radiography) A minimum of Grade B (Minimum Score of 350) in all components"
+  },
+  {
+   "proposalId": "p090",
+   "fact": "oet-sample-physiotherapy",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/physiotherapy",
+   "sentence": "OET publishes a Physiotherapy sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Physiotherapy sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p091",
+   "fact": "otbnz-accepts",
+   "source": "https://www.otboard.org.nz/site/rp/overseas",
+   "sentence": "The Occupational Therapy Board of New Zealand accepts OET or IELTS results as proof of English from applicants whose first language is not English.",
+   "quotation": "If English is not your first language you will be required to provide proof of your ability to communicate effectively in English. The OTBNZ accepts OET or IELTS results"
+  },
+  {
+   "proposalId": "p092",
+   "fact": "oet-sample-occupational-therapy",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/occupational-therapy",
+   "sentence": "OET publishes a Occupational Therapy sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Occupational Therapy sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p093",
+   "fact": "dietitians-au",
+   "source": "https://dietitiansaustralia.org.au/node/59",
+   "sentence": "Dietitians Australia asks for at least 350 (grade B) in each of the four OET components.",
+   "quotation": "You must achieve a minimum of 350 (B) in each of the 4 components"
+  },
+  {
+   "proposalId": "p094",
+   "fact": "dbnz-ab",
+   "source": "https://www.dietitiansboard.org.nz/Public/Public/Registration/English-Language-Requirements.aspx",
+   "sentence": "The Dietitians Board of New Zealand asks for A or B in all four OET sections, dated within the 12 months before it receives the application.",
+   "quotation": "Occupational English Test (OET) with A or B in all four sections. All components of the test must be passed and dated within the 12 months preceding the Board's receipt of the application"
+  },
+  {
+   "proposalId": "p095",
+   "fact": "oet-sample-dietetics",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/dietetics",
+   "sentence": "OET publishes a Dietetics sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Dietetics sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p096",
+   "fact": "goc-ielts-only",
+   "source": "https://optical.org/registration/register-from-overseas/international-optometrists.html",
+   "sentence": "The General Optical Council asks international optometrists to show their English with IELTS Academic or IELTS for UKVI (Academic), taken at an official test centre.",
+   "quotation": "taking one of the following tests at an official test centre: IELTS Academic IELTS for UKVI (Academic)"
+  },
+  {
+   "proposalId": "p097",
+   "fact": "oet-sample-optometry",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/optometry",
+   "sentence": "OET publishes a Optometry sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Optometry sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p098",
+   "fact": "oet-sample-podiatry",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/podiatry",
+   "sentence": "OET publishes a Podiatry sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Podiatry sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p099",
+   "fact": "oet-sample-radiography",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/radiography",
+   "sentence": "OET publishes a Radiography sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Radiography sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p100",
+   "fact": "rcvs-b",
+   "source": "https://www.rcvs.org.uk/veterinary-professionals/registration/join-the-register-of-veterinary-surgeons/english-language-requirements",
+   "sentence": "The RCVS asks for an overall OET grade of B, with grade B or higher in three components and at least C+ in the fourth.",
+   "quotation": "OET requirements You need an overall grade of B, with component scores of: Grade B or higher in three out of four components C+ minimum in one component"
+  },
+  {
+   "proposalId": "p101",
+   "fact": "rcvs-b",
+   "source": "https://www.rcvs.org.uk/veterinary-professionals/registration/join-the-register-of-veterinary-surgeons/english-language-requirements",
+   "sentence": "It accepts the veterinary version of the OET only, on paper or online.",
+   "quotation": "OET (Occupational English Test) - veterinary version only, available as paper or online tests"
+  },
+  {
+   "proposalId": "p102",
+   "fact": "avbc-inperson",
+   "source": "https://avbc.asn.au/avbc-english-language-standards/",
+   "sentence": "The Australasian Veterinary Boards Council accepts English test results only from tests sat in person; online or at-home tests are not accepted.",
+   "quotation": "AVBC only accepts English test results from exams taken in-person. Online or at-home tests are not accepted"
+  },
+  {
+   "proposalId": "p103",
+   "fact": "oet-sample-veterinary-science",
+   "source": "https://oet.com/ready/sample-tests/oet-test-on-computer/veterinary-science",
+   "sentence": "OET publishes a Veterinary Science sample test for the computer test, with Listening, Reading and Writing questions, an answer key and a Speaking role card.",
+   "quotation": "Download Veterinary Science sample test packs desktop_windows OET Test on Computer Sample Test Test questions(Listening, Reading, Writing) computer Answer key download Speaking role card"
+  },
+  {
+   "proposalId": "p104",
+   "fact": null,
+   "need": "s-ie",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "Ireland's CORU asks speech and language therapists for at least grade B (400) in three OET components and B (350) in one.",
+   "quotation": "Speech & Language Therapists RB OET (Speech Pathology) A minimum of Grade B (400) in three components and B (350) in one component"
+  },
+  {
+   "proposalId": "p105",
+   "fact": null,
+   "need": "s-ie",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "Language test certificates must be dated within two years of the application.",
+   "quotation": "All language test certificates must be dated within two years of the date an applicant submits their application for registration"
+  },
+  {
+   "proposalId": "p106",
+   "fact": null,
+   "need": "s-ie",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU accepts results from at most two sittings, the repeat taken with the same provider within six months of the first.",
+   "quotation": "CORU will accept results from a maximum of two test sittings. The repeat test: · must be taken from the same provider as the previous/initial test and · must be taken within six months of the initial test"
+  },
+  {
+   "proposalId": "p107",
+   "fact": null,
+   "need": "s-ie",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU accepts the online and at-home versions of the OET.",
+   "quotation": "online/at-home versions are exclusively accepted for the OET"
+  }
+ ]
+}
