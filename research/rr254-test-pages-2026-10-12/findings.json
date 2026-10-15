@@ -643,7 +643,14 @@
     },
     "whatSupportsIt": "rows 1 to 3 of the price list: IELTS (P&P) and IELTS (CD) test registration fee 76,240 in the first city group and 75,600 in the other four; IELTS UKVI CD 78,820 in all five",
     "rewrittenOn": "2026-10-14",
-    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "recheckRR269": {
+      "state": "CHANGED",
+      "on": "2026-10-15",
+      "against": "browser-captures-2026-10-15/08-britishcouncil-pk-ielts-fees.txt (client browser)",
+      "what": "the stored IELTS UKVI fee PKR 78,820 is no longer shown: the page shows PKR 72,000, effective 9 June 2026; the Academic and General Training fees 76,240 and 75,600 are still shown",
+      "note": "the stored price list was named 'effective 2 July 2026', a later date than the page's 9 June 2026 — not resolved here"
+    }
   },
   {
     "findingId": "finding:n-cheaper-3",
@@ -3863,7 +3870,14 @@
     "whatSupportsIt": "rows 1 to 3 of the price list: IELTS (P&P) and IELTS (CD) test registration fee 76,240 in the first city group and 75,600 in the other four; IELTS UKVI CD 78,820 in all five",
     "rewrittenOn": "2026-10-14",
     "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
-    "rewrittenFrom": "n-cheaper-2"
+    "rewrittenFrom": "n-cheaper-2",
+    "recheckRR269": {
+      "state": "CHANGED",
+      "on": "2026-10-15",
+      "against": "browser-captures-2026-10-15/08-britishcouncil-pk-ielts-fees.txt (client browser)",
+      "what": "the stored IELTS UKVI fee PKR 78,820 is no longer shown: the page shows PKR 72,000, effective 9 June 2026; the Academic and General Training fees 76,240 and 75,600 are still shown",
+      "note": "the stored price list was named 'effective 2 July 2026', a later date than the page's 9 June 2026 — not resolved here"
+    }
   },
   {
     "findingId": "finding:n-cheaper-4-b",

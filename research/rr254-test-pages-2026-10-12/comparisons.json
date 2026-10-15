@@ -373,5 +373,52 @@
         ]
       }
     ]
+  },
+  {
+    "page": "nursing",
+    "need": "n-cheaper",
+    "caption": "OET and IELTS fees in Pakistan, side by side",
+    "columns": [
+      "",
+      "The fee as the test owner states it"
+    ],
+    "rows": [
+      {
+        "label": "OET — the full four-part test",
+        "cells": [
+          {
+            "claimId": "n-cheaper-oet",
+            "value": "AU$587"
+          }
+        ]
+      },
+      {
+        "label": "IELTS Academic or General Training, on computer — Islamabad",
+        "cells": [
+          {
+            "claimId": "n-cheaper-ielts-1",
+            "value": "PKR 75,600"
+          }
+        ]
+      },
+      {
+        "label": "IELTS Academic or General Training, on computer — Lahore and the other listed Punjab cities",
+        "cells": [
+          {
+            "claimId": "n-cheaper-ielts-2",
+            "value": "PKR 76,240"
+          }
+        ]
+      },
+      {
+        "label": "IELTS for UK Visas and Immigration, on computer",
+        "cells": [
+          {
+            "claimId": "n-cheaper-ielts-3",
+            "value": "PKR 72,000"
+          }
+        ]
+      }
+    ]
   }
 ]
