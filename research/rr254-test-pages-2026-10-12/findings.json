@@ -5547,5 +5547,260 @@
     "reusedFrom": "n-dates-1-b",
     "reusedOn": "2026-10-15",
     "reusedWhy": "RR-267 §1b: how dates work, from the stored read of OET's own booking page; no specific dates"
+  },
+  {
+    "findingId": "finding:n-athome-1",
+    "claimId": "n-athome-1",
+    "factId": "oet-athome-all-professions",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "the page says \"All OET professions can sit OET@Home®.\" and lists Nursing"
+  },
+  {
+    "findingId": "finding:n-athome-2",
+    "claimId": "n-athome-2",
+    "factId": "oet-athome-remote",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "the page says \"OET@Home® is delivered online with full remote proctoring\" on \"your own computer\""
+  },
+  {
+    "findingId": "finding:n-athome-3",
+    "claimId": "n-athome-3",
+    "factId": "oet-athome-room",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "the page asks for \"a quiet space that meets technical and environmental requirements\""
+  },
+  {
+    "findingId": "finding:n-athome-4",
+    "claimId": "n-athome-4",
+    "factId": "oet-athome-acceptance",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "the page says \"OET@Home® may not be accepted by all recognising organisations or authorities in every country.\""
+  },
+  {
+    "findingId": "finding:n-athome-5",
+    "claimId": "n-athome-5",
+    "factId": "oet-athome-fee",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "the page shows \"AUD $587\""
+  },
+  {
+    "findingId": "finding:n-athome-6",
+    "claimId": "n-athome-6",
+    "factId": "oet-athome-results",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "the page says results come \"as early as 48 hours\" after all sub-tests"
+  },
+  {
+    "findingId": "finding:s-equivalence-1",
+    "claimId": "s-equivalence-1",
+    "factId": "oet-ielts-table",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "OET's FAQ \"How do OET results compare to IELTS and CEFR scores?\" answers with two tables (images); their numbers were NOT read, so none is stated — attributed to OET, never as an IELTS fact"
+  },
+  {
+    "findingId": "finding:s-contact-1",
+    "claimId": "s-contact-1",
+    "factId": "oet-contact-ways",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Contact us",
+      "link": "https://oet.com/contact-us",
+      "readOn": "2026-10-15"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "beta-g (research agent, Claude desktop app)",
+      "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+      "route": "client browser",
+      "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+    },
+    "whatSupportsIt": "the page offers a contact form, a phone line and \"Chat with an Expert\"; the page is linked and no number is copied"
+  },
+  {
+    "findingId": "finding:s-difficulty-gv1",
+    "claimId": "s-difficulty-gv1",
+    "factId": "ielts-academic-no-ranking",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic test format and sections",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page describes IELTS Academic, its four sections and timings, and names no other test as harder or easier",
+    "reusedFrom": "pd-difficulty-gv1",
+    "reusedOn": "2026-10-15",
+    "reusedWhy": "RR-268 A1: the GENERAL VIEW form (RR-265) from the OET/IELTS facts already stored"
+  },
+  {
+    "findingId": "finding:s-difficulty-gv2",
+    "claimId": "s-difficulty-gv2",
+    "factId": "oet-common",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — The OET Test",
+      "link": "https://oet.com/test/oet-test",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific",
+    "reusedFrom": "pd-difficulty-gv2",
+    "reusedOn": "2026-10-15",
+    "reusedWhy": "RR-268 A1: the GENERAL VIEW form (RR-265) from the OET/IELTS facts already stored"
+  },
+  {
+    "findingId": "finding:s-difficulty-gv3",
+    "claimId": "s-difficulty-gv3",
+    "factId": "ielts-reading-general-topics",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS Academic: Reading test format",
+      "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest",
+    "reusedFrom": "pd-difficulty-gv3",
+    "reusedOn": "2026-10-15",
+    "reusedWhy": "RR-268 A1: the GENERAL VIEW form (RR-265) from the OET/IELTS facts already stored"
+  },
+  {
+    "findingId": "finding:s-difficulty-gv4",
+    "claimId": "s-difficulty-gv4",
+    "factId": "oet-grades",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "research agent (actor:cc)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350",
+    "reusedFrom": "pd-difficulty-gv4",
+    "reusedOn": "2026-10-15",
+    "reusedWhy": "RR-268 A1: the GENERAL VIEW form (RR-265) from the OET/IELTS facts already stored"
+  },
+  {
+    "findingId": "finding:s-difficulty-gv5",
+    "claimId": "s-difficulty-gv5",
+    "factId": "ielts-band-scores",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "IELTS — IELTS scoring in detail",
+      "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+      "readOn": "2026-10-14"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch",
+      "route": "agent fetch — one read at a time on the host, at least 5 s apart (19:59:20, 19:59:33 (404), 19:59:50, 19:59:58 UTC); OUTSIDE the engine's paced path"
+    },
+    "whatSupportsIt": "the page lists bands 0 to 9, a score per skill and an overall band that is the average of the four",
+    "reusedFrom": "pd-difficulty-gv5",
+    "reusedOn": "2026-10-15",
+    "reusedWhy": "RR-268 A1: the GENERAL VIEW form (RR-265) from the OET/IELTS facts already stored"
   }
 ]

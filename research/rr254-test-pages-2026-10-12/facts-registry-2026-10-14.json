@@ -1,5 +1,5 @@
 {
-  "note": "RR-264: every fact the ten new pages use, recorded ONCE (one sentence, one claim, one tier-1 source each) and reused by every page that needs it; and every read that found no answer. Read 14 October 2026 by research agents of actor:cc, public pages only, no login. RR-266: five regulator pages that blocked the engine (GMC, ECFMG, GPhC, NZ physiotherapy, VCI) were read by beta-g in the Claude desktop app's built-in browser, route \"client browser\"; their NOT FOUND entries are kept, marked resolved.",
+  "note": "RR-264: every fact the ten new pages use, recorded ONCE (one sentence, one claim, one tier-1 source each) and reused by every page that needs it; and every read that found no answer. Read 14 October 2026 by research agents of actor:cc, public pages only, no login. RR-266: five regulator pages that blocked the engine (GMC, ECFMG, GPhC, NZ physiotherapy, VCI) were read by beta-g in the Claude desktop app's built-in browser, route \"client browser\"; their NOT FOUND entries are kept, marked resolved. RR-268: the five sources that blocked RR-267 were read by beta-g in the Claude desktop app's built-in browser (route \"client browser\"); s-nz is UNANSWERABLE, and every UNANSWERABLE need carries its checked source and day on the need.",
   "facts": [
     {
       "factId": "oet-fee",
@@ -1070,6 +1070,158 @@
         "route": "client browser",
         "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
       }
+    },
+    {
+      "factId": "oet-athome-all-professions",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "OET says every OET profession, nursing included, can sit OET@Home.",
+      "whatSupportsIt": "the page says \"All OET professions can sit OET@Home®.\" and lists Nursing",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
+    },
+    {
+      "factId": "oet-athome-remote",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "OET@Home is taken online on the candidate's own computer, with full remote proctoring.",
+      "whatSupportsIt": "the page says \"OET@Home® is delivered online with full remote proctoring\" on \"your own computer\"",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
+    },
+    {
+      "factId": "oet-athome-room",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "The candidate needs a quiet space that meets OET's technical and environmental requirements.",
+      "whatSupportsIt": "the page asks for \"a quiet space that meets technical and environmental requirements\"",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
+    },
+    {
+      "factId": "oet-athome-acceptance",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "OET says OET@Home may not be accepted by every recognising organisation, so candidates should check with theirs first.",
+      "whatSupportsIt": "the page says \"OET@Home® may not be accepted by all recognising organisations or authorities in every country.\"",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
+    },
+    {
+      "factId": "oet-athome-fee",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "The OET@Home page shows a fee of AUD 587.",
+      "whatSupportsIt": "the page shows \"AUD $587\"",
+      "value": "AUD 587",
+      "recheckDays": 7,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
+    },
+    {
+      "factId": "oet-athome-results",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — OET@Home",
+      "link": "https://oet.com/test/oet-test-at-home",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "Results can come as early as 48 hours after all sub-tests are taken.",
+      "whatSupportsIt": "the page says results come \"as early as 48 hours\" after all sub-tests",
+      "value": "48 hours",
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
+    },
+    {
+      "factId": "oet-ielts-table",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Results and scoring",
+      "link": "https://oet.com/test/results-and-scoring",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "OET publishes its own table comparing OET scores with IELTS bands, on its results and scoring page.",
+      "whatSupportsIt": "OET's FAQ \"How do OET results compare to IELTS and CEFR scores?\" answers with two tables (images); their numbers were NOT read, so none is stated — attributed to OET, never as an IELTS fact",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
+    },
+    {
+      "factId": "oet-contact-ways",
+      "body": "OET (Occupational English Test)",
+      "sourceName": "OET — Contact us",
+      "link": "https://oet.com/contact-us",
+      "readOn": "2026-10-15",
+      "tier": 1,
+      "text": "OET can be contacted through the email form on its Contact us page, by phone, or through its Chat with an Expert feature.",
+      "whatSupportsIt": "the page offers a contact form, a phone line and \"Chat with an Expert\"; the page is linked and no number is copied",
+      "value": null,
+      "recheckDays": 90,
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      }
     }
   ],
   "notFound": [
@@ -1156,6 +1308,27 @@
       "outcome": "NOT FOUND",
       "why": "the page gives no OET grade; the standards PDF is encrypted and its text could not be read",
       "on": "2026-10-14"
+    },
+    {
+      "country": "NZ",
+      "profession": "speech-pathology",
+      "body": "New Zealand Speech-language Therapists' Association",
+      "link": "https://speechtherapy.org.nz/membership/qualification-approval-framework",
+      "outcome": "NOT FOUND",
+      "why": "the official NZ body's qualification-approval page names no English-language test (no OET, no IELTS); speech-language therapy in NZ is self-regulated through it",
+      "on": "2026-10-15",
+      "readBy": {
+        "kind": "AGENT",
+        "ref": "beta-g (research agent, Claude desktop app)",
+        "tool": "the Claude desktop app's built-in browser, on the owner's computer, each site approved by the owner",
+        "route": "client browser",
+        "record": "_handoffs:AlmiVisibility_RR-267_SOURCE_READS_BY_BETA-G_2026-10-15.md"
+      },
+      "disposition": "UNANSWERABLE",
+      "need": "s-nz",
+      "shown": false,
+      "ruling": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-15_RR-268_SOURCE_READS_AND_OWN_FACT_CHECK.md",
+      "recordedOn": "2026-10-15"
     }
   ],
   "contradictions": [

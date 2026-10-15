@@ -1064,7 +1064,116 @@
             "ac91a0fcadc2d89efc4167aaefbbf892"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "n-athome-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET says every OET profession, nursing included, can sit OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — OET@Home",
+                  "link": "https://oet.com/test/oet-test-at-home",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-athome-1"
+                }
+              },
+              {
+                "claimId": "n-athome-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET@Home is taken online on the candidate's own computer, with full remote proctoring.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — OET@Home",
+                  "link": "https://oet.com/test/oet-test-at-home",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-athome-2"
+                }
+              },
+              {
+                "claimId": "n-athome-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "The candidate needs a quiet space that meets OET's technical and environmental requirements.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — OET@Home",
+                  "link": "https://oet.com/test/oet-test-at-home",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-athome-3"
+                }
+              },
+              {
+                "claimId": "n-athome-4",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET says OET@Home may not be accepted by every recognising organisation, so candidates should check with theirs first.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — OET@Home",
+                  "link": "https://oet.com/test/oet-test-at-home",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-athome-4"
+                }
+              },
+              {
+                "claimId": "n-athome-5",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "The OET@Home page shows a fee of AUD 587.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — OET@Home",
+                  "link": "https://oet.com/test/oet-test-at-home",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-athome-5"
+                }
+              },
+              {
+                "claimId": "n-athome-6",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Results can come as early as 48 hours after all sub-tests are taken.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — OET@Home",
+                  "link": "https://oet.com/test/oet-test-at-home",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:n-athome-6"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:n-athome",
@@ -1726,6 +1835,18 @@
           "sameness": {
             "judgementRef": "sameness:s-nz",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          },
+          "unanswerable": {
+            "disposition": "UNANSWERABLE",
+            "source": {
+              "body": "New Zealand Speech-language Therapists' Association",
+              "name": "New Zealand Speech-language Therapists' Association — Qualification approval framework",
+              "link": "https://speechtherapy.org.nz/membership/qualification-approval-framework"
+            },
+            "checkedOn": "2026-10-15",
+            "why": "the official NZ body's qualification-approval page names no English-language test (no OET, no IELTS); speech-language therapy in NZ is self-regulated through it",
+            "ruling": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-15_RR-268_SOURCE_READS_AND_OWN_FACT_CHECK.md",
+            "record": "facts-registry-2026-10-14.json#notFound"
           }
         },
         {
@@ -1784,7 +1905,26 @@
             "78ccf3d0f4340a4c498a04b8ac5ae3b8"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "s-equivalence-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET publishes its own table comparing OET scores with IELTS bands, on its results and scoring page.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Results and scoring",
+                  "link": "https://oet.com/test/results-and-scoring",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-equivalence-1"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:s-equivalence",
@@ -1797,11 +1937,111 @@
             "ab9e8c8f08353f5d1c689686d803c5d9"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "s-difficulty-gv1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "IELTS (International English Language Testing System)",
+                "text": "IELTS's own page on its Academic test does not say that OET or any other test is harder or easier.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "IELTS (International English Language Testing System)",
+                  "name": "IELTS — IELTS Academic test format and sections",
+                  "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-difficulty-gv1"
+                }
+              },
+              {
+                "claimId": "s-difficulty-gv2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Listening and Reading are the same for every profession, while Writing and Speaking are set in the candidate's own profession.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — The OET Test",
+                  "link": "https://oet.com/test/oet-test",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-difficulty-gv2"
+                }
+              },
+              {
+                "claimId": "s-difficulty-gv3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "IELTS (International English Language Testing System)",
+                "text": "IELTS Academic Reading texts are written for a non-specialist audience, on topics of general interest to university students.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "IELTS (International English Language Testing System)",
+                  "name": "IELTS — IELTS Academic: Reading test format",
+                  "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-difficulty-gv3"
+                }
+              },
+              {
+                "claimId": "s-difficulty-gv4",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Each OET sub-test is scored from 0 to 500 and given a grade from A to E, and a score of 350 is a grade B.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Results and scoring",
+                  "link": "https://oet.com/test/results-and-scoring",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-difficulty-gv4"
+                }
+              },
+              {
+                "claimId": "s-difficulty-gv5",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "IELTS (International English Language Testing System)",
+                "text": "IELTS gives a band score from 0 to 9 for each of its four skills and an overall band score.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "IELTS (International English Language Testing System)",
+                  "name": "IELTS — IELTS scoring in detail",
+                  "link": "https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail",
+                  "readOn": "2026-10-14"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-difficulty-gv5"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:s-difficulty",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          },
+          "generalView": {
+            "text": "Which test feels harder depends on the candidate's own strengths: OET's Writing and Speaking come from healthcare work, while IELTS uses general topics.",
+            "source": "the client's own AI research (14 Oct 2026)",
+            "ref": "general-views.json#oet-vs-ielts-difficulty",
+            "kind": "GENERAL_VIEW",
+            "label": "INFERRED",
+            "recordedOn": "2026-10-14",
+            "ruling": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-14_RR-265_SAMPLE_APPROVED_GENERAL_VIEW_AND_PACING.md (item 3)"
           }
         },
         {
@@ -1810,7 +2050,26 @@
             "b0296433957c0ded1761d3b63254e820"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "s-contact-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET can be contacted through the email form on its Contact us page, by phone, or through its Chat with an Expert feature.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Contact us",
+                  "link": "https://oet.com/contact-us",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-contact-1"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:s-contact",
@@ -6775,6 +7034,18 @@
           "sameness": {
             "judgementRef": "sameness:pd-nz",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          },
+          "unanswerable": {
+            "disposition": "UNANSWERABLE",
+            "source": {
+              "body": "Podiatrists Board of New Zealand",
+              "name": "Podiatrists Board of New Zealand",
+              "link": null
+            },
+            "checkedOn": "2026-10-14",
+            "why": "the page read (HTTP 200) holds no English-language rule; its guide could not be read",
+            "ruling": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-15_RR-267_CLOSE_LAST_NEEDS.md",
+            "record": "facts-registry-2026-10-14.json#notFound"
           }
         },
         {
@@ -7428,6 +7699,18 @@
           "sameness": {
             "judgementRef": "sameness:rd-nz",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
+          },
+          "unanswerable": {
+            "disposition": "UNANSWERABLE",
+            "source": {
+              "body": "Medical Radiation Technologists Board (NZ)",
+              "name": "Medical Radiation Technologists Board (NZ)",
+              "link": null
+            },
+            "checkedOn": "2026-10-14",
+            "why": "the page read (HTTP 200) asks for English evidence with IELTS as the example and gives no OET grade",
+            "ruling": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-15_RR-267_CLOSE_LAST_NEEDS.md",
+            "record": "facts-registry-2026-10-14.json#notFound"
           }
         },
         {

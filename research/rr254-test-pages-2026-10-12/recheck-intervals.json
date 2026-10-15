@@ -1593,5 +1593,70 @@
     "claimId": "s-dates-2",
     "recheckDays": 7,
     "why": "RR-267 §1b: test dates change often — recheck every week"
+  },
+  {
+    "claimId": "n-athome-1",
+    "recheckDays": 90,
+    "why": "rules and formats change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "n-athome-2",
+    "recheckDays": 90,
+    "why": "rules and formats change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "n-athome-3",
+    "recheckDays": 90,
+    "why": "rules and formats change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "n-athome-4",
+    "recheckDays": 90,
+    "why": "rules and formats change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "n-athome-5",
+    "recheckDays": 7,
+    "why": "fees change: recheck every week (the reads file's interval)"
+  },
+  {
+    "claimId": "n-athome-6",
+    "recheckDays": 90,
+    "why": "rules and formats change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "s-equivalence-1",
+    "recheckDays": 90,
+    "why": "rules and formats change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "s-contact-1",
+    "recheckDays": 90,
+    "why": "rules and formats change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "s-difficulty-gv1",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "s-difficulty-gv2",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "s-difficulty-gv3",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "s-difficulty-gv4",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
+  },
+  {
+    "claimId": "s-difficulty-gv5",
+    "recheckDays": 90,
+    "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
   }
 ]
