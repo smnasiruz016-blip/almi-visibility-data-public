@@ -1,0 +1,11 @@
+{
+  "note": "RR-269 §2 and §4: the sources read live through the engine's one paced path (at least 2 s per host, robots first) on 15 October 2026 — the four PDF sources already cited, the Speech Pathology Australia OSQCA guide PDF (the old OET page now answers 404), and the OET fee page. No other source is read in this run.",
+  "sources": [
+    "https://www.mcnz.org.nz/assets/Policies/English-language-policy.pdf",
+    "https://www.gdc-uk.org/docs/default-source/registration/english-language-controls/gdc-guidance-on-english-language-controls.pdf?sfvrsn=88adf167_2",
+    "https://odob.health.nz/document/8136/O.%20English%20language%20requirements%20(v1).pdf",
+    "https://vetcouncil.org.nz/common/Uploaded%20files/Web/Publications/Policies%20and%20Statements/EnglishCompetence.pdf",
+    "https://speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/19391023-50c3-4dc0-8a2c-b7e846fc7d2e/osqca-guide-for-applicants-apr-2026.pdf",
+    "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost"
+  ]
+}

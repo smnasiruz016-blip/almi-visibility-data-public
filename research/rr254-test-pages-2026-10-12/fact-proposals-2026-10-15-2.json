@@ -1,0 +1,176 @@
+{
+ "route": "OWNER_SUBSCRIPTION_SESSION",
+ "proposedOn": "2026-10-15",
+ "note": "RR-269: proposed by this Claude Code session on the owner's own subscription (NOT METERED); judged by the engine's verbatim check on the stored texts",
+ "proposals": [
+  {
+   "proposalId": "q001",
+   "fact": "gmc-formats",
+   "source": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+   "sentence": "The GMC accepts OET on paper, OET on computer and OET@Home.",
+   "quotation": "We can accept the following versions of OET: OET on paper OET on computer OET@Home"
+  },
+  {
+   "proposalId": "q002",
+   "fact": "ecfmg-retake-all",
+   "source": "https://www.ecfmg.org/certification-pathways/oet.html",
+   "sentence": "A Pathways applicant who misses the score in one sub-test must retake all four sub-tests.",
+   "quotation": "must retake all OET Medicine sub-tests (Listening, Reading, Writing, and Speaking)"
+  },
+  {
+   "proposalId": "q003",
+   "fact": "ecfmg-retake-all",
+   "source": "https://www.ecfmg.org/certification-pathways/oet.html",
+   "sentence": "There is no limit on the number of times OET Medicine can be retaken.",
+   "quotation": "There is no limit on the number of times you can retake OET Medicine"
+  },
+  {
+   "proposalId": "q004",
+   "fact": "mcnz-medicine",
+   "source": "https://www.mcnz.org.nz/assets/Policies/English-language-policy.pdf",
+   "sentence": "The Medical Council of New Zealand asks doctors for at least 350 in Speaking, Listening and Reading and 300 in Writing in the OET Medicine.",
+   "quotation": "Minimum required scores: Speaking 350 Listening 350 Reading 350 Writing 300"
+  },
+  {
+   "proposalId": "q005",
+   "fact": "odob-b",
+   "source": "https://odob.health.nz/document/8136/O.%20English%20language%20requirements%20(v1).pdf",
+   "sentence": "The Optometrists and Dispensing Opticians Board asks for at least a B pass (or a score of 350) in each of the four OET components.",
+   "quotation": "A minimum B pass (or a score of 350)"
+  },
+  {
+   "proposalId": "q006",
+   "fact": "odob-b",
+   "source": "https://odob.health.nz/document/8136/O.%20English%20language%20requirements%20(v1).pdf",
+   "sentence": "The board's minimum applies to each of the four OET components.",
+   "quotation": "each of the four components (listening, reading, writing, and speaking)"
+  },
+  {
+   "proposalId": "q007",
+   "fact": "vcnz-ab",
+   "source": "https://vetcouncil.org.nz/common/Uploaded%20files/Web/Publications/Policies%20and%20Statements/EnglishCompetence.pdf",
+   "sentence": "The Veterinary Council of New Zealand asks for grade A or B in each of the four OET sub-tests, all from one sitting.",
+   "quotation": "Applicants need to achieve a pass with A or B grades in each of the 4 sections at 1 sitting."
+  },
+  {
+   "proposalId": "q008",
+   "fact": null,
+   "need": "n-athome",
+   "source": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+   "sentence": "Australia's National Boards accept the OET only on paper or on computer at a test centre.",
+   "quotation": "OET - Occupational English Test (on paper or computer based in testing centre)"
+  },
+  {
+   "proposalId": "q009",
+   "fact": null,
+   "need": "n-athome",
+   "source": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+   "sentence": "They do not accept at-home or remotely proctored versions of English tests.",
+   "quotation": "Any at home and/or 'indicative' versions of any of the English language tests or versions that include any element of remote proctoring, except the OET computer-based test (at test centre only), are not approved by National Boards and are not accepted"
+  },
+  {
+   "proposalId": "q010",
+   "fact": null,
+   "need": "dt-scores",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks dietitians for grade B (350) in three OET components and C+ (300) in one.",
+   "quotation": "OET (Dietetics) A minimum of Grade B (350) in three components and a minimum of Grade C+ (300) in one component"
+  },
+  {
+   "proposalId": "q011",
+   "fact": null,
+   "need": "pt-scores",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks physiotherapists for grade B (350) in three OET components and C+ (300) in one.",
+   "quotation": "OET (Physiotherapy) A minimum of Grade B (350) in three components and a minimum of Grade C+ (300) in one component"
+  },
+  {
+   "proposalId": "q012",
+   "fact": null,
+   "need": "ot-scores",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks occupational therapists for grade B (350) in three OET components and C+ (300) in one.",
+   "quotation": "OET (Occupational Therapy) A minimum of grade B (350) in three components and a minimum of Grade C+ (300) in one component"
+  },
+  {
+   "proposalId": "q013",
+   "fact": null,
+   "need": "op-scores",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks optometrists for grade B (350) in three OET components and C+ (300) in one.",
+   "quotation": "OET (Optometry) A minimum of Grade B (350) in three components and a minimum of Grade C+ (300) in one component"
+  },
+  {
+   "proposalId": "q014",
+   "fact": null,
+   "need": "rd-scores",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks radiographers for at least grade B (350) in all four OET components.",
+   "quotation": "OET (Radiography) A minimum of Grade B (Minimum Score of 350) in all components"
+  },
+  {
+   "proposalId": "q015",
+   "fact": null,
+   "need": "pd-scores",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks podiatrists for grade B in three OET components and C+ (300) in one.",
+   "quotation": "OET (Podiatry) A minimum of Grade B in three components and a minimum Grade C+ (300) in one component"
+  },
+  {
+   "proposalId": "q016",
+   "fact": null,
+   "need": "s-ie",
+   "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+   "sentence": "CORU asks speech and language therapists for grade B (400) in three OET components and B (350) in one.",
+   "quotation": "OET (Speech Pathology) A minimum of Grade B (400) in three components and B (350) in one component"
+  },
+  {
+   "proposalId": "q017",
+   "fact": null,
+   "need": "n-cheaper",
+   "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+   "sentence": "OET lists the full four-part test at AU$587.",
+   "quotation": "costs AU$587 (or US$455 for OET on Computer at a venue and OET@Home in the US)"
+  },
+  {
+   "proposalId": "q018",
+   "fact": null,
+   "need": "n-cheaper",
+   "source": "https://www.britishcouncil.pk/exam/ielts/book-test",
+   "sentence": "British Council Pakistan lists IELTS Academic and General Training on computer at PKR 75,600 in Islamabad.",
+   "quotation": "IELTS Academic and General Training – in centre - on computer | Islamabad | 75,600"
+  },
+  {
+   "proposalId": "q019",
+   "fact": null,
+   "need": "n-cheaper",
+   "source": "https://www.britishcouncil.pk/exam/ielts/book-test",
+   "sentence": "The same test is PKR 76,240 in Lahore, Multan, Faisalabad and the other listed Punjab cities.",
+   "quotation": "Lahore, Multan, Faisalabad, Sargodha, Sahiwal, Sialkot, Gujrawala, Bahwalpur, Mandi Bahauddin, Jhelum & Gujrat | 76,240"
+  },
+  {
+   "proposalId": "q020",
+   "fact": null,
+   "need": "n-cheaper",
+   "source": "https://www.britishcouncil.pk/exam/ielts/book-test",
+   "sentence": "IELTS for UK Visas and Immigration on computer is listed at PKR 72,000.",
+   "quotation": "Peshawar, Multan, Faisalabad, Sialkot, Abbotabad | 72,000"
+  },
+  {
+   "proposalId": "q021",
+   "fact": null,
+   "need": "n-cheaper",
+   "source": "https://www.britishcouncil.pk/exam/ielts/book-test",
+   "sentence": "British Council Pakistan says these IELTS fees are effective from 9 June 2026.",
+   "quotation": "Fee (in PKR) – Effective from 9 June 2026"
+  },
+  {
+   "proposalId": "q022",
+   "fact": null,
+   "need": "n-cheaper",
+   "source": "https://www.britishcouncil.pk/sites/default/files/ielts_price.pdf",
+   "sentence": "An IELTS test registration fee in Pakistan was PKR 34,800.",
+   "quotation": "IELTS (P&P) Test registration fee 34,800"
+  }
+ ]
+}

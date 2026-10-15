@@ -1,0 +1,12 @@
+{
+  "note": "Documents the client supplied (RR-269 §2). Each: the file, its original URL, the day it was supplied, and outOfDate when the client says so. A file out of date is kept as a record and is never a source a fact stands on.",
+  "files": [
+    {
+      "file": "ielts_price.pdf",
+      "url": "https://www.britishcouncil.pk/sites/default/files/ielts_price.pdf",
+      "suppliedOn": "2026-10-15",
+      "suppliedBy": "the owner (saved into _handoffs/client-files/)",
+      "outOfDate": "the owner's capture README of 15 October 2026: an OLD price list (2020–2021 prices) — use no fee from it; the document itself says its totals ran from 7 April 2020 to 30 April 2021"
+    }
+  ]
+}
