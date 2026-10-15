@@ -41,17 +41,12 @@
   },
   {
     "page": "speech-pathology",
-    "claimId": "s-au-1",
-    "value": "450 to 500"
-  },
-  {
-    "page": "speech-pathology",
     "claimId": "s-uk-1",
     "value": "1800"
   },
   {
     "page": "speech-pathology",
-    "claimId": "s-ie-1",
+    "claimId": "s-ie-x1",
     "value": "grade B (400)"
   },
   {
@@ -61,18 +56,8 @@
   },
   {
     "page": "medicine",
-    "claimId": "md-scores-1",
-    "value": "360 in Reading"
-  },
-  {
-    "page": "medicine",
     "claimId": "md-scores-2",
     "value": "grade B"
-  },
-  {
-    "page": "medicine",
-    "claimId": "md-scores-3",
-    "value": "300 in Writing"
   },
   {
     "page": "medicine",
@@ -96,11 +81,6 @@
   },
   {
     "page": "dentistry",
-    "claimId": "dn-scores-2",
-    "value": "360 in Reading"
-  },
-  {
-    "page": "dentistry",
     "claimId": "dn-fee-1",
     "value": "AU$587"
   },
@@ -118,11 +98,6 @@
     "page": "dentistry",
     "claimId": "dn-centres-1",
     "value": "Islamabad, Karachi and Lahore"
-  },
-  {
-    "page": "pharmacy",
-    "claimId": "ph-scores-1",
-    "value": "360 in Reading"
   },
   {
     "page": "pharmacy",
@@ -148,11 +123,6 @@
     "page": "physiotherapy",
     "claimId": "pt-scores-1",
     "value": "1400"
-  },
-  {
-    "page": "physiotherapy",
-    "claimId": "pt-scores-2",
-    "value": "360 in Reading"
   },
   {
     "page": "physiotherapy",
@@ -183,11 +153,6 @@
     "page": "occupational-therapy",
     "claimId": "ot-scores-1",
     "value": "1400"
-  },
-  {
-    "page": "occupational-therapy",
-    "claimId": "ot-scores-2",
-    "value": "360 in Reading"
   },
   {
     "page": "occupational-therapy",
@@ -246,11 +211,6 @@
   },
   {
     "page": "optometry",
-    "claimId": "op-scores-2",
-    "value": "360 in Reading"
-  },
-  {
-    "page": "optometry",
     "claimId": "op-scores-4",
     "value": "C+ (300)"
   },
@@ -281,11 +241,6 @@
   },
   {
     "page": "podiatry",
-    "claimId": "pd-scores-2",
-    "value": "360 in Reading"
-  },
-  {
-    "page": "podiatry",
     "claimId": "pd-scores-3",
     "value": "C+ (300)"
   },
@@ -313,11 +268,6 @@
     "page": "radiography",
     "claimId": "rd-scores-1",
     "value": "1400"
-  },
-  {
-    "page": "radiography",
-    "claimId": "rd-scores-2",
-    "value": "360 in Reading"
   },
   {
     "page": "radiography",
