@@ -1,106 +1,5 @@
 [
   {
-    "page": "nursing",
-    "need": "n-cheaper",
-    "caption": "OET and IELTS in Pakistan: the listed fees",
-    "columns": [
-      "",
-      "OET",
-      "IELTS (Pakistan)"
-    ],
-    "rows": [
-      {
-        "label": "Full test, as listed",
-        "cells": [
-          {
-            "claimId": "n-cheaper-1",
-            "value": "AU$587"
-          },
-          {
-            "claimId": "n-cheaper-2",
-            "value": "PKR 75,600 to PKR 76,240"
-          }
-        ]
-      },
-      {
-        "label": "In rupees",
-        "cells": [
-          {
-            "conversionOf": "n-cheaper-1"
-          },
-          {
-            "claimId": "n-cheaper-2",
-            "value": "PKR 75,600 to PKR 76,240"
-          }
-        ]
-      },
-      {
-        "label": "Retaking part of the test",
-        "cells": [
-          {
-            "claimId": "n-cheaper-3",
-            "value": "one, two or three sub-tests can be booked again on the paper test"
-          },
-          {
-            "claimId": "n-cheaper-4",
-            "value": "a retake of one of the four skills"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "page": "speech-pathology",
-    "need": "s-au",
-    "caption": "The OET result each regulator asks of speech pathologists",
-    "columns": [
-      "",
-      "Result asked",
-      "Age of the result"
-    ],
-    "rows": [
-      {
-        "label": "Australia — Speech Pathology Australia",
-        "cells": [
-          {
-            "claimId": "s-au-1",
-            "value": "at least two OET sub-test results in the 450 to 500 band and two in the 400 to 500 band"
-          },
-          {
-            "claimId": "s-au-1-b",
-            "value": "no more than 6 months old"
-          }
-        ]
-      },
-      {
-        "label": "United Kingdom — HCPC",
-        "cells": [
-          {
-            "claimId": "s-uk-1",
-            "value": "at least 1800 with no sub-test below 400"
-          },
-          {
-            "claimId": "s-uk-1-b",
-            "value": "no more than two years old"
-          }
-        ]
-      },
-      {
-        "label": "Ireland — CORU",
-        "cells": [
-          {
-            "claimId": "s-ie-1",
-            "value": "at least grade B (400) in three components and B (350) in one"
-          },
-          {
-            "claimId": "s-ie-1-b",
-            "value": "within two years"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "page": "medicine",
     "need": "md-scores",
     "caption": "The OET result each regulator asks of doctors",
@@ -110,29 +9,11 @@
     ],
     "rows": [
       {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "md-scores-1",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
-          }
-        ]
-      },
-      {
         "label": "Ireland — Medical Council of Ireland",
         "cells": [
           {
             "claimId": "md-scores-2",
-            "value": "at least grade B in every sub-test gained in one sitting"
-          }
-        ]
-      },
-      {
-        "label": "New Zealand — Medical Council of New Zealand",
-        "cells": [
-          {
-            "claimId": "md-scores-3",
-            "value": "at least 350 in Speaking, Listening and Reading and 300 in Writing"
+            "value": "at least grade B in each module, in a single sitting within the last two years"
           }
         ]
       }
@@ -148,29 +29,11 @@
     ],
     "rows": [
       {
-        "label": "United Kingdom — General Dental Council (UK)",
-        "cells": [
-          {
-            "claimId": "dn-scores-1",
-            "value": "it names IELTS Academic, and its guidance does not name the OET"
-          }
-        ]
-      },
-      {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "dn-scores-2",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
-          }
-        ]
-      },
-      {
         "label": "New Zealand — Dental Council (New Zealand)",
         "cells": [
           {
             "claimId": "dn-scores-3",
-            "value": "grade A or B in all four components"
+            "value": "an OET pass with A or B grades in each of the four components"
           }
         ]
       },
@@ -179,7 +42,7 @@
         "cells": [
           {
             "claimId": "dn-scores-4",
-            "value": "at least grade B in each of the four modules"
+            "value": "at least a B in Listening, Reading, Writing and Speaking"
           }
         ]
       }
@@ -195,20 +58,11 @@
     ],
     "rows": [
       {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "ph-scores-1",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
-          }
-        ]
-      },
-      {
         "label": "New Zealand — Pharmacy Council of New Zealand",
         "cells": [
           {
             "claimId": "ph-scores-2",
-            "value": "grade A or B in each OET sub-test"
+            "value": "an A or B in each of the four OET bands, achieved within two years of applying"
           }
         ]
       },
@@ -217,7 +71,7 @@
         "cells": [
           {
             "claimId": "ph-scores-3",
-            "value": "accepts the OET for pharmacist registration"
+            "value": "lists OET Pharmacy among its recognised language tests"
           }
         ]
       }
@@ -237,16 +91,7 @@
         "cells": [
           {
             "claimId": "pt-scores-1",
-            "value": "an overall score of at least 1400 and no sub-test below 300"
-          }
-        ]
-      },
-      {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "pt-scores-2",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+            "value": "an OET score of 1400 in their own profession's test, with no element below 300"
           }
         ]
       },
@@ -275,16 +120,7 @@
         "cells": [
           {
             "claimId": "ot-scores-1",
-            "value": "an overall score of at least 1400 and no sub-test below 300"
-          }
-        ]
-      },
-      {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "ot-scores-2",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+            "value": "an OET score of 1400 in their own profession's test, with no element below 300"
           }
         ]
       },
@@ -302,7 +138,7 @@
         "cells": [
           {
             "claimId": "ot-scores-4",
-            "value": "accepts the OET as proof of English"
+            "value": "accepts OET or IELTS results as proof of English"
           }
         ]
       }
@@ -322,7 +158,7 @@
         "cells": [
           {
             "claimId": "dt-scores-1",
-            "value": "an overall score of at least 1400 and no sub-test below 300"
+            "value": "an OET score of 1400 in their own profession's test, with no element below 300"
           }
         ]
       },
@@ -340,7 +176,7 @@
         "cells": [
           {
             "claimId": "dt-scores-3",
-            "value": "grade A or B in all four OET sections"
+            "value": "A or B in all four OET sections, dated within the 12 months before it receives the application"
           }
         ]
       },
@@ -369,25 +205,7 @@
         "cells": [
           {
             "claimId": "op-scores-1",
-            "value": "the OET is not accepted"
-          }
-        ]
-      },
-      {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "op-scores-2",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
-          }
-        ]
-      },
-      {
-        "label": "New Zealand — Optometrists and Dispensing Opticians Board (New Zealand)",
-        "cells": [
-          {
-            "claimId": "op-scores-3",
-            "value": "at least grade B (350) in each of the four OET components in one result"
+            "value": "IELTS Academic or IELTS for UKVI (Academic), taken at an official test centre"
           }
         ]
       },
@@ -416,16 +234,7 @@
         "cells": [
           {
             "claimId": "pd-scores-1",
-            "value": "an overall score of at least 1400 and no sub-test below 300"
-          }
-        ]
-      },
-      {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "pd-scores-2",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+            "value": "an OET score of 1400 in their own profession's test, with no element below 300"
           }
         ]
       },
@@ -454,16 +263,7 @@
         "cells": [
           {
             "claimId": "rd-scores-1",
-            "value": "an overall score of at least 1400 and no sub-test below 300"
-          }
-        ]
-      },
-      {
-        "label": "Australia — Ahpra (Australian Health Practitioner Regulation Agency)",
-        "cells": [
-          {
-            "claimId": "rd-scores-2",
-            "value": "at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking"
+            "value": "an OET score of 1400 in their own profession's test, with no element below 300"
           }
         ]
       },
@@ -492,16 +292,7 @@
         "cells": [
           {
             "claimId": "vt-scores-1",
-            "value": "an overall grade B, at least B in three sub-tests and no lower than C+ in the fourth"
-          }
-        ]
-      },
-      {
-        "label": "New Zealand — Veterinary Council of New Zealand",
-        "cells": [
-          {
-            "claimId": "vt-scores-2",
-            "value": "grade A or B in each of the four OET sub-tests, all from one sitting"
+            "value": "an overall OET grade of B, with grade B or higher in three components and at least C+ in the fourth"
           }
         ]
       },
@@ -510,7 +301,74 @@
         "cells": [
           {
             "claimId": "vt-scores-3",
-            "value": "OET@Home is not accepted"
+            "value": "online or at-home tests are not accepted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "nursing",
+    "need": "n-scores",
+    "caption": "The OET result each nursing regulator asks for",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — NMC (Nursing and Midwifery Council)",
+        "cells": [
+          {
+            "claimId": "n-scores-uk",
+            "value": "at least grade B (350) in Listening, Reading and Speaking and at least C+ (300) in Writing"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — NMBI (Nursing and Midwifery Board of Ireland)",
+        "cells": [
+          {
+            "claimId": "n-scores-ie",
+            "value": "grade B in three components and C+ in one"
+          }
+        ]
+      },
+      {
+        "label": "New Zealand — Nursing Council of New Zealand",
+        "cells": [
+          {
+            "claimId": "n-scores-nz",
+            "value": "at least 350 in Reading, Listening and Speaking and 300 in Writing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "speech-pathology",
+    "need": "s-uk",
+    "caption": "The OET result each regulator asks of speech and language therapists",
+    "columns": [
+      "",
+      "What the regulator's own page says"
+    ],
+    "rows": [
+      {
+        "label": "United Kingdom — HCPC (Health and Care Professions Council, UK)",
+        "cells": [
+          {
+            "claimId": "s-uk-1",
+            "value": "an OET score of 1800 with no element below 400"
+          }
+        ]
+      },
+      {
+        "label": "Ireland — CORU (Ireland)",
+        "cells": [
+          {
+            "claimId": "s-ie-x1",
+            "value": "at least grade B (400) in three OET components and B (350) in one"
           }
         ]
       }
