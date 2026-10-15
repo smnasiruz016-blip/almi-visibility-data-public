@@ -70,17 +70,107 @@
             "f7e1d76b8837f4b18f059377c0e678fc"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — How much does the OET Test cost?",
+                  "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+                  "readOn": "2026-10-15"
+                },
+                "claimId": "n-cheaper-oet",
+                "text": "OET lists the full four-part test at AU$587.",
+                "quotation": "costs AU$587 (or US$455 for OET on Computer at a venue and OET@Home in the US)",
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:fdf4aa6152c9f1d7d00ffc56"
+                }
+              },
+              {
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "British Council Pakistan",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "British Council Pakistan",
+                  "name": "British Council Pakistan — Book an IELTS test (fee table, read in the client's browser)",
+                  "link": "https://www.britishcouncil.pk/exam/ielts/book-test",
+                  "readOn": "2026-10-15"
+                },
+                "claimId": "n-cheaper-ielts-1",
+                "text": "British Council Pakistan lists IELTS Academic and General Training on computer at PKR 75,600 in Islamabad.",
+                "quotation": "IELTS Academic and General Training – in centre - on computer | Islamabad | 75,600",
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:c397545be6a9d4ad04a615c2"
+                }
+              },
+              {
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "British Council Pakistan",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "British Council Pakistan",
+                  "name": "British Council Pakistan — Book an IELTS test (fee table, read in the client's browser)",
+                  "link": "https://www.britishcouncil.pk/exam/ielts/book-test",
+                  "readOn": "2026-10-15"
+                },
+                "claimId": "n-cheaper-ielts-2",
+                "text": "The same test is PKR 76,240 in Lahore, Multan, Faisalabad and the other listed Punjab cities.",
+                "quotation": "Lahore, Multan, Faisalabad, Sargodha, Sahiwal, Sialkot, Gujrawala, Bahwalpur, Mandi Bahauddin, Jhelum & Gujrat | 76,240",
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:c0de056ba9b5c1c794dbfceb"
+                }
+              },
+              {
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "British Council Pakistan",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "British Council Pakistan",
+                  "name": "British Council Pakistan — Book an IELTS test (fee table, read in the client's browser)",
+                  "link": "https://www.britishcouncil.pk/exam/ielts/book-test",
+                  "readOn": "2026-10-15"
+                },
+                "claimId": "n-cheaper-ielts-3",
+                "text": "IELTS for UK Visas and Immigration on computer is listed at PKR 72,000.",
+                "quotation": "Peshawar, Multan, Faisalabad, Sialkot, Abbotabad | 72,000",
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:4722307b704bd578d57a20b9"
+                }
+              },
+              {
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "British Council Pakistan",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "British Council Pakistan",
+                  "name": "British Council Pakistan — Book an IELTS test (fee table, read in the client's browser)",
+                  "link": "https://www.britishcouncil.pk/exam/ielts/book-test",
+                  "readOn": "2026-10-15"
+                },
+                "claimId": "n-cheaper-ielts-4",
+                "text": "British Council Pakistan says these IELTS fees are effective from 9 June 2026.",
+                "quotation": "Fee (in PKR) – Effective from 9 June 2026",
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:99d168d2b4a3fdf7a277c959"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:n-cheaper",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
-          },
-          "reopened": {
-            "disposition": "REOPENED",
-            "on": "2026-10-15",
-            "record": "fact-extractions.jsonl",
-            "why": "no central claim is left: claim:n-cheaper-1, claim:n-cheaper-2, claim:n-cheaper-2-b, claim:n-cheaper-4, claim:n-cheaper-4-b stayed REJECTED (no word-for-word quotation admitted from a stored source)"
           }
         },
         {
@@ -1182,6 +1272,44 @@
                 "supports": {
                   "finding": "SUPPORTS",
                   "ref": "finding:n-athome-6"
+                }
+              },
+              {
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Accepted English language tests (read in the client's browser)",
+                  "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+                  "readOn": "2026-10-15"
+                },
+                "claimId": "n-athome-au-1",
+                "text": "Australia's National Boards accept the OET only on paper or on computer at a test centre.",
+                "quotation": "OET - Occupational English Test (on paper or computer based in testing centre)",
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:8db89d8ab13c0fb4c338d03f"
+                }
+              },
+              {
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Accepted English language tests (read in the client's browser)",
+                  "link": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+                  "readOn": "2026-10-15"
+                },
+                "claimId": "n-athome-au-2",
+                "text": "They do not accept at-home or remotely proctored versions of English tests.",
+                "quotation": "Any at home and/or 'indicative' versions of any of the English language tests or versions that include any element of remote proctoring, except the OET computer-based test (at test centre only), are not approved by National Boards and are not accepted",
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:315475e6644819f4cc385340"
                 }
               }
             ]
@@ -2346,6 +2474,25 @@
                   "ref": "fact_extraction:9a134ac34362bfd899d01b62"
                 },
                 "quotation": "Applicants must have passed the OET Medicine category and attained a minimum grade B in each module in a single sitting within the last two years"
+              },
+              {
+                "claimId": "md-scores-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Medical Council of New Zealand",
+                "text": "The Medical Council of New Zealand asks doctors for at least 350 in Speaking, Listening and Reading and 300 in Writing in the OET Medicine.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Medical Council of New Zealand",
+                  "name": "Medical Council of New Zealand — English language policy",
+                  "link": "https://www.mcnz.org.nz/assets/Policies/English-language-policy.pdf",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:2a0ad97be8a82b4e3f1addb8"
+                },
+                "quotation": "Minimum required scores: Speaking 350 Listening 350 Reading 350 Writing 300"
               }
             ]
           },
@@ -2415,6 +2562,25 @@
                   "finding": "SUPPORTS",
                   "ref": "finding:md-uk-4"
                 }
+              },
+              {
+                "claimId": "md-uk-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Medical Council (UK)",
+                "text": "The GMC accepts OET on paper, OET on computer and OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Medical Council (UK)",
+                  "name": "GMC — Using your OET certificate",
+                  "link": "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:0805f4ff124f337bb791feaa"
+                },
+                "quotation": "We can accept the following versions of OET: OET on paper OET on computer OET@Home"
               }
             ]
           },
@@ -2465,6 +2631,44 @@
                   "finding": "SUPPORTS",
                   "ref": "finding:md-us-3"
                 }
+              },
+              {
+                "claimId": "md-us-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                "text": "A Pathways applicant who misses the score in one sub-test must retake all four sub-tests.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                  "name": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+                  "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:c27fcb459c2e61ea1c59b2b7"
+                },
+                "quotation": "must retake all OET Medicine sub-tests (Listening, Reading, Writing, and Speaking)"
+              },
+              {
+                "claimId": "md-us-2-r2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                "text": "There is no limit on the number of times OET Medicine can be retaken.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+                  "name": "ECFMG — 2027 Pathways: Occupational English Test (OET)",
+                  "link": "https://www.ecfmg.org/certification-pathways/oet.html",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:ac92770a7a92fbe50647e3d9"
+                },
+                "quotation": "There is no limit on the number of times you can retake OET Medicine"
               }
             ]
           },
@@ -6989,6 +7193,44 @@
                   "ref": "fact_extraction:769f6c35bcebd568f1500872"
                 },
                 "quotation": "A minimum of Grade B (350) in three components and a minimum of Grade C+ (300) in one component (listening, reading, writing and speaking)"
+              },
+              {
+                "claimId": "op-scores-3",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Optometrists and Dispensing Opticians Board (New Zealand)",
+                "text": "The Optometrists and Dispensing Opticians Board asks for at least a B pass (or a score of 350) in each of the four OET components.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Optometrists and Dispensing Opticians Board (New Zealand)",
+                  "name": "ODOB — English language requirements (policy)",
+                  "link": "https://odob.health.nz/document/8136/O.%20English%20language%20requirements%20(v1).pdf",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:e3d3777f1acc8211c812cde7"
+                },
+                "quotation": "A minimum B pass (or a score of 350)"
+              },
+              {
+                "claimId": "op-scores-3-r2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Optometrists and Dispensing Opticians Board (New Zealand)",
+                "text": "The board's minimum applies to each of the four OET components.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Optometrists and Dispensing Opticians Board (New Zealand)",
+                  "name": "ODOB — English language requirements (policy)",
+                  "link": "https://odob.health.nz/document/8136/O.%20English%20language%20requirements%20(v1).pdf",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:cc985fdfbf32400b51eb05a5"
+                },
+                "quotation": "each of the four components (listening, reading, writing, and speaking)"
               }
             ]
           },
@@ -9218,6 +9460,25 @@
                   "ref": "fact_extraction:ddba3b38988a163219a16a7b"
                 },
                 "quotation": "AVBC only accepts English test results from exams taken in-person. Online or at-home tests are not accepted"
+              },
+              {
+                "claimId": "vt-scores-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Veterinary Council of New Zealand",
+                "text": "The Veterinary Council of New Zealand asks for grade A or B in each of the four OET sub-tests, all from one sitting.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Veterinary Council of New Zealand",
+                  "name": "Veterinary Council of NZ — English competence policy",
+                  "link": "https://vetcouncil.org.nz/common/Uploaded%20files/Web/Publications/Policies%20and%20Statements/EnglishCompetence.pdf",
+                  "readOn": "2026-10-15"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:681b0a2209304d9a050c7cf2"
+                },
+                "quotation": "Applicants need to achieve a pass with A or B grades in each of the 4 sections at 1 sitting."
               }
             ]
           },
