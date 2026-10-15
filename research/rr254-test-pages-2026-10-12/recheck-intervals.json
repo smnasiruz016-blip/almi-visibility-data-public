@@ -1583,5 +1583,15 @@
     "claimId": "vt-ie-3",
     "recheckDays": 90,
     "why": "rules, formats and score requirements change rarely: recheck every quarter (the reads file's interval)"
+  },
+  {
+    "claimId": "s-dates-1",
+    "recheckDays": 7,
+    "why": "RR-267 §1b: test dates change often — recheck every week"
+  },
+  {
+    "claimId": "s-dates-2",
+    "recheckDays": 7,
+    "why": "RR-267 §1b: test dates change often — recheck every week"
   }
 ]

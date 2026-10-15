@@ -1119,7 +1119,12 @@
       "body": "Podiatrists Board of New Zealand",
       "outcome": "NOT FOUND",
       "why": "the page read (HTTP 200) holds no English-language rule; its guide could not be read",
-      "on": "2026-10-14"
+      "on": "2026-10-14",
+      "disposition": "UNANSWERABLE",
+      "need": "pd-nz",
+      "shown": false,
+      "ruling": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-15_RR-267_CLOSE_LAST_NEEDS.md",
+      "recordedOn": "2026-10-15"
     },
     {
       "country": "NZ",
@@ -1127,7 +1132,12 @@
       "body": "Medical Radiation Technologists Board (NZ)",
       "outcome": "NOT FOUND",
       "why": "the page read (HTTP 200) asks for English evidence with IELTS as the example and gives no OET grade",
-      "on": "2026-10-14"
+      "on": "2026-10-14",
+      "disposition": "UNANSWERABLE",
+      "need": "rd-nz",
+      "shown": false,
+      "ruling": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-15_RR-267_CLOSE_LAST_NEEDS.md",
+      "recordedOn": "2026-10-15"
     },
     {
       "country": "IE",

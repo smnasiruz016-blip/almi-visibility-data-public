@@ -5504,5 +5504,48 @@
       "record": "_handoffs:AlmiVisibility_RR-266_REGULATOR_READS_BY_BETA-G_2026-10-14.md"
     },
     "whatSupportsIt": "the page applies it to applicants \"who have obtained their qualification outside of Ireland\""
+  },
+  {
+    "findingId": "finding:s-dates-1",
+    "claimId": "s-dates-1",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-for-a-test route for dates and venues and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "reusedFrom": "n-dates-1",
+    "reusedOn": "2026-10-15",
+    "reusedWhy": "RR-267 §1b: how dates work, from the stored read of OET's own booking page; no specific dates"
+  },
+  {
+    "findingId": "finding:s-dates-2",
+    "claimId": "s-dates-2",
+    "finding": "SUPPORTS",
+    "source": {
+      "name": "OET — Book a test",
+      "link": "https://oet.com/test/book-a-test",
+      "readOn": "2026-10-12"
+    },
+    "readBy": {
+      "kind": "AGENT",
+      "ref": "actor:cc (research agent)",
+      "tool": "WebFetch"
+    },
+    "whatSupportsIt": "the page gives the search-for-a-test route for dates and venues and the 24-day and 7-day closing rules",
+    "rewrittenOn": "2026-10-14",
+    "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
+    "rewrittenFrom": "n-dates-1",
+    "reusedFrom": "n-dates-1-b",
+    "reusedOn": "2026-10-15",
+    "reusedWhy": "RR-267 §1b: how dates work, from the stored read of OET's own booking page; no specific dates"
   }
 ]

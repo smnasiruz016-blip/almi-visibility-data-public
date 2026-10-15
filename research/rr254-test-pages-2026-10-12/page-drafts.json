@@ -1734,7 +1734,44 @@
             "09c635a37e3cc79697fad21354b36ac3"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "s-dates-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "OET's booking page shows the available test dates and venues when you search for a test near you.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Book a test",
+                  "link": "https://oet.com/test/book-a-test",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-dates-1"
+                }
+              },
+              {
+                "claimId": "s-dates-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "OET (Occupational English Test)",
+                "text": "Bookings close 24 days before the test date for the paper test, and 7 days before for the computer test at a venue and for OET@Home.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "OET (Occupational English Test)",
+                  "name": "OET — Book a test",
+                  "link": "https://oet.com/test/book-a-test",
+                  "readOn": "2026-10-12"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "finding:s-dates-2"
+                }
+              }
+            ]
           },
           "sameness": {
             "judgementRef": "sameness:s-dates",
