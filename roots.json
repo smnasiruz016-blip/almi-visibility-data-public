@@ -37,7 +37,8 @@
           "kind": "CITED_SOURCES",
           "credential": null,
           "reaches": [
-            { "resourceKind": "FACT_REGISTRY", "resourceRef": "almi-oet/facts" }
+            { "resourceKind": "FACT_REGISTRY", "resourceRef": "almi-oet/facts" },
+            { "resourceKind": "RESEARCH_BATCH", "resourceRef": "rr254-test-pages-2026-10-12" }
           ]
         },
         {
