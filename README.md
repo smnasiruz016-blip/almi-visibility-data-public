@@ -38,6 +38,6 @@ build-time decision never put to the owner, and it is reversed.
 ## Public since 16 October 2026 (owner decision RR-274)
 
 This repository is public. Its history was cleaned before release: it holds no secret, no page text of another organisation, no
-browser capture or client file, and no personal data. A stored source read keeps its URL, read date and sha256 with  and
-; the full text is kept in a private repository the engine reads (). A fact keeps
-its short verbatim quotation.
+browser capture or client file, and no personal data. A stored source read keeps its URL, read date and sha256 with `text: null` and
+`textAt: "PRIVATE_SOURCES"`; the full text is kept in a private repository the engine reads (the engine's `config/private-sources.mjs`).
+A fact keeps its short verbatim quotation.
