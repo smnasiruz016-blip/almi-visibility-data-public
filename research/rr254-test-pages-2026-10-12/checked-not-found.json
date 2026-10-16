@@ -52,25 +52,21 @@
     "basis": "the owner's line (RR-269 §3); the captured page text (client browser) names no score"
   },
   {
-    "id": "cnf-no-fee-comparison",
+    "id": "cnf-gdc-no-oet",
     "needs": [
-      "n-cheaper"
+      "dn-scores"
     ],
-    "line": "No official comparison of the OET and IELTS fees was found on the official OET and British Council pages checked on 15 October 2026.",
+    "line": "The UK General Dental Council's English language controls page, checked on 16 October 2026, does not name the OET.",
     "checked": [
       {
-        "url": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
-        "name": "OET — How much does the OET Test cost?"
-      },
-      {
-        "url": "https://www.britishcouncil.pk/exam/ielts/book-test",
-        "name": "British Council Pakistan — Book an IELTS test"
+        "url": "https://www.gdc-uk.org/registration/route-to-registration/english-language-controls",
+        "name": "General Dental Council — English language controls"
       }
     ],
-    "checkedOn": "2026-10-15",
+    "checkedOn": "2026-10-16",
     "replaces": [
-      "claim:n-cheaper-1"
+      "gdc-ielts"
     ],
-    "basis": "RR-269 §3 names n-cheaper-1; its old line was a 'cheaper' claim, so this record says only that no official comparison was found (the line is this session's, not the owner's)"
+    "basis": "RR-270 §1c: the page read on 16 October 2026 through the engine's paced path names IELTS and no OET (0 matches for OET or Occupational English)"
   }
 ]
