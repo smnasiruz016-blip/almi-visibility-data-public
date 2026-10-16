@@ -1,0 +1,8 @@
+{
+  "note": "RR-270 §1: the three sources the owner named on 16 October 2026 (decision _handoffs AlmiVisibility_OWNER_DECISION_2026-10-16_RR-270_PILOT_PAGE_FIXES.md) — Speech Pathology Australia's OSQCA Phase One eligibility PDF (s-au), Ahpra's April 2026 transition arrangements policy (Table 2: n-scores-au, n-scores-au-b, ahpra-2026) and the GDC's English language controls web page (gdc-ielts). Through the engine's one paced path; no other source is read.",
+  "sources": [
+    "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+    "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+    "https://www.gdc-uk.org/registration/route-to-registration/english-language-controls"
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cnf-no-fee-comparison",
+    "needs": [
+      "n-cheaper"
+    ],
+    "line": "No official comparison of the OET and IELTS fees was found on the official OET and British Council pages checked on 15 October 2026.",
+    "checked": [
+      {
+        "url": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+        "name": "OET — How much does the OET Test cost?"
+      },
+      {
+        "url": "https://www.britishcouncil.pk/exam/ielts/book-test",
+        "name": "British Council Pakistan — Book an IELTS test"
+      }
+    ],
+    "checkedOn": "2026-10-15",
+    "replaces": [
+      "claim:n-cheaper-1"
+    ],
+    "basis": "RR-269 §3 names n-cheaper-1; its old line was a 'cheaper' claim, so this record says only that no official comparison was found (the line is this session's, not the owner's)",
+    "withdrawn": {
+      "on": "2026-10-16",
+      "decision": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-16_RR-270_PILOT_PAGE_FIXES.md",
+      "why": "the owner's RR-270 fix (4): the line was this session's own wording, not the owner's; the two fees side by side answer the need"
+    }
+  }
+]

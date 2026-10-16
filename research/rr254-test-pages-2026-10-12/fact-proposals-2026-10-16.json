@@ -1,0 +1,135 @@
+{
+ "route": "OWNER_SUBSCRIPTION_SESSION",
+ "proposedOn": "2026-10-16",
+ "note": "RR-270 §1: proposed by this Claude Code session on the owner's own subscription (NOT METERED); judged by the engine's verbatim check on the texts read on 16 October 2026",
+ "proposals": [
+  {
+   "proposalId": "r001",
+   "fact": null,
+   "need": "s-au",
+   "source": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+   "sentence": "Speech Pathology Australia asks for at least two OET sub-test results in the 450 to 500 band and two in the 400 to 500 band.",
+   "quotation": "OET Results: At least two subtest results in the Band 450-500 and two subtest results in the Band 400-500 are required."
+  },
+  {
+   "proposalId": "r002",
+   "fact": null,
+   "need": "s-au",
+   "source": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+   "sentence": "The OET results must be no more than two years old on the date of application.",
+   "quotation": "OET results must be no more than two-years old at the date of application"
+  },
+  {
+   "proposalId": "r003",
+   "fact": null,
+   "need": "s-au",
+   "source": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+   "sentence": "Applicants who are not exempt must show they have passed the OET or IELTS.",
+   "quotation": "All other applications will need to provide evidence of successfully completing either the OET or IELTS."
+  },
+  {
+   "proposalId": "r004",
+   "fact": null,
+   "need": "s-au",
+   "source": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+   "sentence": "Applicants with an entry-level speech pathology degree taught in English at a university in the UK, USA, Canada, New Zealand or Ireland do not need the OET or IELTS.",
+   "quotation": "if they hold an entry level speech pathology qualification undertaken in English from a University in the UK, USA, Canada, New Zealand, or the Republic of Ireland"
+  },
+  {
+   "proposalId": "r005",
+   "fact": null,
+   "need": "n-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r006",
+   "fact": null,
+   "need": "md-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r007",
+   "fact": null,
+   "need": "dn-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r008",
+   "fact": null,
+   "need": "ph-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r009",
+   "fact": null,
+   "need": "pt-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r010",
+   "fact": null,
+   "need": "ot-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r011",
+   "fact": null,
+   "need": "op-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r012",
+   "fact": null,
+   "need": "pd-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r013",
+   "fact": null,
+   "need": "rd-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+   "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360"
+  },
+  {
+   "proposalId": "r014",
+   "fact": null,
+   "need": "n-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "An English test taken on or before 22 April 2026 must meet Ahpra's old minimum scores in Table 1.",
+   "quotation": "Test taken on or before 22 April 2026 You must meet the old minimum scores in Table 1"
+  },
+  {
+   "proposalId": "r015",
+   "fact": null,
+   "need": "n-scores",
+   "source": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+   "sentence": "Table 1 asks for at least B in OET Listening, Reading and Speaking and C+ in Writing.",
+   "quotation": "OET Listening: B N/a • you are tested in all four components in Reading: B each sitting, and (On paper or Writing: C+ • you achieve a minimum score of B in each computer Speaking: B"
+  },
+  {
+   "proposalId": "r016",
+   "fact": null,
+   "need": "dn-scores",
+   "source": "https://www.gdc-uk.org/registration/route-to-registration/english-language-controls",
+   "sentence": "The General Dental Council accepts a pass in IELTS that meets the requirements in its guidance.",
+   "quotation": "A pass in the International English Language Testing System (IELTS) exam that meets the requirements set out in our guidance."
+  }
+ ]
+}
