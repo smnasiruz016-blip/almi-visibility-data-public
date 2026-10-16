@@ -300,7 +300,7 @@
     "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
   },
   {
-    "claimId": "dn-scores-1",
+    "claimId": "dn-scores-9-gdc",
     "recheckDays": 90,
     "why": "rules, formats and score requirements change rarely: recheck every quarter (the shared fact's interval)"
   },
