@@ -2040,7 +2040,7 @@
     "why": "rules and score requirements change rarely: recheck every quarter (as its first line)"
   },
   {
-    "claimId": "n-cheaper-oet",
+    "claimId": "n-cheaper-0-oet",
     "recheckDays": 7,
     "why": "fees change: recheck every week (RR-269 §4)"
   },
@@ -2073,5 +2073,15 @@
     "claimId": "n-athome-au-2",
     "recheckDays": 90,
     "why": "rules change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "s-au-1-d",
+    "recheckDays": 90,
+    "why": "rules and score requirements change rarely: recheck every quarter"
+  },
+  {
+    "claimId": "n-scores-au-c",
+    "recheckDays": 90,
+    "why": "rules and score requirements change rarely: recheck every quarter"
   }
 ]
