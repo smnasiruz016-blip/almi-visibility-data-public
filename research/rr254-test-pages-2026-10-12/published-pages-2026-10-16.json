@@ -1,0 +1,71 @@
+{
+ "decision": "_handoffs:AlmiVisibility_OWNER_DECISION_2026-10-16_RR-271_PUBLISH_THE_PILOT_PAGES.md",
+ "note": "RR-271: published on the client's own site through its repository (almi-oet PR #117, merge ee40925aabd4b373b24eb6aa1ecdecfb7bf86720, production deployment success); each page checked live on 16 Oct 2026: HTTP 200 and all eight publish checks PASS",
+ "site": {
+  "repository": "almi-oet",
+  "pullRequest": 117,
+  "mergeCommit": "ee40925aabd4b373b24eb6aa1ecdecfb7bf86720"
+ },
+ "pages": [
+  {
+   "page": "nursing",
+   "url": "https://almioet.almiworld.com/guides/oet-pakistan",
+   "sha256": "195105c0a676e7a141edcc5e8f9760271d840538f70364927a94bcc320b10e54"
+  },
+  {
+   "page": "speech-pathology",
+   "url": "https://almioet.almiworld.com/guides/oet-for-speech-therapist",
+   "sha256": "268e098a93b412414dd9865fa049b5ae5b24cb6d5058e6e89761314e377bddee"
+  },
+  {
+   "page": "dentistry",
+   "url": "https://almioet.almiworld.com/guides/oet-for-dentists",
+   "sha256": "2de4dcfda117829292c3b4e298a56c6bd76fbc3813cbe3366564a99e5ff76ffc"
+  },
+  {
+   "page": "dietetics",
+   "url": "https://almioet.almiworld.com/guides/oet-for-dietitians",
+   "sha256": "ec4300986e6170b5e212aadd928c1308bcda719e719963d4efa87d147f2e16f1"
+  },
+  {
+   "page": "medicine",
+   "url": "https://almioet.almiworld.com/guides/oet-for-doctors",
+   "sha256": "2fbdfaaa0a7b91b8fa145108d1337ee5afb676ed35c39a1b177755a805f23eff"
+  },
+  {
+   "page": "occupational-therapy",
+   "url": "https://almioet.almiworld.com/guides/oet-for-occupational-therapists",
+   "sha256": "7de3cc0fe56aa20155513ebf2579ce6b636b2a4220b19515602d469ea7484cb5"
+  },
+  {
+   "page": "optometry",
+   "url": "https://almioet.almiworld.com/guides/oet-for-optometrists",
+   "sha256": "9a7fcee5d5cbcf7a232633abd7dced9a24ba71a5234f762f85e19602959dca2f"
+  },
+  {
+   "page": "pharmacy",
+   "url": "https://almioet.almiworld.com/guides/oet-for-pharmacists",
+   "sha256": "005c8494c6108cdb80c262490ce134b11b3f78babb6022a9ac509c0094858760"
+  },
+  {
+   "page": "physiotherapy",
+   "url": "https://almioet.almiworld.com/guides/oet-for-physiotherapists",
+   "sha256": "2ee91522375022490eb5450881bb5ea20141e0cd182e8d1ae7f2cadbca3f69f1"
+  },
+  {
+   "page": "podiatry",
+   "url": "https://almioet.almiworld.com/guides/oet-for-podiatrists",
+   "sha256": "ad4989c5894503ed6efa33d11c3c400af0c624f89a23b51d77ad895327581248"
+  },
+  {
+   "page": "radiography",
+   "url": "https://almioet.almiworld.com/guides/oet-for-radiographers",
+   "sha256": "47cd8091a00a7a40076dc42e86cd1634c0ff97e0f650fa62f1fe9e088bbf684e"
+  },
+  {
+   "page": "veterinary-science",
+   "url": "https://almioet.almiworld.com/guides/oet-for-veterinarians",
+   "sha256": "d267e7f7ba4c5d81c82c800df3785c3fc6a2c6de2d26ffa2027cf9616484ed6d"
+  }
+ ]
+}
