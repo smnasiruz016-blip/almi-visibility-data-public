@@ -82,7 +82,7 @@
                   "link": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
                   "readOn": "2026-10-15"
                 },
-                "claimId": "n-cheaper-oet",
+                "claimId": "n-cheaper-0-oet",
                 "text": "OET lists the full four-part test at AU$587.",
                 "quotation": "costs AU$587 (or US$455 for OET on Computer at a venue and OET@Home in the US)",
                 "supports": {
@@ -538,6 +538,63 @@
                   "ref": "fact_extraction:38905e01ff5cbea2216c9a01"
                 },
                 "quotation": "the Nursing Council of New Zealand does not currently accept online computer-based tests. However, computer-based tests administered in an approved testing centre are accepted"
+              },
+              {
+                "claimId": "n-scores-au",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:80990bea0427115729d7c444"
+                }
+              },
+              {
+                "claimId": "n-scores-au-b",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "An English test taken on or before 22 April 2026 must meet Ahpra's old minimum scores in Table 1.",
+                "quotation": "Test taken on or before 22 April 2026 You must meet the old minimum scores in Table 1",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:2928e4316d869bf5ede0fd80"
+                }
+              },
+              {
+                "claimId": "n-scores-au-c",
+                "central": false,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "Table 1 asks for at least B in OET Listening, Reading and Speaking and C+ in Writing.",
+                "quotation": "OET Listening: B N/a • you are tested in all four components in Reading: B each sitting, and (On paper or Writing: C+ • you achieve a minimum score of B in each computer Speaking: B",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:7249d0c6a31170ac40a02723"
+                }
               }
             ]
           },
@@ -1504,7 +1561,84 @@
             "e8d19cb344f72ba19a5838704285ebd2"
           ],
           "answer": {
-            "claims": []
+            "claims": [
+              {
+                "claimId": "s-au-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Speech Pathology Australia",
+                "text": "Speech Pathology Australia asks for at least two OET sub-test results in the 450 to 500 band and two in the 400 to 500 band.",
+                "quotation": "OET Results: At least two subtest results in the Band 450-500 and two subtest results in the Band 400-500 are required.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Speech Pathology Australia",
+                  "name": "Speech Pathology Australia — OSQCA Phase One eligibility (PDF)",
+                  "link": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:4c6d05f6f9448a13204373c6"
+                }
+              },
+              {
+                "claimId": "s-au-1-b",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Speech Pathology Australia",
+                "text": "The OET results must be no more than two years old on the date of application.",
+                "quotation": "OET results must be no more than two-years old at the date of application",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Speech Pathology Australia",
+                  "name": "Speech Pathology Australia — OSQCA Phase One eligibility (PDF)",
+                  "link": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:58d07c2749c4dc7ca3c3fe3b"
+                }
+              },
+              {
+                "claimId": "s-au-1-c",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Speech Pathology Australia",
+                "text": "Applicants who are not exempt must show they have passed the OET or IELTS.",
+                "quotation": "All other applications will need to provide evidence of successfully completing either the OET or IELTS.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Speech Pathology Australia",
+                  "name": "Speech Pathology Australia — OSQCA Phase One eligibility (PDF)",
+                  "link": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:7776c05f68bedc1f9be1c252"
+                }
+              },
+              {
+                "claimId": "s-au-1-d",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Speech Pathology Australia",
+                "text": "Applicants with an entry-level speech pathology degree taught in English at a university in the UK, USA, Canada, New Zealand or Ireland do not need the OET or IELTS.",
+                "quotation": "if they hold an entry level speech pathology qualification undertaken in English from a University in the UK, USA, Canada, New Zealand, or the Republic of Ireland",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Speech Pathology Australia",
+                  "name": "Speech Pathology Australia — OSQCA Phase One eligibility (PDF)",
+                  "link": "https://www.speechpathologyaustralia.org.au/Common/Uploaded%20files/Smart%20Suite/Smart%20Library/5bb680ba-065a-4fb9-afde-f2fd4c04ed70/Phase-1-Eligibility-OSQCA-DEWR.pdf",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:d636279c80199268a2e7f8d7"
+                }
+              }
+            ]
           },
           "productAnswers": [
             "estimate-per-sub-test-as-a-range"
@@ -1513,11 +1647,15 @@
             "judgementRef": "sameness:s-au",
             "reason": "the same underlying need in other words — recorded by the research agent, never by similarity"
           },
-          "reopened": {
-            "disposition": "REOPENED",
-            "on": "2026-10-15",
-            "record": "fact-extractions.jsonl",
-            "why": "no central claim is left: claim:s-au-1, claim:s-au-1-b, claim:s-au-1-c stayed REJECTED (no word-for-word quotation admitted from a stored source)"
+          "closedRR270": {
+            "was": {
+              "disposition": "REOPENED",
+              "on": "2026-10-15",
+              "record": "fact-extractions.jsonl",
+              "why": "no central claim is left: claim:s-au-1, claim:s-au-1-b, claim:s-au-1-c stayed REJECTED (no word-for-word quotation admitted from a stored source)"
+            },
+            "on": "2026-10-16",
+            "by": "four facts admitted from Speech Pathology Australia's OSQCA Phase One eligibility PDF (fact-extractions r001–r004)"
           }
         },
         {
@@ -2493,6 +2631,25 @@
                   "ref": "fact_extraction:2a0ad97be8a82b4e3f1addb8"
                 },
                 "quotation": "Minimum required scores: Speaking 350 Listening 350 Reading 350 Writing 300"
+              },
+              {
+                "claimId": "md-scores-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:008bfe1ccf75f951d5858fab"
+                }
               }
             ]
           },
@@ -3414,6 +3571,44 @@
                   "ref": "fact_extraction:80364e97c131fc5ee4727ba0"
                 },
                 "quotation": "Modules OET (for Dentistry) IELTS (Academic) Listening minimum score of B minimum score of 7.0 Reading minimum score of B minimum score of 7.0 Writing minimum score of B minimum score of 7.0 Speaking minimum score of B"
+              },
+              {
+                "claimId": "dn-scores-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:4dcb2d6a973448ad54c1261a"
+                }
+              },
+              {
+                "claimId": "dn-scores-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "General Dental Council (UK)",
+                "text": "The General Dental Council accepts a pass in IELTS that meets the requirements in its guidance.",
+                "quotation": "A pass in the International English Language Testing System (IELTS) exam that meets the requirements set out in our guidance.",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "General Dental Council (UK)",
+                  "name": "General Dental Council — English language controls",
+                  "link": "https://www.gdc-uk.org/registration/route-to-registration/english-language-controls",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:b8195a2f269b0e4708b184d4"
+                }
               }
             ]
           },
@@ -4153,6 +4348,25 @@
                   "ref": "fact_extraction:9953c21468470366757e4b48"
                 },
                 "quotation": "Test results are valid for two years from date of test"
+              },
+              {
+                "claimId": "ph-scores-1",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:b39e8f5e2dfcd29ef4770480"
+                }
               }
             ]
           },
@@ -4923,6 +5137,25 @@
                   "ref": "fact_extraction:769f6c35bcebd568f1500872"
                 },
                 "quotation": "A minimum of Grade B (350) in three components and a minimum of Grade C+ (300) in one component (listening, reading, writing and speaking)"
+              },
+              {
+                "claimId": "pt-scores-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:3d6040e7e9fb7fa3410b943c"
+                }
               }
             ]
           },
@@ -5713,6 +5946,25 @@
                   "ref": "fact_extraction:7a276f8a68d356e15df5d2c6"
                 },
                 "quotation": "If English is not your first language you will be required to provide proof of your ability to communicate effectively in English. The OTBNZ accepts OET or IELTS results"
+              },
+              {
+                "claimId": "ot-scores-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:49f9b7b8201bd8f3cb2d57e3"
+                }
               }
             ]
           },
@@ -7231,6 +7483,25 @@
                   "ref": "fact_extraction:cc985fdfbf32400b51eb05a5"
                 },
                 "quotation": "each of the four components (listening, reading, writing, and speaking)"
+              },
+              {
+                "claimId": "op-scores-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:4873fe52f7fd896e0d1114c9"
+                }
               }
             ]
           },
@@ -7951,6 +8222,25 @@
                   "ref": "fact_extraction:769f6c35bcebd568f1500872"
                 },
                 "quotation": "A minimum of Grade B (350) in three components and a minimum of Grade C+ (300) in one component (listening, reading, writing and speaking)"
+              },
+              {
+                "claimId": "pd-scores-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:9ac98abee3edcfebdb756231"
+                }
               }
             ]
           },
@@ -8696,6 +8986,25 @@
                   "ref": "fact_extraction:102ebb5034e731213c534e2a"
                 },
                 "quotation": "Radiographers RB OET (Radiography) A minimum of Grade B (Minimum Score of 350) in all components"
+              },
+              {
+                "claimId": "rd-scores-2",
+                "central": true,
+                "states": "RESPONSIBLE_BODY_RULE",
+                "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                "text": "For an OET taken on or after 23 April 2026, Ahpra's National Boards ask for at least 350 in Listening, 360 in Reading, 350 in Writing and 360 in Speaking.",
+                "quotation": "OET Listening: 350 N/a • you are tested in all four components in Reading: 360 each sitting, and (On paper or Writing: 350 computer Speaking: 360",
+                "source": {
+                  "kind": "RESPONSIBLE_BODY",
+                  "body": "Ahpra (Australian Health Practitioner Regulation Agency)",
+                  "name": "Ahpra — Transition arrangements for changes to minimum scores for accepted English tests, April 2026 (PDF)",
+                  "link": "https://www.ahpra.gov.au/documents/default.aspx?record=WD26/36006&dbid=AP&chksum=cfj%2b9cu%2fNODqTn37yTOzrw%3d%3d",
+                  "readOn": "2026-10-16"
+                },
+                "supports": {
+                  "finding": "SUPPORTS",
+                  "ref": "fact_extraction:7f18c4e4918f448a8fa1fd7f"
+                }
               }
             ]
           },

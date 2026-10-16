@@ -364,7 +364,7 @@
   },
   {
     "page": "nursing",
-    "claimId": "n-cheaper-oet",
+    "claimId": "n-cheaper-0-oet",
     "label": "OET fee",
     "shown": "AU$587",
     "amount": 587,
