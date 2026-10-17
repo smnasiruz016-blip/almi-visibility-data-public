@@ -1,0 +1,13 @@
+{
+  "note": "RR-277 (owner decision 17 Oct 2026, _handoffs d6d43af): the proof run of F44 C8 and C11 — the 7 sources beta-g captured by hand on 15 Oct 2026 (browser-captures-2026-10-15/01–07) and the British Council Pakistan IELTS fee page (capture 08), read live with the browser route the client starts.",
+  "sources": [
+    "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+    "https://www.ecfmg.org/certification-pathways/oet.html",
+    "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+    "https://physioboard.org.nz/faq/english-proficiency-evidence",
+    "https://www.vci.ie/english-language-requirements-for-registration",
+    "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+    "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+    "https://www.britishcouncil.pk/exam/ielts/book-test"
+  ]
+}
