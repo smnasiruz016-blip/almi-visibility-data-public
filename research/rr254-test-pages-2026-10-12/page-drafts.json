@@ -216,7 +216,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:4687ab05fe8a1f6646c930a0"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "n-dates-2",
@@ -233,7 +233,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:1330dfdf3aadc9dd5b7ab227"
                 },
-                "quotation": "The OET Test is available regularly at venues worldwide. For up-to-date details on test dates and locations, go to: oet.com/test/book-a-test"
+                "quotation": "The OET Test is available regularly at venues worldwide."
               }
             ]
           },
@@ -286,7 +286,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:16279178ef4f6c46024180e7"
                 },
-                "quotation": "AEO Pakistan conducts the OET exam in various cities across Pakistan. Islamabad Karachi Lahore Multan"
+                "quotation": "AEO Pakistan conducts the OET exam in various cities across Pakistan."
               }
             ]
           },
@@ -339,7 +339,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:4687ab05fe8a1f6646c930a0"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -423,7 +423,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:8db5bfa7c3414a465194920f"
                 },
-                "quotation": "Sit the tests within 12 months of each other, and complete both tests no more than two years prior to the date we are assessing your complete NMC application. This means that your test dates (not certificate dates) must be within 12 months of each other, and your test dates must be no more than two years old when we review your application. Be tested in all four domains at the same time"
+                "quotation": "Sit the tests within 12 months of each other, and complete both tests no more than two years prior to the date we are assessing your complete NMC application."
               },
               {
                 "claimId": "n-scores-uk-c",
@@ -461,7 +461,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:c85836dd59128ebacfb43029"
                 },
-                "quotation": "OET (Nursing) with Grade B in three components and C+ in one component. (please see table for example) Reading B (350 - 450) Writing C+ (300 - 340) Speaking B (350 - 450) Please note that: We only accept IELTS/OET test results that are less than two years old"
+                "quotation": "OET (Nursing) with Grade B in three components and C+ in one component."
               },
               {
                 "claimId": "n-scores-ie-b",
@@ -537,7 +537,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:38905e01ff5cbea2216c9a01"
                 },
-                "quotation": "the Nursing Council of New Zealand does not currently accept online computer-based tests. However, computer-based tests administered in an approved testing centre are accepted"
+                "quotation": "the Nursing Council of New Zealand does not currently accept online computer-based tests."
               },
               {
                 "claimId": "n-scores-au",
@@ -707,7 +707,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:c48678c4dc8021299ef77021"
                 },
-                "quotation": "write a referral letter or a discharge letter. When a nurse takes OET, they receive a set of case notes"
+                "quotation": "Nurses who take the OET Writing sub-test are assessed on their ability to write a referral letter or a discharge letter."
               }
             ]
           },
@@ -923,7 +923,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:bd7a962032e603a5331c2828"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 . If you reschedule after bookings close for your original test date, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 ."
               },
               {
                 "claimId": "n-reschedule-1-b",
@@ -1013,7 +1013,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:e658315a1d510bf1f46aac84"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               }
             ]
           },
@@ -1079,7 +1079,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77363c838c09792dab631f03"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) ."
               },
               {
                 "claimId": "n-retake-2",
@@ -1150,7 +1150,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:c633e69c4c74883115528425"
                 },
-                "quotation": "identification issued by the national government in the country in which you are sitting the OET Test (this excludes a driver's license). A valid national ID must be in English lettering and include your full name, photograph and date of birth (DoB)"
+                "quotation": "identification issued by the national government in the country in which you are sitting the OET Test (this excludes a driver's license)."
               },
               {
                 "claimId": "n-id-1-b",
@@ -1445,7 +1445,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:d06d2de1c42152d449627811"
                 },
-                "quotation": "contains 42 questions. Each correct answer is awarded 1 mark. Scores out of 42 are converted to the 500 scale. Test-takers awarded Grade B (scale score of 350) typically achieve at least 30 marks"
+                "quotation": "Test-takers awarded Grade B (scale score of 350) typically achieve at least 30 marks"
               }
             ]
           },
@@ -1791,7 +1791,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:66cc2afa7a49fb1ffb31e82c"
                 },
-                "quotation": "CORU will accept results from a maximum of two test sittings. The repeat test: · must be taken from the same provider as the previous/initial test and · must be taken within six months of the initial test"
+                "quotation": "CORU will accept results from a maximum of two test sittings."
               },
               {
                 "claimId": "s-ie-x4",
@@ -1843,7 +1843,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:f99049ae0293ba0daf8b5fd3"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "s-specific-1-q2",
@@ -2022,7 +2022,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:4687ab05fe8a1f6646c930a0"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -2074,7 +2074,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:e658315a1d510bf1f46aac84"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               }
             ]
           },
@@ -2159,7 +2159,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:c633e69c4c74883115528425"
                 },
-                "quotation": "identification issued by the national government in the country in which you are sitting the OET Test (this excludes a driver's license). A valid national ID must be in English lettering and include your full name, photograph and date of birth (DoB)"
+                "quotation": "identification issued by the national government in the country in which you are sitting the OET Test (this excludes a driver's license)."
               },
               {
                 "claimId": "s-id-1-b",
@@ -2293,7 +2293,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:4687ab05fe8a1f6646c930a0"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -2358,7 +2358,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "s-difficulty-gv2-q2",
@@ -2415,7 +2415,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "s-difficulty-gv4",
@@ -2434,7 +2434,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "s-difficulty-gv5",
@@ -2537,7 +2537,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "md-format-1-q2",
@@ -2879,7 +2879,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -3021,7 +3021,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -3054,7 +3054,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "md-results-2",
@@ -3139,7 +3139,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "md-booking-2",
@@ -3158,7 +3158,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -3276,7 +3276,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -3312,7 +3312,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "md-difficulty-gv2-q2",
@@ -3369,7 +3369,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "md-difficulty-gv4",
@@ -3388,7 +3388,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "md-difficulty-gv5",
@@ -3457,7 +3457,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "dn-format-1-q2",
@@ -3662,7 +3662,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -3802,7 +3802,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -3835,7 +3835,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "dn-results-2",
@@ -3920,7 +3920,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "dn-booking-2",
@@ -3939,7 +3939,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -4057,7 +4057,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -4090,7 +4090,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "dn-difficulty-gv2-q2",
@@ -4147,7 +4147,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "dn-difficulty-gv4",
@@ -4166,7 +4166,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "dn-difficulty-gv5",
@@ -4235,7 +4235,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "ph-format-1-q2",
@@ -4470,7 +4470,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -4610,7 +4610,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -4643,7 +4643,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "ph-results-2",
@@ -4728,7 +4728,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "ph-booking-2",
@@ -4747,7 +4747,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -4865,7 +4865,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -4898,7 +4898,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "ph-difficulty-gv2-q2",
@@ -4955,7 +4955,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "ph-difficulty-gv4",
@@ -4974,7 +4974,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "ph-difficulty-gv5",
@@ -5043,7 +5043,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "pt-format-1-q2",
@@ -5259,7 +5259,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -5399,7 +5399,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -5432,7 +5432,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "pt-results-2",
@@ -5517,7 +5517,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "pt-booking-2",
@@ -5536,7 +5536,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -5654,7 +5654,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -5687,7 +5687,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "pt-difficulty-gv2-q2",
@@ -5744,7 +5744,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "pt-difficulty-gv4",
@@ -5763,7 +5763,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "pt-difficulty-gv5",
@@ -5832,7 +5832,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "ot-format-1-q2",
@@ -5945,7 +5945,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7a276f8a68d356e15df5d2c6"
                 },
-                "quotation": "If English is not your first language you will be required to provide proof of your ability to communicate effectively in English. The OTBNZ accepts OET or IELTS results"
+                "quotation": "The OTBNZ accepts OET or IELTS results"
               },
               {
                 "claimId": "ot-scores-2",
@@ -6018,7 +6018,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -6158,7 +6158,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -6191,7 +6191,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "ot-results-2",
@@ -6276,7 +6276,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "ot-booking-2",
@@ -6295,7 +6295,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -6413,7 +6413,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -6446,7 +6446,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "ot-difficulty-gv2-q2",
@@ -6503,7 +6503,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "ot-difficulty-gv4",
@@ -6522,7 +6522,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "ot-difficulty-gv5",
@@ -6591,7 +6591,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "dt-format-1-q2",
@@ -6704,7 +6704,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:e44f13a20b36042200f5f0d5"
                 },
-                "quotation": "Occupational English Test (OET) with A or B in all four sections. All components of the test must be passed and dated within the 12 months preceding the Board's receipt of the application"
+                "quotation": "Occupational English Test (OET) with A or B in all four sections."
               },
               {
                 "claimId": "dt-scores-4",
@@ -6777,7 +6777,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -6917,7 +6917,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -6950,7 +6950,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "dt-results-2",
@@ -7035,7 +7035,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "dt-booking-2",
@@ -7054,7 +7054,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -7172,7 +7172,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -7205,7 +7205,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "dt-difficulty-gv2-q2",
@@ -7262,7 +7262,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "dt-difficulty-gv4",
@@ -7281,7 +7281,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "dt-difficulty-gv5",
@@ -7350,7 +7350,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "op-format-1-q2",
@@ -7555,7 +7555,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -7695,7 +7695,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -7728,7 +7728,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "op-results-2",
@@ -7813,7 +7813,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "op-booking-2",
@@ -7832,7 +7832,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -7950,7 +7950,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -7983,7 +7983,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "op-difficulty-gv2-q2",
@@ -8040,7 +8040,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "op-difficulty-gv4",
@@ -8059,7 +8059,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "op-difficulty-gv5",
@@ -8128,7 +8128,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "pd-format-1-q2",
@@ -8319,7 +8319,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -8459,7 +8459,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -8492,7 +8492,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "pd-results-2",
@@ -8577,7 +8577,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "pd-booking-2",
@@ -8596,7 +8596,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -8714,7 +8714,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -8747,7 +8747,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "pd-difficulty-gv2-q2",
@@ -8804,7 +8804,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "pd-difficulty-gv4",
@@ -8823,7 +8823,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "pd-difficulty-gv5",
@@ -8892,7 +8892,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "rd-format-1-q2",
@@ -9083,7 +9083,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -9223,7 +9223,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -9256,7 +9256,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "rd-results-2",
@@ -9341,7 +9341,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "rd-booking-2",
@@ -9360,7 +9360,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -9478,7 +9478,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -9511,7 +9511,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "rd-difficulty-gv2-q2",
@@ -9568,7 +9568,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "rd-difficulty-gv4",
@@ -9587,7 +9587,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "rd-difficulty-gv5",
@@ -9656,7 +9656,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "vt-format-1-q2",
@@ -9768,7 +9768,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ddba3b38988a163219a16a7b"
                 },
-                "quotation": "AVBC only accepts English test results from exams taken in-person. Online or at-home tests are not accepted"
+                "quotation": "AVBC only accepts English test results from exams taken in-person."
               },
               {
                 "claimId": "vt-scores-2",
@@ -9909,7 +9909,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:7ad600fc1749aed4ca29eeba"
                 },
-                "quotation": "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+                "quotation": "1 sub-test: AU$315"
               }
             ]
           },
@@ -10049,7 +10049,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               }
             ]
           },
@@ -10082,7 +10082,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:70def4cf783aeb4474f9c31e"
                 },
-                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+                "quotation": "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests."
               },
               {
                 "claimId": "vt-results-2",
@@ -10167,7 +10167,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:386ee8338873091ca52b8571"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               },
               {
                 "claimId": "vt-booking-2",
@@ -10186,7 +10186,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:23b69c738e267c46cacbc69b"
                 },
-                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+                "quotation": "Bookings for OET Test on Paper close 24 days before the test date (subject to change)."
               }
             ]
           },
@@ -10304,7 +10304,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:6cc7dce4023ad34a23a1e5b1"
                 },
-                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+                "quotation": "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA)."
               }
             ]
           },
@@ -10337,7 +10337,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:77123bf8ac570a58cf725510"
                 },
-                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+                "quotation": "we have designed the OET Listening and Reading sub-tests to not be profession specific."
               },
               {
                 "claimId": "vt-difficulty-gv2-q2",
@@ -10394,7 +10394,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:ed99baab33736b1f985bf901"
                 },
-                "quotation": "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+                "quotation": "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience."
               },
               {
                 "claimId": "vt-difficulty-gv4",
@@ -10413,7 +10413,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:a3d884e735f2c5c7fcb0a6a5"
                 },
-                "quotation": "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+                "quotation": "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc)."
               },
               {
                 "claimId": "vt-difficulty-gv5",

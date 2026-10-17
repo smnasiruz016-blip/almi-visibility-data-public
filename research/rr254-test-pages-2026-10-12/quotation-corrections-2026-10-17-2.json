@@ -1,0 +1,310 @@
+{
+  "record_type": "quotation_correction",
+  "on": "2026-10-17",
+  "decision": "RR-283 item 0 (beta-g decision, data only): the live facts whose quotation failed the one-sentence rule of RR-282 (§4, 28 facts)",
+  "rule": "each quotation is one sentence, or one table or list row, word for word from the stored text of the source's latest read; a fact that states more than one sentence holds one quotation per sentence",
+  "route": "stored text only (bin/source-facts.mjs --stored): 0 requests",
+  "where": "page-drafts.json: every claim's quotation is the fact's first quotation; the record whose whatSupportsIt the fact reads (facts-registry-2026-10-14.json for a registry fact, findings.json for the claims of any other) holds every quotation, after \"; word for word:\"",
+  "corrections": [
+    {
+      "factId": "claim:n-dates-1-b",
+      "source": "https://oet.com/test/book-a-test",
+      "old": [
+        "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+      ],
+      "new": [
+        "Bookings for OET Test on Paper close 24 days before the test date (subject to change).",
+        "Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+      ]
+    },
+    {
+      "factId": "claim:n-dates-2",
+      "source": "https://aeo.com.pk/oet-test-in-pakistan/",
+      "old": [
+        "The OET Test is available regularly at venues worldwide. For up-to-date details on test dates and locations, go to: oet.com/test/book-a-test"
+      ],
+      "new": [
+        "The OET Test is available regularly at venues worldwide.",
+        "For up-to-date details on test dates and locations, go to: oet.com/test/book-a-test"
+      ]
+    },
+    {
+      "factId": "claim:n-centres-2",
+      "source": "https://aeo.com.pk/oet-test-in-pakistan/",
+      "old": [
+        "AEO Pakistan conducts the OET exam in various cities across Pakistan. Islamabad Karachi Lahore Multan"
+      ],
+      "new": [
+        "AEO Pakistan conducts the OET exam in various cities across Pakistan.",
+        "Islamabad Karachi Lahore Multan"
+      ]
+    },
+    {
+      "factId": "claim:n-scores-uk-b",
+      "source": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-tests/",
+      "old": [
+        "Sit the tests within 12 months of each other, and complete both tests no more than two years prior to the date we are assessing your complete NMC application. This means that your test dates (not certificate dates) must be within 12 months of each other, and your test dates must be no more than two years old when we review your application. Be tested in all four domains at the same time"
+      ],
+      "new": [
+        "Sit the tests within 12 months of each other, and complete both tests no more than two years prior to the date we are assessing your complete NMC application.",
+        "Be tested in all four domains at the same time"
+      ]
+    },
+    {
+      "factId": "claim:n-scores-ie",
+      "source": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
+      "old": [
+        "OET (Nursing) with Grade B in three components and C+ in one component. (please see table for example) Reading B (350 - 450) Writing C+ (300 - 340) Speaking B (350 - 450) Please note that: We only accept IELTS/OET test results that are less than two years old"
+      ],
+      "new": [
+        "OET (Nursing) with Grade B in three components and C+ in one component.",
+        "We only accept IELTS/OET test results that are less than two years old"
+      ]
+    },
+    {
+      "factId": "claim:n-scores-nz-c",
+      "source": "https://nursingcouncil.org.nz/IQN/IQN/H8.aspx",
+      "old": [
+        "the Nursing Council of New Zealand does not currently accept online computer-based tests. However, computer-based tests administered in an approved testing centre are accepted"
+      ],
+      "new": [
+        "the Nursing Council of New Zealand does not currently accept online computer-based tests.",
+        "However, computer-based tests administered in an approved testing centre are accepted"
+      ]
+    },
+    {
+      "factId": "claim:n-writing-2",
+      "source": "https://oet.com/en-us/post/which-english-test-should-a-nurse-take",
+      "old": [
+        "write a referral letter or a discharge letter. When a nurse takes OET, they receive a set of case notes"
+      ],
+      "new": [
+        "Nurses who take the OET Writing sub-test are assessed on their ability to write a referral letter or a discharge letter.",
+        "Nurses are then asked to complete a writing task based on the case notes."
+      ]
+    },
+    {
+      "factId": "claim:n-reschedule-1",
+      "source": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "old": [
+        "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 . If you reschedule after bookings close for your original test date, the rescheduling fee is AU$200"
+      ],
+      "new": [
+        "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 .",
+        "If you reschedule after bookings close for your original test date, the rescheduling fee is AU$200"
+      ]
+    },
+    {
+      "factId": "claim:n-results-1-q2",
+      "source": "https://oet.com/test/results-and-scoring",
+      "old": [
+        "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+      ],
+      "new": [
+        "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests.",
+        "Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+      ]
+    },
+    {
+      "factId": "claim:n-retake-1",
+      "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "old": [
+        "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+      ],
+      "new": [
+        "If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) .",
+        "Here are the prices (including the AU$7 online booking fee):",
+        "1 sub-test: AU$315",
+        "2 sub-tests: AU$415",
+        "3 sub-tests: AU$515",
+        "Please keep in mind this option is only available if you've previously taken the full OET Test"
+      ]
+    },
+    {
+      "factId": "claim:n-id-1-q2",
+      "source": "https://oet.com/test-regulations",
+      "old": [
+        "identification issued by the national government in the country in which you are sitting the OET Test (this excludes a driver's license). A valid national ID must be in English lettering and include your full name, photograph and date of birth (DoB)"
+      ],
+      "new": [
+        "identification issued by the national government in the country in which you are sitting the OET Test (this excludes a driver's license).",
+        "A valid national ID must be in English lettering and include your full name, photograph and date of birth (DoB)"
+      ]
+    },
+    {
+      "factId": "claim:s-score350-1-b",
+      "source": "https://oet.com/test/results-and-scoring",
+      "old": [
+        "contains 42 questions. Each correct answer is awarded 1 mark. Scores out of 42 are converted to the 500 scale. Test-takers awarded Grade B (scale score of 350) typically achieve at least 30 marks"
+      ],
+      "new": [
+        "Test-takers awarded Grade B (scale score of 350) typically achieve at least 30 marks",
+        "The OET Reading Test contains 42 questions.",
+        "The OET Listening Test contains 42 questions."
+      ]
+    },
+    {
+      "factId": "claim:s-ie-x3",
+      "source": "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+      "old": [
+        "CORU will accept results from a maximum of two test sittings. The repeat test: · must be taken from the same provider as the previous/initial test and · must be taken within six months of the initial test"
+      ],
+      "new": [
+        "CORU will accept results from a maximum of two test sittings.",
+        "must be taken from the same provider as the previous/initial test and",
+        "must be taken within six months of the initial test."
+      ]
+    },
+    {
+      "factId": "claim:s-specific-1",
+      "source": "https://oet.com/test/oet-test",
+      "old": [
+        "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+      ],
+      "new": [
+        "we have designed the OET Listening and Reading sub-tests to not be profession specific.",
+        "They are common to all candidates"
+      ]
+    },
+    {
+      "factId": "oet-common",
+      "source": "https://oet.com/test/oet-test",
+      "old": [
+        "we have designed the OET Listening and Reading sub-tests to not be profession specific. They are common to all candidates"
+      ],
+      "new": [
+        "we have designed the OET Listening and Reading sub-tests to not be profession specific.",
+        "They are common to all candidates"
+      ]
+    },
+    {
+      "factId": "ielts-reading-general-topics",
+      "source": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
+      "old": [
+        "written for a non-specialist audience. All the topics are of general interest to students at undergraduate or postgraduate level"
+      ],
+      "new": [
+        "Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience.",
+        "All the topics are of general interest to students at undergraduate or postgraduate level"
+      ]
+    },
+    {
+      "factId": "oet-grades",
+      "source": "https://oet.com/test/results-and-scoring",
+      "old": [
+        "reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc). The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+      ],
+      "new": [
+        "The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc).",
+        "The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)"
+      ]
+    },
+    {
+      "factId": "oet-subtest-fees",
+      "source": "https://support.oet.com/articles/Knowledge/How-much-does-OET-cost",
+      "old": [
+        "Single sub-tests can be booked at lesser costs for OET on Paper at a venue. If you'd like to book individual sub-tests , you can do so for OET on Paper at the majority of our venues around the world (unfortunately, we don't offer this option in the USA) . Here are the prices (including the AU$7 online booking fee): 1 sub-test: AU$315 2 sub-tests: AU$415 3 sub-tests: AU$515 Please keep in mind this option is only available if you've previously taken the full OET Test"
+      ],
+      "new": [
+        "1 sub-test: AU$315",
+        "Single sub-tests can be booked at lesser costs for OET on Paper at a venue.",
+        "Here are the prices (including the AU$7 online booking fee):",
+        "2 sub-tests: AU$415",
+        "3 sub-tests: AU$515",
+        "Please keep in mind this option is only available if you've previously taken the full OET Test"
+      ]
+    },
+    {
+      "factId": "oet-results-computer",
+      "source": "https://oet.com/test/results-and-scoring",
+      "old": [
+        "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests. OET@Home® Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+      ],
+      "new": [
+        "Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests.",
+        "Results for OET@Home® can be made available within 48 hours of completing all four sub-tests"
+      ]
+    },
+    {
+      "factId": "oet-booking",
+      "source": "https://oet.com/test/book-a-test",
+      "old": [
+        "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+      ],
+      "new": [
+        "Bookings for OET Test on Paper close 24 days before the test date (subject to change).",
+        "Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+      ]
+    },
+    {
+      "factId": "oet-closing",
+      "source": "https://oet.com/test/book-a-test",
+      "old": [
+        "Bookings for OET Test on Paper close 24 days before the test date (subject to change). Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+      ],
+      "new": [
+        "Bookings for OET Test on Paper close 24 days before the test date (subject to change).",
+        "Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date"
+      ]
+    },
+    {
+      "factId": "claim:md-reschedule-1-q2",
+      "source": "https://support.oet.com/articles/Knowledge/Can-I-defer-reschedule-my-OET-booking-to-a-different-date",
+      "old": [
+        "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA). If you reschedule after bookings close, the rescheduling fee is AU$200"
+      ],
+      "new": [
+        "If you reschedule before bookings close for your original test date, the rescheduling fee is AU$120 (or US$95 for OET Tests in the USA).",
+        "If you reschedule after bookings close, the rescheduling fee is AU$200"
+      ]
+    },
+    {
+      "factId": "otbnz-accepts",
+      "source": "https://www.otboard.org.nz/site/rp/overseas",
+      "old": [
+        "If English is not your first language you will be required to provide proof of your ability to communicate effectively in English. The OTBNZ accepts OET or IELTS results"
+      ],
+      "new": [
+        "The OTBNZ accepts OET or IELTS results",
+        "If English is not your first language you will be required to provide proof of your ability to communicate effectively in English."
+      ]
+    },
+    {
+      "factId": "dbnz-ab",
+      "source": "https://www.dietitiansboard.org.nz/Public/Public/Registration/English-Language-Requirements.aspx",
+      "old": [
+        "Occupational English Test (OET) with A or B in all four sections. All components of the test must be passed and dated within the 12 months preceding the Board's receipt of the application"
+      ],
+      "new": [
+        "Occupational English Test (OET) with A or B in all four sections.",
+        "All components of the test must be passed and dated within the 12 months preceding the Board's receipt of the application"
+      ]
+    },
+    {
+      "factId": "avbc-inperson",
+      "source": "https://avbc.asn.au/avbc-english-language-standards/",
+      "old": [
+        "AVBC only accepts English test results from exams taken in-person. Online or at-home tests are not accepted"
+      ],
+      "new": [
+        "AVBC only accepts English test results from exams taken in-person.",
+        "Online or at-home tests are not accepted"
+      ]
+    }
+  ],
+  "needsACleanSource": [
+    {
+      "factId": "claim:n-scores-au",
+      "why": "the regulator PDF's text merges its table's columns; no one sentence or row holding the scores can be cut word for word — the old quotation is kept"
+    },
+    {
+      "factId": "claim:n-scores-au-c",
+      "why": "the regulator PDF's text merges its table's columns; no one sentence or row holding the scores can be cut word for word — the old quotation is kept"
+    },
+    {
+      "factId": "ahpra-2026",
+      "why": "the regulator PDF's text merges its table's columns; no one sentence or row holding the scores can be cut word for word — the old quotation is kept"
+    }
+  ],
+  "pages": "no page text changes: the built pages carry the claims, not the quotations (proved by a rebuild compared with the published files)"
+}
