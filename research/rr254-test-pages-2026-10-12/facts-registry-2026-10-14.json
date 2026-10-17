@@ -26,7 +26,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "Booking one, two or three sub-tests again on paper at a venue costs AU$315, AU$415 or AU$515, each including a AU$7 booking fee.",
-      "whatSupportsIt": "the page lists the single sub-test fees for the paper test",
+      "whatSupportsIt": "the page lists the single sub-test fees for the paper test; word for word: \"1 sub-test: AU$315\" · \"Single sub-tests can be booked at lesser costs for OET on Paper at a venue.\" · \"Here are the prices (including the AU$7 online booking fee):\" · \"2 sub-tests: AU$415\" · \"3 sub-tests: AU$515\" · \"Please keep in mind this option is only available if you've previously taken the full OET Test\"",
       "value": null,
       "recheckDays": 30,
       "readBy": {
@@ -43,7 +43,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "Listening and Reading are the same for every profession, while Writing and Speaking are set in the candidate's own profession.",
-      "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific",
+      "whatSupportsIt": "the overview marks Listening and Reading as common and Writing and Speaking as profession-specific; word for word: \"we have designed the OET Listening and Reading sub-tests to not be profession specific.\" · \"They are common to all candidates\"",
       "value": null,
       "recheckDays": 90,
       "readBy": {
@@ -94,7 +94,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "Each OET sub-test is scored from 0 to 500 and given a grade from A to E, and a score of 350 is a grade B.",
-      "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350",
+      "whatSupportsIt": "the page gives the 0 to 500 scale, grades A to E and B = 350; word for word: \"The four sub-tests that make up the OET Test are reported on a scale from 0 to 500 in ten-point increments (e.g. 350, 360, 370 etc).\" · \"The numerical score will be mapped to a separate letter grade for each sub-test ranging from A (highest) to E (lowest)\"",
       "value": "grade B",
       "recheckDays": 90,
       "readBy": {
@@ -111,7 +111,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "OET aims to release computer-test and OET@Home results within 6 calendar days of the last sub-test.",
-      "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home",
+      "whatSupportsIt": "the page states a 6-calendar-day aim (met in 95% of cases) for the computer test and OET@Home; word for word: \"Results for OET Test on Computer can be made available within 48 hours of completing all four sub-tests.\" · \"Results for OET@Home® can be made available within 48 hours of completing all four sub-tests\"",
       "value": "6 calendar days",
       "recheckDays": 30,
       "readBy": {
@@ -162,7 +162,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "A test is booked on OET's own website by searching for a test near you and choosing the computer test at a venue, OET@Home or the paper test.",
-      "whatSupportsIt": "the page gives the search-and-book route and the three formats",
+      "whatSupportsIt": "the page gives the search-and-book route and the three formats; word for word: \"Bookings for OET Test on Paper close 24 days before the test date (subject to change).\" · \"Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date\"",
       "value": null,
       "recheckDays": 30,
       "readBy": {
@@ -179,7 +179,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "Bookings close 24 days before the test date for the paper test and 7 days before for the computer test and OET@Home.",
-      "whatSupportsIt": "the page gives the 24-day and 7-day closing rules",
+      "whatSupportsIt": "the page gives the 24-day and 7-day closing rules; word for word: \"Bookings for OET Test on Paper close 24 days before the test date (subject to change).\" · \"Bookings for OET Test on Computer at a test venue and OET@Home closes 7 days before the test date\"",
       "value": null,
       "recheckDays": 30,
       "readBy": {
@@ -638,7 +638,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "The Occupational Therapy Board of New Zealand accepts the OET as proof of English for applicants whose first language is not English.",
-      "whatSupportsIt": "the page names OET or IELTS; the grades are in a policy document that could not be read",
+      "whatSupportsIt": "the page names OET or IELTS; the grades are in a policy document that could not be read; word for word: \"The OTBNZ accepts OET or IELTS results\" · \"If English is not your first language you will be required to provide proof of your ability to communicate effectively in English.\"",
       "value": null,
       "recheckDays": 90,
       "readBy": {
@@ -672,7 +672,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "The Dietitians Board of New Zealand asks for grade A or B in all four OET sections, dated within the 12 months before it receives the application.",
-      "whatSupportsIt": "the page gives A or B in all four and 12 months",
+      "whatSupportsIt": "the page gives A or B in all four and 12 months; word for word: \"Occupational English Test (OET) with A or B in all four sections.\" · \"All components of the test must be passed and dated within the 12 months preceding the Board's receipt of the application\"",
       "value": null,
       "recheckDays": 90,
       "readBy": {
@@ -723,7 +723,7 @@
       "readOn": "2026-10-14",
       "tier": 1,
       "text": "The Australasian Veterinary Boards Council accepts English test results only from tests sat in person, so OET@Home is not accepted.",
-      "whatSupportsIt": "the page accepts in-person tests only",
+      "whatSupportsIt": "the page accepts in-person tests only; word for word: \"AVBC only accepts English test results from exams taken in-person.\" · \"Online or at-home tests are not accepted\"",
       "value": null,
       "recheckDays": 90,
       "readBy": {
@@ -756,7 +756,7 @@
       "sourceName": "IELTS — IELTS Academic: Reading test format",
       "link": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-reading",
       "text": "IELTS Academic Reading texts are written for a non-specialist audience, on topics of general interest to university students.",
-      "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest",
+      "whatSupportsIt": "the page says the texts come from books, journals, magazines, newspapers and online resources for a non-specialist audience, on topics of general interest; word for word: \"Texts come from books, journals, magazines, newspapers and online resources, written for a non-specialist audience.\" · \"All the topics are of general interest to students at undergraduate or postgraduate level\"",
       "recheckDays": 90,
       "readOn": "2026-10-14",
       "tier": 1,
