@@ -1,0 +1,31 @@
+{
+  "record_type": "quotation_correction",
+  "on": "2026-10-17",
+  "decision": "RR-278 §1 (owner GREEN of RR-277 for the browser window covers the re-run); the cause is beta-g's 15 Oct capture layout, not the engine",
+  "cause": "the capture file 08-britishcouncil-pk-ielts-fees.txt wrote the table's cells with \" | \" separators the page text does not hold; the engine rightly found the quotations not word for word (RR-277: CHANGED ×3)",
+  "source": "https://www.britishcouncil.pk/exam/ielts/book-test",
+  "fromRead": {
+    "readOn": "2026-10-17",
+    "route": "CLIENT_BROWSER_ROUTE",
+    "pageSha256": "d598611e593e12545e71e548a99c3c8b2b284ca3cb0bd9290bb6d43d97d086ba"
+  },
+  "corrections": [
+    {
+      "claimId": "n-cheaper-ielts-1",
+      "old": "IELTS Academic and General Training – in centre - on computer | Islamabad | 75,600",
+      "new": "IELTS Academic and General Training - in centre - on computer Islamabad 75,600"
+    },
+    {
+      "claimId": "n-cheaper-ielts-2",
+      "old": "Lahore, Multan, Faisalabad, Sargodha, Sahiwal, Sialkot, Gujrawala, Bahwalpur, Mandi Bahauddin, Jhelum & Gujrat | 76,240",
+      "new": "IELTS Academic and General Training - in centre - on computer Lahore, Multan, Faisalabad, Sargodha, Sahiwal, Sialkot, Gujrawala, Bahwalpur, Mandi Bahauddin, Jhelum & Gujrat 76,240"
+    },
+    {
+      "claimId": "n-cheaper-ielts-3",
+      "old": "Peshawar, Multan, Faisalabad, Sialkot, Abbotabad | 72,000",
+      "new": "IELTS for UK Visas and Immigration - in centre - on computer (Academic and General Training) Lahore, Karachi, Hyderabad, Islamabad, Peshawar, Multan, Faisalabad, Sialkot, Abbotabad 72,000"
+    }
+  ],
+  "where": "page-drafts.json (the facts' current quotations); fact-extractions.jsonl and fact-proposals-2026-10-15-2.json keep the old wording as the records of their own day",
+  "pages": "no page is rebuilt and the live site is unchanged: the published pages carry the claims, not the quotations"
+}
