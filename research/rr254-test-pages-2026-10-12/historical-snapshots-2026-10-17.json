@@ -1,0 +1,16 @@
+{
+  "note": "RR-277 (owner decision 17 Oct 2026, _handoffs d6d43af): the owner-supplied old IELTS fee list (client-files/ielts_price.pdf, kept privately) used ONLY as the before-snapshot of one CHANGED proof. OUT OF DATE (2020–21), owner-supplied, never publishable: no fee from it goes on any page.",
+  "snapshots": [
+    {
+      "snapshotId": "bc-pk-ielts-fee-2020-21",
+      "source": "https://www.britishcouncil.pk/exam/ielts/book-test",
+      "file": "client-files/ielts_price.pdf",
+      "quotation": "IELTS (P&P) Test registration fee 34,800",
+      "period": "7 April 2020 – 31 March 2021",
+      "suppliedOn": "2026-10-15",
+      "suppliedBy": "the owner",
+      "state": "OUT_OF_DATE",
+      "publishable": false
+    }
+  ]
+}
