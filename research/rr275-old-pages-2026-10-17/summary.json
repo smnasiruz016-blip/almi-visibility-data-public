@@ -1,0 +1,14 @@
+{
+  "gscRange": [
+    "2026-08-15",
+    "2026-09-12"
+  ],
+  "gscPulledAt": "2026-09-12T22:06:43.410Z",
+  "counts": {
+    "REDIRECT": 0,
+    "KEEP": 0,
+    "REMOVE-CANDIDATE": 240224,
+    "UNSURE": 109
+  },
+  "total": 240333
+}
