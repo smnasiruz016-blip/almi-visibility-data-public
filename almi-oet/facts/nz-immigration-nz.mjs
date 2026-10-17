@@ -52,7 +52,7 @@ export default [
       verdict: "QUALIFIED",
       reason: "INCOMPLETE",
       checkedOn: "2026-09-12",
-      checkedBy: "human:beta-g (Cowork)",
+      checkedBy: "engine:almi-visibility",
       sourceUrl: "https://www.immigration.govt.nz/about-us/news-centre/update-on-english-language-testing-for-immigration-applications/",
       sourceTier: "OFFICIAL",
       note: "TRUE BUT DANGEROUSLY INCOMPLETE. INZ does require OET to be taken in person — but ONLY FROM 13 JULY 2026, and there is a transition: 'If you completed the computer-based OET test with a remotely administered speaking component before 13 July 2026, you can still use those results.' OET@Home was never accepted. Our fact omits both the date and the transition, so it would wrongly tell an earlier candidate their valid result is useless. Update date 29 June 2026.",
