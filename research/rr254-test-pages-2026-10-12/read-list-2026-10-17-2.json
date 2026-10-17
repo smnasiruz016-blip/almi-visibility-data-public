@@ -1,0 +1,13 @@
+{
+  "note": "RR-278 (17 Oct 2026): the C8 real proof re-run on the final code (main after 722b64b) — the same 7 sources through the browser route launched by an opened CITED_SOURCES connector — and the British Council Pakistan fee page, read again only so the 3 corrected quotations are rechecked through the pipeline (no offline recheck mode exists without a code change).",
+  "sources": [
+    "https://www.gmc-uk.org/registration-and-licensing/join-our-registers/before-you-apply-guide-for-doctors/evidence-of-your-knowledge-of-english/using-your-oet-certificate",
+    "https://www.ecfmg.org/certification-pathways/oet.html",
+    "https://www.pharmacyregulation.org/pharmacists/registering-pharmacist/eea-qualified-pharmacist-registration/language-requirements",
+    "https://physioboard.org.nz/faq/english-proficiency-evidence",
+    "https://www.vci.ie/english-language-requirements-for-registration",
+    "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests",
+    "https://www.coru.ie/health-and-social-care-professionals/registration/registration-requirements/language/",
+    "https://www.britishcouncil.pk/exam/ielts/book-test"
+  ]
+}

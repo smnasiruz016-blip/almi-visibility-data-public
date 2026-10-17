@@ -103,7 +103,7 @@
                 },
                 "claimId": "n-cheaper-ielts-1",
                 "text": "British Council Pakistan lists IELTS Academic and General Training on computer at PKR 75,600 in Islamabad.",
-                "quotation": "IELTS Academic and General Training – in centre - on computer | Islamabad | 75,600",
+                "quotation": "IELTS Academic and General Training - in centre - on computer Islamabad 75,600",
                 "supports": {
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:c397545be6a9d4ad04a615c2"
@@ -122,7 +122,7 @@
                 },
                 "claimId": "n-cheaper-ielts-2",
                 "text": "The same test is PKR 76,240 in Lahore, Multan, Faisalabad and the other listed Punjab cities.",
-                "quotation": "Lahore, Multan, Faisalabad, Sargodha, Sahiwal, Sialkot, Gujrawala, Bahwalpur, Mandi Bahauddin, Jhelum & Gujrat | 76,240",
+                "quotation": "IELTS Academic and General Training - in centre - on computer Lahore, Multan, Faisalabad, Sargodha, Sahiwal, Sialkot, Gujrawala, Bahwalpur, Mandi Bahauddin, Jhelum & Gujrat 76,240",
                 "supports": {
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:c0de056ba9b5c1c794dbfceb"
@@ -141,7 +141,7 @@
                 },
                 "claimId": "n-cheaper-ielts-3",
                 "text": "IELTS for UK Visas and Immigration on computer is listed at PKR 72,000.",
-                "quotation": "Peshawar, Multan, Faisalabad, Sialkot, Abbotabad | 72,000",
+                "quotation": "IELTS for UK Visas and Immigration - in centre - on computer (Academic and General Training) Lahore, Karachi, Hyderabad, Islamabad, Peshawar, Multan, Faisalabad, Sialkot, Abbotabad 72,000",
                 "supports": {
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:4722307b704bd578d57a20b9"
