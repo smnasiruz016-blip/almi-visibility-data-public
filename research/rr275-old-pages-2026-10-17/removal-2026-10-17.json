@@ -1,0 +1,27 @@
+{
+  "record_type": "old_pages_removal",
+  "decision": "_handoffs AlmiVisibility_OWNER_DECISION_2026-10-17_RR-276_REMOVE_OLD_ALMIOET_SEO_PAGES.md (2ded4d5) — owner GREEN, 17 Oct 2026",
+  "site": "https://almioet.almiworld.com",
+  "removedOn": "2026-10-17",
+  "how": "410 Gone (src/proxy.ts), no redirect; the old sitemaps leave the index and answer 410; the old pages' code and data are removed",
+  "sitePR": "smnasiruz016-blip/almi-oet#119",
+  "headSha": "fa1250281ce7bb2b8d1f926003d39c8f30c6f06a",
+  "mergeSha": "3ae204bfe682ab26737f9b1a2c44b5bab4820c5d",
+  "productionDeployment": "success, 2026-10-17T01:53:48Z",
+  "removed": {
+    "urlsInTheMap": 240327,
+    "shapes": ["/<profession> (12)", "/<profession>/from-<origin>", "/<profession>/from-<origin>/<organisation>", "/register/<organisation>"],
+    "sitemaps": ["/sitemap/<n>.xml (the chunks of the old index)", "/sitemap-nationality-nurse.xml", "/sitemap-nurse-uk.xml"],
+    "knownToGoogleInStoredData": 103,
+    "indexedPerOwnerScreenshot": 446
+  },
+  "kept": {
+    "productRoutes": ["/", "/login", "/signup", "/forgot-password", "/reset-password", "/verify-email", "/practice and the app", "/account", "/progress", "/pricing", "/admin", "/api"],
+    "guides": 13,
+    "siteFiles": ["/robots.txt", "/sitemap-index.xml (lists sitemap-guides.xml only)", "/sitemap-guides.xml"]
+  },
+  "unsure": ["/sitemap.xml (never a sitemap of this site; left as it answers)", "/sitemap-index.xml, /robots.txt, /, /login, /signup, /practice were in RR-275's UNSURE list as product routes: all kept"],
+  "liveChecks": { "requests": 34, "pass": 27, "of": 27, "oldUrls410": 10, "ofThemKnownToGoogle": 5, "productUnchanged": ["/", "/login", "/signup", "/pricing"], "practiceRedirectsToLoginAsBefore": true, "guidesByteIdentical": 4 },
+  "postDeployCheck": "almi-oet post-deploy run 38992760570 success — GONE step: 5 of 5 old shapes answer 410",
+  "revert": "git revert -m 1 3ae204bfe682ab26737f9b1a2c44b5bab4820c5d on almi-oet main, then the production deploy"
+}
