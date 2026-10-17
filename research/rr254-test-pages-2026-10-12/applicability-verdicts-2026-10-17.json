@@ -1,0 +1,197 @@
+{
+  "record_type": "applicability_verdicts",
+  "on": "2026-10-17",
+  "filedBy": "the agent session (RR-283 item 9) — judged by src/research/applicability-verdicts.mjs; no person checked it, and none is needed (owner decision 3)",
+  "rule": "F62 Amendment 1 C9: each derived check carries an official verdict with an excerpt found word for word in the stored text of the deciding body's own page, the CHECKED_NOT_FOUND line, or BLOCKED with its reason",
+  "read": "read-list-2026-10-17-4.json: 8 pages, 14 requests through the paced path (robots 6, sources 8), READ 8; the NMBI page from its stored read of 15 Oct 2026; the test owner's 5 pages not read (licence)",
+  "verdicts": [
+    {
+      "body": "ie-nmbi",
+      "scope": {
+        "profession": "nursing"
+      },
+      "kind": "OFFICIAL",
+      "outcome": "ACCEPTED",
+      "page": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
+      "excerpt": "OET (Nursing) with Grade B in three components and C+ in one component."
+    },
+    {
+      "body": "ie-nmbi",
+      "scope": {},
+      "kind": "OFFICIAL",
+      "outcome": "ACCEPTED",
+      "page": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
+      "excerpt": "NMBI accepts International English Language Testing System (IELTS) Academic Test, IELTS Academic Test for UKVI, and the Occupational English Language Test (OET) as evidence of English language competency."
+    },
+    {
+      "body": "ng-nmcn",
+      "scope": {},
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "ng-nmcn",
+      "scope": {
+        "purpose": "certificate-verification"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "ng-nmcn",
+      "scope": {
+        "purpose": "authentication"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "ng-nmcn",
+      "scope": {
+        "purpose": "letter-of-good-standing"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "ng-nmcn",
+      "scope": {
+        "destination": "uk-nmc"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "nz-immigration-nz",
+      "scope": {},
+      "kind": "OFFICIAL",
+      "outcome": "ACCEPTED",
+      "page": "https://www.immigration.govt.nz/about-us/news-centre/update-on-english-language-testing-for-immigration-applications/",
+      "excerpt": "From midnight 12 July 2026 NZST, we will only accept in-person tests for applications where OET is used as the English language test."
+    },
+    {
+      "body": "oet",
+      "scope": {},
+      "kind": "BLOCKED",
+      "page": "https://oet.com/en-us/Intellectual-Property-policy"
+    },
+    {
+      "body": "oet",
+      "scope": {
+        "profession": "nursing"
+      },
+      "kind": "BLOCKED",
+      "page": "https://oet.com/en-us/learn/writing"
+    },
+    {
+      "body": "pk-pnmc",
+      "scope": {},
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "pk-pnmc",
+      "scope": {
+        "destination": "foreign"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "pk-pnmc",
+      "scope": {
+        "destination": "domestic"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-code-of-practice",
+      "scope": {
+        "country": "nigeria"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-code-of-practice",
+      "scope": {
+        "country": "pakistan"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-code-of-practice",
+      "scope": {
+        "country": "kenya"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-code-of-practice",
+      "scope": {
+        "country": "india"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-code-of-practice",
+      "scope": {
+        "country": "philippines"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-code-of-practice",
+      "scope": {},
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-hcpc",
+      "scope": {
+        "profession": "speech-pathology"
+      },
+      "kind": "OFFICIAL",
+      "outcome": "ACCEPTED",
+      "page": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/documents/certificate-of-english-language-proficiency/",
+      "excerpt": "Speech and Language Therapists Speech and Language 1800 with no elements below 400"
+    },
+    {
+      "body": "uk-hcpc",
+      "scope": {},
+      "kind": "OFFICIAL",
+      "outcome": "ACCEPTED",
+      "page": "https://www.hcpc-uk.org/registration/getting-on-the-register/international-applications/documents/certificate-of-english-language-proficiency/",
+      "excerpt": "We accept profession specific OET tests for the below listed professions if they meet the minimum scores."
+    },
+    {
+      "body": "uk-nmc",
+      "scope": {
+        "profession": "nursing"
+      },
+      "kind": "OFFICIAL",
+      "outcome": "ACCEPTED",
+      "page": "https://www.nmc.org.uk/registration/joining-the-register/english-language-requirements/accepted-english-language-tests/oet/",
+      "excerpt": "We will accept an OET examination certificate that confirms you have achieved:"
+    },
+    {
+      "body": "uk-ukvi",
+      "scope": {},
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    },
+    {
+      "body": "uk-ukvi",
+      "scope": {
+        "nationality": "india"
+      },
+      "kind": "CHECKED_NOT_FOUND",
+      "notFound": "a statement that the declared test is required, accepted or not required for this scope — the page does not name the test"
+    }
+  ]
+}
