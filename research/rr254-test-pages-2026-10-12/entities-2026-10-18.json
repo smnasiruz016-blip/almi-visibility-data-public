@@ -1,0 +1,411 @@
+{
+  "record_type": "entity_list",
+  "on": "2026-10-18",
+  "decidedBy": {
+    "kind": "AI",
+    "name": "research agent (actor:cc)",
+    "on": "2026-10-18"
+  },
+  "rule": "F49 C1 (RR-285): every body the 12 live guides name as a claim's responsible body is one entity with one canonical name (the name the batch's claims record) and its recorded aliases; its official hosts are the hosts of the claims' own sources. The client's own product entity is not listed here: it comes only from the client's own declaration (C5). Identifiers are attached by the engine, never here.",
+  "entities": [
+    {
+      "entityId": "occupational-english-test",
+      "canonical": "OET (Occupational English Test)",
+      "kind": "EXAM",
+      "aliases": [
+        "OET (Occupational English Test)",
+        "OET",
+        "Occupational English Test"
+      ],
+      "officialHosts": [
+        "oet.com",
+        "support.oet.com"
+      ],
+      "wikipediaTitle": "Occupational English Test"
+    },
+    {
+      "entityId": "british-council",
+      "canonical": "British Council Pakistan",
+      "kind": "TEST_CENTRE",
+      "aliases": [
+        "British Council Pakistan",
+        "British Council"
+      ],
+      "officialHosts": [
+        "www.britishcouncil.pk"
+      ],
+      "wikipediaTitle": "British Council"
+    },
+    {
+      "entityId": "nursing-and-midwifery-council",
+      "canonical": "Nursing and Midwifery Council (UK)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Nursing and Midwifery Council (UK)",
+        "NMC",
+        "Nursing and Midwifery Council",
+        "NMC (Nursing and Midwifery Council)"
+      ],
+      "officialHosts": [
+        "www.nmc.org.uk"
+      ],
+      "wikipediaTitle": "Nursing and Midwifery Council"
+    },
+    {
+      "entityId": "nursing-and-midwifery-board-of-ireland",
+      "canonical": "NMBI (Nursing and Midwifery Board of Ireland)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "NMBI (Nursing and Midwifery Board of Ireland)",
+        "NMBI",
+        "Nursing and Midwifery Board of Ireland"
+      ],
+      "officialHosts": [
+        "www.nmbi.ie"
+      ],
+      "wikipediaTitle": "Nursing and Midwifery Board of Ireland"
+    },
+    {
+      "entityId": "nursing-council-of-new-zealand",
+      "canonical": "Nursing Council of New Zealand",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Nursing Council of New Zealand",
+        "NCNZ"
+      ],
+      "officialHosts": [
+        "nursingcouncil.org.nz"
+      ],
+      "wikipediaTitle": "Nursing Council of New Zealand"
+    },
+    {
+      "entityId": "australian-health-practitioner-regulation-agency",
+      "canonical": "Ahpra (Australian Health Practitioner Regulation Agency)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Ahpra (Australian Health Practitioner Regulation Agency)",
+        "Ahpra",
+        "AHPRA",
+        "Australian Health Practitioner Regulation Agency"
+      ],
+      "officialHosts": [
+        "www.ahpra.gov.au"
+      ],
+      "wikipediaTitle": "Australian Health Practitioner Regulation Agency"
+    },
+    {
+      "entityId": "speech-pathology-australia",
+      "canonical": "Speech Pathology Australia",
+      "kind": "PROFESSIONAL_BODY",
+      "aliases": [
+        "Speech Pathology Australia"
+      ],
+      "officialHosts": [
+        "www.speechpathologyaustralia.org.au"
+      ],
+      "wikipediaTitle": "Speech Pathology Australia"
+    },
+    {
+      "entityId": "health-and-care-professions-council",
+      "canonical": "HCPC (Health and Care Professions Council, UK)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "HCPC (Health and Care Professions Council, UK)",
+        "HCPC",
+        "Health and Care Professions Council"
+      ],
+      "officialHosts": [
+        "www.hcpc-uk.org"
+      ],
+      "wikipediaTitle": "Health and Care Professions Council"
+    },
+    {
+      "entityId": "coru",
+      "canonical": "CORU (Ireland)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "CORU (Ireland)",
+        "CORU",
+        "Coru"
+      ],
+      "officialHosts": [
+        "www.coru.ie"
+      ],
+      "wikipediaTitle": "CORU"
+    },
+    {
+      "entityId": "international-english-language-testing-system",
+      "canonical": "IELTS (International English Language Testing System)",
+      "kind": "EXAM",
+      "aliases": [
+        "IELTS (International English Language Testing System)",
+        "IELTS",
+        "International English Language Testing System"
+      ],
+      "officialHosts": [
+        "ielts.org"
+      ],
+      "wikipediaTitle": "International English Language Testing System"
+    },
+    {
+      "entityId": "medical-council-of-ireland",
+      "canonical": "Medical Council of Ireland",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Medical Council of Ireland"
+      ],
+      "officialHosts": [
+        "www.medicalcouncil.ie"
+      ],
+      "wikipediaTitle": "Medical Council of Ireland"
+    },
+    {
+      "entityId": "medical-council-of-new-zealand",
+      "canonical": "Medical Council of New Zealand",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Medical Council of New Zealand",
+        "MCNZ"
+      ],
+      "officialHosts": [
+        "www.mcnz.org.nz"
+      ],
+      "wikipediaTitle": "Medical Council of New Zealand"
+    },
+    {
+      "entityId": "general-medical-council",
+      "canonical": "General Medical Council (UK)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "General Medical Council (UK)",
+        "GMC",
+        "General Medical Council"
+      ],
+      "officialHosts": [
+        "www.gmc-uk.org"
+      ],
+      "wikipediaTitle": "General Medical Council"
+    },
+    {
+      "entityId": "educational-commission-for-foreign-medical-graduates",
+      "canonical": "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "ECFMG (Educational Commission for Foreign Medical Graduates, USA)",
+        "ECFMG",
+        "Educational Commission for Foreign Medical Graduates"
+      ],
+      "officialHosts": [
+        "www.ecfmg.org"
+      ],
+      "wikipediaTitle": "Educational Commission for Foreign Medical Graduates"
+    },
+    {
+      "entityId": "dental-council-of-new-zealand",
+      "canonical": "Dental Council (New Zealand)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Dental Council (New Zealand)",
+        "Dental Council of New Zealand"
+      ],
+      "officialHosts": [
+        "dcnz.org.nz"
+      ],
+      "wikipediaTitle": "Dental Council of New Zealand"
+    },
+    {
+      "entityId": "dental-council-of-ireland",
+      "canonical": "Dental Council of Ireland",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Dental Council of Ireland"
+      ],
+      "officialHosts": [
+        "www.dentalcouncil.ie"
+      ],
+      "wikipediaTitle": "Dental Council of Ireland"
+    },
+    {
+      "entityId": "general-dental-council",
+      "canonical": "General Dental Council (UK)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "General Dental Council (UK)",
+        "GDC",
+        "General Dental Council"
+      ],
+      "officialHosts": [
+        "www.gdc-uk.org"
+      ],
+      "wikipediaTitle": "General Dental Council"
+    },
+    {
+      "entityId": "pharmacy-council-of-new-zealand",
+      "canonical": "Pharmacy Council of New Zealand",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Pharmacy Council of New Zealand"
+      ],
+      "officialHosts": [
+        "pharmacycouncil.org.nz"
+      ],
+      "wikipediaTitle": "Pharmacy Council of New Zealand"
+    },
+    {
+      "entityId": "pharmaceutical-society-of-ireland",
+      "canonical": "Pharmaceutical Society of Ireland",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Pharmaceutical Society of Ireland",
+        "PSI"
+      ],
+      "officialHosts": [
+        "www.psi.ie"
+      ],
+      "wikipediaTitle": "Pharmaceutical Society of Ireland"
+    },
+    {
+      "entityId": "general-pharmaceutical-council",
+      "canonical": "General Pharmaceutical Council (UK)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "General Pharmaceutical Council (UK)",
+        "GPhC",
+        "General Pharmaceutical Council"
+      ],
+      "officialHosts": [
+        "www.pharmacyregulation.org"
+      ],
+      "wikipediaTitle": "General Pharmaceutical Council"
+    },
+    {
+      "entityId": "physiotherapy-board-of-new-zealand",
+      "canonical": "Physiotherapy Board of New Zealand",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Physiotherapy Board of New Zealand"
+      ],
+      "officialHosts": [
+        "physioboard.org.nz"
+      ],
+      "wikipediaTitle": "Physiotherapy Board of New Zealand"
+    },
+    {
+      "entityId": "occupational-therapy-board-of-new-zealand",
+      "canonical": "Occupational Therapy Board of New Zealand",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Occupational Therapy Board of New Zealand"
+      ],
+      "officialHosts": [
+        "www.otboard.org.nz"
+      ],
+      "wikipediaTitle": "Occupational Therapy Board of New Zealand"
+    },
+    {
+      "entityId": "dietitians-australia",
+      "canonical": "Dietitians Australia",
+      "kind": "PROFESSIONAL_BODY",
+      "aliases": [
+        "Dietitians Australia"
+      ],
+      "officialHosts": [
+        "dietitiansaustralia.org.au"
+      ],
+      "wikipediaTitle": "Dietitians Australia"
+    },
+    {
+      "entityId": "dietitians-board",
+      "canonical": "Dietitians Board (New Zealand)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Dietitians Board (New Zealand)",
+        "Dietitians Board"
+      ],
+      "officialHosts": [
+        "www.dietitiansboard.org.nz"
+      ],
+      "wikipediaTitle": "Dietitians Board"
+    },
+    {
+      "entityId": "general-optical-council",
+      "canonical": "General Optical Council (UK)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "General Optical Council (UK)",
+        "GOC",
+        "General Optical Council"
+      ],
+      "officialHosts": [
+        "optical.org"
+      ],
+      "wikipediaTitle": "General Optical Council"
+    },
+    {
+      "entityId": "optometrists-and-dispensing-opticians-board",
+      "canonical": "Optometrists and Dispensing Opticians Board (New Zealand)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Optometrists and Dispensing Opticians Board (New Zealand)",
+        "Optometrists and Dispensing Opticians Board",
+        "ODOB"
+      ],
+      "officialHosts": [
+        "odob.health.nz"
+      ],
+      "wikipediaTitle": "Optometrists and Dispensing Opticians Board"
+    },
+    {
+      "entityId": "royal-college-of-veterinary-surgeons",
+      "canonical": "Royal College of Veterinary Surgeons (UK)",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Royal College of Veterinary Surgeons (UK)",
+        "RCVS",
+        "Royal College of Veterinary Surgeons"
+      ],
+      "officialHosts": [
+        "www.rcvs.org.uk"
+      ],
+      "wikipediaTitle": "Royal College of Veterinary Surgeons"
+    },
+    {
+      "entityId": "australasian-veterinary-boards-council",
+      "canonical": "Australasian Veterinary Boards Council",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Australasian Veterinary Boards Council",
+        "AVBC"
+      ],
+      "officialHosts": [
+        "avbc.asn.au"
+      ],
+      "wikipediaTitle": "Australasian Veterinary Boards Council"
+    },
+    {
+      "entityId": "veterinary-council-of-new-zealand",
+      "canonical": "Veterinary Council of New Zealand",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Veterinary Council of New Zealand"
+      ],
+      "officialHosts": [
+        "vetcouncil.org.nz"
+      ],
+      "wikipediaTitle": "Veterinary Council of New Zealand"
+    },
+    {
+      "entityId": "veterinary-council-of-ireland",
+      "canonical": "Veterinary Council of Ireland",
+      "kind": "REGULATOR",
+      "aliases": [
+        "Veterinary Council of Ireland",
+        "VCI"
+      ],
+      "officialHosts": [
+        "www.vci.ie"
+      ],
+      "wikipediaTitle": "Veterinary Council of Ireland"
+    }
+  ]
+}
