@@ -1,27 +1,205 @@
 {
   "record_type": "page_plan_inputs",
   "on": "2026-10-18",
-  "decidedBy": { "kind": "AI", "name": "research agent (actor:cc)", "on": "2026-10-18" },
+  "decidedBy": {
+    "kind": "AI",
+    "name": "research agent (actor:cc)",
+    "on": "2026-10-18"
+  },
   "rule": "F91 Amendment 6 (RR-286): the requested combinations are the product's page dimension 'profession' (the values of its 12 published guides, each guide the larger page a combination merges into) × the dimension 'destination' (every country whose regulator or professional body the batch's verified claims name). Each value carries the wordings a recorded question or phrase uses for it — matched whole-word, case-folded — so a demand record names a combination only when it names BOTH values. The bodies of a destination are the claims' own recorded bodies; a body that is not a destination's (the test owner, another test, a test centre) answers no combination. A regulator's own name is never an alias of a destination: a search for a regulator by name is navigational (the batch's grouping rule, RR-285). Nothing here is a page, a count or a target.",
-  "professions": [
-    { "value": "nursing", "aliases": ["nurse", "nurses", "nursing"] },
-    { "value": "medicine", "aliases": ["doctor", "doctors", "medicine", "medical", "physician", "physicians"] },
-    { "value": "dentistry", "aliases": ["dentist", "dentists", "dentistry", "dental"] },
-    { "value": "dietetics", "aliases": ["dietitian", "dietitians", "dietetics", "dietician", "dieticians"] },
-    { "value": "occupational-therapy", "aliases": ["occupational therapist", "occupational therapists", "occupational therapy", "ot"] },
-    { "value": "optometry", "aliases": ["optometrist", "optometrists", "optometry"] },
-    { "value": "pharmacy", "aliases": ["pharmacist", "pharmacists", "pharmacy"] },
-    { "value": "physiotherapy", "aliases": ["physiotherapist", "physiotherapists", "physiotherapy", "physio"] },
-    { "value": "podiatry", "aliases": ["podiatrist", "podiatrists", "podiatry"] },
-    { "value": "radiography", "aliases": ["radiographer", "radiographers", "radiography"] },
-    { "value": "speech-pathology", "aliases": ["speech pathologist", "speech pathologists", "speech pathology", "speech therapist", "speech therapists", "speech and language therapist", "speech and language therapists"] },
-    { "value": "veterinary-science", "aliases": ["veterinarian", "veterinarians", "vet", "vets", "veterinary"] }
-  ],
-  "destinations": [
-    { "value": "united-kingdom", "aliases": ["uk", "united kingdom", "britain", "england"], "bodies": ["Nursing and Midwifery Council (UK)", "General Medical Council (UK)", "HCPC (Health and Care Professions Council, UK)", "General Pharmaceutical Council (UK)", "General Dental Council (UK)", "General Optical Council (UK)", "Royal College of Veterinary Surgeons (UK)"] },
-    { "value": "ireland", "aliases": ["ireland", "irish"], "bodies": ["NMBI (Nursing and Midwifery Board of Ireland)", "CORU (Ireland)", "Medical Council of Ireland", "Dental Council of Ireland", "Pharmaceutical Society of Ireland", "Veterinary Council of Ireland"] },
-    { "value": "australia", "aliases": ["australia", "australian"], "bodies": ["Ahpra (Australian Health Practitioner Regulation Agency)", "Speech Pathology Australia", "Dietitians Australia", "Australasian Veterinary Boards Council"] },
-    { "value": "new-zealand", "aliases": ["new zealand", "nz"], "bodies": ["Nursing Council of New Zealand", "Dental Council (New Zealand)", "Physiotherapy Board of New Zealand", "Optometrists and Dispensing Opticians Board (New Zealand)", "Medical Council of New Zealand", "Pharmacy Council of New Zealand", "Occupational Therapy Board of New Zealand", "Dietitians Board (New Zealand)", "Veterinary Council of New Zealand"] },
-    { "value": "united-states", "aliases": ["usa", "united states", "america"], "bodies": ["ECFMG (Educational Commission for Foreign Medical Graduates, USA)"] }
-  ]
+  "primary": {
+    "name": "profession",
+    "values": [
+      {
+        "value": "nursing",
+        "aliases": [
+          "nurse",
+          "nurses",
+          "nursing"
+        ]
+      },
+      {
+        "value": "medicine",
+        "aliases": [
+          "doctor",
+          "doctors",
+          "medicine",
+          "medical",
+          "physician",
+          "physicians"
+        ]
+      },
+      {
+        "value": "dentistry",
+        "aliases": [
+          "dentist",
+          "dentists",
+          "dentistry",
+          "dental"
+        ]
+      },
+      {
+        "value": "dietetics",
+        "aliases": [
+          "dietitian",
+          "dietitians",
+          "dietetics",
+          "dietician",
+          "dieticians"
+        ]
+      },
+      {
+        "value": "occupational-therapy",
+        "aliases": [
+          "occupational therapist",
+          "occupational therapists",
+          "occupational therapy",
+          "ot"
+        ]
+      },
+      {
+        "value": "optometry",
+        "aliases": [
+          "optometrist",
+          "optometrists",
+          "optometry"
+        ]
+      },
+      {
+        "value": "pharmacy",
+        "aliases": [
+          "pharmacist",
+          "pharmacists",
+          "pharmacy"
+        ]
+      },
+      {
+        "value": "physiotherapy",
+        "aliases": [
+          "physiotherapist",
+          "physiotherapists",
+          "physiotherapy",
+          "physio"
+        ]
+      },
+      {
+        "value": "podiatry",
+        "aliases": [
+          "podiatrist",
+          "podiatrists",
+          "podiatry"
+        ]
+      },
+      {
+        "value": "radiography",
+        "aliases": [
+          "radiographer",
+          "radiographers",
+          "radiography"
+        ]
+      },
+      {
+        "value": "speech-pathology",
+        "aliases": [
+          "speech pathologist",
+          "speech pathologists",
+          "speech pathology",
+          "speech therapist",
+          "speech therapists",
+          "speech and language therapist",
+          "speech and language therapists"
+        ]
+      },
+      {
+        "value": "veterinary-science",
+        "aliases": [
+          "veterinarian",
+          "veterinarians",
+          "vet",
+          "vets",
+          "veterinary"
+        ]
+      }
+    ]
+  },
+  "secondary": {
+    "name": "destination",
+    "values": [
+      {
+        "value": "united-kingdom",
+        "aliases": [
+          "uk",
+          "united kingdom",
+          "britain",
+          "england"
+        ],
+        "bodies": [
+          "Nursing and Midwifery Council (UK)",
+          "General Medical Council (UK)",
+          "HCPC (Health and Care Professions Council, UK)",
+          "General Pharmaceutical Council (UK)",
+          "General Dental Council (UK)",
+          "General Optical Council (UK)",
+          "Royal College of Veterinary Surgeons (UK)"
+        ]
+      },
+      {
+        "value": "ireland",
+        "aliases": [
+          "ireland",
+          "irish"
+        ],
+        "bodies": [
+          "NMBI (Nursing and Midwifery Board of Ireland)",
+          "CORU (Ireland)",
+          "Medical Council of Ireland",
+          "Dental Council of Ireland",
+          "Pharmaceutical Society of Ireland",
+          "Veterinary Council of Ireland"
+        ]
+      },
+      {
+        "value": "australia",
+        "aliases": [
+          "australia",
+          "australian"
+        ],
+        "bodies": [
+          "Ahpra (Australian Health Practitioner Regulation Agency)",
+          "Speech Pathology Australia",
+          "Dietitians Australia",
+          "Australasian Veterinary Boards Council"
+        ]
+      },
+      {
+        "value": "new-zealand",
+        "aliases": [
+          "new zealand",
+          "nz"
+        ],
+        "bodies": [
+          "Nursing Council of New Zealand",
+          "Dental Council (New Zealand)",
+          "Physiotherapy Board of New Zealand",
+          "Optometrists and Dispensing Opticians Board (New Zealand)",
+          "Medical Council of New Zealand",
+          "Pharmacy Council of New Zealand",
+          "Occupational Therapy Board of New Zealand",
+          "Dietitians Board (New Zealand)",
+          "Veterinary Council of New Zealand"
+        ]
+      },
+      {
+        "value": "united-states",
+        "aliases": [
+          "usa",
+          "united states",
+          "america"
+        ],
+        "bodies": [
+          "ECFMG (Educational Commission for Foreign Medical Graduates, USA)"
+        ]
+      }
+    ]
+  }
 }
