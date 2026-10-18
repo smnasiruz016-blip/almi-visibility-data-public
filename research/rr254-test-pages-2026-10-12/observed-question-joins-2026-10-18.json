@@ -1,0 +1,32 @@
+{
+  "record_type": "observed_question_joins",
+  "on": "2026-10-18",
+  "decidedBy": { "kind": "AI", "name": "research agent (actor:cc)", "on": "2026-10-18" },
+  "rule": "RR-285 tasks 2 and 3: each OET query of the client's own Search Console export (imported 18 Oct 2026, source 'Google Search Console export, 18 Oct 2026 (data 26 Jun – 15 Oct 2026)') joined to a live guide's question that asks the same thing for the same country. A join is the research agent's recorded judgement with its reason, never a similarity score. Every join here is BROADER QUERY: the searcher's profession is not in the query; the page question asks the same for the page's own profession. No query is joined to a need it does not name. Nothing on a live page changes.",
+  "joins": [
+    { "page": "https://almioet.almiworld.com/guides/oet-for-speech-therapist", "needKey": "s-ie", "inputId": "search_phrase:e072b5ac4348d8ae7f4f8f42", "query": "oet requirements for ireland", "match": "BROADER QUERY", "reason": "both ask what OET result Ireland requires; the page asks it for speech and language therapists (CORU)" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-speech-therapist", "needKey": "s-ie", "inputId": "search_phrase:0678c935791f0b1a358645e7", "query": "oet score for ireland", "match": "BROADER QUERY", "reason": "both ask the OET score Ireland requires; the page asks it for speech and language therapists" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-speech-therapist", "needKey": "s-ie", "inputId": "search_phrase:2b127afb88c1d3459c2fa567", "query": "ireland oet score", "match": "BROADER QUERY", "reason": "the same question in other words" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-speech-therapist", "needKey": "s-ie", "inputId": "search_phrase:716b97b2282189b430352c56", "query": "is oet accepted in ireland", "match": "BROADER QUERY", "reason": "whether Ireland accepts the OET, and at what result, is what the page question answers for its profession" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-veterinarians", "needKey": "vt-ie", "inputId": "search_phrase:e072b5ac4348d8ae7f4f8f42", "query": "oet requirements for ireland", "match": "BROADER QUERY", "reason": "both ask what OET result Ireland requires; the page asks it for veterinarians" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-veterinarians", "needKey": "vt-ie", "inputId": "search_phrase:0678c935791f0b1a358645e7", "query": "oet score for ireland", "match": "BROADER QUERY", "reason": "both ask the OET score Ireland requires; the page asks it for veterinarians" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-veterinarians", "needKey": "vt-ie", "inputId": "search_phrase:2b127afb88c1d3459c2fa567", "query": "ireland oet score", "match": "BROADER QUERY", "reason": "the same question in other words" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-veterinarians", "needKey": "vt-ie", "inputId": "search_phrase:716b97b2282189b430352c56", "query": "is oet accepted in ireland", "match": "BROADER QUERY", "reason": "whether Ireland accepts the OET, and at what result, is what the page question answers for its profession" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-physiotherapists", "needKey": "pt-nz", "inputId": "search_phrase:4095a4bf67c72b0388952338", "query": "oet score for new zealand", "match": "BROADER QUERY", "reason": "both ask the OET score New Zealand requires; the page asks it for physiotherapists" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-physiotherapists", "needKey": "pt-nz", "inputId": "search_phrase:7588fb11981597d1d1981ea2", "query": "oet nz", "match": "BROADER QUERY", "reason": "the OET for New Zealand, the subject of the page question" },
+    { "page": "https://almioet.almiworld.com/guides/oet-for-physiotherapists", "needKey": "pt-nz", "inputId": "search_phrase:eff0ffaac8793e5e8659efd4", "query": "occupational english test nz", "match": "BROADER QUERY", "reason": "the OET for New Zealand, in the test's full name" }
+  ],
+  "notJoined": [
+    { "query": "oet for nurses in new zealand", "why": "no nursing guide is live; the question it asks is on no live page (the page-fix queue names a new page, which needs the owner's GREEN)" },
+    { "query": "oet score for nurses", "why": "no nursing guide is live" },
+    { "query": "oet ireland", "why": "names a country and nothing it asks; joined to no question" },
+    { "query": "is oet accepted in canada", "why": "no live guide asks about Canada" },
+    { "query": "malta oet score", "why": "no live guide asks about Malta" },
+    { "query": "oet score for dubai", "why": "no live guide asks about Dubai" }
+  ],
+  "estimateOnlyNeeds": {
+    "checked": 25,
+    "sameNeedQueries": 0,
+    "why": "the 25 need groups with no observed record ask about test-day ID, results time, retakes, profession-specific Writing and Speaking samples and the results regulators ask of nine professions. No imported query asks any of them. The regulator-name queries (e.g. 'gphc pharmacy', 'ot ahpra', 'coru registration for optometrist', 'avbc australia') are navigational — a search for the regulator's own site — and the batch's grouping rule places such wordings 'navigational — no page', never in a need."
+  }
+}
