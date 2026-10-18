@@ -1,0 +1,207 @@
+{
+  "record_type": "opportunity_answers",
+  "on": "2026-10-18",
+  "decidedBy": {
+    "kind": "AI",
+    "name": "research agent (actor:cc)",
+    "on": "2026-10-18"
+  },
+  "rule": "F18 Amendment 2 C4 and F91 Amendment 6 (the owner's decision of RR-286): a need with no observed record is an OPPORTUNITY only with its own materially different answer from verified facts (its own regulator, fee, score or rule); for each such need group, the verified claim ids of that answer, or none with the reason.",
+  "needs": [
+    {
+      "needId": "56cf1811f6b7eac7a7fbd966",
+      "need": "id",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "9035efadc89cb6f20ff78dc4",
+      "need": "results-time",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "7f9c2a1cc237466670d80da9",
+      "need": "retake",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "a67f1b40ca4c36354f43a8fc",
+      "need": "id",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "16b55bec1613f9931c2bfd1b",
+      "need": "results-time",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "c06fbdceee57584d853dba1b",
+      "need": "retake",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "b19024d6c5d056a16626d404",
+      "need": "id",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "0fdce12e48825cbcc6ea6c40",
+      "need": "practice-writing-speaking-dentistry",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "2d50d9543a46575e7a61c1e4",
+      "need": "practice-writing-speaking-dietetics",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "05b7131cb5f33b8cadb3d937",
+      "need": "practice-writing-speaking-occupational-therapy",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "d9d0d3e3c8bc5ab3943751ba",
+      "need": "practice-writing-speaking-optometry",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "483b3fc28a0070f34f8f7b20",
+      "need": "practice-writing-speaking-pharmacy",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "110cfaaf63282ae925e04414",
+      "need": "practice-writing-speaking-podiatry",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "b7cc8690e89e6fc7056f0674",
+      "need": "practice-writing-speaking-veterinary-science",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "bbab481e38cb25ae06a32c8c",
+      "need": "results-time",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "92a77355e783927c27e72951",
+      "need": "score-required-dentistry",
+      "answer": [
+        "dn-scores-2",
+        "dn-scores-3",
+        "dn-scores-3-q2",
+        "dn-scores-4",
+        "dn-scores-9-gdc"
+      ],
+      "why": "its own answer: the verified claims of the regulators of dentistry on its own page — each body's own rule"
+    },
+    {
+      "needId": "f9032054ca57e3bd47d0d594",
+      "need": "score-required-dietetics",
+      "answer": [
+        "dt-scores-1",
+        "dt-scores-2",
+        "dt-scores-3",
+        "dt-scores-4"
+      ],
+      "why": "its own answer: the verified claims of the regulators of dietetics on its own page — each body's own rule"
+    },
+    {
+      "needId": "e242a34e9ffe743077a4ea3e",
+      "need": "score-required-occupational-therapy",
+      "answer": [
+        "ot-scores-1",
+        "ot-scores-2",
+        "ot-scores-3",
+        "ot-scores-4"
+      ],
+      "why": "its own answer: the verified claims of the regulators of occupational-therapy on its own page — each body's own rule"
+    },
+    {
+      "needId": "ee878554d851b28193a1f3da",
+      "need": "score-required-optometry",
+      "answer": [
+        "op-scores-1",
+        "op-scores-2",
+        "op-scores-3",
+        "op-scores-3-r2",
+        "op-scores-4"
+      ],
+      "why": "its own answer: the verified claims of the regulators of optometry on its own page — each body's own rule"
+    },
+    {
+      "needId": "45cb72f40da9b24ca950eafa",
+      "need": "score-required-pharmacy",
+      "answer": [
+        "ph-scores-1",
+        "ph-scores-2",
+        "ph-scores-3",
+        "ph-scores-3-q2",
+        "ph-uk-1",
+        "ph-uk-3"
+      ],
+      "why": "its own answer: the verified claims of the regulators of pharmacy on its own page — each body's own rule"
+    },
+    {
+      "needId": "6576fb33e5097f5c4e8be057",
+      "need": "score-required-podiatry",
+      "answer": [
+        "pd-scores-1",
+        "pd-scores-2",
+        "pd-scores-3"
+      ],
+      "why": "its own answer: the verified claims of the regulators of podiatry on its own page — each body's own rule"
+    },
+    {
+      "needId": "e08a1a71b63f6e8c870628a8",
+      "need": "score-required-radiography",
+      "answer": [
+        "rd-scores-1",
+        "rd-scores-2",
+        "rd-scores-3"
+      ],
+      "why": "its own answer: the verified claims of the regulators of radiography on its own page — each body's own rule"
+    },
+    {
+      "needId": "4540dd3f5bd5e157e939beac",
+      "need": "score-required-veterinary-science",
+      "answer": [
+        "vt-ie-1",
+        "vt-ie-2",
+        "vt-ie-3",
+        "vt-scores-1",
+        "vt-scores-1-q2",
+        "vt-scores-2",
+        "vt-scores-3"
+      ],
+      "why": "its own answer: the verified claims of the regulators of veterinary-science on its own page — each body's own rule"
+    },
+    {
+      "needId": "a6a0e379a2887355b9fbb0ce",
+      "need": "id",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    },
+    {
+      "needId": "67935d52dee91d469c13743e",
+      "need": "results-time",
+      "answer": [],
+      "why": "its answer is the test owner's general rule, the same on every page — not materially different (a section, never a page)"
+    }
+  ]
+}
