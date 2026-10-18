@@ -1,0 +1,7 @@
+{
+  "note": "RR-284 beta-g decision C (18 Oct 2026): the product's own public pages, read ONCE through the paced path, at most 20 requests in all with the robots file, so its capability records can be taken from its own words, verbatim, with source and date. Only the public pages are read: every other route of the site needs a sign-in, and no sign-in is used.",
+  "sources": [
+    "https://almioet.almiworld.com/",
+    "https://almioet.almiworld.com/pricing"
+  ]
+}
