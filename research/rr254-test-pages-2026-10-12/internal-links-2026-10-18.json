@@ -1,0 +1,1210 @@
+{
+  "record_type": "internal_link_plan",
+  "on": "2026-10-18",
+  "rule": "F94 C3 (VERIFIED, acceptance _handoffs 959ae05): the links of a page are the recorded pages of this tenant that cover the same need, and the cluster's hub — every eligible page, no count, quota or maximum. Applied by the research agent to the 12 published guides as built and the guides hub recorded LIVE; F94's own plan reads the client's crawled inventory, which does not hold the guides. RR-286 task 1: built locally, never published.",
+  "hub": "/guides",
+  "pages": {
+    "nursing": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "speech-pathology": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "dentistry": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "dietetics": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "medicine": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "occupational-therapy": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "optometry": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "pharmacy": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "physiotherapy": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "podiatry": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "radiography": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "label": "OET for Veterinarians 2026: Score, Cost & Samples"
+      }
+    ],
+    "veterinary-science": [
+      {
+        "href": "/guides",
+        "label": "OET Exam Preparation"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "label": "OET Pakistan 2026: Fees in PKR, Dates, Exam Center & Booking for Nurses"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "label": "OET for Speech Therapist: Score, Speaking Test & Examples"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "label": "OET for Dentists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "label": "OET for Dietitians 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "label": "OET for Doctors 2026: Score, Fees & Writing Samples"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "label": "OET for Occupational Therapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "label": "OET for Optometrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "label": "OET for Pharmacists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "label": "OET for Physiotherapists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "label": "OET for Podiatrists 2026: Score, Cost & Samples"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "label": "OET for Radiographers 2026: Score, Cost & Samples"
+      }
+    ]
+  },
+  "reasons": {
+    "nursing": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, contact, dates, difficulty, fee, id, results, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      }
+    ],
+    "speech-pathology": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, contact, dates, difficulty, fee, id, results, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, uk, validity"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, uk, validity"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, difficulty, fee, id, ie, results, speaking, validity"
+      }
+    ],
+    "dentistry": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "dietetics": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "medicine": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, uk, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, uk, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "occupational-therapy": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "optometry": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "pharmacy": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, uk, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, uk, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "physiotherapy": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "podiatry": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "radiography": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-veterinarians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ],
+    "veterinary-science": [
+      {
+        "href": "/guides",
+        "why": "the hub every guide belongs to (recorded LIVE)"
+      },
+      {
+        "href": "/guides/oet-pakistan",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, reschedule, results, scores, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-speech-therapist",
+        "why": "the same needs: booking, difficulty, fee, id, ie, results, speaking, validity"
+      },
+      {
+        "href": "/guides/oet-for-dentists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-dietitians",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-doctors",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-occupational-therapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-optometrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-pharmacists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-physiotherapists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-podiatrists",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      },
+      {
+        "href": "/guides/oet-for-radiographers",
+        "why": "the same needs: booking, centres, difficulty, fee, format, id, practice, reschedule, results, score-meaning, scores, speaking, validity, writing"
+      }
+    ]
+  }
+}
