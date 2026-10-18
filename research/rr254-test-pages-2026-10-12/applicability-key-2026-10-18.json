@@ -1,0 +1,6 @@
+{
+  "kind": "F62 applicability key — the values a verdict is decided for, beside its deciding body (F62 Acceptance Amendment 2)",
+  "authority": "beta-g decision B, RR-287 (_handoffs/AlmiVisibility_OWNER_DECISION_2026-10-18_RR-287.md): an applicability verdict is decided per profession × destination × deciding body, never per profession alone",
+  "keys": ["destination", "profession"],
+  "readFrom": "each record's own stored locale; a record that names no value for a key speaks for no named value"
+}
