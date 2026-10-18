@@ -1,0 +1,47 @@
+{
+  "record_type": "approved_actions",
+  "on": "2026-10-18",
+  "rule": "F74 (_handoffs afe61ef): each action names the owner decision or GREEN it rests on (beta-g decision E, 18 Oct 2026), by its path in _handoffs and its committed sha256; the engine generates exactly one bounded command per action, or refuses it by name. Nothing here is run.",
+  "actions": [
+    {
+      "actionId": "rr275-old-pages-map",
+      "title": "Map every old product page to the new guides, preparation only",
+      "approval": { "path": "AlmiVisibility_OWNER_DECISION_2026-10-17_RR-275_OLD_PAGES_REDIRECT_MAP.md", "sha256": "e13c42c3a72dcdb0b931b62fe69569774f7b599fd9e4d10d53f45ffa01232e4c" },
+      "change": "Put every old page URL from the stored sitemaps and records into exactly one bucket (REDIRECT to a guide, KEEP, REMOVE), by the engine's own need matching on the old page's stored title, H1 and Search Console queries; write the table and the counts per bucket to the governance repository.",
+      "scope": ["the stored sitemaps and records of the client's old pages (read only)", "one new research batch folder in the data repository", "one report file in _handoffs"],
+      "never": ["any redirect, removal or other change on the live site", "any request to the live site", "any Search Console action", "a bucket chosen by guesswork, without the engine's own need match"],
+      "stop": ["an old URL that fits no bucket by the stated rules", "the trail differs from its witness", "a tracked file is left changed"],
+      "proofs": ["the counts per bucket sum to the population of old URLs", "the data PR's CI is green on its exact head", "the live site answers exactly as before (no request made to check it)"]
+    },
+    {
+      "actionId": "rr276-remove-old-pages",
+      "title": "Remove the old generated SEO pages of the client's site (410 Gone) and their sitemaps",
+      "approval": { "path": "AlmiVisibility_OWNER_DECISION_2026-10-17_RR-276_REMOVE_OLD_CLIENT_SEO_PAGES.md", "sha256": "a54e29d745fc69dcdd7b7e0ea7a77e937e2354bc3676605c730c8cb29137ccff" },
+      "change": "Make the old generated SEO and landing routes answer 410 Gone; remove their sitemaps from the sitemap index and make the old sitemap files answer 410; no redirects.",
+      "scope": ["the client site's old generated SEO and landing routes and their sitemap files", "the sitemap index"],
+      "never": ["a redirect", "any change to a product route, /guides or its pages", "any Search Console or dashboard action", "a credential typed or printed — a key is named only by its name"],
+      "stop": ["a product route, /login, /signup or a guide answers anything but 200 after the change", "the release cannot be rolled back"],
+      "proofs": ["10 old URLs (5 of them indexed) answer 410 on a read-only live check, at least 2 s per request, at most 80 requests", "the home page, /login, /signup and every guide answer 200", "the sitemap index lists only the kept sitemaps"]
+    },
+    {
+      "actionId": "rr283-relabel-ai-checks",
+      "title": "Relabel the checks the authoring AI recorded as human: as the engine (owner decision 3, rule e)",
+      "approval": { "path": "AlmiVisibility_OWNER_DECISION_2026-10-17_RR-283.md", "sha256": "d91320428c2b6417f4f2e12f17e3a2260ce550ad4bd8ed154d72e7ee807aac1c" },
+      "change": "Replace the checker id the AI recorded as human:beta-g (Cowork) with engine:almi-visibility in the client's fact registry; nothing else moves.",
+      "scope": ["the client's fact registry files in the data repository"],
+      "never": ["a person named as having checked something no person checked", "any other field of a fact record changed", "the owner's own checks relabelled"],
+      "stop": ["a human: id other than the AI's is found where the relabel would touch it", "a registry file fails the engine's validator after the change"],
+      "proofs": ["0 records claim a person check that no person made (test/rr283-decision-3.test.mjs)", "the engine's full suite and the data PR's CI are green on their exact heads"]
+    },
+    {
+      "actionId": "rr284-page-fix-queue",
+      "title": "Put every fix a live page needs on one queue; change no live page",
+      "approval": { "path": "AlmiVisibility_OWNER_DECISION_2026-10-18_RR-284.md", "sha256": "759252cedb549db33039b53706e662ee791962432e8bb118801aa5c67f8f55df" },
+      "change": "Create _handoffs/AlmiVisibility_PAGE_FIX_QUEUE.md, one line per fix (page, what, why, found by which row), starting with the comparison-table cells without a checked date, the facts needing a clean source and every page question without a source of its own.",
+      "scope": ["one new file in _handoffs"],
+      "never": ["any live page changed or published", "a fix applied to the client's site", "a deploy"],
+      "stop": ["a fix would need a live change to be described", "the secret scan of the push finds anything"],
+      "proofs": ["the queue file is committed and its lines count the fixes the rows found", "the client site's repository is unchanged"]
+    }
+  ]
+}

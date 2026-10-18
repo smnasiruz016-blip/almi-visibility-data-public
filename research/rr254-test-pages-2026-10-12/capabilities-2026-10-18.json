@@ -1,0 +1,19 @@
+{
+  "record_type": "product_capabilities",
+  "on": "2026-10-18",
+  "rule": "F50 (_handoffs ea4086f) and beta-g decision C (18 Oct 2026): each record is one sentence of the product's own public page, verbatim, with the page's URL, the read date and the sha256 of the engine's own stored read (source-reads.jsonl, read through the paced path on 18 Oct 2026, 3 requests with robots). SELF-SOURCED: what the product says it does, never third-party evidence of it.",
+  "sourceClass": "SELF-SOURCED",
+  "capabilities": [
+    { "capabilityId": "cap-full-practice", "what": "practice tests", "says": "Full-length practice across all four sub-tests", "url": "https://almioet.almiworld.com/pricing", "readOn": "2026-10-18", "readSha256": "b458930aa482066c0642176d2b9ee74996f4c2c1ea446bc5ba476b6c3f9bfb1e" },
+    { "capabilityId": "cap-ai-feedback", "what": "a feature", "says": "Honest AI feedback on the OET Writing letter and Speaking role-plays", "url": "https://almioet.almiworld.com/pricing", "readOn": "2026-10-18", "readSha256": "b458930aa482066c0642176d2b9ee74996f4c2c1ea446bc5ba476b6c3f9bfb1e" },
+    { "capabilityId": "cap-adaptive", "what": "a feature", "says": "Adaptive practice that adjusts to your level", "url": "https://almioet.almiworld.com/pricing", "readOn": "2026-10-18", "readSha256": "b458930aa482066c0642176d2b9ee74996f4c2c1ea446bc5ba476b6c3f9bfb1e" },
+    { "capabilityId": "cap-auto-marked", "what": "practice tests", "says": "Auto-marked Listening and Reading practice on every attempt", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" },
+    { "capabilityId": "cap-estimates", "what": "a feature", "says": "A 0-500 estimate and a grade of A, B, C+ or C per sub-test, shown as ranges", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" },
+    { "capabilityId": "cap-professions", "what": "a feature", "says": "Choose your profession and your Writing and Speaking practice matches your field.", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" },
+    { "capabilityId": "cap-original", "what": "a feature", "says": "Original practice material - never copied from OET", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" },
+    { "capabilityId": "cap-speaking-transcript", "what": "a feature", "says": "We estimate from a transcript of what you said - not your accent or audio.", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" },
+    { "capabilityId": "cap-practice-estimate", "what": "a feature", "says": "It's a practice estimate to guide your prep.", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" },
+    { "capabilityId": "cap-price", "what": "a price", "says": "$12/month with a 7-day free trial, cancel anytime", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" },
+    { "capabilityId": "cap-trial-limit", "what": "a price", "says": "during the trial, AI feedback is limited to 2 Writing and 2 Speaking evaluations", "url": "https://almioet.almiworld.com/", "readOn": "2026-10-18", "readSha256": "5ccfce24f13b9cafe1b158cf76e8eb557e4cb53858271cb2c1fb6ace717bc303" }
+  ]
+}
