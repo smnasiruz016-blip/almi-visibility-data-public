@@ -146,15 +146,15 @@
    "proposalId": "p021",
    "fact": "claim:n-scores-ie",
    "source": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
-   "sentence": "Ireland's NMBI asks for grade B in three components and C+ in one, in a result less than two years old.",
-   "quotation": "OET (Nursing) with Grade B in three components and C+ in one component. (please see table for example) Reading B (350 - 450) Writing C+ (300 - 340) Speaking B (350 - 450) Please note that: We only accept IELTS/OET test results that are less than two years old"
+   "sentence": null,
+   "quotation": null
   },
   {
    "proposalId": "p022",
    "fact": "claim:n-scores-ie-b",
    "source": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
    "sentence": "It does not accept combined results or OET at home.",
-   "quotation": "We only accept one test result and do not accept combined results We do not accept IELTS One Skill Retake We do not accept IELTS online or OET at home"
+   "quotation": null
   },
   {
    "proposalId": "p023",

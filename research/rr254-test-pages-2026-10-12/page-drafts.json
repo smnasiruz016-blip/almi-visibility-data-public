@@ -461,7 +461,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:c85836dd59128ebacfb43029"
                 },
-                "quotation": "OET (Nursing) with Grade B in three components and C+ in one component."
+                "quotation": null
               },
               {
                 "claimId": "n-scores-ie-b",
@@ -480,7 +480,7 @@
                   "finding": "SUPPORTS",
                   "ref": "fact_extraction:4f565c324ae02e2eafd556a5"
                 },
-                "quotation": "We only accept one test result and do not accept combined results We do not accept IELTS One Skill Retake We do not accept IELTS online or OET at home"
+                "quotation": null
               },
               {
                 "claimId": "n-scores-nz",
