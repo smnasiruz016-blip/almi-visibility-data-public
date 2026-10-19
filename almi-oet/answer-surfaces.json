@@ -1,0 +1,14 @@
+{
+  "kind": "F16 C7 / F63 answer-surface declaration (RR-291)",
+  "authority": "owner decision 2 of RR-291 (_handoffs AlmiVisibility_OWNER_DECISION_2026-10-19_RR-291.md, commit 3848531): queries are about the product's topics, the owner's own examples being \"OET for nurses\" and \"OET centre Lahore\"",
+  "declaredOn": "2026-10-19",
+  "topic": "OET",
+  "locations": ["Lahore"],
+  "ownDomains": ["almioet.almiworld.com"],
+  "surfaces": {
+    "web-search": { "kind": "WEB_SEARCH", "at": "https://www.google.com/search?q={q}&hl=en", "named": "Google searches (owner decision 2)" },
+    "ai-answer-a": { "kind": "AI_ANSWER", "at": "https://www.perplexity.ai/search?q={q}", "named": "Perplexity (owner decision 2)" },
+    "ai-answer-b": { "kind": "AI_ANSWER", "at": "https://chatgpt.com/?q={q}", "named": "ChatGPT logged-out (owner decision 2)" }
+  },
+  "note": "the topic and the location are the words of the owner's own example queries; the services come from descriptor.json; nothing is added, renamed or invented"
+}
