@@ -351,6 +351,14 @@
       "tenantId": "tenant:7dca5e2bc05217d695662a63017b1c9a",
       "declaredOn": "2026-10-09",
       "declarationBasis": "OWNER_AUTHORISED_ATTACHMENT"
+    },
+    {
+      "schemaVersion": 1,
+      "resourceKind": "INPUT_PATH",
+      "resourceRef": "C:/Projects/almi-visibility-data/research/rr254-test-pages-2026-10-12/page-coverage-judgements-2026-10-19.json",
+      "tenantId": "tenant:93b991d5afa33b16ccb9166b249593b6",
+      "declaredOn": "2026-10-19",
+      "declarationBasis": "THE_FILE_SITS_INSIDE_THIS_TENANTS_OWN_DECLARED_RESEARCH_BATCH_rr254-test-pages-2026-10-12 — F91 C14's per-question page coverage judgements of RR-290, read once by demand-connect --coverage-judgements; the path is this machine's"
     }
   ]
 }
