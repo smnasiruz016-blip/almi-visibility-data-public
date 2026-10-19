@@ -10,18 +10,16 @@
       "scope": {
         "profession": "nursing"
       },
-      "kind": "OFFICIAL",
-      "outcome": "ACCEPTED",
+      "kind": "BLOCKED",
       "page": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
-      "excerpt": "OET (Nursing) with Grade B in three components and C+ in one component."
+      "reason": "LICENCE_FORBIDS_STORING_ITS_WORDS — the records citing this page say its licence forbids storing its words (sourceQuotable: false); its text was deleted by the owner's decision of RR-288 (19 Oct 2026); only URL, read date and sha256 are kept"
     },
     {
       "body": "ie-nmbi",
       "scope": {},
-      "kind": "OFFICIAL",
-      "outcome": "ACCEPTED",
+      "kind": "BLOCKED",
       "page": "https://www.nmbi.ie/Registration/Qualified-outside-the-EU/Application-Process/English-Language-Requirements",
-      "excerpt": "NMBI accepts International English Language Testing System (IELTS) Academic Test, IELTS Academic Test for UKVI, and the Occupational English Language Test (OET) as evidence of English language competency."
+      "reason": "LICENCE_FORBIDS_STORING_ITS_WORDS — the records citing this page say its licence forbids storing its words (sourceQuotable: false); its text was deleted by the owner's decision of RR-288 (19 Oct 2026); only URL, read date and sha256 are kept"
     },
     {
       "body": "ng-nmcn",

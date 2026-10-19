@@ -217,7 +217,7 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page states grade B in three components and C+ in one, results under two years old, no combined results, no OET at home; word for word: \"OET (Nursing) with Grade B in three components and C+ in one component.\" · \"We only accept IELTS/OET test results that are less than two years old\"",
+    "whatSupportsIt": null,
     "rewrittenOn": "2026-10-14",
     "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding"
   },
@@ -4007,7 +4007,7 @@
       "ref": "actor:cc (research agent)",
       "tool": "WebFetch"
     },
-    "whatSupportsIt": "the page states grade B in three components and C+ in one, results under two years old, no combined results, no OET at home",
+    "whatSupportsIt": null,
     "rewrittenOn": "2026-10-14",
     "rewrittenWhy": "RR-265 to the point: one sentence per sourced line; the same source and the same finding",
     "rewrittenFrom": "n-scores-ie"
