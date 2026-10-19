@@ -1,0 +1,9 @@
+{
+  "kind": "F91 C20 current-site list (Acceptance Amendment 7, RR-289) — the client's CURRENT live site pages Visibility reads as input (facts, capabilities, structure)",
+  "authority": "beta-g decision A of RR-289 (_handoffs/AlmiVisibility_OWNER_DECISION_2026-10-19_RR-289.md): Visibility may READ the client's current live site (home, pricing, product and feature pages); it NEVER plans from, keeps, revives or rebuilds pages generated before Visibility",
+  "basis": "the client's own pages the engine read on 18 Oct 2026 (this batch's source-reads store); every other page of the stored crawl was generated before Visibility",
+  "pages": [
+    { "url": "https://almioet.almiworld.com/", "role": "home" },
+    { "url": "https://almioet.almiworld.com/pricing", "role": "pricing" }
+  ]
+}
