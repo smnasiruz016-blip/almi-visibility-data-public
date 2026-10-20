@@ -1,0 +1,6 @@
+{
+  "note": "RR-302 C3 (owner, 20 Oct 2026): the British Council Pakistan IELTS booking page read again so the owner-supplied 2020-21 fee snapshot (bc-pk-ielts-fee-2020-21) is checked against what the official page says now. A plain engine request was reset by the site (ECONNRESET; robots.txt timed out), so this run uses the client's browser route (a visible window, a fresh separate profile). No other source is read.",
+  "sources": [
+    "https://www.britishcouncil.pk/exam/ielts/book-test"
+  ]
+}
