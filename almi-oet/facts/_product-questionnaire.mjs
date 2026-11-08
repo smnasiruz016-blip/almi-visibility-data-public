@@ -40,7 +40,8 @@ const PRICING_COPY = "almi-oet:src/app/pricing/page.tsx";
 const PRICING_PAGE = "the product's public pricing page, read once on 2026-10-12";
 /* RR-394 (8 Nov 2026): the offer changed on 31 Oct; these answers wait for the owner's approval again (his rule, RR-251) */
 const PRICING_PAGE_RR394 = "the product's public pricing page (https://almioet.almiworld.com/pricing), read on 2026-11-08: \"Try free for 48 hours. Then $12/month.\"";
-const PENDING_RR394 = Object.freeze({ state: "PENDING", by: "owner", on: "2026-11-08" });
+/* RR-396: the owner approved the three RR-394 answers on 8 Nov 2026; the record is committed in this repository (merged with a merge commit) */
+const APPROVED_RR396 = Object.freeze({ state: "APPROVED", by: "owner", on: "2026-11-08", record: Object.freeze({ repo: "almi-visibility-data-public", path: "almi-oet/approvals/RR-396_2026-11-08_owner_approves_offer_answers.md", commit: "51f9ae7bb823662edcdec8b4f6120905019158be" }) });
 
 export default Object.freeze({
   schemaVersion: 1,
@@ -161,8 +162,9 @@ export default Object.freeze({
     // ── durations ──
     /* RR-394 (8 Nov 2026): the live offer changed on 31 Oct 2026 (almi-oet #145): no card trial for new accounts any more, a 48-hour
        no-card taste from sign-up instead. The owner's rule (RR-251) says a changed price answer is approved AGAIN, so the new answer is
-       PENDING (it yields no claim) until he approves it; the 7-day answer it replaces is no longer true for anyone who signs up today. */
-    says("free-trial-length", "DURATION", "A new account can try the product free for this long from sign-up, with no card. Then the one plan, Pro, is $12 a month; cancel anytime.", duration(48, "hours"), [code(OFFER), code("almi-oet:src/lib/billing/taste.ts"), site(PRICING_PAGE_RR394)], PENDING_RR394),
+       PENDING (it yielded no claim) until he approved it; the 7-day answer it replaces is no longer true for anyone who signs up today.
+       RR-396: APPROVED by the owner on 8 Nov 2026 (record: almi-oet/approvals/RR-396_2026-11-08_owner_approves_offer_answers.md). */
+    says("free-trial-length", "DURATION", "A new account can try the product free for this long from sign-up, with no card. Then the one plan, Pro, is $12 a month; cancel anytime.", duration(48, "hours"), [code(OFFER), code("almi-oet:src/lib/billing/taste.ts"), site(PRICING_PAGE_RR394)], APPROVED_RR396),
     says("billing-period", "DURATION", "The subscription renews every billing period of this length.", duration(1, "months"), [code(PRICING_COPY), site(PRICING_PAGE)]),
     says("reading-part-a-time", "DURATION", "Reading Part A is timed at this length.", duration(15, "minutes"), [code(SHAPE)]),
     says("reading-parts-b-and-c-time", "DURATION", "Reading Parts B and C together are timed at this length.", duration(45, "minutes"), [code(SHAPE)]),
@@ -175,8 +177,8 @@ export default Object.freeze({
     /* reworded after the first approval, then approved in the owner's own words (RR-252) — the statement is his sentence, word for word */
   says("tasks-in-one-full-mock", "COUNT", "A full mock has 22 tasks: 10 Listening, 9 Reading, 1 Writing, 2 Speaking; the question count is not given here.", count(22, "tasks"), [code(REGISTRY)], APPROVED_REWORDED),
   /* RR-394: the 2 + 2 AI evaluations were the 7-day card trial's caps; that trial is closed to new accounts (31 Oct). What a new
-     account gets is the 48-hour taste: one AI-scored Writing letter and one Speaking role-play. PENDING until the owner approves. */
-  says("trial-ai-writing-evaluations", "COUNT", "A new account's free 48 hours include this many AI-scored Writing letters. Paying subscribers have no such limit.", count(1, "evaluations"), [code(OFFER)], PENDING_RR394),
-    says("trial-ai-speaking-evaluations", "COUNT", "A new account's free 48 hours include this many AI-scored Speaking role-plays. Paying subscribers have no such limit.", count(1, "evaluations"), [code(OFFER)], PENDING_RR394),
+     account gets is the 48-hour taste: one AI-scored Writing letter and one Speaking role-play. RR-396: APPROVED by the owner on 8 Nov 2026. */
+  says("trial-ai-writing-evaluations", "COUNT", "A new account's free 48 hours include this many AI-scored Writing letters. Paying subscribers have no such limit.", count(1, "evaluations"), [code(OFFER)], APPROVED_RR396),
+    says("trial-ai-speaking-evaluations", "COUNT", "A new account's free 48 hours include this many AI-scored Speaking role-plays. Paying subscribers have no such limit.", count(1, "evaluations"), [code(OFFER)], APPROVED_RR396),
   ]),
 });
