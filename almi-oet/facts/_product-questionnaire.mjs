@@ -38,6 +38,9 @@ const REGISTRY = "almi-oet:src/lib/oet/registry.ts";
 const SHAPE = "almi-oet:src/lib/oet/exam-shape.ts";
 const PRICING_COPY = "almi-oet:src/app/pricing/page.tsx";
 const PRICING_PAGE = "the product's public pricing page, read once on 2026-10-12";
+/* RR-394 (8 Nov 2026): the offer changed on 31 Oct; these answers wait for the owner's approval again (his rule, RR-251) */
+const PRICING_PAGE_RR394 = "the product's public pricing page (https://almioet.almiworld.com/pricing), read on 2026-11-08: \"Try free for 48 hours. Then $12/month.\"";
+const PENDING_RR394 = Object.freeze({ state: "PENDING", by: "owner", on: "2026-11-08" });
 
 export default Object.freeze({
   schemaVersion: 1,
@@ -104,7 +107,7 @@ export default Object.freeze({
       Object.freeze({ label: "Shamool Foundation", href: "https://shamoolfoundation.com/" }),
     ]),
     actions: Object.freeze([Object.freeze({ label: "Practice", href: "/practice" }), Object.freeze({ label: "Log in", href: "/login" })]),
-    cta: Object.freeze({ label: "Start 7-day free trial", href: "/signup" }),
+    cta: Object.freeze({ label: "Try free for 48 hours", href: "/signup" }), /* RR-394: the live header's button since 31 Oct 2026 */
     footer: Object.freeze({
       columns: Object.freeze([
         Object.freeze({ title: "AlmiWorld", links: Object.freeze([Object.freeze({ label: "Home", href: "https://almiworld.com/" }), Object.freeze({ label: "Ebooks", href: "https://almiworld.com/ebooks-2/" }), Object.freeze({ label: "Shamool Foundation", href: "https://shamoolfoundation.com/" })]) }),
@@ -156,7 +159,10 @@ export default Object.freeze({
     // ── prices ──
     says("price-pro-monthly", "PRICE", "The one plan on sale, Pro, is advertised at this price per month. There is no yearly plan and no free plan.", money(12, "USD"), [code(OFFER), code(PRICING_COPY), site(PRICING_PAGE)]),
     // ── durations ──
-    says("free-trial-length", "DURATION", "The free trial lasts this long. A card is entered at the start and is not charged during the trial.", duration(7, "days"), [code(OFFER), site(PRICING_PAGE)]),
+    /* RR-394 (8 Nov 2026): the live offer changed on 31 Oct 2026 (almi-oet #145): no card trial for new accounts any more, a 48-hour
+       no-card taste from sign-up instead. The owner's rule (RR-251) says a changed price answer is approved AGAIN, so the new answer is
+       PENDING (it yields no claim) until he approves it; the 7-day answer it replaces is no longer true for anyone who signs up today. */
+    says("free-trial-length", "DURATION", "A new account can try the product free for this long from sign-up, with no card. Then the one plan, Pro, is $12 a month; cancel anytime.", duration(48, "hours"), [code(OFFER), code("almi-oet:src/lib/billing/taste.ts"), site(PRICING_PAGE_RR394)], PENDING_RR394),
     says("billing-period", "DURATION", "The subscription renews every billing period of this length.", duration(1, "months"), [code(PRICING_COPY), site(PRICING_PAGE)]),
     says("reading-part-a-time", "DURATION", "Reading Part A is timed at this length.", duration(15, "minutes"), [code(SHAPE)]),
     says("reading-parts-b-and-c-time", "DURATION", "Reading Parts B and C together are timed at this length.", duration(45, "minutes"), [code(SHAPE)]),
@@ -168,7 +174,9 @@ export default Object.freeze({
     says("task-types", "COUNT", "The product has this many task types across the four sub-tests.", count(8, "task types"), [code(REGISTRY)]),
     /* reworded after the first approval, then approved in the owner's own words (RR-252) — the statement is his sentence, word for word */
   says("tasks-in-one-full-mock", "COUNT", "A full mock has 22 tasks: 10 Listening, 9 Reading, 1 Writing, 2 Speaking; the question count is not given here.", count(22, "tasks"), [code(REGISTRY)], APPROVED_REWORDED),
-  says("trial-ai-writing-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Writing letter, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
-    says("trial-ai-speaking-evaluations", "COUNT", "A free trial includes this many AI evaluations of a Speaking role-play, for the whole trial. Paying subscribers have no such limit.", count(2, "evaluations"), [code(OFFER)]),
+  /* RR-394: the 2 + 2 AI evaluations were the 7-day card trial's caps; that trial is closed to new accounts (31 Oct). What a new
+     account gets is the 48-hour taste: one AI-scored Writing letter and one Speaking role-play. PENDING until the owner approves. */
+  says("trial-ai-writing-evaluations", "COUNT", "A new account's free 48 hours include this many AI-scored Writing letters. Paying subscribers have no such limit.", count(1, "evaluations"), [code(OFFER)], PENDING_RR394),
+    says("trial-ai-speaking-evaluations", "COUNT", "A new account's free 48 hours include this many AI-scored Speaking role-plays. Paying subscribers have no such limit.", count(1, "evaluations"), [code(OFFER)], PENDING_RR394),
   ]),
 });
